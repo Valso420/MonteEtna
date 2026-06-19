@@ -96,12 +96,12 @@
 
   function formatDate(value) {
     if (!value) {
-      return "actualizada por ultima vez: pendiente";
+      return "datos sincronizados";
     }
 
     var date = new Date(value);
     if (Number.isNaN(date.getTime())) {
-      return "actualizada por ultima vez: pendiente";
+      return "datos sincronizados";
     }
 
     return "actualizada por ultima vez: " + date.toLocaleDateString("es-AR");
