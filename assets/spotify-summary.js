@@ -14,6 +14,20 @@
       { name: "CamelPhat", tracks: 48 },
       { name: "Solomun", tracks: 47 },
       { name: "ARTBAT", tracks: 46 },
+      { name: "Adriatique", tracks: 37 },
+      { name: "Argy", tracks: 37 },
+      { name: "Innellea", tracks: 31 },
+      { name: "Adam Beyer", tracks: 28 },
+      { name: "Layton Giordani", tracks: 28 },
+      { name: "Rebuke", tracks: 28 },
+      { name: "Vintage Culture", tracks: 28 },
+      { name: "Goom Gum", tracks: 27 },
+      { name: "Kevin de Vries", tracks: 26 },
+      { name: "Mind Against", tracks: 26 },
+      { name: "Miss Monique", tracks: 26 },
+      { name: "TH;EN", tracks: 26 },
+      { name: "John Summit", tracks: 22 },
+      { name: "Adam Sellouk", tracks: 21 },
     ],
     recentTracks: [
       {
@@ -120,13 +134,39 @@
       return;
     }
 
+    var topArtists = artists.slice(0, 20).filter(function (artist) {
+      return artist.name;
+    });
+
+    if (topArtists.length === 0) {
+      return;
+    }
+
     element.textContent = "";
 
-    artists.slice(0, 6).forEach(function (artist) {
-      var item = document.createElement("span");
-      item.textContent = artist.name;
-      element.appendChild(item);
-    });
+    var track = document.createElement("div");
+    track.className = "artist-track";
+
+    function createSet(isDuplicate) {
+      var set = document.createElement("div");
+      set.className = "artist-set";
+
+      if (isDuplicate) {
+        set.setAttribute("aria-hidden", "true");
+      }
+
+      topArtists.forEach(function (artist) {
+        var item = document.createElement("span");
+        item.textContent = artist.name;
+        set.appendChild(item);
+      });
+
+      return set;
+    }
+
+    track.appendChild(createSet(false));
+    track.appendChild(createSet(true));
+    element.appendChild(track);
   }
 
   function renderRecentTracks(tracks) {

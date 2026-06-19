@@ -447,20 +447,57 @@
         }
 
         .artist-strip {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
+            position: relative;
+            overflow: hidden;
             margin-top: 14px;
-            padding: 16px;
+            padding: 16px 0;
             border: 1px solid rgba(255, 255, 255, 0.13);
             border-radius: var(--radius);
             background: var(--panel);
             backdrop-filter: blur(18px);
         }
 
+        .artist-strip::before,
+        .artist-strip::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            z-index: 1;
+            width: 58px;
+            pointer-events: none;
+        }
+
+        .artist-strip::before {
+            left: 0;
+            background: linear-gradient(90deg, rgba(12, 12, 14, 0.96), transparent);
+        }
+
+        .artist-strip::after {
+            right: 0;
+            background: linear-gradient(270deg, rgba(12, 12, 14, 0.96), transparent);
+        }
+
+        .artist-track {
+            display: flex;
+            width: max-content;
+            animation: artist-carousel 42s linear infinite;
+        }
+
+        .artist-strip:hover .artist-track {
+            animation-play-state: paused;
+        }
+
+        .artist-set {
+            display: flex;
+            gap: 10px;
+            padding-right: 10px;
+        }
+
         .artist-strip span {
             display: inline-flex;
             align-items: center;
+            flex: 0 0 auto;
             min-height: 34px;
             padding: 0 11px;
             border: 1px solid rgba(255, 255, 255, 0.14);
@@ -470,6 +507,30 @@
             font-size: 12px;
             font-weight: 900;
             text-transform: uppercase;
+        }
+
+        @keyframes artist-carousel {
+            from {
+                transform: translateX(0);
+            }
+
+            to {
+                transform: translateX(-50%);
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .artist-strip {
+                overflow-x: auto;
+            }
+
+            .artist-track {
+                animation: none;
+            }
+
+            .artist-set[aria-hidden="true"] {
+                display: none;
+            }
         }
 
         .data-panel {
@@ -872,12 +933,52 @@
             </div>
 
             <div class="artist-strip" id="top-artists" aria-label="Artistas con mas presencia">
-                <span>Anyma</span>
-                <span>Mathame</span>
-                <span>Massano</span>
-                <span>CamelPhat</span>
-                <span>Solomun</span>
-                <span>ARTBAT</span>
+                <div class="artist-track">
+                    <div class="artist-set">
+                        <span>Anyma</span>
+                        <span>Mathame</span>
+                        <span>Massano</span>
+                        <span>CamelPhat</span>
+                        <span>Solomun</span>
+                        <span>ARTBAT</span>
+                        <span>Adriatique</span>
+                        <span>Argy</span>
+                        <span>Innellea</span>
+                        <span>Adam Beyer</span>
+                        <span>Layton Giordani</span>
+                        <span>Rebuke</span>
+                        <span>Vintage Culture</span>
+                        <span>Goom Gum</span>
+                        <span>Kevin de Vries</span>
+                        <span>Mind Against</span>
+                        <span>Miss Monique</span>
+                        <span>TH;EN</span>
+                        <span>John Summit</span>
+                        <span>Adam Sellouk</span>
+                    </div>
+                    <div class="artist-set" aria-hidden="true">
+                        <span>Anyma</span>
+                        <span>Mathame</span>
+                        <span>Massano</span>
+                        <span>CamelPhat</span>
+                        <span>Solomun</span>
+                        <span>ARTBAT</span>
+                        <span>Adriatique</span>
+                        <span>Argy</span>
+                        <span>Innellea</span>
+                        <span>Adam Beyer</span>
+                        <span>Layton Giordani</span>
+                        <span>Rebuke</span>
+                        <span>Vintage Culture</span>
+                        <span>Goom Gum</span>
+                        <span>Kevin de Vries</span>
+                        <span>Mind Against</span>
+                        <span>Miss Monique</span>
+                        <span>TH;EN</span>
+                        <span>John Summit</span>
+                        <span>Adam Sellouk</span>
+                    </div>
+                </div>
             </div>
 
             <div class="data-panel" aria-label="Identidad sonora y pulso reciente">
