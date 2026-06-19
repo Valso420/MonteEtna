@@ -60,6 +60,20 @@ function toSpotifyUrl(type, id) {
   return id ? `https://open.spotify.com/${type}/${id}` : null;
 }
 
+function normalizeAddedBy(user) {
+  if (!user) {
+    return null;
+  }
+
+  return {
+    id: user.id || null,
+    uri: user.uri || null,
+    href: user.href || null,
+    type: user.type || null,
+    spotifyUrl: user.external_urls?.spotify || toSpotifyUrl("user", user.id),
+  };
+}
+
 async function requestJson(url, options = {}, label = "request") {
   const response = await fetch(url, options);
   const body = await response.text();
@@ -155,7 +169,7 @@ async function getTracksPage(accessToken, playlistId, offset) {
     "limit",
     "offset",
     "next",
-    "items(added_at,item(id,name,uri,external_urls,duration_ms,explicit,is_local,is_playable,available_markets,popularity,preview_url,artists(id,name,uri,external_urls),album(id,name,uri,external_urls,release_date,images(url,width,height))))",
+    "items(added_at,added_by(id,uri,href,type,external_urls),item(id,name,uri,external_urls,duration_ms,explicit,is_local,is_playable,available_markets,popularity,preview_url,artists(id,name,uri,external_urls),album(id,name,uri,external_urls,release_date,images(url,width,height))))",
   ].join(",");
 
   const params = new URLSearchParams({
@@ -184,6 +198,7 @@ function normalizeTrack(item, index) {
     return {
       position: index + 1,
       addedAt: asIsoOrNull(item.added_at),
+      addedBy: normalizeAddedBy(item.added_by),
       id: null,
       name: null,
       artists: [],
@@ -218,6 +233,7 @@ function normalizeTrack(item, index) {
   return {
     position: index + 1,
     addedAt: asIsoOrNull(item.added_at),
+    addedBy: normalizeAddedBy(item.added_by),
     id: track.id || null,
     name: track.name || "",
     artists,

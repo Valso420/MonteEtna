@@ -34,10 +34,17 @@ async function main() {
 
   const namedTracks = tracks.filter((track) => track.id && track.name);
   const tracksWithDuration = tracks.filter((track) => track.durationMs > 0);
+  const tracksWithAddedByField = tracks.filter((track) =>
+    Object.hasOwn(track, "addedBy"),
+  );
   assertValid(namedTracks.length === tracks.length, "Every track must have id and name.");
   assertValid(
     tracksWithDuration.length === tracks.length,
     "Every track must have a positive duration.",
+  );
+  assertValid(
+    tracksWithAddedByField.length === tracks.length,
+    "Every track must include the addedBy field.",
   );
   assertValid(summary.totalHours > 0, "Summary totalHours must be greater than 0.");
   assertValid(
