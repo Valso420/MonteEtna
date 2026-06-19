@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Monte Etna - Playlist & Access</title>
+    <title>Monte Etna - Playlist y acceso</title>
     <meta name="description"
         content="Monte Etna: playlist de musica electronica, comunidad cerrada, fechas, entradas y drops seleccionados." />
     <meta property="og:title" content="Monte Etna" />
@@ -133,8 +133,10 @@
 
         .hero {
             min-height: calc(100svh - 150px);
-            display: flex;
+            display: grid;
+            grid-template-columns: minmax(0, 0.95fr) minmax(280px, 0.48fr);
             align-items: center;
+            gap: 52px;
             padding: 44px 0 52px;
         }
 
@@ -201,6 +203,95 @@
             color: var(--muted);
             font-size: 1.12rem;
             line-height: 1.55;
+        }
+
+        .playlist-visual {
+            width: min(100%, 360px);
+            justify-self: end;
+            position: relative;
+        }
+
+        .playlist-visual::before {
+            content: "";
+            position: absolute;
+            inset: 10% -12% -8% -12%;
+            z-index: -1;
+            background: radial-gradient(circle, rgba(255, 255, 255, 0.22), transparent 62%);
+            filter: blur(20px);
+            opacity: 0.7;
+        }
+
+        .playlist-frame {
+            display: block;
+            padding: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            border-radius: var(--radius);
+            background:
+                linear-gradient(180deg, rgba(255, 255, 255, 0.14), rgba(255, 255, 255, 0.045)),
+                rgba(5, 5, 6, 0.74);
+            box-shadow: 0 30px 90px rgba(0, 0, 0, 0.48);
+            backdrop-filter: blur(18px);
+            transition: transform 170ms ease, border-color 170ms ease, box-shadow 170ms ease;
+        }
+
+        .playlist-frame:hover {
+            transform: translateY(-3px);
+            border-color: rgba(30, 215, 96, 0.44);
+            box-shadow: 0 30px 90px rgba(0, 0, 0, 0.5), 0 0 46px rgba(30, 215, 96, 0.12);
+        }
+
+        .playlist-cover {
+            width: 100%;
+            height: auto;
+            aspect-ratio: 1;
+            display: block;
+            object-fit: cover;
+            border-radius: 6px;
+            border: 1px solid rgba(255, 255, 255, 0.14);
+        }
+
+        .playlist-meta {
+            padding: 16px 4px 2px;
+        }
+
+        .playlist-eyebrow {
+            color: var(--spotify);
+            font-size: 12px;
+            font-weight: 950;
+            text-transform: uppercase;
+        }
+
+        .playlist-title {
+            margin-top: 8px;
+            font-size: 1.65rem;
+            line-height: 1;
+            font-weight: 1000;
+            text-transform: uppercase;
+        }
+
+        .playlist-detail {
+            margin-top: 8px;
+            color: var(--muted);
+            font-size: 0.95rem;
+            line-height: 1.45;
+        }
+
+        .playlist-stats {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 14px;
+            color: var(--text);
+            font-size: 12px;
+            font-weight: 900;
+            text-transform: uppercase;
+        }
+
+        .playlist-stats span {
+            padding: 7px 9px;
+            border: 1px solid rgba(255, 255, 255, 0.14);
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.055);
         }
 
         .actions {
@@ -407,9 +498,15 @@
                 font-size: 2rem;
             }
 
+            .hero,
             .bridge-grid,
             .final-inner {
                 grid-template-columns: 1fr;
+            }
+
+            .playlist-visual {
+                width: min(100%, 320px);
+                justify-self: start;
             }
 
             .final .actions {
@@ -434,6 +531,7 @@
                 min-height: auto;
                 align-items: flex-start;
                 padding: 72px 0 42px;
+                gap: 34px;
             }
 
             h1 {
@@ -448,6 +546,34 @@
 
             .sub {
                 font-size: 1rem;
+            }
+
+            .playlist-visual {
+                width: 100%;
+            }
+
+            .playlist-visual::before {
+                inset: 10% 0 -8% 0;
+            }
+
+            .playlist-frame {
+                display: grid;
+                grid-template-columns: 108px 1fr;
+                align-items: center;
+                gap: 14px;
+                padding: 10px;
+            }
+
+            .playlist-meta {
+                padding: 0;
+            }
+
+            .playlist-title {
+                font-size: 1.25rem;
+            }
+
+            .playlist-detail {
+                font-size: 0.88rem;
             }
 
             .actions {
@@ -505,7 +631,7 @@
     <main id="top">
         <section class="shell hero">
             <div class="hero-copy">
-                <div class="kicker">Comunidad electronica privada</div>
+                <div class="kicker">Playlist publica + acceso privado</div>
 
                 <h1>Monte<br>Etna</h1>
 
@@ -515,7 +641,8 @@
                 </p>
 
                 <p class="sub">
-                    Musica electronica, fechas, entradas y drops seleccionados en un circuito cerrado y curado.
+                    1874 tracks de musica electronica curados por Mate Ramos. La portada abre el ascenso; el grupo
+                    concentra fechas, entradas y drops seleccionados.
                 </p>
 
                 <div class="actions" aria-label="Acciones principales">
@@ -533,11 +660,32 @@
                 </div>
 
                 <div class="proof" aria-label="Caracteristicas del grupo">
+                    <span class="chip">1874 tracks</span>
                     <span class="chip">+100 horas de musica electronica</span>
                     <span class="chip">Solo admins</span>
                     <span class="chip">Sin spam</span>
                 </div>
             </div>
+
+            <aside class="playlist-visual" aria-label="Portada de la playlist Monte Etna">
+                <a class="playlist-frame"
+                    href="https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB?si=f8Bk0jiETw-5JEXdR_9jNg&pi=4XEJ_c4qSFaHv"
+                    target="_blank" rel="noopener noreferrer"
+                    aria-label="Abrir la playlist Monte Etna en Spotify">
+                    <img class="playlist-cover" src="assets/playlist-cover.jpg"
+                        alt="Portada de la playlist Monte Etna" width="300" height="300">
+
+                    <div class="playlist-meta">
+                        <div class="playlist-eyebrow">Spotify playlist</div>
+                        <div class="playlist-title">Monte Etna</div>
+                        <p class="playlist-detail">Curada por Mate Ramos. Un ascenso oscuro hacia el sonido.</p>
+                        <div class="playlist-stats" aria-label="Datos de la playlist">
+                            <span>1874 tracks</span>
+                            <span>38 saves</span>
+                        </div>
+                    </div>
+                </a>
+            </aside>
         </section>
 
         <section class="shell bridge" id="access" aria-label="Acceso Monte Etna">
@@ -548,8 +696,8 @@
                         <h2>El sonido de Monte Etna.</h2>
                     </div>
                     <p>
-                        Una seleccion extensa de musica electronica para descubrir, guardar y volver al pulso de la
-                        comunidad.
+                        Una seleccion extensa para entrar al clima: oscuro, ascendente y electronico. El primer paso es
+                        seguirla.
                     </p>
                 </article>
 
@@ -559,21 +707,21 @@
                         <h2>El acceso cerrado.</h2>
                     </div>
                     <p>
-                        Fechas, entradas, productos importados y drops puntuales. Publican solo admins para mantenerlo
-                        limpio.
+                        Despues del sonido viene el acceso: fechas, entradas y drops puntuales. Publican solo admins
+                        para mantenerlo limpio.
                     </p>
                 </article>
             </div>
 
             <div class="flow" aria-label="Circuito de conversion">
-                <b>Spotify</b> -> comunidad -> <b>WhatsApp</b> / <b>WhatsApp</b> -> comunidad -> <b>Spotify</b>
+                <b>Spotify</b> -> sonido -> comunidad -> <b>WhatsApp</b> / <b>WhatsApp</b> -> acceso -> <b>Spotify</b>
             </div>
         </section>
 
         <section class="shell final" aria-label="Cierre">
             <div class="final-inner">
                 <div>
-                    <h2>Entra al circuito.</h2>
+                    <h2>Subi al circuito.</h2>
                     <p>Segui la playlist y sumate al grupo cerrado de Monte Etna.</p>
                 </div>
 
