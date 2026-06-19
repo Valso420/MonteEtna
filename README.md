@@ -19,14 +19,20 @@ La pagina busca que el visitante siga la playlist, entre al grupo cerrado, o com
 - WhatsApp: grupo cerrado, solo admins, sin spam.
 - Imagen local de playlist: `assets/playlist-cover.jpg`.
 - Imagen hero: `assets/hero-volcanic-club.jpg`.
+- Export completo: `data/spotify-playlist-tracks.csv`.
+- Resumen analitico: `data/spotify-playlist-summary.json`.
+- Script de export: `scripts/export-spotify-playlist.ps1`.
 
 ## Datos publicos de Spotify
 
 Revisado el 2026-06-19:
 
 - Curador: Mate Ramos.
-- Items: 1874.
+- Items: 1876.
 - Saves: 38.
+- Duracion total: 146.8 horas.
+- Artistas distintos: 1354.
+- Albumes representados: 1649.
 
 ## Desarrollo
 
