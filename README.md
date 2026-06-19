@@ -2,6 +2,8 @@
 
 Landing puente entre la playlist de Spotify Monte Etna (https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB?flow_ctx=cb3a84c3-6202-4851-b671-6ee8dfe1af2b%3A1781863630) y el grupo cerrado de WhatsApp.
 
+URL publica: https://monteetna.vercel.app/
+
 ## Proposito
 
 Monte Etna presenta una comunidad electronica curada:
