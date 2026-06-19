@@ -31,3 +31,4 @@ Revisado el 2026-06-19:
 ## Desarrollo
 
 Es una pagina estatica. Abrir `index.html` en el navegador o desplegar el repo como sitio estatico.
+No requiere paso de build.
