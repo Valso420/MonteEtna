@@ -1,250 +1,160 @@
-﻿{
-    "playlist_id":  "3MKATRzfONdGDAbiQ7nioB",
-    "playlist_name":  "🗻Monte Etna🌋",
-    "playlist_url":  "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
-    "owner_name":  "Mate Ramos",
-    "followers":  38,
-    "total_tracks":  1876,
-    "exported_tracks":  1876,
-    "total_duration_ms":  528318990,
-    "total_duration_hours":  146.8,
-    "average_duration_min":  4.69,
-    "unique_artists":  1354,
-    "unique_albums":  1649,
-    "playable_tracks":  1866,
-    "tracks_with_preview":  1866,
-    "duplicate_tracks":  2,
-    "top_artists":  [
-                        {
-                            "artist":  "Anyma",
-                            "tracks":  56
-                        },
-                        {
-                            "artist":  "Mathame",
-                            "tracks":  56
-                        },
-                        {
-                            "artist":  "Massano",
-                            "tracks":  54
-                        },
-                        {
-                            "artist":  "CamelPhat",
-                            "tracks":  48
-                        },
-                        {
-                            "artist":  "Solomun",
-                            "tracks":  47
-                        },
-                        {
-                            "artist":  "ARTBAT",
-                            "tracks":  46
-                        },
-                        {
-                            "artist":  "Adriatique",
-                            "tracks":  37
-                        },
-                        {
-                            "artist":  "Argy",
-                            "tracks":  37
-                        },
-                        {
-                            "artist":  "Innellea",
-                            "tracks":  31
-                        },
-                        {
-                            "artist":  "Vintage Culture",
-                            "tracks":  28
-                        },
-                        {
-                            "artist":  "Layton Giordani",
-                            "tracks":  28
-                        },
-                        {
-                            "artist":  "Rebūke",
-                            "tracks":  28
-                        },
-                        {
-                            "artist":  "Adam Beyer",
-                            "tracks":  28
-                        },
-                        {
-                            "artist":  "Goom Gum",
-                            "tracks":  27
-                        },
-                        {
-                            "artist":  "TH;EN",
-                            "tracks":  26
-                        },
-                        {
-                            "artist":  "Miss Monique",
-                            "tracks":  26
-                        },
-                        {
-                            "artist":  "Kevin de Vries",
-                            "tracks":  26
-                        },
-                        {
-                            "artist":  "Mind Against",
-                            "tracks":  26
-                        },
-                        {
-                            "artist":  "John Summit",
-                            "tracks":  22
-                        },
-                        {
-                            "artist":  "Adam Sellouk",
-                            "tracks":  21
-                        }
-                    ],
-    "top_tracks_by_playcount":  [
-                                    {
-                                        "position":  1389,
-                                        "track_name":  "In My Mind",
-                                        "artists":  "Dynoro; Gigi D\u0027Agostino",
-                                        "playcount":  1737379482,
-                                        "track_url":  "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
-                                    },
-                                    {
-                                        "position":  247,
-                                        "track_name":  "Move",
-                                        "artists":  "Adam Port; Stryv; Keinemusik; Orso; Malachiii",
-                                        "playcount":  890175253,
-                                        "track_url":  "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
-                                    },
-                                    {
-                                        "position":  1504,
-                                        "track_name":  "Thank You (Not So Bad)",
-                                        "artists":  "Dimitri Vegas \u0026 Like Mike; Tiësto; Dido; W\u0026W; Dimitri Vegas; Like Mike",
-                                        "playcount":  684517237,
-                                        "track_url":  "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
-                                    },
-                                    {
-                                        "position":  887,
-                                        "track_name":  "The Days - NOTION Remix",
-                                        "artists":  "Chrystal; NOTION",
-                                        "playcount":  656893396,
-                                        "track_url":  "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
-                                    },
-                                    {
-                                        "position":  1399,
-                                        "track_name":  "Lay Low",
-                                        "artists":  "Tiësto",
-                                        "playcount":  631715667,
-                                        "track_url":  "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-                                    },
-                                    {
-                                        "position":  1241,
-                                        "track_name":  "Innerbloom",
-                                        "artists":  "RÜFÜS DU SOL",
-                                        "playcount":  468823832,
-                                        "track_url":  "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
-                                    },
-                                    {
-                                        "position":  190,
-                                        "track_name":  "You \u0026 Me - Rivo Remix",
-                                        "artists":  "Disclosure; Rivo; Eliza Doolittle",
-                                        "playcount":  464679048,
-                                        "track_url":  "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
-                                    },
-                                    {
-                                        "position":  1390,
-                                        "track_name":  "Piece Of Your Heart - Alok Remix",
-                                        "artists":  "MEDUZA; Alok; Goodboys",
-                                        "playcount":  449323035,
-                                        "track_url":  "https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW"
-                                    },
-                                    {
-                                        "position":  1394,
-                                        "track_name":  "Down Under (feat. Colin Hay)",
-                                        "artists":  "Luude; Colin Hay",
-                                        "playcount":  436647261,
-                                        "track_url":  "https://open.spotify.com/track/53O5nAlq04RKmSBqW0SFvG"
-                                    },
-                                    {
-                                        "position":  1755,
-                                        "track_name":  "Vanished",
-                                        "artists":  "Crystal Castles",
-                                        "playcount":  382825843,
-                                        "track_url":  "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT"
-                                    },
-                                    {
-                                        "position":  1400,
-                                        "track_name":  "Desire (with Sam Smith)",
-                                        "artists":  "Calvin Harris; Sam Smith",
-                                        "playcount":  357049388,
-                                        "track_url":  "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-                                    },
-                                    {
-                                        "position":  119,
-                                        "track_name":  "Relax My Eyes",
-                                        "artists":  "ANOTR; Abel Balder",
-                                        "playcount":  338890949,
-                                        "track_url":  "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
-                                    },
-                                    {
-                                        "position":  1756,
-                                        "track_name":  "Kerosene",
-                                        "artists":  "Crystal Castles",
-                                        "playcount":  328108567,
-                                        "track_url":  "https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz"
-                                    },
-                                    {
-                                        "position":  14,
-                                        "track_name":  "Delilah (pull me out of this)",
-                                        "artists":  "Fred again..; Delilah Montagu",
-                                        "playcount":  322931587,
-                                        "track_url":  "https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60"
-                                    },
-                                    {
-                                        "position":  1178,
-                                        "track_name":  "Where You Are",
-                                        "artists":  "John Summit; HAYLA",
-                                        "playcount":  318978056,
-                                        "track_url":  "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
-                                    },
-                                    {
-                                        "position":  1753,
-                                        "track_name":  "Crimewave",
-                                        "artists":  "Crystal Castles",
-                                        "playcount":  295642148,
-                                        "track_url":  "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
-                                    },
-                                    {
-                                        "position":  626,
-                                        "track_name":  "Somebody (2024)",
-                                        "artists":  "Gotye; FISHER; Chris Lake; Kimbra; Sante Sansone",
-                                        "playcount":  290487077,
-                                        "track_url":  "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
-                                    },
-                                    {
-                                        "position":  534,
-                                        "track_name":  "Dirty Cash (Money Talks)",
-                                        "artists":  "PAWSA; The Adventures Of Stevie V",
-                                        "playcount":  246469586,
-                                        "track_url":  "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
-                                    },
-                                    {
-                                        "position":  380,
-                                        "track_name":  "Greyhound",
-                                        "artists":  "Swedish House Mafia",
-                                        "playcount":  238300685,
-                                        "track_url":  "https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF"
-                                    },
-                                    {
-                                        "position":  1767,
-                                        "track_name":  "Transgender",
-                                        "artists":  "Crystal Castles",
-                                        "playcount":  226312559,
-                                        "track_url":  "https://open.spotify.com/track/3pbN3SGJott0Rgb5aE5kqc"
-                                    }
-                                ],
-    "duplicate_details":  [
-                              {
-                                  "track_uri":  "spotify:track:4DA4WJRYSqpxiaCFymm5uv",
-                                  "count":  2,
-                                  "track_name":  "Pull Out - Short Mix",
-                                  "artists":  "ARTBAT; KAS:ST; Losless"
-                              }
-                          ],
-    "exported_at":  "2026-06-19T15:41:35"
+{
+  "schemaVersion": 1,
+  "playlistId": "3MKATRzfONdGDAbiQ7nioB",
+  "playlistName": "🗻Monte Etna🌋",
+  "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
+  "ownerName": "Mate Ramos",
+  "followers": 38,
+  "totalTracks": 1876,
+  "exportedTracks": 1876,
+  "totalDurationMs": 528318990,
+  "totalHours": 146.8,
+  "averageDurationMin": 4.69,
+  "uniqueArtists": 1359,
+  "uniqueAlbums": 1649,
+  "topArtists": [
+    {
+      "name": "Anyma",
+      "tracks": 56
+    },
+    {
+      "name": "Mathame",
+      "tracks": 56
+    },
+    {
+      "name": "Massano",
+      "tracks": 54
+    },
+    {
+      "name": "CamelPhat",
+      "tracks": 48
+    },
+    {
+      "name": "Solomun",
+      "tracks": 47
+    },
+    {
+      "name": "ARTBAT",
+      "tracks": 46
+    },
+    {
+      "name": "Adriatique",
+      "tracks": 37
+    },
+    {
+      "name": "Argy",
+      "tracks": 37
+    },
+    {
+      "name": "Innellea",
+      "tracks": 31
+    },
+    {
+      "name": "Adam Beyer",
+      "tracks": 28
+    },
+    {
+      "name": "Layton Giordani",
+      "tracks": 28
+    },
+    {
+      "name": "Rebūke",
+      "tracks": 28
+    },
+    {
+      "name": "Vintage Culture",
+      "tracks": 28
+    },
+    {
+      "name": "Goom Gum",
+      "tracks": 27
+    },
+    {
+      "name": "Kevin de Vries",
+      "tracks": 26
+    },
+    {
+      "name": "Mind Against",
+      "tracks": 26
+    },
+    {
+      "name": "Miss Monique",
+      "tracks": 26
+    },
+    {
+      "name": "TH;EN",
+      "tracks": 26
+    },
+    {
+      "name": "John Summit",
+      "tracks": 22
+    },
+    {
+      "name": "Adam Sellouk",
+      "tracks": 21
+    }
+  ],
+  "recentTracks": [
+    {
+      "name": "Blackout",
+      "artists": [
+        "TH;EN"
+      ],
+      "addedAt": "2026-06-19T16:33:08.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4RWY8DxNRBMxXKOzxGOxC7"
+    },
+    {
+      "name": "Dancin - Extended Mix",
+      "artists": [
+        "DEFLEE",
+        "Alexandr Craft"
+      ],
+      "addedAt": "2026-06-19T13:32:52.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5eOZ8s3lC288WGTotdRc0z"
+    },
+    {
+      "name": "Baptism",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "addedAt": "2026-06-16T19:22:48.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW"
+    },
+    {
+      "name": "Circus Freaks",
+      "artists": [
+        "Adam Beyer"
+      ],
+      "addedAt": "2026-06-13T16:10:39.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7Mt3W201jQ0yz2Ij1iBKXO"
+    },
+    {
+      "name": "Simulated - Bas Amro Remix",
+      "artists": [
+        "Marco V",
+        "Bas Amro"
+      ],
+      "addedAt": "2026-06-13T03:17:51.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2EWnEY46grQZZ9lzbi5Cq7"
+    }
+  ],
+  "duplicateTracks": 1,
+  "duplicateDetails": [
+    {
+      "id": "4DA4WJRYSqpxiaCFymm5uv",
+      "name": "Pull Out - Short Mix",
+      "artists": [
+        "ARTBAT",
+        "KAS:ST",
+        "Losless"
+      ],
+      "count": 2
+    }
+  ],
+  "explicitTracks": 37,
+  "availableTracks": 1866,
+  "unavailableTracks": 10,
+  "localTracks": 0,
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-06-19T19:48:12.570Z"
 }

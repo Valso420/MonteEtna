@@ -22,6 +22,7 @@
     <meta name="twitter:image:alt" content="Monte Etna: playlist electronica y acceso privado" />
     <meta name="robots" content="index, follow" />
     <meta name="theme-color" content="#050506" />
+    <script src="assets/spotify-summary.js" defer></script>
 
     <style>
         :root {
@@ -471,6 +472,40 @@
             text-transform: uppercase;
         }
 
+        .data-panel {
+            margin-top: 14px;
+            padding: 18px;
+            border: 1px solid rgba(255, 255, 255, 0.13);
+            border-radius: var(--radius);
+            background: var(--panel);
+            backdrop-filter: blur(18px);
+        }
+
+        .data-panel strong {
+            color: var(--spotify);
+            font-size: 13px;
+            font-weight: 950;
+            text-transform: uppercase;
+        }
+
+        .data-panel p,
+        .data-panel li {
+            color: var(--muted);
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .data-panel p {
+            margin-top: 10px;
+        }
+
+        .recent-tracks {
+            display: grid;
+            gap: 8px;
+            margin: 12px 0 0;
+            padding-left: 18px;
+        }
+
         .bridge {
             padding: 18px 0 78px;
         }
@@ -784,8 +819,8 @@
                 </div>
 
                 <div class="proof" aria-label="Caracteristicas del grupo">
-                    <span class="chip">1876 tracks</span>
-                    <span class="chip">146 horas de musica electronica</span>
+                    <span class="chip" id="hero-tracks">1876 tracks</span>
+                    <span class="chip" id="hero-hours">146 horas de musica electronica</span>
                     <span class="chip">Solo admins</span>
                     <span class="chip">Sin spam</span>
                 </div>
@@ -804,8 +839,8 @@
                         <div class="playlist-title">Monte Etna</div>
                         <p class="playlist-detail">Curada por Mate Ramos. Un ascenso oscuro hacia el sonido.</p>
                         <div class="playlist-stats" aria-label="Datos de la playlist">
-                            <span>1876 tracks</span>
-                            <span>146.8 horas</span>
+                            <span id="playlist-tracks">1876 tracks</span>
+                            <span id="playlist-hours">146.8 horas</span>
                         </div>
                     </div>
                 </a>
@@ -816,38 +851,47 @@
             <div class="section-head">
                 <strong>Radiografia</strong>
                 <h2>Una curadoria extensa, no una lista al azar.</h2>
-                <p>
-                    La playlist fue analizada track por track: 1876 temas, 146.8 horas, 1354 artistas y 1649 albumes.
+                <p id="radiography-copy">
+                    La playlist fue analizada track por track: 1876 temas, 146.8 horas, 1359 artistas y 1649 albumes.
                     Ese mapa define el sonido de la comunidad.
                 </p>
             </div>
 
             <div class="insights-grid">
                 <article class="insight-card">
-                    <span class="insight-value">1876</span>
+                    <span class="insight-value" id="tracks-value">1876</span>
                     <span class="insight-label">tracks exportados</span>
                 </article>
                 <article class="insight-card">
-                    <span class="insight-value">146.8 h</span>
+                    <span class="insight-value" id="hours-value">146.8 h</span>
                     <span class="insight-label">de recorrido sonoro</span>
                 </article>
                 <article class="insight-card">
-                    <span class="insight-value">1354</span>
+                    <span class="insight-value" id="artists-value">1359</span>
                     <span class="insight-label">artistas distintos</span>
                 </article>
                 <article class="insight-card">
-                    <span class="insight-value">1649</span>
+                    <span class="insight-value" id="albums-value">1649</span>
                     <span class="insight-label">albumes representados</span>
                 </article>
             </div>
 
-            <div class="artist-strip" aria-label="Artistas con mas presencia">
+            <div class="artist-strip" id="top-artists" aria-label="Artistas con mas presencia">
                 <span>Anyma</span>
                 <span>Mathame</span>
                 <span>Massano</span>
                 <span>CamelPhat</span>
                 <span>Solomun</span>
                 <span>ARTBAT</span>
+            </div>
+
+            <div class="data-panel" aria-label="Identidad sonora y pulso reciente">
+                <strong>Identidad sonora</strong>
+                <p id="sound-identity">Mayor presencia: Anyma, Mathame, Massano.</p>
+                <strong>Pulso reciente</strong>
+                <ul class="recent-tracks" id="recent-tracks">
+                    <li>Blackout - TH;EN</li>
+                </ul>
             </div>
         </section>
 
@@ -908,7 +952,7 @@
     <footer>
         <div class="shell footer-inner">
             <span>Monte Etna</span>
-            <span>Playlist, comunidad cerrada y drops seleccionados.</span>
+            <span id="last-updated">actualizada automaticamente desde Spotify</span>
         </div>
     </footer>
 </body>
