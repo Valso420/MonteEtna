@@ -667,12 +667,12 @@
                     <div class="actions">
                         <a class="btn btn-spotify"
                             href="https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB?si=f8Bk0jiETw-5JEXdR_9jNg&pi=4XEJ_c4qSFaHv"
-                            target="_blank" rel="noopener">
+                            target="_blank" rel="noopener noreferrer">
                             Seguir playlist
                         </a>
 
                         <a class="btn btn-wpp" href="https://chat.whatsapp.com/Ecj1Oj8jPf29T3Ze6Pl2Oc" target="_blank"
-                            rel="noopener">
+                            rel="noopener noreferrer">
                             Entrar al grupo
                         </a>
                     </div>
@@ -745,12 +745,12 @@
             <div class="actions">
                 <a class="btn btn-spotify"
                     href="https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB?si=f8Bk0jiETw-5JEXdR_9jNg&pi=4XEJ_c4qSFaHv"
-                    target="_blank" rel="noopener">
+                    target="_blank" rel="noopener noreferrer">
                     Spotify
                 </a>
 
                 <a class="btn btn-wpp" href="https://chat.whatsapp.com/Ecj1Oj8jPf29T3Ze6Pl2Oc" target="_blank"
-                    rel="noopener">
+                    rel="noopener noreferrer">
                     WhatsApp
                 </a>
             </div>
@@ -763,29 +763,6 @@
             <span>Playlist, comunidad y acceso cerrado.</span>
         </div>
     </footer>
-
-    <script>
-        const spotifyUrl = "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB?si=f8Bk0jiETw-5JEXdR_9jNg&pi=4XEJ_c4qSFaHv";
-        const whatsappUrl = "https://chat.whatsapp.com/Ecj1Oj8jPf29T3Ze6Pl2Oc";
-
-        document.querySelectorAll('a[href="SPOTIFY_PLAYLIST_URL"]').forEach((link) => {
-            link.addEventListener("click", (event) => {
-                if (spotifyUrl === "SPOTIFY_PLAYLIST_URL") {
-                    event.preventDefault();
-                    alert("Reemplazá SPOTIFY_PLAYLIST_URL por el link real de tu playlist.");
-                }
-            });
-        });
-
-        document.querySelectorAll('a[href="WHATSAPP_GROUP_URL"]').forEach((link) => {
-            link.addEventListener("click", (event) => {
-                if (whatsappUrl === "WHATSAPP_GROUP_URL") {
-                    event.preventDefault();
-                    alert("Reemplazá WHATSAPP_GROUP_URL por el link real del grupo de WhatsApp.");
-                }
-            });
-        });
-    </script>
 </body>
 
 </html>
