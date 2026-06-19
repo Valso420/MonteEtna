@@ -84366,5 +84366,97 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/65jqd1zeq3MAbTFa3utsyM",
     "uri": "spotify:track:65jqd1zeq3MAbTFa3utsyM"
+  },
+  {
+    "position": 1878,
+    "addedAt": "2026-06-19T21:06:43.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "7ade7I9VaYRst5E5QymdCV",
+    "name": "Feeding Love",
+    "artists": [
+      {
+        "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+        "name": "Mathame",
+        "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+        "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+      },
+      {
+        "id": "6ALv0kb1WQfQbDOna5fLcX",
+        "name": "CRIMER",
+        "uri": "spotify:artist:6ALv0kb1WQfQbDOna5fLcX",
+        "spotifyUrl": "https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX"
+      }
+    ],
+    "album": {
+      "id": "6azdO29kApAjBqsnEW98cN",
+      "name": "MEMO",
+      "uri": "spotify:album:6azdO29kApAjBqsnEW98cN",
+      "releaseDate": "2023-06-30",
+      "spotifyUrl": "https://open.spotify.com/album/6azdO29kApAjBqsnEW98cN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735f69253f6449be9595c66147"
+    },
+    "durationMs": 275348,
+    "durationMin": 4.59,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7ade7I9VaYRst5E5QymdCV",
+    "uri": "spotify:track:7ade7I9VaYRst5E5QymdCV"
+  },
+  {
+    "position": 1879,
+    "addedAt": "2026-06-19T21:06:52.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "4dy35O7YGdQNKkG3YD8IbS",
+    "name": "Back Home",
+    "artists": [
+      {
+        "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+        "name": "Mathame",
+        "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+        "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+      },
+      {
+        "id": "79JJCxCCfJ8HufX6w8q2k4",
+        "name": "Damien Jurado",
+        "uri": "spotify:artist:79JJCxCCfJ8HufX6w8q2k4",
+        "spotifyUrl": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+      }
+    ],
+    "album": {
+      "id": "6azdO29kApAjBqsnEW98cN",
+      "name": "MEMO",
+      "uri": "spotify:album:6azdO29kApAjBqsnEW98cN",
+      "releaseDate": "2023-06-30",
+      "spotifyUrl": "https://open.spotify.com/album/6azdO29kApAjBqsnEW98cN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735f69253f6449be9595c66147"
+    },
+    "durationMs": 288000,
+    "durationMin": 4.8,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4dy35O7YGdQNKkG3YD8IbS",
+    "uri": "spotify:track:4dy35O7YGdQNKkG3YD8IbS"
   }
 ]

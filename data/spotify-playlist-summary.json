@@ -5,17 +5,17 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1877,
-  "exportedTracks": 1877,
-  "totalDurationMs": 528572874,
-  "totalHours": 146.8,
+  "totalTracks": 1879,
+  "exportedTracks": 1879,
+  "totalDurationMs": 529136222,
+  "totalHours": 147,
   "averageDurationMin": 4.69,
-  "uniqueArtists": 1359,
+  "uniqueArtists": 1361,
   "uniqueAlbums": 1649,
   "topArtists": [
     {
       "name": "Mathame",
-      "tracks": 57
+      "tracks": 59
     },
     {
       "name": "Anyma",
@@ -96,6 +96,24 @@
   ],
   "recentTracks": [
     {
+      "name": "Back Home",
+      "artists": [
+        "Mathame",
+        "Damien Jurado"
+      ],
+      "addedAt": "2026-06-19T21:06:52.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4dy35O7YGdQNKkG3YD8IbS"
+    },
+    {
+      "name": "Feeding Love",
+      "artists": [
+        "Mathame",
+        "CRIMER"
+      ],
+      "addedAt": "2026-06-19T21:06:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7ade7I9VaYRst5E5QymdCV"
+    },
+    {
       "name": "Run Boy",
       "artists": [
         "Mathame"
@@ -119,22 +137,6 @@
       ],
       "addedAt": "2026-06-19T13:32:52.000Z",
       "spotifyUrl": "https://open.spotify.com/track/5eOZ8s3lC288WGTotdRc0z"
-    },
-    {
-      "name": "Baptism",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "addedAt": "2026-06-16T19:22:48.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW"
-    },
-    {
-      "name": "Circus Freaks",
-      "artists": [
-        "Adam Beyer"
-      ],
-      "addedAt": "2026-06-13T16:10:39.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7Mt3W201jQ0yz2Ij1iBKXO"
     }
   ],
   "duplicateTracks": 1,
@@ -151,9 +153,9 @@
     }
   ],
   "explicitTracks": 37,
-  "availableTracks": 1867,
+  "availableTracks": 1869,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-06-19T21:06:36.807Z"
+  "lastUpdated": "2026-06-19T22:56:15.234Z"
 }
