@@ -96,15 +96,15 @@
 
   function formatDate(value) {
     if (!value) {
-      return "actualizada automaticamente desde Spotify";
+      return "actualizada por ultima vez: pendiente";
     }
 
     var date = new Date(value);
     if (Number.isNaN(date.getTime())) {
-      return "actualizada automaticamente desde Spotify";
+      return "actualizada por ultima vez: pendiente";
     }
 
-    return "actualizada automaticamente desde Spotify el " + date.toLocaleDateString("es-AR");
+    return "actualizada por ultima vez: " + date.toLocaleDateString("es-AR");
   }
 
   function setText(id, value) {
@@ -168,20 +168,11 @@
     setText("playlist-hours", totalHours + " horas");
     setText(
       "radiography-copy",
-      "La playlist fue analizada track por track: " +
-        totalTracks +
-        " temas, " +
-        totalHours +
-        " horas, " +
-        formatNumber(summary.uniqueArtists) +
-        " artistas y " +
-        formatNumber(summary.uniqueAlbums) +
-        " albumes. Ese mapa define el sonido de la comunidad.",
+      "El volumen de tracks, horas y artistas define el sonido de la comunidad.",
     );
     setText("tracks-value", totalTracks);
     setText("hours-value", totalHours + " h");
     setText("artists-value", formatNumber(summary.uniqueArtists));
-    setText("albums-value", formatNumber(summary.uniqueAlbums));
     setText(
       "sound-identity",
       topNames.length
