@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1883,
-  "exportedTracks": 1883,
-  "totalDurationMs": 530870726,
-  "totalHours": 147.5,
+  "totalTracks": 1885,
+  "exportedTracks": 1885,
+  "totalDurationMs": 531846660,
+  "totalHours": 147.7,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1361,
-  "uniqueAlbums": 1650,
+  "uniqueArtists": 1362,
+  "uniqueAlbums": 1651,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,24 @@
   ],
   "recentTracks": [
     {
+      "name": "Hell to the Liars - Kölsch Remix",
+      "artists": [
+        "London Grammar",
+        "Kölsch"
+      ],
+      "addedAt": "2026-06-20T15:10:27.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3gHWnvAiAbo9muQXfWrQKE"
+    },
+    {
+      "name": "Lord It's a Feeling - goddard. Remix",
+      "artists": [
+        "London Grammar",
+        "goddard."
+      ],
+      "addedAt": "2026-06-20T14:35:40.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1R3a9TV8etxNSrA10DVLD5"
+    },
+    {
       "name": "Stalker",
       "artists": [
         "Mathame"
@@ -118,23 +136,6 @@
       ],
       "addedAt": "2026-06-20T06:45:27.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3thDMKUcejNcK1pRvBD3ub"
-    },
-    {
-      "name": "Fade In To You",
-      "artists": [
-        "Mathame"
-      ],
-      "addedAt": "2026-06-20T06:45:12.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/783cbqDaqgNgCGXfzm2sIb"
-    },
-    {
-      "name": "Back Home",
-      "artists": [
-        "Mathame",
-        "Damien Jurado"
-      ],
-      "addedAt": "2026-06-19T21:06:52.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4dy35O7YGdQNKkG3YD8IbS"
     }
   ],
   "duplicateTracks": 1,
@@ -150,10 +151,10 @@
       "count": 2
     }
   ],
-  "explicitTracks": 37,
-  "availableTracks": 1873,
+  "explicitTracks": 38,
+  "availableTracks": 1875,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-06-20T08:57:26.441Z"
+  "lastUpdated": "2026-06-20T19:27:17.654Z"
 }
