@@ -18945,7 +18945,7 @@
       "uri": "spotify:album:2oozoQT7FY3XDc7UOpO2Bs",
       "releaseDate": "2023-02-23",
       "spotifyUrl": "https://open.spotify.com/album/2oozoQT7FY3XDc7UOpO2Bs",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273470c76d4b710e4bf8bacbaf4"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d9b5fdb4a96a4abaf893706c"
     },
     "durationMs": 375604,
     "durationMin": 6.26,
@@ -84458,5 +84458,165 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/4dy35O7YGdQNKkG3YD8IbS",
     "uri": "spotify:track:4dy35O7YGdQNKkG3YD8IbS"
+  },
+  {
+    "position": 1880,
+    "addedAt": "2026-06-20T06:45:12.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "783cbqDaqgNgCGXfzm2sIb",
+    "name": "Fade In To You",
+    "artists": [
+      {
+        "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+        "name": "Mathame",
+        "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+        "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+      }
+    ],
+    "album": {
+      "id": "3iGJluPSc8vVkVVpPAMlz7",
+      "name": "Nothing Around Us",
+      "uri": "spotify:album:3iGJluPSc8vVkVVpPAMlz7",
+      "releaseDate": "2018-09-07",
+      "spotifyUrl": "https://open.spotify.com/album/3iGJluPSc8vVkVVpPAMlz7",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e42920bd30a343097fdb6378"
+    },
+    "durationMs": 387196,
+    "durationMin": 6.45,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/783cbqDaqgNgCGXfzm2sIb",
+    "uri": "spotify:track:783cbqDaqgNgCGXfzm2sIb"
+  },
+  {
+    "position": 1881,
+    "addedAt": "2026-06-20T06:45:27.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "3thDMKUcejNcK1pRvBD3ub",
+    "name": "Timeshift",
+    "artists": [
+      {
+        "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+        "name": "Mathame",
+        "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+        "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+      }
+    ],
+    "album": {
+      "id": "19km3e1NXqnY9UUUtfuGvS",
+      "name": "Realm Of Consciousness Pt. II",
+      "uri": "spotify:album:19km3e1NXqnY9UUUtfuGvS",
+      "releaseDate": "2017-06-16",
+      "spotifyUrl": "https://open.spotify.com/album/19km3e1NXqnY9UUUtfuGvS",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273bfa969645dc20aa762823634"
+    },
+    "durationMs": 449523,
+    "durationMin": 7.49,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3thDMKUcejNcK1pRvBD3ub",
+    "uri": "spotify:track:3thDMKUcejNcK1pRvBD3ub"
+  },
+  {
+    "position": 1882,
+    "addedAt": "2026-06-20T06:45:38.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "76UvU03NJ0sHFAVatDYJc4",
+    "name": "Opal Cithee",
+    "artists": [
+      {
+        "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+        "name": "Mathame",
+        "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+        "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+      }
+    ],
+    "album": {
+      "id": "37iNDT8MEOW4iUf50BBwtx",
+      "name": "Alkahest",
+      "uri": "spotify:album:37iNDT8MEOW4iUf50BBwtx",
+      "releaseDate": "2017-02-02",
+      "spotifyUrl": "https://open.spotify.com/album/37iNDT8MEOW4iUf50BBwtx",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fb85af5f966cfe8df58fef47"
+    },
+    "durationMs": 541935,
+    "durationMin": 9.03,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/76UvU03NJ0sHFAVatDYJc4",
+    "uri": "spotify:track:76UvU03NJ0sHFAVatDYJc4"
+  },
+  {
+    "position": 1883,
+    "addedAt": "2026-06-20T06:45:47.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "7CPzO5uJQCfOk2GLHFiddw",
+    "name": "Stalker",
+    "artists": [
+      {
+        "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+        "name": "Mathame",
+        "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+        "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+      }
+    ],
+    "album": {
+      "id": "05KXFUJwik3c26NdxSkLrV",
+      "name": "At the Doors of Those Spaces",
+      "uri": "spotify:album:05KXFUJwik3c26NdxSkLrV",
+      "releaseDate": "2018-03-30",
+      "spotifyUrl": "https://open.spotify.com/album/05KXFUJwik3c26NdxSkLrV",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27368d44c6b6ba6ad5907453922"
+    },
+    "durationMs": 355850,
+    "durationMin": 5.93,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7CPzO5uJQCfOk2GLHFiddw",
+    "uri": "spotify:track:7CPzO5uJQCfOk2GLHFiddw"
   }
 ]
