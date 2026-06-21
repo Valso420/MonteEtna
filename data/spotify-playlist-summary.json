@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1885,
-  "exportedTracks": 1885,
-  "totalDurationMs": 531846660,
-  "totalHours": 147.7,
+  "totalTracks": 1886,
+  "exportedTracks": 1886,
+  "totalDurationMs": 532032660,
+  "totalHours": 147.8,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1362,
-  "uniqueAlbums": 1651,
+  "uniqueArtists": 1363,
+  "uniqueAlbums": 1652,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Self Control",
+      "artists": [
+        "Eelke Kleijn",
+        "Lee Cabrera"
+      ],
+      "addedAt": "2026-06-21T06:08:30.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
+    },
+    {
       "name": "Hell to the Liars - Kölsch Remix",
       "artists": [
         "London Grammar",
@@ -128,14 +137,6 @@
       ],
       "addedAt": "2026-06-20T06:45:38.000Z",
       "spotifyUrl": "https://open.spotify.com/track/76UvU03NJ0sHFAVatDYJc4"
-    },
-    {
-      "name": "Timeshift",
-      "artists": [
-        "Mathame"
-      ],
-      "addedAt": "2026-06-20T06:45:27.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3thDMKUcejNcK1pRvBD3ub"
     }
   ],
   "duplicateTracks": 1,
@@ -152,9 +153,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1875,
+  "availableTracks": 1876,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-06-20T19:27:17.654Z"
+  "lastUpdated": "2026-06-21T09:51:17.344Z"
 }

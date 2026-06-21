@@ -84710,5 +84710,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3gHWnvAiAbo9muQXfWrQKE",
     "uri": "spotify:track:3gHWnvAiAbo9muQXfWrQKE"
+  },
+  {
+    "position": 1886,
+    "addedAt": "2026-06-21T06:08:30.000Z",
+    "addedBy": {
+      "id": "11177181596",
+      "uri": "spotify:user:11177181596",
+      "href": "https://api.spotify.com/v1/users/11177181596",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11177181596"
+    },
+    "id": "40Ae5zby2T2LEnWmRSEUhN",
+    "name": "Self Control",
+    "artists": [
+      {
+        "id": "1FY8kqUQKHwjibwLbp5cey",
+        "name": "Eelke Kleijn",
+        "uri": "spotify:artist:1FY8kqUQKHwjibwLbp5cey",
+        "spotifyUrl": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+      },
+      {
+        "id": "4h8hm6TjKsvgmLajBgaI9w",
+        "name": "Lee Cabrera",
+        "uri": "spotify:artist:4h8hm6TjKsvgmLajBgaI9w",
+        "spotifyUrl": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
+      }
+    ],
+    "album": {
+      "id": "3vpqwBpHTyoAxx9576yUCj",
+      "name": "Self Control",
+      "uri": "spotify:album:3vpqwBpHTyoAxx9576yUCj",
+      "releaseDate": "2023-04-21",
+      "spotifyUrl": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27363c765c99b5da113c987c1a9"
+    },
+    "durationMs": 186000,
+    "durationMin": 3.1,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN",
+    "uri": "spotify:track:40Ae5zby2T2LEnWmRSEUhN"
   }
 ]
