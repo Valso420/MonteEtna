@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1886,
-  "exportedTracks": 1886,
-  "totalDurationMs": 532032660,
-  "totalHours": 147.8,
+  "totalTracks": 1887,
+  "exportedTracks": 1887,
+  "totalDurationMs": 532481440,
+  "totalHours": 147.9,
   "averageDurationMin": 4.7,
   "uniqueArtists": 1363,
-  "uniqueAlbums": 1652,
+  "uniqueAlbums": 1653,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Madness - Extended Mix",
+      "artists": [
+        "Mayro",
+        "Miguelo"
+      ],
+      "addedAt": "2026-06-24T03:30:51.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0mZS7vgjScjJCcarWM3KrP"
+    },
+    {
       "name": "Self Control",
       "artists": [
         "Eelke Kleijn",
@@ -129,14 +138,6 @@
       ],
       "addedAt": "2026-06-20T06:45:47.000Z",
       "spotifyUrl": "https://open.spotify.com/track/7CPzO5uJQCfOk2GLHFiddw"
-    },
-    {
-      "name": "Opal Cithee",
-      "artists": [
-        "Mathame"
-      ],
-      "addedAt": "2026-06-20T06:45:38.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/76UvU03NJ0sHFAVatDYJc4"
     }
   ],
   "duplicateTracks": 1,
@@ -153,9 +154,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1876,
+  "availableTracks": 1877,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-06-23T20:06:34.618Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-06-24T03:37:13.207Z"
 }

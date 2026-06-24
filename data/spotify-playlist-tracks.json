@@ -84756,5 +84756,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN",
     "uri": "spotify:track:40Ae5zby2T2LEnWmRSEUhN"
+  },
+  {
+    "position": 1887,
+    "addedAt": "2026-06-24T03:30:51.000Z",
+    "addedBy": {
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
+    },
+    "id": "0mZS7vgjScjJCcarWM3KrP",
+    "name": "Madness - Extended Mix",
+    "artists": [
+      {
+        "id": "291rTuAllKQRkUBvkM7dFY",
+        "name": "Mayro",
+        "uri": "spotify:artist:291rTuAllKQRkUBvkM7dFY",
+        "spotifyUrl": "https://open.spotify.com/artist/291rTuAllKQRkUBvkM7dFY"
+      },
+      {
+        "id": "74t3EVjmYJgwuAf5eB8M5m",
+        "name": "Miguelo",
+        "uri": "spotify:artist:74t3EVjmYJgwuAf5eB8M5m",
+        "spotifyUrl": "https://open.spotify.com/artist/74t3EVjmYJgwuAf5eB8M5m"
+      }
+    ],
+    "album": {
+      "id": "58FNyWLmNBAduma0LiUnWw",
+      "name": "Madness",
+      "uri": "spotify:album:58FNyWLmNBAduma0LiUnWw",
+      "releaseDate": "2026-06-19",
+      "spotifyUrl": "https://open.spotify.com/album/58FNyWLmNBAduma0LiUnWw",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27386d9c77bf93b72a26d61d01a"
+    },
+    "durationMs": 448780,
+    "durationMin": 7.48,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0mZS7vgjScjJCcarWM3KrP",
+    "uri": "spotify:track:0mZS7vgjScjJCcarWM3KrP"
   }
 ]
