@@ -3291,8 +3291,8 @@
     "durationMin": 7.05,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -84802,5 +84802,85 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/0mZS7vgjScjJCcarWM3KrP",
     "uri": "spotify:track:0mZS7vgjScjJCcarWM3KrP"
+  },
+  {
+    "position": 1888,
+    "addedAt": "2026-06-24T04:53:47.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "3pTXEd6m0lCNrCTK0lHfwt",
+    "name": "Amor",
+    "artists": [
+      {
+        "id": "5vr1GvUstxr6nwxniKqLOh",
+        "name": "Colyn",
+        "uri": "spotify:artist:5vr1GvUstxr6nwxniKqLOh",
+        "spotifyUrl": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+      }
+    ],
+    "album": {
+      "id": "4qEEAMFCLBAZ0zAtAgrm3v",
+      "name": "Realm Of Consciousness Pt. IV",
+      "uri": "spotify:album:4qEEAMFCLBAZ0zAtAgrm3v",
+      "releaseDate": "2019-06-21",
+      "spotifyUrl": "https://open.spotify.com/album/4qEEAMFCLBAZ0zAtAgrm3v",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b13e1e16de57c8ce77503026"
+    },
+    "durationMs": 514763,
+    "durationMin": 8.58,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3pTXEd6m0lCNrCTK0lHfwt",
+    "uri": "spotify:track:3pTXEd6m0lCNrCTK0lHfwt"
+  },
+  {
+    "position": 1889,
+    "addedAt": "2026-06-24T04:55:07.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "07HycoAxSmjq08V5qg1C5h",
+    "name": "Solitude",
+    "artists": [
+      {
+        "id": "6htWLP8aiuf19FYMA4VQAZ",
+        "name": "Massano",
+        "uri": "spotify:artist:6htWLP8aiuf19FYMA4VQAZ",
+        "spotifyUrl": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+      }
+    ],
+    "album": {
+      "id": "3XCXszgpnwhnZa0TdyoIFX",
+      "name": "Unity Pt. 2",
+      "uri": "spotify:album:3XCXszgpnwhnZa0TdyoIFX",
+      "releaseDate": "2021-01-22",
+      "spotifyUrl": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27323fef05df7019789cfbf9e3f"
+    },
+    "durationMs": 411080,
+    "durationMin": 6.85,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/07HycoAxSmjq08V5qg1C5h",
+    "uri": "spotify:track:07HycoAxSmjq08V5qg1C5h"
   }
 ]

@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1887,
-  "exportedTracks": 1887,
-  "totalDurationMs": 532481440,
-  "totalHours": 147.9,
-  "averageDurationMin": 4.7,
+  "totalTracks": 1889,
+  "exportedTracks": 1889,
+  "totalDurationMs": 533407283,
+  "totalHours": 148.2,
+  "averageDurationMin": 4.71,
   "uniqueArtists": 1363,
-  "uniqueAlbums": 1653,
+  "uniqueAlbums": 1654,
   "topArtists": [
     {
       "name": "Mathame",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Massano",
-      "tracks": 54
+      "tracks": 55
     },
     {
       "name": "CamelPhat",
@@ -96,6 +96,22 @@
   ],
   "recentTracks": [
     {
+      "name": "Solitude",
+      "artists": [
+        "Massano"
+      ],
+      "addedAt": "2026-06-24T04:55:07.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/07HycoAxSmjq08V5qg1C5h"
+    },
+    {
+      "name": "Amor",
+      "artists": [
+        "Colyn"
+      ],
+      "addedAt": "2026-06-24T04:53:47.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3pTXEd6m0lCNrCTK0lHfwt"
+    },
+    {
       "name": "Madness - Extended Mix",
       "artists": [
         "Mayro",
@@ -121,23 +137,6 @@
       ],
       "addedAt": "2026-06-20T15:10:27.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3gHWnvAiAbo9muQXfWrQKE"
-    },
-    {
-      "name": "Lord It's a Feeling - goddard. Remix",
-      "artists": [
-        "London Grammar",
-        "goddard."
-      ],
-      "addedAt": "2026-06-20T14:35:40.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1R3a9TV8etxNSrA10DVLD5"
-    },
-    {
-      "name": "Stalker",
-      "artists": [
-        "Mathame"
-      ],
-      "addedAt": "2026-06-20T06:45:47.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7CPzO5uJQCfOk2GLHFiddw"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +153,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1877,
-  "unavailableTracks": 10,
+  "availableTracks": 1880,
+  "unavailableTracks": 9,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-06-24T03:37:13.207Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-06-24T09:30:56.710Z"
 }
