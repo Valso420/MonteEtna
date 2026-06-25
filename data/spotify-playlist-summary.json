@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1889,
-  "exportedTracks": 1889,
-  "totalDurationMs": 533407283,
-  "totalHours": 148.2,
+  "totalTracks": 1890,
+  "exportedTracks": 1890,
+  "totalDurationMs": 533820941,
+  "totalHours": 148.3,
   "averageDurationMin": 4.71,
-  "uniqueArtists": 1363,
-  "uniqueAlbums": 1654,
+  "uniqueArtists": 1364,
+  "uniqueAlbums": 1655,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Shake It - Extended Mix",
+      "artists": [
+        "Lean Robotti"
+      ],
+      "addedAt": "2026-06-25T02:40:03.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0Hl8Wb9o3rYr7tWqtO3XDB"
+    },
+    {
       "name": "Solitude",
       "artists": [
         "Massano"
@@ -128,15 +136,6 @@
       ],
       "addedAt": "2026-06-21T06:08:30.000Z",
       "spotifyUrl": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
-    },
-    {
-      "name": "Hell to the Liars - Kölsch Remix",
-      "artists": [
-        "London Grammar",
-        "Kölsch"
-      ],
-      "addedAt": "2026-06-20T15:10:27.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3gHWnvAiAbo9muQXfWrQKE"
     }
   ],
   "duplicateTracks": 1,
@@ -153,9 +152,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1880,
+  "availableTracks": 1881,
   "unavailableTracks": 9,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-06-24T14:31:15.430Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-06-25T03:36:20.738Z"
 }
