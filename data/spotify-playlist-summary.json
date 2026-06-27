@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1894,
-  "exportedTracks": 1894,
-  "totalDurationMs": 535179686,
-  "totalHours": 148.7,
+  "totalTracks": 1897,
+  "exportedTracks": 1897,
+  "totalDurationMs": 536297630,
+  "totalHours": 149,
   "averageDurationMin": 4.71,
   "uniqueArtists": 1364,
-  "uniqueAlbums": 1659,
+  "uniqueAlbums": 1662,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,31 @@
   ],
   "recentTracks": [
     {
+      "name": "Inner Sky - Stephan Jolk Remix",
+      "artists": [
+        "Jos & Eli",
+        "Stephan Jolk"
+      ],
+      "addedAt": "2026-06-27T00:01:15.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2mnHquaHXcUmSylmhdzIhR"
+    },
+    {
+      "name": "The Hymn Of Fallen Dreams",
+      "artists": [
+        "KAS:ST"
+      ],
+      "addedAt": "2026-06-26T23:34:44.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1TTjijajfwbU2LruKd3TOW"
+    },
+    {
+      "name": "Vacio",
+      "artists": [
+        "MRAK"
+      ],
+      "addedAt": "2026-06-26T23:28:41.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5duCUK4zzzdJz5aJfFCXs1"
+    },
+    {
       "name": "Honey Trap",
       "artists": [
         "Hozho"
@@ -110,33 +135,6 @@
       ],
       "addedAt": "2026-06-26T19:00:12.000Z",
       "spotifyUrl": "https://open.spotify.com/track/4zsWgeZjAyevBqc8xDqUDs"
-    },
-    {
-      "name": "In The Night",
-      "artists": [
-        "Kevin de Vries",
-        "Stylo",
-        "Eli & Dani"
-      ],
-      "addedAt": "2026-06-26T16:47:24.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4qNqRgHTf2maOS3Ttggutw"
-    },
-    {
-      "name": "Perfect World - Colyn Remix",
-      "artists": [
-        "Monolink",
-        "Colyn"
-      ],
-      "addedAt": "2026-06-26T16:43:09.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/32kfvYlSJ5P1NM0wWxiZ0v"
-    },
-    {
-      "name": "Shake It - Extended Mix",
-      "artists": [
-        "Lean Robotti"
-      ],
-      "addedAt": "2026-06-25T02:40:03.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0Hl8Wb9o3rYr7tWqtO3XDB"
     }
   ],
   "duplicateTracks": 1,
@@ -153,9 +151,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1885,
+  "availableTracks": 1888,
   "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-06-26T19:48:41.118Z"
+  "lastUpdated": "2026-06-27T03:30:00.232Z"
 }

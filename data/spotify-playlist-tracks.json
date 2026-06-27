@@ -85100,5 +85100,131 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/4Cadk17BZse20uegkkIXFR",
     "uri": "spotify:track:4Cadk17BZse20uegkkIXFR"
+  },
+  {
+    "position": 1895,
+    "addedAt": "2026-06-26T23:28:41.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5duCUK4zzzdJz5aJfFCXs1",
+    "name": "Vacio",
+    "artists": [
+      {
+        "id": "4JLXtk9bdFy9xkslFY91dY",
+        "name": "MRAK",
+        "uri": "spotify:artist:4JLXtk9bdFy9xkslFY91dY",
+        "spotifyUrl": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+      }
+    ],
+    "album": {
+      "id": "4dVD8G4qH3xDmGeBvEvpbf",
+      "name": "One EP",
+      "uri": "spotify:album:4dVD8G4qH3xDmGeBvEvpbf",
+      "releaseDate": "2021-11-12",
+      "spotifyUrl": "https://open.spotify.com/album/4dVD8G4qH3xDmGeBvEvpbf",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731518798cc2462faef9b0b513"
+    },
+    "durationMs": 307046,
+    "durationMin": 5.12,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5duCUK4zzzdJz5aJfFCXs1",
+    "uri": "spotify:track:5duCUK4zzzdJz5aJfFCXs1"
+  },
+  {
+    "position": 1896,
+    "addedAt": "2026-06-26T23:34:44.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1TTjijajfwbU2LruKd3TOW",
+    "name": "The Hymn Of Fallen Dreams",
+    "artists": [
+      {
+        "id": "7orlzf5LTqSnCzURkZFebN",
+        "name": "KAS:ST",
+        "uri": "spotify:artist:7orlzf5LTqSnCzURkZFebN",
+        "spotifyUrl": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+      }
+    ],
+    "album": {
+      "id": "3HiR2ZJHsLKq7a6F0UPHoG",
+      "name": "Hold Me To The Light",
+      "uri": "spotify:album:3HiR2ZJHsLKq7a6F0UPHoG",
+      "releaseDate": "2019-12-13",
+      "spotifyUrl": "https://open.spotify.com/album/3HiR2ZJHsLKq7a6F0UPHoG",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d2a363f8040db0a403de40c8"
+    },
+    "durationMs": 474142,
+    "durationMin": 7.9,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1TTjijajfwbU2LruKd3TOW",
+    "uri": "spotify:track:1TTjijajfwbU2LruKd3TOW"
+  },
+  {
+    "position": 1897,
+    "addedAt": "2026-06-27T00:01:15.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2mnHquaHXcUmSylmhdzIhR",
+    "name": "Inner Sky - Stephan Jolk Remix",
+    "artists": [
+      {
+        "id": "3nOp9kU7OluZlOGCdqWqS3",
+        "name": "Jos & Eli",
+        "uri": "spotify:artist:3nOp9kU7OluZlOGCdqWqS3",
+        "spotifyUrl": "https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3"
+      },
+      {
+        "id": "7w0ddx9rFndvpiqO1VOxJM",
+        "name": "Stephan Jolk",
+        "uri": "spotify:artist:7w0ddx9rFndvpiqO1VOxJM",
+        "spotifyUrl": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+      }
+    ],
+    "album": {
+      "id": "0adw9asM0RMlE4bIqc3LBB",
+      "name": "Mayhem EP",
+      "uri": "spotify:album:0adw9asM0RMlE4bIqc3LBB",
+      "releaseDate": "2021-07-02",
+      "spotifyUrl": "https://open.spotify.com/album/0adw9asM0RMlE4bIqc3LBB",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736d17f1552239eec50dbb349f"
+    },
+    "durationMs": 336756,
+    "durationMin": 5.61,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2mnHquaHXcUmSylmhdzIhR",
+    "uri": "spotify:track:2mnHquaHXcUmSylmhdzIhR"
   }
 ]
