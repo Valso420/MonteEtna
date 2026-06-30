@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1897,
-  "exportedTracks": 1897,
-  "totalDurationMs": 536297630,
-  "totalHours": 149,
+  "totalTracks": 1898,
+  "exportedTracks": 1898,
+  "totalDurationMs": 536675704,
+  "totalHours": 149.1,
   "averageDurationMin": 4.71,
   "uniqueArtists": 1364,
-  "uniqueAlbums": 1662,
+  "uniqueAlbums": 1663,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Sin Control - Extended Mix",
+      "artists": [
+        "Ezequiel Arias"
+      ],
+      "addedAt": "2026-06-30T15:29:22.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0qbNEggDdJg8V66O9BCorL"
+    },
+    {
       "name": "Inner Sky - Stephan Jolk Remix",
       "artists": [
         "Jos & Eli",
@@ -127,14 +135,6 @@
       ],
       "addedAt": "2026-06-26T19:24:44.000Z",
       "spotifyUrl": "https://open.spotify.com/track/4Cadk17BZse20uegkkIXFR"
-    },
-    {
-      "name": "Feel Myself",
-      "artists": [
-        "Lyke"
-      ],
-      "addedAt": "2026-06-26T19:00:12.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4zsWgeZjAyevBqc8xDqUDs"
     }
   ],
   "duplicateTracks": 1,
@@ -151,9 +151,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1888,
+  "availableTracks": 1889,
   "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-06-30T09:36:42.521Z"
+  "lastUpdated": "2026-06-30T19:59:13.011Z"
 }

@@ -85226,5 +85226,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2mnHquaHXcUmSylmhdzIhR",
     "uri": "spotify:track:2mnHquaHXcUmSylmhdzIhR"
+  },
+  {
+    "position": 1898,
+    "addedAt": "2026-06-30T15:29:22.000Z",
+    "addedBy": {
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
+    },
+    "id": "0qbNEggDdJg8V66O9BCorL",
+    "name": "Sin Control - Extended Mix",
+    "artists": [
+      {
+        "id": "6GyqhF3pwKcbo3U3Ncm8TJ",
+        "name": "Ezequiel Arias",
+        "uri": "spotify:artist:6GyqhF3pwKcbo3U3Ncm8TJ",
+        "spotifyUrl": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+      }
+    ],
+    "album": {
+      "id": "2yKkU9PlPNAdQQL1sk0llO",
+      "name": "Sin Control",
+      "uri": "spotify:album:2yKkU9PlPNAdQQL1sk0llO",
+      "releaseDate": "2026-06-30",
+      "spotifyUrl": "https://open.spotify.com/album/2yKkU9PlPNAdQQL1sk0llO",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ac9c499259af6bd33cf9af26"
+    },
+    "durationMs": 378074,
+    "durationMin": 6.3,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0qbNEggDdJg8V66O9BCorL",
+    "uri": "spotify:track:0qbNEggDdJg8V66O9BCorL"
   }
 ]
