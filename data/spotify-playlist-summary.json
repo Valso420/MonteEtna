@@ -5,17 +5,17 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1901,
-  "exportedTracks": 1901,
-  "totalDurationMs": 537202664,
-  "totalHours": 149.2,
+  "totalTracks": 1906,
+  "exportedTracks": 1906,
+  "totalDurationMs": 538250872,
+  "totalHours": 149.5,
   "averageDurationMin": 4.71,
-  "uniqueArtists": 1367,
-  "uniqueAlbums": 1666,
+  "uniqueArtists": 1371,
+  "uniqueAlbums": 1671,
   "topArtists": [
     {
       "name": "Mathame",
-      "tracks": 63
+      "tracks": 64
     },
     {
       "name": "Anyma",
@@ -38,11 +38,11 @@
       "tracks": 46
     },
     {
-      "name": "Adriatique",
-      "tracks": 37
+      "name": "Argy",
+      "tracks": 38
     },
     {
-      "name": "Argy",
+      "name": "Adriatique",
       "tracks": 37
     },
     {
@@ -96,49 +96,50 @@
   ],
   "recentTracks": [
     {
-      "name": "Movin' To The Sun",
+      "name": "Perception (KREAM Edit)",
       "artists": [
-        "HUGEL",
-        "Imael Angel",
-        "Ultra Naté"
+        "SOLANCE",
+        "KREAM"
       ],
-      "addedAt": "2026-07-02T23:20:05.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
+      "addedAt": "2026-07-03T12:30:49.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6A6GbwidozXNvnxrkCRb8i"
     },
     {
-      "name": "Blurred Signal",
+      "name": "Beg You (Mixed) - DC Club Mix",
       "artists": [
-        "Amour Propre"
+        "Eelke Kleijn",
+        "Leo Wood"
       ],
-      "addedAt": "2026-07-02T21:44:35.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe"
+      "addedAt": "2026-07-03T12:18:38.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/70MDN9m18uDkWxJuE64i88"
     },
     {
-      "name": "So Good (feat. Kuuda)",
+      "name": "If Its Real",
       "artists": [
-        "CamelPhat",
-        "Josh Gigante",
-        "Kuuda"
+        "Joshwa"
       ],
-      "addedAt": "2026-07-02T21:06:53.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/29EfuNqfljIaXCH630KNHf"
+      "addedAt": "2026-07-03T12:13:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo"
     },
     {
-      "name": "Sin Control - Extended Mix",
+      "name": "ResuRection",
       "artists": [
-        "Ezequiel Arias"
+        "Argy",
+        "Paul Oakenfold",
+        "Planet Perfecto Knights"
       ],
-      "addedAt": "2026-06-30T15:29:22.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0qbNEggDdJg8V66O9BCorL"
+      "addedAt": "2026-07-03T12:09:05.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn"
     },
     {
-      "name": "Inner Sky - Stephan Jolk Remix",
+      "name": "Fast Friends - Mathame Remix",
       "artists": [
-        "Jos & Eli",
-        "Stephan Jolk"
+        "Zerb",
+        "Mathame",
+        "24kGoldn"
       ],
-      "addedAt": "2026-06-27T00:01:15.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2mnHquaHXcUmSylmhdzIhR"
+      "addedAt": "2026-07-03T12:05:42.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2XSuCaF7OlY5yUF5ELnh0F"
     }
   ],
   "duplicateTracks": 1,
@@ -155,9 +156,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1891,
+  "availableTracks": 1896,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-03T03:18:01.175Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-07-03T14:05:04.463Z"
 }

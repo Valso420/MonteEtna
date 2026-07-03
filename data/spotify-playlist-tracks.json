@@ -62728,7 +62728,7 @@
       },
       {
         "id": "1OAjDaKgg00KCUYqDe68un",
-        "name": "Gigi D'Agostino",
+        "name": "GIGI D'AGOSTINO",
         "uri": "spotify:artist:1OAjDaKgg00KCUYqDe68un",
         "spotifyUrl": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
       }
@@ -78937,6 +78937,12 @@
         "name": "Cloonee",
         "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
         "spotifyUrl": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      },
+      {
+        "id": "1EbIfIjVcauDatNO4vagL1",
+        "name": "Sybil",
+        "uri": "spotify:artist:1EbIfIjVcauDatNO4vagL1",
+        "spotifyUrl": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
       }
     ],
     "album": {
@@ -85410,5 +85416,241 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe",
     "uri": "spotify:track:3KhfmxD6U9ll0mFgArrQTe"
+  },
+  {
+    "position": 1902,
+    "addedAt": "2026-07-03T12:05:42.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2XSuCaF7OlY5yUF5ELnh0F",
+    "name": "Fast Friends - Mathame Remix",
+    "artists": [
+      {
+        "id": "6mDl7lQiLxT0iQ8LYhAlWy",
+        "name": "Zerb",
+        "uri": "spotify:artist:6mDl7lQiLxT0iQ8LYhAlWy",
+        "spotifyUrl": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+      },
+      {
+        "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+        "name": "Mathame",
+        "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+        "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+      },
+      {
+        "id": "6fWVd57NKTalqvmjRd2t8Z",
+        "name": "24kGoldn",
+        "uri": "spotify:artist:6fWVd57NKTalqvmjRd2t8Z",
+        "spotifyUrl": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+      }
+    ],
+    "album": {
+      "id": "35XgdKJGyif1TIsOPvnSVl",
+      "name": "Fast Friends (Mathame Remix)",
+      "uri": "spotify:album:35XgdKJGyif1TIsOPvnSVl",
+      "releaseDate": "2026-07-03",
+      "spotifyUrl": "https://open.spotify.com/album/35XgdKJGyif1TIsOPvnSVl",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27370ebca22b41c2984b84cef11"
+    },
+    "durationMs": 245624,
+    "durationMin": 4.09,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2XSuCaF7OlY5yUF5ELnh0F",
+    "uri": "spotify:track:2XSuCaF7OlY5yUF5ELnh0F"
+  },
+  {
+    "position": 1903,
+    "addedAt": "2026-07-03T12:09:05.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3avXtcd0oJNUVB7prZEDYn",
+    "name": "ResuRection",
+    "artists": [
+      {
+        "id": "1NaQOKgddaJipUtmptb7GI",
+        "name": "Argy",
+        "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI",
+        "spotifyUrl": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+      },
+      {
+        "id": "5MO2kbaGGA2a8kL4c9qqHq",
+        "name": "Paul Oakenfold",
+        "uri": "spotify:artist:5MO2kbaGGA2a8kL4c9qqHq",
+        "spotifyUrl": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+      },
+      {
+        "id": "24To1vtxXzfI8ok2WUeRMs",
+        "name": "Planet Perfecto Knights",
+        "uri": "spotify:artist:24To1vtxXzfI8ok2WUeRMs",
+        "spotifyUrl": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
+      }
+    ],
+    "album": {
+      "id": "1huuNXEaRU60RRZ2T4x5LI",
+      "name": "ResuRection",
+      "uri": "spotify:album:1huuNXEaRU60RRZ2T4x5LI",
+      "releaseDate": "2026-07-03",
+      "spotifyUrl": "https://open.spotify.com/album/1huuNXEaRU60RRZ2T4x5LI",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733e615c4a79cfc7bd8212be9c"
+    },
+    "durationMs": 179154,
+    "durationMin": 2.99,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn",
+    "uri": "spotify:track:3avXtcd0oJNUVB7prZEDYn"
+  },
+  {
+    "position": 1904,
+    "addedAt": "2026-07-03T12:13:43.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0vgA7Avux3faFKOmUHTHvo",
+    "name": "If Its Real",
+    "artists": [
+      {
+        "id": "1PzAgFVk9v8cxn9flrqrv5",
+        "name": "Joshwa",
+        "uri": "spotify:artist:1PzAgFVk9v8cxn9flrqrv5",
+        "spotifyUrl": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+      }
+    ],
+    "album": {
+      "id": "5DPzHVof5XijoRlsmK4BGJ",
+      "name": "If Its Real",
+      "uri": "spotify:album:5DPzHVof5XijoRlsmK4BGJ",
+      "releaseDate": "2026-07-03",
+      "spotifyUrl": "https://open.spotify.com/album/5DPzHVof5XijoRlsmK4BGJ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27341638abc1899b35e42e00040"
+    },
+    "durationMs": 198000,
+    "durationMin": 3.3,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo",
+    "uri": "spotify:track:0vgA7Avux3faFKOmUHTHvo"
+  },
+  {
+    "position": 1905,
+    "addedAt": "2026-07-03T12:18:38.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "70MDN9m18uDkWxJuE64i88",
+    "name": "Beg You (Mixed) - DC Club Mix",
+    "artists": [
+      {
+        "id": "1FY8kqUQKHwjibwLbp5cey",
+        "name": "Eelke Kleijn",
+        "uri": "spotify:artist:1FY8kqUQKHwjibwLbp5cey",
+        "spotifyUrl": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+      },
+      {
+        "id": "58vAPzbpMZAVTHWA1KT68B",
+        "name": "Leo Wood",
+        "uri": "spotify:artist:58vAPzbpMZAVTHWA1KT68B",
+        "spotifyUrl": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+      }
+    ],
+    "album": {
+      "id": "0zYtuz80P3kODSguMhWEJ5",
+      "name": "DAYS like NIGHTS 2024",
+      "uri": "spotify:album:0zYtuz80P3kODSguMhWEJ5",
+      "releaseDate": "2024-12-20",
+      "spotifyUrl": "https://open.spotify.com/album/0zYtuz80P3kODSguMhWEJ5",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d884169f8725b917c74a10be"
+    },
+    "durationMs": 236200,
+    "durationMin": 3.94,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/70MDN9m18uDkWxJuE64i88",
+    "uri": "spotify:track:70MDN9m18uDkWxJuE64i88"
+  },
+  {
+    "position": 1906,
+    "addedAt": "2026-07-03T12:30:49.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6A6GbwidozXNvnxrkCRb8i",
+    "name": "Perception (KREAM Edit)",
+    "artists": [
+      {
+        "id": "2gmkTgD5PwEI6E4Vh0f4ha",
+        "name": "SOLANCE",
+        "uri": "spotify:artist:2gmkTgD5PwEI6E4Vh0f4ha",
+        "spotifyUrl": "https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha"
+      },
+      {
+        "id": "0DdDnziut7wOo6cAYWVZC5",
+        "name": "KREAM",
+        "uri": "spotify:artist:0DdDnziut7wOo6cAYWVZC5",
+        "spotifyUrl": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+      }
+    ],
+    "album": {
+      "id": "1tBVUdSnqeyzqaoqvy5G86",
+      "name": "Perception EP",
+      "uri": "spotify:album:1tBVUdSnqeyzqaoqvy5G86",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "https://open.spotify.com/album/1tBVUdSnqeyzqaoqvy5G86",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734848ece147c5629b913197d4"
+    },
+    "durationMs": 189230,
+    "durationMin": 3.15,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6A6GbwidozXNvnxrkCRb8i",
+    "uri": "spotify:track:6A6GbwidozXNvnxrkCRb8i"
   }
 ]
