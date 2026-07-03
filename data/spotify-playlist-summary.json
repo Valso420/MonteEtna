@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1906,
-  "exportedTracks": 1906,
-  "totalDurationMs": 538250872,
-  "totalHours": 149.5,
+  "totalTracks": 1907,
+  "exportedTracks": 1907,
+  "totalDurationMs": 538481272,
+  "totalHours": 149.6,
   "averageDurationMin": 4.71,
-  "uniqueArtists": 1371,
-  "uniqueAlbums": 1671,
+  "uniqueArtists": 1372,
+  "uniqueAlbums": 1672,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Certified Lover",
+      "artists": [
+        "INVERTED"
+      ],
+      "addedAt": "2026-07-03T16:48:27.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3BM7qZyTrtYugmnpvkyO0t"
+    },
+    {
       "name": "Perception (KREAM Edit)",
       "artists": [
         "SOLANCE",
@@ -130,16 +138,6 @@
       ],
       "addedAt": "2026-07-03T12:09:05.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn"
-    },
-    {
-      "name": "Fast Friends - Mathame Remix",
-      "artists": [
-        "Zerb",
-        "Mathame",
-        "24kGoldn"
-      ],
-      "addedAt": "2026-07-03T12:05:42.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2XSuCaF7OlY5yUF5ELnh0F"
     }
   ],
   "duplicateTracks": 1,
@@ -156,9 +154,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1896,
+  "availableTracks": 1897,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-03T14:05:04.463Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-07-03T19:23:16.956Z"
 }

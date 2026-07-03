@@ -85652,5 +85652,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/6A6GbwidozXNvnxrkCRb8i",
     "uri": "spotify:track:6A6GbwidozXNvnxrkCRb8i"
+  },
+  {
+    "position": 1907,
+    "addedAt": "2026-07-03T16:48:27.000Z",
+    "addedBy": {
+      "id": "valumasso",
+      "uri": "spotify:user:valumasso",
+      "href": "https://api.spotify.com/v1/users/valumasso",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valumasso"
+    },
+    "id": "3BM7qZyTrtYugmnpvkyO0t",
+    "name": "Certified Lover",
+    "artists": [
+      {
+        "id": "2gQ9voSsKpc7aAZ3iurqxY",
+        "name": "INVERTED",
+        "uri": "spotify:artist:2gQ9voSsKpc7aAZ3iurqxY",
+        "spotifyUrl": "https://open.spotify.com/artist/2gQ9voSsKpc7aAZ3iurqxY"
+      }
+    ],
+    "album": {
+      "id": "166ChCZCFpfEqocA05gruJ",
+      "name": "Certified Lover",
+      "uri": "spotify:album:166ChCZCFpfEqocA05gruJ",
+      "releaseDate": "2026-05-08",
+      "spotifyUrl": "https://open.spotify.com/album/166ChCZCFpfEqocA05gruJ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738fe8c4ebb537303777a9ac6a"
+    },
+    "durationMs": 230400,
+    "durationMin": 3.84,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3BM7qZyTrtYugmnpvkyO0t",
+    "uri": "spotify:track:3BM7qZyTrtYugmnpvkyO0t"
   }
 ]
