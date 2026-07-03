@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1898,
-  "exportedTracks": 1898,
-  "totalDurationMs": 536675704,
-  "totalHours": 149.1,
+  "totalTracks": 1901,
+  "exportedTracks": 1901,
+  "totalDurationMs": 537202664,
+  "totalHours": 149.2,
   "averageDurationMin": 4.71,
-  "uniqueArtists": 1364,
-  "uniqueAlbums": 1663,
+  "uniqueArtists": 1367,
+  "uniqueAlbums": 1666,
   "topArtists": [
     {
       "name": "Mathame",
@@ -27,7 +27,7 @@
     },
     {
       "name": "CamelPhat",
-      "tracks": 48
+      "tracks": 49
     },
     {
       "name": "Solomun",
@@ -96,6 +96,34 @@
   ],
   "recentTracks": [
     {
+      "name": "Movin' To The Sun",
+      "artists": [
+        "HUGEL",
+        "Imael Angel",
+        "Ultra Naté"
+      ],
+      "addedAt": "2026-07-02T23:20:05.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
+    },
+    {
+      "name": "Blurred Signal",
+      "artists": [
+        "Amour Propre"
+      ],
+      "addedAt": "2026-07-02T21:44:35.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe"
+    },
+    {
+      "name": "So Good (feat. Kuuda)",
+      "artists": [
+        "CamelPhat",
+        "Josh Gigante",
+        "Kuuda"
+      ],
+      "addedAt": "2026-07-02T21:06:53.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/29EfuNqfljIaXCH630KNHf"
+    },
+    {
       "name": "Sin Control - Extended Mix",
       "artists": [
         "Ezequiel Arias"
@@ -111,30 +139,6 @@
       ],
       "addedAt": "2026-06-27T00:01:15.000Z",
       "spotifyUrl": "https://open.spotify.com/track/2mnHquaHXcUmSylmhdzIhR"
-    },
-    {
-      "name": "The Hymn Of Fallen Dreams",
-      "artists": [
-        "KAS:ST"
-      ],
-      "addedAt": "2026-06-26T23:34:44.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1TTjijajfwbU2LruKd3TOW"
-    },
-    {
-      "name": "Vacio",
-      "artists": [
-        "MRAK"
-      ],
-      "addedAt": "2026-06-26T23:28:41.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5duCUK4zzzdJz5aJfFCXs1"
-    },
-    {
-      "name": "Honey Trap",
-      "artists": [
-        "Hozho"
-      ],
-      "addedAt": "2026-06-26T19:24:44.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4Cadk17BZse20uegkkIXFR"
     }
   ],
   "duplicateTracks": 1,
@@ -151,9 +155,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1888,
+  "availableTracks": 1891,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-02T19:25:03.650Z"
+  "lastUpdated": "2026-07-03T03:18:01.175Z"
 }

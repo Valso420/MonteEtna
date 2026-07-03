@@ -85266,5 +85266,149 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/0qbNEggDdJg8V66O9BCorL",
     "uri": "spotify:track:0qbNEggDdJg8V66O9BCorL"
+  },
+  {
+    "position": 1899,
+    "addedAt": "2026-07-02T23:20:05.000Z",
+    "addedBy": {
+      "id": "31wtbg2kqdzvf3cofepro5ru6qsi",
+      "uri": "spotify:user:31wtbg2kqdzvf3cofepro5ru6qsi",
+      "href": "https://api.spotify.com/v1/users/31wtbg2kqdzvf3cofepro5ru6qsi",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/31wtbg2kqdzvf3cofepro5ru6qsi"
+    },
+    "id": "25DgjoTlKK8KjstM4cZ8L2",
+    "name": "Movin' To The Sun",
+    "artists": [
+      {
+        "id": "5PlfkPxwCpRRWQJBxCa0By",
+        "name": "HUGEL",
+        "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By",
+        "spotifyUrl": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+      },
+      {
+        "id": "17yREPqyU875WJnX9U082A",
+        "name": "Imael Angel",
+        "uri": "spotify:artist:17yREPqyU875WJnX9U082A",
+        "spotifyUrl": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+      },
+      {
+        "id": "1cK2Abwkni7m51wJCSGllN",
+        "name": "Ultra Naté",
+        "uri": "spotify:artist:1cK2Abwkni7m51wJCSGllN",
+        "spotifyUrl": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+      }
+    ],
+    "album": {
+      "id": "7sCzauzbInQn7NEsvTAtqq",
+      "name": "Movin' To The Sun",
+      "uri": "spotify:album:7sCzauzbInQn7NEsvTAtqq",
+      "releaseDate": "2026-05-22",
+      "spotifyUrl": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27384b3a5e824d76fc3b4dbe492"
+    },
+    "durationMs": 142200,
+    "durationMin": 2.37,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2",
+    "uri": "spotify:track:25DgjoTlKK8KjstM4cZ8L2"
+  },
+  {
+    "position": 1900,
+    "addedAt": "2026-07-02T21:06:53.000Z",
+    "addedBy": {
+      "id": "valumasso",
+      "uri": "spotify:user:valumasso",
+      "href": "https://api.spotify.com/v1/users/valumasso",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valumasso"
+    },
+    "id": "29EfuNqfljIaXCH630KNHf",
+    "name": "So Good (feat. Kuuda)",
+    "artists": [
+      {
+        "id": "240wlM8vDrf6S4zCyzGj2W",
+        "name": "CamelPhat",
+        "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W",
+        "spotifyUrl": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+      },
+      {
+        "id": "7dcUWT1KmxjXieEnzFSjeH",
+        "name": "Josh Gigante",
+        "uri": "spotify:artist:7dcUWT1KmxjXieEnzFSjeH",
+        "spotifyUrl": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+      },
+      {
+        "id": "2aPOSo3CvB3a15zDorFBCh",
+        "name": "Kuuda",
+        "uri": "spotify:artist:2aPOSo3CvB3a15zDorFBCh",
+        "spotifyUrl": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+      }
+    ],
+    "album": {
+      "id": "7vtcrPbVw58uFQg88SMl38",
+      "name": "So Good (feat. Kuuda)",
+      "uri": "spotify:album:7vtcrPbVw58uFQg88SMl38",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "https://open.spotify.com/album/7vtcrPbVw58uFQg88SMl38",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732fe0bae0bb26bcd1009ab15d"
+    },
+    "durationMs": 183809,
+    "durationMin": 3.06,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/29EfuNqfljIaXCH630KNHf",
+    "uri": "spotify:track:29EfuNqfljIaXCH630KNHf"
+  },
+  {
+    "position": 1901,
+    "addedAt": "2026-07-02T21:44:35.000Z",
+    "addedBy": {
+      "id": "valumasso",
+      "uri": "spotify:user:valumasso",
+      "href": "https://api.spotify.com/v1/users/valumasso",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valumasso"
+    },
+    "id": "3KhfmxD6U9ll0mFgArrQTe",
+    "name": "Blurred Signal",
+    "artists": [
+      {
+        "id": "1QjNphqwn88rGaLekI0fQQ",
+        "name": "Amour Propre",
+        "uri": "spotify:artist:1QjNphqwn88rGaLekI0fQQ",
+        "spotifyUrl": "https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ"
+      }
+    ],
+    "album": {
+      "id": "6gSmK3aSu26VRpaaOlFqjt",
+      "name": "Rock Like This EP",
+      "uri": "spotify:album:6gSmK3aSu26VRpaaOlFqjt",
+      "releaseDate": "2026-04-17",
+      "spotifyUrl": "https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333d8ffa5a5fb320596519f80"
+    },
+    "durationMs": 200951,
+    "durationMin": 3.35,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe",
+    "uri": "spotify:track:3KhfmxD6U9ll0mFgArrQTe"
   }
 ]
