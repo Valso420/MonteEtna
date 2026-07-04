@@ -5,10 +5,10 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1910,
-  "exportedTracks": 1910,
-  "totalDurationMs": 539526053,
-  "totalHours": 149.9,
+  "totalTracks": 1911,
+  "exportedTracks": 1911,
+  "totalDurationMs": 540114053,
+  "totalHours": 150,
   "averageDurationMin": 4.71,
   "uniqueArtists": 1372,
   "uniqueAlbums": 1673,
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Science (feat. Stevie Appleton)",
+      "artists": [
+        "deadmau5",
+        "Stevie Appleton"
+      ],
+      "addedAt": "2026-07-04T05:23:41.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1JN37cHLmc852rbTdpVq8f"
+    },
+    {
       "name": "Rhythm Drift",
       "artists": [
         "Descoqueo"
@@ -126,15 +135,6 @@
       ],
       "addedAt": "2026-07-03T16:48:27.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3BM7qZyTrtYugmnpvkyO0t"
-    },
-    {
-      "name": "Perception (KREAM Edit)",
-      "artists": [
-        "SOLANCE",
-        "KREAM"
-      ],
-      "addedAt": "2026-07-03T12:30:49.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6A6GbwidozXNvnxrkCRb8i"
     }
   ],
   "duplicateTracks": 1,
@@ -151,9 +151,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1900,
+  "availableTracks": 1901,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-04T02:56:41.182Z"
+  "lastUpdated": "2026-07-04T08:37:35.798Z"
 }

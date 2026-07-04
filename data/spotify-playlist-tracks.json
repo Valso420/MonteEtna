@@ -85812,5 +85812,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/4dSN3XdbKbScjh1um3lqZh",
     "uri": "spotify:track:4dSN3XdbKbScjh1um3lqZh"
+  },
+  {
+    "position": 1911,
+    "addedAt": "2026-07-04T05:23:41.000Z",
+    "addedBy": {
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
+    },
+    "id": "1JN37cHLmc852rbTdpVq8f",
+    "name": "Science (feat. Stevie Appleton)",
+    "artists": [
+      {
+        "id": "2CIMQHirSU0MQqyYHq0eOx",
+        "name": "deadmau5",
+        "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx",
+        "spotifyUrl": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      {
+        "id": "5qMHOzLlXeOEjOncWYtRfZ",
+        "name": "Stevie Appleton",
+        "uri": "spotify:artist:5qMHOzLlXeOEjOncWYtRfZ",
+        "spotifyUrl": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+      }
+    ],
+    "album": {
+      "id": "0JExrixTBrKhdEzTrvRIUO",
+      "name": "Science (feat. Stevie Appleton)",
+      "uri": "spotify:album:0JExrixTBrKhdEzTrvRIUO",
+      "releaseDate": "2026-02-20",
+      "spotifyUrl": "https://open.spotify.com/album/0JExrixTBrKhdEzTrvRIUO",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273908cc2dd8a5d76b5b2ef8c30"
+    },
+    "durationMs": 588000,
+    "durationMin": 9.8,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1JN37cHLmc852rbTdpVq8f",
+    "uri": "spotify:track:1JN37cHLmc852rbTdpVq8f"
   }
 ]
