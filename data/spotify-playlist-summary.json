@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1907,
-  "exportedTracks": 1907,
-  "totalDurationMs": 538481272,
-  "totalHours": 149.6,
+  "totalTracks": 1910,
+  "exportedTracks": 1910,
+  "totalDurationMs": 539526053,
+  "totalHours": 149.9,
   "averageDurationMin": 4.71,
   "uniqueArtists": 1372,
-  "uniqueAlbums": 1672,
+  "uniqueAlbums": 1673,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,30 @@
   ],
   "recentTracks": [
     {
+      "name": "Rhythm Drift",
+      "artists": [
+        "Descoqueo"
+      ],
+      "addedAt": "2026-07-03T21:08:31.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4dSN3XdbKbScjh1um3lqZh"
+    },
+    {
+      "name": "Mystique",
+      "artists": [
+        "Descoqueo"
+      ],
+      "addedAt": "2026-07-03T21:08:23.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5IScjeqtBGqizbzAoo9T9k"
+    },
+    {
+      "name": "On Me",
+      "artists": [
+        "Descoqueo"
+      ],
+      "addedAt": "2026-07-03T21:07:10.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0GRZe7Bm4PVfMMexrrwk8c"
+    },
+    {
       "name": "Certified Lover",
       "artists": [
         "INVERTED"
@@ -111,33 +135,6 @@
       ],
       "addedAt": "2026-07-03T12:30:49.000Z",
       "spotifyUrl": "https://open.spotify.com/track/6A6GbwidozXNvnxrkCRb8i"
-    },
-    {
-      "name": "Beg You (Mixed) - DC Club Mix",
-      "artists": [
-        "Eelke Kleijn",
-        "Leo Wood"
-      ],
-      "addedAt": "2026-07-03T12:18:38.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/70MDN9m18uDkWxJuE64i88"
-    },
-    {
-      "name": "If Its Real",
-      "artists": [
-        "Joshwa"
-      ],
-      "addedAt": "2026-07-03T12:13:43.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo"
-    },
-    {
-      "name": "ResuRection",
-      "artists": [
-        "Argy",
-        "Paul Oakenfold",
-        "Planet Perfecto Knights"
-      ],
-      "addedAt": "2026-07-03T12:09:05.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +151,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1897,
+  "availableTracks": 1900,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-03T19:23:16.956Z"
+  "lastUpdated": "2026-07-04T02:56:41.182Z"
 }
