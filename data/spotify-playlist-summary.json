@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1911,
-  "exportedTracks": 1911,
-  "totalDurationMs": 540114053,
-  "totalHours": 150,
+  "totalTracks": 1912,
+  "exportedTracks": 1912,
+  "totalDurationMs": 540318773,
+  "totalHours": 150.1,
   "averageDurationMin": 4.71,
   "uniqueArtists": 1372,
-  "uniqueAlbums": 1673,
+  "uniqueAlbums": 1674,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Smalltown Boy",
+      "artists": [
+        "Kotiēr"
+      ],
+      "addedAt": "2026-07-06T00:45:05.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
+    },
+    {
       "name": "Science (feat. Stevie Appleton)",
       "artists": [
         "deadmau5",
@@ -127,14 +135,6 @@
       ],
       "addedAt": "2026-07-03T21:07:10.000Z",
       "spotifyUrl": "https://open.spotify.com/track/0GRZe7Bm4PVfMMexrrwk8c"
-    },
-    {
-      "name": "Certified Lover",
-      "artists": [
-        "INVERTED"
-      ],
-      "addedAt": "2026-07-03T16:48:27.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3BM7qZyTrtYugmnpvkyO0t"
     }
   ],
   "duplicateTracks": 1,
@@ -151,9 +151,9 @@
     }
   ],
   "explicitTracks": 38,
-  "availableTracks": 1901,
+  "availableTracks": 1902,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-05T19:18:26.020Z"
+  "lastUpdated": "2026-07-06T03:34:31.640Z"
 }
