@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1912,
-  "exportedTracks": 1912,
-  "totalDurationMs": 540318773,
-  "totalHours": 150.1,
+  "totalTracks": 1918,
+  "exportedTracks": 1918,
+  "totalDurationMs": 541457478,
+  "totalHours": 150.4,
   "averageDurationMin": 4.71,
-  "uniqueArtists": 1372,
-  "uniqueAlbums": 1674,
+  "uniqueArtists": 1377,
+  "uniqueAlbums": 1680,
   "topArtists": [
     {
       "name": "Mathame",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Solomun",
-      "tracks": 47
+      "tracks": 48
     },
     {
       "name": "ARTBAT",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Adam Beyer",
-      "tracks": 28
+      "tracks": 29
     },
     {
       "name": "Layton Giordani",
@@ -86,55 +86,59 @@
       "tracks": 26
     },
     {
-      "name": "Colyn",
+      "name": "Armin van Buuren",
       "tracks": 22
     },
     {
-      "name": "John Summit",
+      "name": "Colyn",
       "tracks": 22
     }
   ],
   "recentTracks": [
     {
-      "name": "Smalltown Boy",
+      "name": "Flashlights - Radio Mix",
       "artists": [
-        "Kotiēr"
+        "Alex Cecil",
+        "John Creamer",
+        "Mike Kings"
       ],
-      "addedAt": "2026-07-06T00:45:05.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
+      "addedAt": "2026-07-07T13:59:14.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1t16VYu9RzXva4JalGhJqd"
     },
     {
-      "name": "Science (feat. Stevie Appleton)",
+      "name": "Bounce UR Body",
       "artists": [
-        "deadmau5",
-        "Stevie Appleton"
+        "Green Velvet",
+        "Detlef"
       ],
-      "addedAt": "2026-07-04T05:23:41.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1JN37cHLmc852rbTdpVq8f"
+      "addedAt": "2026-07-07T12:48:47.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5o9ddwUhXw50hymQN26U90"
     },
     {
-      "name": "Rhythm Drift",
+      "name": "Your Mind On Acid",
       "artists": [
-        "Descoqueo"
+        "Bart Skils",
+        "Deniz Koyu"
       ],
-      "addedAt": "2026-07-03T21:08:31.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4dSN3XdbKbScjh1um3lqZh"
+      "addedAt": "2026-07-07T12:43:28.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6m9y6bdEEdNqJw3wz5CUUB"
     },
     {
-      "name": "Mystique",
+      "name": "No Mercy",
       "artists": [
-        "Descoqueo"
+        "Armin van Buuren",
+        "Adam Beyer"
       ],
-      "addedAt": "2026-07-03T21:08:23.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5IScjeqtBGqizbzAoo9T9k"
+      "addedAt": "2026-07-07T12:30:46.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
     },
     {
-      "name": "On Me",
+      "name": "Addicted To Lies",
       "artists": [
-        "Descoqueo"
+        "Skuro (IT)"
       ],
-      "addedAt": "2026-07-03T21:07:10.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0GRZe7Bm4PVfMMexrrwk8c"
+      "addedAt": "2026-07-07T12:23:34.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1IdhGrwGyVecu7b1ZUvueH"
     }
   ],
   "duplicateTracks": 1,
@@ -150,10 +154,10 @@
       "count": 2
     }
   ],
-  "explicitTracks": 38,
-  "availableTracks": 1902,
+  "explicitTracks": 39,
+  "availableTracks": 1908,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-07T09:41:43.323Z"
+  "lastUpdated": "2026-07-07T14:34:34.001Z"
 }

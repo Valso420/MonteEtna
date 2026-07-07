@@ -85898,5 +85898,281 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV",
     "uri": "spotify:track:5za6XRkJQSrVipzabuf6cV"
+  },
+  {
+    "position": 1913,
+    "addedAt": "2026-07-07T12:17:22.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2Rvi0CiuXzYyYRd3i9wxqM",
+    "name": "Rumpta",
+    "artists": [
+      {
+        "id": "5wJK4kQAkVGjqM9x46KQOC",
+        "name": "Solomun",
+        "uri": "spotify:artist:5wJK4kQAkVGjqM9x46KQOC",
+        "spotifyUrl": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+      },
+      {
+        "id": "5he5w2lnU9x7JFhnwcekXX",
+        "name": "Skrillex",
+        "uri": "spotify:artist:5he5w2lnU9x7JFhnwcekXX",
+        "spotifyUrl": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+      }
+    ],
+    "album": {
+      "id": "3XnRoZiGQ4NdmHkS0Ix9Dv",
+      "name": "Rumpta",
+      "uri": "spotify:album:3XnRoZiGQ4NdmHkS0Ix9Dv",
+      "releaseDate": "2026-07-01",
+      "spotifyUrl": "https://open.spotify.com/album/3XnRoZiGQ4NdmHkS0Ix9Dv",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cb3a49268202d54e81137880"
+    },
+    "durationMs": 210625,
+    "durationMin": 3.51,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2Rvi0CiuXzYyYRd3i9wxqM",
+    "uri": "spotify:track:2Rvi0CiuXzYyYRd3i9wxqM"
+  },
+  {
+    "position": 1914,
+    "addedAt": "2026-07-07T12:23:34.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1IdhGrwGyVecu7b1ZUvueH",
+    "name": "Addicted To Lies",
+    "artists": [
+      {
+        "id": "1IhNa18PPS7VIpz8LNaIHJ",
+        "name": "Skuro (IT)",
+        "uri": "spotify:artist:1IhNa18PPS7VIpz8LNaIHJ",
+        "spotifyUrl": "https://open.spotify.com/artist/1IhNa18PPS7VIpz8LNaIHJ"
+      }
+    ],
+    "album": {
+      "id": "5WGRS1iN3eVJjuKVilBdZV",
+      "name": "Addicted To Lies",
+      "uri": "spotify:album:5WGRS1iN3eVJjuKVilBdZV",
+      "releaseDate": "2026-07-03",
+      "spotifyUrl": "https://open.spotify.com/album/5WGRS1iN3eVJjuKVilBdZV",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27325aabad57b14839af1e7fde4"
+    },
+    "durationMs": 209062,
+    "durationMin": 3.48,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1IdhGrwGyVecu7b1ZUvueH",
+    "uri": "spotify:track:1IdhGrwGyVecu7b1ZUvueH"
+  },
+  {
+    "position": 1915,
+    "addedAt": "2026-07-07T12:30:46.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4SHAlw3C9Y1Mfqwq0thxpw",
+    "name": "No Mercy",
+    "artists": [
+      {
+        "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+        "name": "Armin van Buuren",
+        "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5",
+        "spotifyUrl": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+      },
+      {
+        "id": "1btv9qmIpbp7q1ixCYNdHu",
+        "name": "Adam Beyer",
+        "uri": "spotify:artist:1btv9qmIpbp7q1ixCYNdHu",
+        "spotifyUrl": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+      }
+    ],
+    "album": {
+      "id": "5CQcbHQNwH9lQdLtebmmlu",
+      "name": "No Mercy",
+      "uri": "spotify:album:5CQcbHQNwH9lQdLtebmmlu",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273890912555ba854377b593e6e"
+    },
+    "durationMs": 155666,
+    "durationMin": 2.59,
+    "explicit": true,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw",
+    "uri": "spotify:track:4SHAlw3C9Y1Mfqwq0thxpw"
+  },
+  {
+    "position": 1916,
+    "addedAt": "2026-07-07T12:43:28.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6m9y6bdEEdNqJw3wz5CUUB",
+    "name": "Your Mind On Acid",
+    "artists": [
+      {
+        "id": "6iWBjg4b4ll4jLiParnWXT",
+        "name": "Bart Skils",
+        "uri": "spotify:artist:6iWBjg4b4ll4jLiParnWXT",
+        "spotifyUrl": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+      },
+      {
+        "id": "39PhMWg1aAuuZcph0OXGu6",
+        "name": "Deniz Koyu",
+        "uri": "spotify:artist:39PhMWg1aAuuZcph0OXGu6",
+        "spotifyUrl": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+      }
+    ],
+    "album": {
+      "id": "0TVVBuBwyK8D8oYDgJjuKs",
+      "name": "Your Mind On Acid",
+      "uri": "spotify:album:0TVVBuBwyK8D8oYDgJjuKs",
+      "releaseDate": "2026-06-19",
+      "spotifyUrl": "https://open.spotify.com/album/0TVVBuBwyK8D8oYDgJjuKs",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27326e61f6e2637a36c5c9a2245"
+    },
+    "durationMs": 202048,
+    "durationMin": 3.37,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6m9y6bdEEdNqJw3wz5CUUB",
+    "uri": "spotify:track:6m9y6bdEEdNqJw3wz5CUUB"
+  },
+  {
+    "position": 1917,
+    "addedAt": "2026-07-07T12:48:47.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5o9ddwUhXw50hymQN26U90",
+    "name": "Bounce UR Body",
+    "artists": [
+      {
+        "id": "3ABaec4jjl95VqmG1iD4k2",
+        "name": "Green Velvet",
+        "uri": "spotify:artist:3ABaec4jjl95VqmG1iD4k2",
+        "spotifyUrl": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+      },
+      {
+        "id": "5lZ8HC92jRDlyeq0vSxGeI",
+        "name": "Detlef",
+        "uri": "spotify:artist:5lZ8HC92jRDlyeq0vSxGeI",
+        "spotifyUrl": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+      }
+    ],
+    "album": {
+      "id": "0fTPlvWCBV1nfynDXRDDgV",
+      "name": "Bounce UR Body",
+      "uri": "spotify:album:0fTPlvWCBV1nfynDXRDDgV",
+      "releaseDate": "2026-06-19",
+      "spotifyUrl": "https://open.spotify.com/album/0fTPlvWCBV1nfynDXRDDgV",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c4a719d86f7fb9347e345534"
+    },
+    "durationMs": 149336,
+    "durationMin": 2.49,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5o9ddwUhXw50hymQN26U90",
+    "uri": "spotify:track:5o9ddwUhXw50hymQN26U90"
+  },
+  {
+    "position": 1918,
+    "addedAt": "2026-07-07T13:59:14.000Z",
+    "addedBy": {
+      "id": "valumasso",
+      "uri": "spotify:user:valumasso",
+      "href": "https://api.spotify.com/v1/users/valumasso",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valumasso"
+    },
+    "id": "1t16VYu9RzXva4JalGhJqd",
+    "name": "Flashlights - Radio Mix",
+    "artists": [
+      {
+        "id": "6Py1EIeVI3SHzO1xu94Qmy",
+        "name": "Alex Cecil",
+        "uri": "spotify:artist:6Py1EIeVI3SHzO1xu94Qmy",
+        "spotifyUrl": "https://open.spotify.com/artist/6Py1EIeVI3SHzO1xu94Qmy"
+      },
+      {
+        "id": "1lIT7UIjxZm8fIuWdj0ZfU",
+        "name": "John Creamer",
+        "uri": "spotify:artist:1lIT7UIjxZm8fIuWdj0ZfU",
+        "spotifyUrl": "https://open.spotify.com/artist/1lIT7UIjxZm8fIuWdj0ZfU"
+      },
+      {
+        "id": "26qJWI7S0wKOM1cvjyN6Wr",
+        "name": "Mike Kings",
+        "uri": "spotify:artist:26qJWI7S0wKOM1cvjyN6Wr",
+        "spotifyUrl": "https://open.spotify.com/artist/26qJWI7S0wKOM1cvjyN6Wr"
+      }
+    ],
+    "album": {
+      "id": "3Vl6apurjGGlYl0EletrTI",
+      "name": "Flashlights",
+      "uri": "spotify:album:3Vl6apurjGGlYl0EletrTI",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "https://open.spotify.com/album/3Vl6apurjGGlYl0EletrTI",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739b24d634306a1ddd68160a1f"
+    },
+    "durationMs": 211968,
+    "durationMin": 3.53,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1t16VYu9RzXva4JalGhJqd",
+    "uri": "spotify:track:1t16VYu9RzXva4JalGhJqd"
   }
 ]
