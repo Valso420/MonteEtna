@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1918,
-  "exportedTracks": 1918,
-  "totalDurationMs": 541457478,
-  "totalHours": 150.4,
-  "averageDurationMin": 4.71,
+  "totalTracks": 1921,
+  "exportedTracks": 1921,
+  "totalDurationMs": 542167842,
+  "totalHours": 150.6,
+  "averageDurationMin": 4.7,
   "uniqueArtists": 1377,
-  "uniqueAlbums": 1680,
+  "uniqueAlbums": 1682,
   "topArtists": [
     {
       "name": "Mathame",
@@ -54,15 +54,15 @@
       "tracks": 29
     },
     {
+      "name": "Vintage Culture",
+      "tracks": 29
+    },
+    {
       "name": "Layton Giordani",
       "tracks": 28
     },
     {
       "name": "Rebūke",
-      "tracks": 28
-    },
-    {
-      "name": "Vintage Culture",
       "tracks": 28
     },
     {
@@ -96,6 +96,31 @@
   ],
   "recentTracks": [
     {
+      "name": "Toxic",
+      "artists": [
+        "Vintage Culture",
+        "DEPARTAMENTO"
+      ],
+      "addedAt": "2026-07-07T23:00:25.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4mloPBa6kT7U2b6ok2TvZe"
+    },
+    {
+      "name": "My Heart",
+      "artists": [
+        "Gorje Hewek"
+      ],
+      "addedAt": "2026-07-07T21:01:11.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/62XTDh8DUNx1Qad0m047fo"
+    },
+    {
+      "name": "Rhythm Check",
+      "artists": [
+        "Chris Avantgarde"
+      ],
+      "addedAt": "2026-07-07T20:55:50.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/75jGKxag8XXSpm1Bq89hnQ"
+    },
+    {
       "name": "Flashlights - Radio Mix",
       "artists": [
         "Alex Cecil",
@@ -113,32 +138,6 @@
       ],
       "addedAt": "2026-07-07T12:48:47.000Z",
       "spotifyUrl": "https://open.spotify.com/track/5o9ddwUhXw50hymQN26U90"
-    },
-    {
-      "name": "Your Mind On Acid",
-      "artists": [
-        "Bart Skils",
-        "Deniz Koyu"
-      ],
-      "addedAt": "2026-07-07T12:43:28.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6m9y6bdEEdNqJw3wz5CUUB"
-    },
-    {
-      "name": "No Mercy",
-      "artists": [
-        "Armin van Buuren",
-        "Adam Beyer"
-      ],
-      "addedAt": "2026-07-07T12:30:46.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
-    },
-    {
-      "name": "Addicted To Lies",
-      "artists": [
-        "Skuro (IT)"
-      ],
-      "addedAt": "2026-07-07T12:23:34.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1IdhGrwGyVecu7b1ZUvueH"
     }
   ],
   "duplicateTracks": 1,
@@ -155,9 +154,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1908,
+  "availableTracks": 1911,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-07T19:55:31.094Z"
+  "lastUpdated": "2026-07-08T02:42:37.673Z"
 }

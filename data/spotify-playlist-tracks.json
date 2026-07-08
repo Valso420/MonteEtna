@@ -85815,6 +85815,52 @@
   },
   {
     "position": 1911,
+    "addedAt": "2026-07-07T23:00:25.000Z",
+    "addedBy": {
+      "id": "11177181596",
+      "uri": "spotify:user:11177181596",
+      "href": "https://api.spotify.com/v1/users/11177181596",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11177181596"
+    },
+    "id": "4mloPBa6kT7U2b6ok2TvZe",
+    "name": "Toxic",
+    "artists": [
+      {
+        "id": "28uJnu5EsrGml2tBd7y8ts",
+        "name": "Vintage Culture",
+        "uri": "spotify:artist:28uJnu5EsrGml2tBd7y8ts",
+        "spotifyUrl": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      {
+        "id": "3Cu5XeR4o1V8atLssDZUl1",
+        "name": "DEPARTAMENTO",
+        "uri": "spotify:artist:3Cu5XeR4o1V8atLssDZUl1",
+        "spotifyUrl": "https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1"
+      }
+    ],
+    "album": {
+      "id": "3eMB7eDSuklusjzYAMyVIb",
+      "name": "Toxic",
+      "uri": "spotify:album:3eMB7eDSuklusjzYAMyVIb",
+      "releaseDate": "2026-07-03",
+      "spotifyUrl": "https://open.spotify.com/album/3eMB7eDSuklusjzYAMyVIb",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27322f11ee55650000ecc008394"
+    },
+    "durationMs": 191655,
+    "durationMin": 3.19,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4mloPBa6kT7U2b6ok2TvZe",
+    "uri": "spotify:track:4mloPBa6kT7U2b6ok2TvZe"
+  },
+  {
+    "position": 1912,
     "addedAt": "2026-07-04T05:23:41.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -85860,7 +85906,7 @@
     "uri": "spotify:track:1JN37cHLmc852rbTdpVq8f"
   },
   {
-    "position": 1912,
+    "position": 1913,
     "addedAt": "2026-07-06T00:45:05.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -85900,7 +85946,7 @@
     "uri": "spotify:track:5za6XRkJQSrVipzabuf6cV"
   },
   {
-    "position": 1913,
+    "position": 1914,
     "addedAt": "2026-07-07T12:17:22.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85946,7 +85992,7 @@
     "uri": "spotify:track:2Rvi0CiuXzYyYRd3i9wxqM"
   },
   {
-    "position": 1914,
+    "position": 1915,
     "addedAt": "2026-07-07T12:23:34.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85986,7 +86032,7 @@
     "uri": "spotify:track:1IdhGrwGyVecu7b1ZUvueH"
   },
   {
-    "position": 1915,
+    "position": 1916,
     "addedAt": "2026-07-07T12:30:46.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86032,7 +86078,7 @@
     "uri": "spotify:track:4SHAlw3C9Y1Mfqwq0thxpw"
   },
   {
-    "position": 1916,
+    "position": 1917,
     "addedAt": "2026-07-07T12:43:28.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86078,7 +86124,7 @@
     "uri": "spotify:track:6m9y6bdEEdNqJw3wz5CUUB"
   },
   {
-    "position": 1917,
+    "position": 1918,
     "addedAt": "2026-07-07T12:48:47.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86124,7 +86170,7 @@
     "uri": "spotify:track:5o9ddwUhXw50hymQN26U90"
   },
   {
-    "position": 1918,
+    "position": 1919,
     "addedAt": "2026-07-07T13:59:14.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -86174,5 +86220,85 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/1t16VYu9RzXva4JalGhJqd",
     "uri": "spotify:track:1t16VYu9RzXva4JalGhJqd"
+  },
+  {
+    "position": 1920,
+    "addedAt": "2026-07-07T20:55:50.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "75jGKxag8XXSpm1Bq89hnQ",
+    "name": "Rhythm Check",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "6TAsSO0RL6G4XZNMfMetLp",
+      "name": "Rhythm Check",
+      "uri": "spotify:album:6TAsSO0RL6G4XZNMfMetLp",
+      "releaseDate": "2026-06-05",
+      "spotifyUrl": "https://open.spotify.com/album/6TAsSO0RL6G4XZNMfMetLp",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735466a7fa814d701971aabb52"
+    },
+    "durationMs": 281162,
+    "durationMin": 4.69,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/75jGKxag8XXSpm1Bq89hnQ",
+    "uri": "spotify:track:75jGKxag8XXSpm1Bq89hnQ"
+  },
+  {
+    "position": 1921,
+    "addedAt": "2026-07-07T21:01:11.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "62XTDh8DUNx1Qad0m047fo",
+    "name": "My Heart",
+    "artists": [
+      {
+        "id": "0HBaoUIo3fXlnWz1dc4mro",
+        "name": "Gorje Hewek",
+        "uri": "spotify:artist:0HBaoUIo3fXlnWz1dc4mro",
+        "spotifyUrl": "https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro"
+      }
+    ],
+    "album": {
+      "id": "0vEvF7EF6iYFcqwNd3uVNM",
+      "name": "My Heart",
+      "uri": "spotify:album:0vEvF7EF6iYFcqwNd3uVNM",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "https://open.spotify.com/album/0vEvF7EF6iYFcqwNd3uVNM",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734e105baa24947ad94eaaeb5c"
+    },
+    "durationMs": 237547,
+    "durationMin": 3.96,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/62XTDh8DUNx1Qad0m047fo",
+    "uri": "spotify:track:62XTDh8DUNx1Qad0m047fo"
   }
 ]
