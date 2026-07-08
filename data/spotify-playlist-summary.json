@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1921,
-  "exportedTracks": 1921,
-  "totalDurationMs": 542167842,
-  "totalHours": 150.6,
+  "totalTracks": 1924,
+  "exportedTracks": 1924,
+  "totalDurationMs": 542835978,
+  "totalHours": 150.8,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1377,
-  "uniqueAlbums": 1682,
+  "uniqueArtists": 1379,
+  "uniqueAlbums": 1684,
   "topArtists": [
     {
       "name": "Mathame",
@@ -50,19 +50,19 @@
       "tracks": 31
     },
     {
+      "name": "Vintage Culture",
+      "tracks": 30
+    },
+    {
       "name": "Adam Beyer",
       "tracks": 29
     },
     {
-      "name": "Vintage Culture",
+      "name": "Rebūke",
       "tracks": 29
     },
     {
       "name": "Layton Giordani",
-      "tracks": 28
-    },
-    {
-      "name": "Rebūke",
       "tracks": 28
     },
     {
@@ -96,6 +96,33 @@
   ],
   "recentTracks": [
     {
+      "name": "I Never Knew",
+      "artists": [
+        "Adam Ten"
+      ],
+      "addedAt": "2026-07-08T12:51:42.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
+    },
+    {
+      "name": "Copycat",
+      "artists": [
+        "Vintage Culture",
+        "DEPARTAMENTO"
+      ],
+      "addedAt": "2026-07-08T12:48:44.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2sngQ0HhlhEClVkiXXF8rt"
+    },
+    {
+      "name": "Dancing Bears",
+      "artists": [
+        "Rebūke",
+        "Phil Kieran",
+        "Roel H"
+      ],
+      "addedAt": "2026-07-08T12:36:39.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3OFOOWfw3vmOoo2qI4DSYc"
+    },
+    {
       "name": "Toxic",
       "artists": [
         "Vintage Culture",
@@ -111,33 +138,6 @@
       ],
       "addedAt": "2026-07-07T21:01:11.000Z",
       "spotifyUrl": "https://open.spotify.com/track/62XTDh8DUNx1Qad0m047fo"
-    },
-    {
-      "name": "Rhythm Check",
-      "artists": [
-        "Chris Avantgarde"
-      ],
-      "addedAt": "2026-07-07T20:55:50.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/75jGKxag8XXSpm1Bq89hnQ"
-    },
-    {
-      "name": "Flashlights - Radio Mix",
-      "artists": [
-        "Alex Cecil",
-        "John Creamer",
-        "Mike Kings"
-      ],
-      "addedAt": "2026-07-07T13:59:14.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1t16VYu9RzXva4JalGhJqd"
-    },
-    {
-      "name": "Bounce UR Body",
-      "artists": [
-        "Green Velvet",
-        "Detlef"
-      ],
-      "addedAt": "2026-07-07T12:48:47.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5o9ddwUhXw50hymQN26U90"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +154,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1911,
+  "availableTracks": 1914,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-08T02:42:37.673Z"
+  "lastUpdated": "2026-07-08T14:07:52.666Z"
 }

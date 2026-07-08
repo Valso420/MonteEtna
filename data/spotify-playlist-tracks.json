@@ -86300,5 +86300,143 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/62XTDh8DUNx1Qad0m047fo",
     "uri": "spotify:track:62XTDh8DUNx1Qad0m047fo"
+  },
+  {
+    "position": 1922,
+    "addedAt": "2026-07-08T12:36:39.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3OFOOWfw3vmOoo2qI4DSYc",
+    "name": "Dancing Bears",
+    "artists": [
+      {
+        "id": "113reBz1jA6rVxbXl55mlj",
+        "name": "Rebūke",
+        "uri": "spotify:artist:113reBz1jA6rVxbXl55mlj",
+        "spotifyUrl": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+      },
+      {
+        "id": "7fVBYlm65H50HLNLAQHBt5",
+        "name": "Phil Kieran",
+        "uri": "spotify:artist:7fVBYlm65H50HLNLAQHBt5",
+        "spotifyUrl": "https://open.spotify.com/artist/7fVBYlm65H50HLNLAQHBt5"
+      },
+      {
+        "id": "5EWz4iQz1VrlXQoUVuv8JQ",
+        "name": "Roel H",
+        "uri": "spotify:artist:5EWz4iQz1VrlXQoUVuv8JQ",
+        "spotifyUrl": "https://open.spotify.com/artist/5EWz4iQz1VrlXQoUVuv8JQ"
+      }
+    ],
+    "album": {
+      "id": "7bhV8hvhbqDPqOJw2hJxii",
+      "name": "Dancing Bears",
+      "uri": "spotify:album:7bhV8hvhbqDPqOJw2hJxii",
+      "releaseDate": "2026-04-24",
+      "spotifyUrl": "https://open.spotify.com/album/7bhV8hvhbqDPqOJw2hJxii",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27397988ccc65c49d64ba248204"
+    },
+    "durationMs": 222461,
+    "durationMin": 3.71,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3OFOOWfw3vmOoo2qI4DSYc",
+    "uri": "spotify:track:3OFOOWfw3vmOoo2qI4DSYc"
+  },
+  {
+    "position": 1923,
+    "addedAt": "2026-07-08T12:48:44.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2sngQ0HhlhEClVkiXXF8rt",
+    "name": "Copycat",
+    "artists": [
+      {
+        "id": "28uJnu5EsrGml2tBd7y8ts",
+        "name": "Vintage Culture",
+        "uri": "spotify:artist:28uJnu5EsrGml2tBd7y8ts",
+        "spotifyUrl": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      {
+        "id": "3Cu5XeR4o1V8atLssDZUl1",
+        "name": "DEPARTAMENTO",
+        "uri": "spotify:artist:3Cu5XeR4o1V8atLssDZUl1",
+        "spotifyUrl": "https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1"
+      }
+    ],
+    "album": {
+      "id": "3eMB7eDSuklusjzYAMyVIb",
+      "name": "Toxic",
+      "uri": "spotify:album:3eMB7eDSuklusjzYAMyVIb",
+      "releaseDate": "2026-07-03",
+      "spotifyUrl": "https://open.spotify.com/album/3eMB7eDSuklusjzYAMyVIb",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27322f11ee55650000ecc008394"
+    },
+    "durationMs": 213995,
+    "durationMin": 3.57,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2sngQ0HhlhEClVkiXXF8rt",
+    "uri": "spotify:track:2sngQ0HhlhEClVkiXXF8rt"
+  },
+  {
+    "position": 1924,
+    "addedAt": "2026-07-08T12:51:42.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "54vF34GSMXYZfjPXMsHYWf",
+    "name": "I Never Knew",
+    "artists": [
+      {
+        "id": "05tmGPn4fFdVpnsMt0YW5S",
+        "name": "Adam Ten",
+        "uri": "spotify:artist:05tmGPn4fFdVpnsMt0YW5S",
+        "spotifyUrl": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+      }
+    ],
+    "album": {
+      "id": "2w8spOidxh0RSjdRjXvd3r",
+      "name": "I Never Knew",
+      "uri": "spotify:album:2w8spOidxh0RSjdRjXvd3r",
+      "releaseDate": "2026-06-05",
+      "spotifyUrl": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27368ac0d2a29598fbc9fc0a5bf"
+    },
+    "durationMs": 231680,
+    "durationMin": 3.86,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf",
+    "uri": "spotify:track:54vF34GSMXYZfjPXMsHYWf"
   }
 ]
