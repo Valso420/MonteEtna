@@ -86438,5 +86438,97 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf",
     "uri": "spotify:track:54vF34GSMXYZfjPXMsHYWf"
+  },
+  {
+    "position": 1925,
+    "addedAt": "2026-07-08T15:37:36.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "35cvTsMB8e89HKXkGWbdxY",
+    "name": "Animal Rights - Westend Remix",
+    "artists": [
+      {
+        "id": "2CIMQHirSU0MQqyYHq0eOx",
+        "name": "deadmau5",
+        "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx",
+        "spotifyUrl": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      {
+        "id": "3534yWWzmxx8NbKVoNolsK",
+        "name": "Wolfgang Gartner",
+        "uri": "spotify:artist:3534yWWzmxx8NbKVoNolsK",
+        "spotifyUrl": "https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK"
+      },
+      {
+        "id": "4epc3Bd0DOBA0kDywkRAsu",
+        "name": "Westend",
+        "uri": "spotify:artist:4epc3Bd0DOBA0kDywkRAsu",
+        "spotifyUrl": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+      }
+    ],
+    "album": {
+      "id": "6STJP496C1r2NzFkXfesVy",
+      "name": "Animal Rights (Westend Remix)",
+      "uri": "spotify:album:6STJP496C1r2NzFkXfesVy",
+      "releaseDate": "2026-03-06",
+      "spotifyUrl": "https://open.spotify.com/album/6STJP496C1r2NzFkXfesVy",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730db9e73154e62a0659e694f7"
+    },
+    "durationMs": 184687,
+    "durationMin": 3.08,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/35cvTsMB8e89HKXkGWbdxY",
+    "uri": "spotify:track:35cvTsMB8e89HKXkGWbdxY"
+  },
+  {
+    "position": 1926,
+    "addedAt": "2026-07-08T15:38:48.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3nrT6SiujRG4Hhyskgx5hq",
+    "name": "Magic In You - Edit",
+    "artists": [
+      {
+        "id": "50ZyjIaVHOy5Xt7FLJ7RZl",
+        "name": "Sam Paganini",
+        "uri": "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl",
+        "spotifyUrl": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+      }
+    ],
+    "album": {
+      "id": "6mAAuau7jAWAR40tOW47O5",
+      "name": "Ready To Rock / Magic In You",
+      "uri": "spotify:album:6mAAuau7jAWAR40tOW47O5",
+      "releaseDate": "2026-06-12",
+      "spotifyUrl": "https://open.spotify.com/album/6mAAuau7jAWAR40tOW47O5",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c5576adf96cd72936d1b877a"
+    },
+    "durationMs": 219649,
+    "durationMin": 3.66,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3nrT6SiujRG4Hhyskgx5hq",
+    "uri": "spotify:track:3nrT6SiujRG4Hhyskgx5hq"
   }
 ]

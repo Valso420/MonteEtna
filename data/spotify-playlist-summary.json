@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1924,
-  "exportedTracks": 1924,
-  "totalDurationMs": 542835978,
-  "totalHours": 150.8,
+  "totalTracks": 1926,
+  "exportedTracks": 1926,
+  "totalDurationMs": 543240314,
+  "totalHours": 150.9,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1379,
-  "uniqueAlbums": 1684,
+  "uniqueArtists": 1380,
+  "uniqueAlbums": 1686,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,24 @@
   ],
   "recentTracks": [
     {
+      "name": "Magic In You - Edit",
+      "artists": [
+        "Sam Paganini"
+      ],
+      "addedAt": "2026-07-08T15:38:48.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3nrT6SiujRG4Hhyskgx5hq"
+    },
+    {
+      "name": "Animal Rights - Westend Remix",
+      "artists": [
+        "deadmau5",
+        "Wolfgang Gartner",
+        "Westend"
+      ],
+      "addedAt": "2026-07-08T15:37:36.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/35cvTsMB8e89HKXkGWbdxY"
+    },
+    {
       "name": "I Never Knew",
       "artists": [
         "Adam Ten"
@@ -121,23 +139,6 @@
       ],
       "addedAt": "2026-07-08T12:36:39.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3OFOOWfw3vmOoo2qI4DSYc"
-    },
-    {
-      "name": "Toxic",
-      "artists": [
-        "Vintage Culture",
-        "DEPARTAMENTO"
-      ],
-      "addedAt": "2026-07-07T23:00:25.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4mloPBa6kT7U2b6ok2TvZe"
-    },
-    {
-      "name": "My Heart",
-      "artists": [
-        "Gorje Hewek"
-      ],
-      "addedAt": "2026-07-07T21:01:11.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/62XTDh8DUNx1Qad0m047fo"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +155,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1914,
+  "availableTracks": 1916,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-08T14:07:52.666Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-07-08T19:25:34.161Z"
 }
