@@ -86530,5 +86530,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3nrT6SiujRG4Hhyskgx5hq",
     "uri": "spotify:track:3nrT6SiujRG4Hhyskgx5hq"
+  },
+  {
+    "position": 1927,
+    "addedAt": "2026-07-08T19:34:29.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0wKWnU5HMCr06lxFzJ5nwF",
+    "name": "Pump That Body",
+    "artists": [
+      {
+        "id": "4pnp4w9g30yLfVIAFnZMRd",
+        "name": "ACRAZE",
+        "uri": "spotify:artist:4pnp4w9g30yLfVIAFnZMRd",
+        "spotifyUrl": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+      },
+      {
+        "id": "23v0zhecqk3FLUfvMrWy48",
+        "name": "Rello",
+        "uri": "spotify:artist:23v0zhecqk3FLUfvMrWy48",
+        "spotifyUrl": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
+      }
+    ],
+    "album": {
+      "id": "4b2UuiqcaPEfPHcwzk095J",
+      "name": "Pump That Body",
+      "uri": "spotify:album:4b2UuiqcaPEfPHcwzk095J",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "https://open.spotify.com/album/4b2UuiqcaPEfPHcwzk095J",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273376bc06f09f4d55d82cf0294"
+    },
+    "durationMs": 256846,
+    "durationMin": 4.28,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0wKWnU5HMCr06lxFzJ5nwF",
+    "uri": "spotify:track:0wKWnU5HMCr06lxFzJ5nwF"
   }
 ]

@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1926,
-  "exportedTracks": 1926,
-  "totalDurationMs": 543240314,
-  "totalHours": 150.9,
+  "totalTracks": 1927,
+  "exportedTracks": 1927,
+  "totalDurationMs": 543497160,
+  "totalHours": 151,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1380,
-  "uniqueAlbums": 1686,
+  "uniqueArtists": 1382,
+  "uniqueAlbums": 1687,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Pump That Body",
+      "artists": [
+        "ACRAZE",
+        "Rello"
+      ],
+      "addedAt": "2026-07-08T19:34:29.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0wKWnU5HMCr06lxFzJ5nwF"
+    },
+    {
       "name": "Magic In You - Edit",
       "artists": [
         "Sam Paganini"
@@ -129,16 +138,6 @@
       ],
       "addedAt": "2026-07-08T12:48:44.000Z",
       "spotifyUrl": "https://open.spotify.com/track/2sngQ0HhlhEClVkiXXF8rt"
-    },
-    {
-      "name": "Dancing Bears",
-      "artists": [
-        "Rebūke",
-        "Phil Kieran",
-        "Roel H"
-      ],
-      "addedAt": "2026-07-08T12:36:39.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3OFOOWfw3vmOoo2qI4DSYc"
     }
   ],
   "duplicateTracks": 1,
@@ -155,9 +154,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1916,
+  "availableTracks": 1917,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-08T19:25:34.161Z"
+  "lastUpdated": "2026-07-09T03:19:03.265Z"
 }
