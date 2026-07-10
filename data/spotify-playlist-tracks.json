@@ -86576,5 +86576,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/0wKWnU5HMCr06lxFzJ5nwF",
     "uri": "spotify:track:0wKWnU5HMCr06lxFzJ5nwF"
+  },
+  {
+    "position": 1928,
+    "addedAt": "2026-07-10T02:36:50.000Z",
+    "addedBy": {
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
+    },
+    "id": "0Qe7O158l5mEbEa1iIALs0",
+    "name": "Lose Your Mind",
+    "artists": [
+      {
+        "id": "4LPdRAStgPlxFxU2B8zJGo",
+        "name": "Kasey Taylor",
+        "uri": "spotify:artist:4LPdRAStgPlxFxU2B8zJGo",
+        "spotifyUrl": "https://open.spotify.com/artist/4LPdRAStgPlxFxU2B8zJGo"
+      },
+      {
+        "id": "4lYZCtiWHEcyMQJMU3B2KG",
+        "name": "Stereo Underground",
+        "uri": "spotify:artist:4lYZCtiWHEcyMQJMU3B2KG",
+        "spotifyUrl": "https://open.spotify.com/artist/4lYZCtiWHEcyMQJMU3B2KG"
+      }
+    ],
+    "album": {
+      "id": "3YoataehPcXoyFNfcxVPAR",
+      "name": "Kasey Taylor & Friends, Pt. 3",
+      "uri": "spotify:album:3YoataehPcXoyFNfcxVPAR",
+      "releaseDate": "2026-06-19",
+      "spotifyUrl": "https://open.spotify.com/album/3YoataehPcXoyFNfcxVPAR",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8bc6a7d9447e66e11c250e5"
+    },
+    "durationMs": 417439,
+    "durationMin": 6.96,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0Qe7O158l5mEbEa1iIALs0",
+    "uri": "spotify:track:0Qe7O158l5mEbEa1iIALs0"
   }
 ]

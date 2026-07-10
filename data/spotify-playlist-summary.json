@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1927,
-  "exportedTracks": 1927,
-  "totalDurationMs": 543497160,
-  "totalHours": 151,
+  "totalTracks": 1928,
+  "exportedTracks": 1928,
+  "totalDurationMs": 543914599,
+  "totalHours": 151.1,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1382,
-  "uniqueAlbums": 1687,
+  "uniqueArtists": 1383,
+  "uniqueAlbums": 1688,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Lose Your Mind",
+      "artists": [
+        "Kasey Taylor",
+        "Stereo Underground"
+      ],
+      "addedAt": "2026-07-10T02:36:50.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0Qe7O158l5mEbEa1iIALs0"
+    },
+    {
       "name": "Pump That Body",
       "artists": [
         "ACRAZE",
@@ -129,15 +138,6 @@
       ],
       "addedAt": "2026-07-08T12:51:42.000Z",
       "spotifyUrl": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
-    },
-    {
-      "name": "Copycat",
-      "artists": [
-        "Vintage Culture",
-        "DEPARTAMENTO"
-      ],
-      "addedAt": "2026-07-08T12:48:44.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2sngQ0HhlhEClVkiXXF8rt"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +154,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1917,
+  "availableTracks": 1918,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-09T09:39:58.555Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-07-10T03:20:54.864Z"
 }
