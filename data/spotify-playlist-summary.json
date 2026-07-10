@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1928,
-  "exportedTracks": 1928,
-  "totalDurationMs": 543914599,
-  "totalHours": 151.1,
+  "totalTracks": 1929,
+  "exportedTracks": 1929,
+  "totalDurationMs": 544172079,
+  "totalHours": 151.2,
   "averageDurationMin": 4.7,
   "uniqueArtists": 1383,
-  "uniqueAlbums": 1688,
+  "uniqueAlbums": 1689,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Hey Bro",
+      "artists": [
+        "Fideles"
+      ],
+      "addedAt": "2026-07-10T13:56:32.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3PGwNzt7sph4PFuTgMYZH2"
+    },
+    {
       "name": "Lose Your Mind",
       "artists": [
         "Kasey Taylor",
@@ -130,14 +138,6 @@
       ],
       "addedAt": "2026-07-08T15:37:36.000Z",
       "spotifyUrl": "https://open.spotify.com/track/35cvTsMB8e89HKXkGWbdxY"
-    },
-    {
-      "name": "I Never Knew",
-      "artists": [
-        "Adam Ten"
-      ],
-      "addedAt": "2026-07-08T12:51:42.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +154,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1918,
+  "availableTracks": 1919,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-10T09:35:28.316Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-07-10T14:27:03.812Z"
 }
