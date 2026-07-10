@@ -86662,5 +86662,429 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3PGwNzt7sph4PFuTgMYZH2",
     "uri": "spotify:track:3PGwNzt7sph4PFuTgMYZH2"
+  },
+  {
+    "position": 1930,
+    "addedAt": "2026-07-10T18:36:53.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4kQX42ed8SzaydbFOVObVv",
+    "name": "Before You Go (Feat. Luxtides)",
+    "artists": [
+      {
+        "id": "10hGPIDZi33LRaYRIq3Bh4",
+        "name": "Dimitri Vangelis & Wyman",
+        "uri": "spotify:artist:10hGPIDZi33LRaYRIq3Bh4",
+        "spotifyUrl": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+      },
+      {
+        "id": "11aPF3sc8lDWNqPVInm4Zx",
+        "name": "Kevin de Vries",
+        "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+        "spotifyUrl": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      },
+      {
+        "id": "22bKgyDEmDgPhvSBYklJBe",
+        "name": "Luxtides",
+        "uri": "spotify:artist:22bKgyDEmDgPhvSBYklJBe",
+        "spotifyUrl": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+      }
+    ],
+    "album": {
+      "id": "0bIYLxgKqGbkXLJsBGGRbp",
+      "name": "Before You Go (Feat. Luxtides)",
+      "uri": "spotify:album:0bIYLxgKqGbkXLJsBGGRbp",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/0bIYLxgKqGbkXLJsBGGRbp",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273790042ece0ca9277632e8e76"
+    },
+    "durationMs": 216796,
+    "durationMin": 3.61,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4kQX42ed8SzaydbFOVObVv",
+    "uri": "spotify:track:4kQX42ed8SzaydbFOVObVv"
+  },
+  {
+    "position": 1931,
+    "addedAt": "2026-07-10T18:38:15.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4Dqzqz8X63dSY3r2fAe9fx",
+    "name": "Here In My Arms (Enjoy The Silence) - Extended Mix",
+    "artists": [
+      {
+        "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+        "name": "Armin van Buuren",
+        "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5",
+        "spotifyUrl": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+      },
+      {
+        "id": "310IX3ZzFSl14ZvY2dM8Da",
+        "name": "Silver Panda",
+        "uri": "spotify:artist:310IX3ZzFSl14ZvY2dM8Da",
+        "spotifyUrl": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+      }
+    ],
+    "album": {
+      "id": "1tku7mFvWNy5EmRy9WKsLe",
+      "name": "Here In My Arms (Enjoy The Silence)",
+      "uri": "spotify:album:1tku7mFvWNy5EmRy9WKsLe",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/1tku7mFvWNy5EmRy9WKsLe",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27319dfd0d68cebf1c9a910c4e3"
+    },
+    "durationMs": 310000,
+    "durationMin": 5.17,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4Dqzqz8X63dSY3r2fAe9fx",
+    "uri": "spotify:track:4Dqzqz8X63dSY3r2fAe9fx"
+  },
+  {
+    "position": 1932,
+    "addedAt": "2026-07-10T18:48:02.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5qDRsWb5JRWooFWfXIcClt",
+    "name": "Origin",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 390967,
+    "durationMin": 6.52,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5qDRsWb5JRWooFWfXIcClt",
+    "uri": "spotify:track:5qDRsWb5JRWooFWfXIcClt"
+  },
+  {
+    "position": 1933,
+    "addedAt": "2026-07-10T18:55:26.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "79gYlPSfycSFND7YIhufKF",
+    "name": "Down For The Night",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      },
+      {
+        "id": "4mHvZlo1KyW4kW3F1FE1q5",
+        "name": "Poté",
+        "uri": "spotify:artist:4mHvZlo1KyW4kW3F1FE1q5",
+        "spotifyUrl": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 287619,
+    "durationMin": 4.79,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/79gYlPSfycSFND7YIhufKF",
+    "uri": "spotify:track:79gYlPSfycSFND7YIhufKF"
+  },
+  {
+    "position": 1934,
+    "addedAt": "2026-07-10T18:58:13.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6oFKE604kUFkW0l4Kc7taJ",
+    "name": "Concrete Professional",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 176132,
+    "durationMin": 2.94,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6oFKE604kUFkW0l4Kc7taJ",
+    "uri": "spotify:track:6oFKE604kUFkW0l4Kc7taJ"
+  },
+  {
+    "position": 1935,
+    "addedAt": "2026-07-10T19:03:36.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5ZYBV9QhE0Yv4NrZKmALLe",
+    "name": "Where Do You Go",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 189090,
+    "durationMin": 3.15,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5ZYBV9QhE0Yv4NrZKmALLe",
+    "uri": "spotify:track:5ZYBV9QhE0Yv4NrZKmALLe"
+  },
+  {
+    "position": 1936,
+    "addedAt": "2026-07-10T19:11:53.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4IEXVWPxi8EPL8mCkp78Rm",
+    "name": "Rhythm Check",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 281162,
+    "durationMin": 4.69,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4IEXVWPxi8EPL8mCkp78Rm",
+    "uri": "spotify:track:4IEXVWPxi8EPL8mCkp78Rm"
+  },
+  {
+    "position": 1937,
+    "addedAt": "2026-07-10T19:15:31.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "18hFrZd1e1zeTjcOXVTdQj",
+    "name": "Obsessed",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 181392,
+    "durationMin": 3.02,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/18hFrZd1e1zeTjcOXVTdQj",
+    "uri": "spotify:track:18hFrZd1e1zeTjcOXVTdQj"
+  },
+  {
+    "position": 1938,
+    "addedAt": "2026-07-10T19:18:34.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6auP637pqOaecIIeOC6sC3",
+    "name": "Belter",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 396000,
+    "durationMin": 6.6,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6auP637pqOaecIIeOC6sC3",
+    "uri": "spotify:track:6auP637pqOaecIIeOC6sC3"
+  },
+  {
+    "position": 1939,
+    "addedAt": "2026-07-10T19:24:19.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2AQ26wXeHjgbyfHaPcdWQ7",
+    "name": "Jester",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 428571,
+    "durationMin": 7.14,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2AQ26wXeHjgbyfHaPcdWQ7",
+    "uri": "spotify:track:2AQ26wXeHjgbyfHaPcdWQ7"
   }
 ]

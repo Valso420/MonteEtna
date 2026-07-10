@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1929,
-  "exportedTracks": 1929,
-  "totalDurationMs": 544172079,
-  "totalHours": 151.2,
+  "totalTracks": 1939,
+  "exportedTracks": 1939,
+  "totalDurationMs": 547029808,
+  "totalHours": 152,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1383,
-  "uniqueAlbums": 1689,
+  "uniqueArtists": 1385,
+  "uniqueAlbums": 1692,
   "topArtists": [
     {
       "name": "Mathame",
@@ -62,15 +62,15 @@
       "tracks": 29
     },
     {
+      "name": "Kevin de Vries",
+      "tracks": 28
+    },
+    {
       "name": "Layton Giordani",
       "tracks": 28
     },
     {
       "name": "Goom Gum",
-      "tracks": 27
-    },
-    {
-      "name": "Kevin de Vries",
       "tracks": 27
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "name": "Armin van Buuren",
-      "tracks": 22
+      "tracks": 23
     },
     {
       "name": "Colyn",
@@ -96,48 +96,44 @@
   ],
   "recentTracks": [
     {
-      "name": "Hey Bro",
+      "name": "Jester",
       "artists": [
-        "Fideles"
+        "Chris Avantgarde"
       ],
-      "addedAt": "2026-07-10T13:56:32.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3PGwNzt7sph4PFuTgMYZH2"
+      "addedAt": "2026-07-10T19:24:19.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2AQ26wXeHjgbyfHaPcdWQ7"
     },
     {
-      "name": "Lose Your Mind",
+      "name": "Belter",
       "artists": [
-        "Kasey Taylor",
-        "Stereo Underground"
+        "Chris Avantgarde"
       ],
-      "addedAt": "2026-07-10T02:36:50.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0Qe7O158l5mEbEa1iIALs0"
+      "addedAt": "2026-07-10T19:18:34.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6auP637pqOaecIIeOC6sC3"
     },
     {
-      "name": "Pump That Body",
+      "name": "Obsessed",
       "artists": [
-        "ACRAZE",
-        "Rello"
+        "Chris Avantgarde"
       ],
-      "addedAt": "2026-07-08T19:34:29.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0wKWnU5HMCr06lxFzJ5nwF"
+      "addedAt": "2026-07-10T19:15:31.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/18hFrZd1e1zeTjcOXVTdQj"
     },
     {
-      "name": "Magic In You - Edit",
+      "name": "Rhythm Check",
       "artists": [
-        "Sam Paganini"
+        "Chris Avantgarde"
       ],
-      "addedAt": "2026-07-08T15:38:48.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3nrT6SiujRG4Hhyskgx5hq"
+      "addedAt": "2026-07-10T19:11:53.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4IEXVWPxi8EPL8mCkp78Rm"
     },
     {
-      "name": "Animal Rights - Westend Remix",
+      "name": "Where Do You Go",
       "artists": [
-        "deadmau5",
-        "Wolfgang Gartner",
-        "Westend"
+        "Chris Avantgarde"
       ],
-      "addedAt": "2026-07-08T15:37:36.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/35cvTsMB8e89HKXkGWbdxY"
+      "addedAt": "2026-07-10T19:03:36.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5ZYBV9QhE0Yv4NrZKmALLe"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +150,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1919,
+  "availableTracks": 1929,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-10T14:27:03.812Z"
+  "lastUpdated": "2026-07-10T19:27:21.259Z"
 }
