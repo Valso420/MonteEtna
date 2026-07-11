@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1939,
-  "exportedTracks": 1939,
-  "totalDurationMs": 547029808,
-  "totalHours": 152,
+  "totalTracks": 1946,
+  "exportedTracks": 1946,
+  "totalDurationMs": 548878954,
+  "totalHours": 152.5,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1385,
-  "uniqueAlbums": 1692,
+  "uniqueArtists": 1388,
+  "uniqueAlbums": 1695,
   "topArtists": [
     {
       "name": "Mathame",
@@ -86,54 +86,57 @@
       "tracks": 26
     },
     {
-      "name": "Armin van Buuren",
-      "tracks": 23
+      "name": "Chris Avantgarde",
+      "tracks": 24
     },
     {
-      "name": "Colyn",
-      "tracks": 22
+      "name": "Armin van Buuren",
+      "tracks": 23
     }
   ],
   "recentTracks": [
     {
-      "name": "Jester",
+      "name": "Disconnection",
       "artists": [
-        "Chris Avantgarde"
+        "Q.U.A.K.E",
+        "ROZYO"
       ],
-      "addedAt": "2026-07-10T19:24:19.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2AQ26wXeHjgbyfHaPcdWQ7"
+      "addedAt": "2026-07-10T20:54:20.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3vayMzB3JRenTAcPCH4CKu"
     },
     {
-      "name": "Belter",
+      "name": "Where Are You Tonight (VIP Mix)",
       "artists": [
-        "Chris Avantgarde"
+        "KREAM"
       ],
-      "addedAt": "2026-07-10T19:18:34.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6auP637pqOaecIIeOC6sC3"
+      "addedAt": "2026-07-10T20:38:07.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4QIBRuiw4hUoWjvsYifFMe"
     },
     {
-      "name": "Obsessed",
+      "name": "Double Vision",
       "artists": [
-        "Chris Avantgarde"
+        "Final Request"
       ],
-      "addedAt": "2026-07-10T19:15:31.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/18hFrZd1e1zeTjcOXVTdQj"
+      "addedAt": "2026-07-10T20:23:52.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7qF8Pzq8UTUEupookwuy7u"
     },
     {
-      "name": "Rhythm Check",
+      "name": "The Other Side",
       "artists": [
-        "Chris Avantgarde"
+        "Chris Avantgarde",
+        "Eddie Thoneick",
+        "Kisch"
       ],
-      "addedAt": "2026-07-10T19:11:53.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4IEXVWPxi8EPL8mCkp78Rm"
+      "addedAt": "2026-07-10T19:44:50.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/36I65ewQKL0q3xbfuRxpTN"
     },
     {
-      "name": "Where Do You Go",
+      "name": "Lost",
       "artists": [
         "Chris Avantgarde"
       ],
-      "addedAt": "2026-07-10T19:03:36.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5ZYBV9QhE0Yv4NrZKmALLe"
+      "addedAt": "2026-07-10T19:39:19.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0TewnasoZUegiJZnGxUSi4"
     }
   ],
   "duplicateTracks": 1,
@@ -150,9 +153,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1929,
+  "availableTracks": 1936,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-10T19:27:21.259Z"
+  "lastUpdated": "2026-07-11T02:39:35.101Z"
 }

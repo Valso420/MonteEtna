@@ -87086,5 +87086,303 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2AQ26wXeHjgbyfHaPcdWQ7",
     "uri": "spotify:track:2AQ26wXeHjgbyfHaPcdWQ7"
+  },
+  {
+    "position": 1940,
+    "addedAt": "2026-07-10T19:32:29.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6AKSZJnsCwlGHGmgL12oXF",
+    "name": "Firmament",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 158473,
+    "durationMin": 2.64,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6AKSZJnsCwlGHGmgL12oXF",
+    "uri": "spotify:track:6AKSZJnsCwlGHGmgL12oXF"
+  },
+  {
+    "position": 1941,
+    "addedAt": "2026-07-10T19:36:41.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2yaYRoiVBfNSEoHWKDQnOY",
+    "name": "Get It All Night",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 228923,
+    "durationMin": 3.82,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2yaYRoiVBfNSEoHWKDQnOY",
+    "uri": "spotify:track:2yaYRoiVBfNSEoHWKDQnOY"
+  },
+  {
+    "position": 1942,
+    "addedAt": "2026-07-10T19:39:19.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0TewnasoZUegiJZnGxUSi4",
+    "name": "Lost",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 316119,
+    "durationMin": 5.27,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0TewnasoZUegiJZnGxUSi4",
+    "uri": "spotify:track:0TewnasoZUegiJZnGxUSi4"
+  },
+  {
+    "position": 1943,
+    "addedAt": "2026-07-10T19:44:50.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "36I65ewQKL0q3xbfuRxpTN",
+    "name": "The Other Side",
+    "artists": [
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      },
+      {
+        "id": "5bZtLLqlPwps3vdb8ElAkt",
+        "name": "Eddie Thoneick",
+        "uri": "spotify:artist:5bZtLLqlPwps3vdb8ElAkt",
+        "spotifyUrl": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
+      },
+      {
+        "id": "5geAjOsxhftVd39yemf4r8",
+        "name": "Kisch",
+        "uri": "spotify:artist:5geAjOsxhftVd39yemf4r8",
+        "spotifyUrl": "https://open.spotify.com/artist/5geAjOsxhftVd39yemf4r8"
+      }
+    ],
+    "album": {
+      "id": "7g2kMyTU0MdUj21BgH2k6e",
+      "name": "Hyperreal",
+      "uri": "spotify:album:7g2kMyTU0MdUj21BgH2k6e",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/7g2kMyTU0MdUj21BgH2k6e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0332406d964630bbfe45505"
+    },
+    "durationMs": 327643,
+    "durationMin": 5.46,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/36I65ewQKL0q3xbfuRxpTN",
+    "uri": "spotify:track:36I65ewQKL0q3xbfuRxpTN"
+  },
+  {
+    "position": 1944,
+    "addedAt": "2026-07-10T20:23:52.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7qF8Pzq8UTUEupookwuy7u",
+    "name": "Double Vision",
+    "artists": [
+      {
+        "id": "3NVOeVf2oPolFbXeTjdb3x",
+        "name": "Final Request",
+        "uri": "spotify:artist:3NVOeVf2oPolFbXeTjdb3x",
+        "spotifyUrl": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+      }
+    ],
+    "album": {
+      "id": "70t44qeHNmXlg11o21iN1m",
+      "name": "Double Vision",
+      "uri": "spotify:album:70t44qeHNmXlg11o21iN1m",
+      "releaseDate": "2026-05-15",
+      "spotifyUrl": "https://open.spotify.com/album/70t44qeHNmXlg11o21iN1m",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273401d3ebdf9d012c84cc20381"
+    },
+    "durationMs": 243281,
+    "durationMin": 4.05,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7qF8Pzq8UTUEupookwuy7u",
+    "uri": "spotify:track:7qF8Pzq8UTUEupookwuy7u"
+  },
+  {
+    "position": 1945,
+    "addedAt": "2026-07-10T20:38:07.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4QIBRuiw4hUoWjvsYifFMe",
+    "name": "Where Are You Tonight (VIP Mix)",
+    "artists": [
+      {
+        "id": "0DdDnziut7wOo6cAYWVZC5",
+        "name": "KREAM",
+        "uri": "spotify:artist:0DdDnziut7wOo6cAYWVZC5",
+        "spotifyUrl": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+      }
+    ],
+    "album": {
+      "id": "4HtNgDOeZms5u3UY4K7LsJ",
+      "name": "Where Are You Tonight (VIP Mix)",
+      "uri": "spotify:album:4HtNgDOeZms5u3UY4K7LsJ",
+      "releaseDate": "2026-06-12",
+      "spotifyUrl": "https://open.spotify.com/album/4HtNgDOeZms5u3UY4K7LsJ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731fab4d45e0eb9fdb311ba0e1"
+    },
+    "durationMs": 248307,
+    "durationMin": 4.14,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4QIBRuiw4hUoWjvsYifFMe",
+    "uri": "spotify:track:4QIBRuiw4hUoWjvsYifFMe"
+  },
+  {
+    "position": 1946,
+    "addedAt": "2026-07-10T20:54:20.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3vayMzB3JRenTAcPCH4CKu",
+    "name": "Disconnection",
+    "artists": [
+      {
+        "id": "3xcRMBXy9wnPg0pUH76w91",
+        "name": "Q.U.A.K.E",
+        "uri": "spotify:artist:3xcRMBXy9wnPg0pUH76w91",
+        "spotifyUrl": "https://open.spotify.com/artist/3xcRMBXy9wnPg0pUH76w91"
+      },
+      {
+        "id": "6N1sezjaImdJ4IYa4CwNqs",
+        "name": "ROZYO",
+        "uri": "spotify:artist:6N1sezjaImdJ4IYa4CwNqs",
+        "spotifyUrl": "https://open.spotify.com/artist/6N1sezjaImdJ4IYa4CwNqs"
+      }
+    ],
+    "album": {
+      "id": "0E5xwCbZCafIwZbQvaE28p",
+      "name": "Disconnection",
+      "uri": "spotify:album:0E5xwCbZCafIwZbQvaE28p",
+      "releaseDate": "2025-05-30",
+      "spotifyUrl": "https://open.spotify.com/album/0E5xwCbZCafIwZbQvaE28p",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736bda49c8fe619ec1b2169b1e"
+    },
+    "durationMs": 326400,
+    "durationMin": 5.44,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3vayMzB3JRenTAcPCH4CKu",
+    "uri": "spotify:track:3vayMzB3JRenTAcPCH4CKu"
   }
 ]
