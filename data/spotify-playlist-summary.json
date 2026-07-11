@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1946,
-  "exportedTracks": 1946,
-  "totalDurationMs": 548878954,
+  "totalTracks": 1947,
+  "exportedTracks": 1947,
+  "totalDurationMs": 549058954,
   "totalHours": 152.5,
   "averageDurationMin": 4.7,
   "uniqueArtists": 1388,
-  "uniqueAlbums": 1695,
+  "uniqueAlbums": 1696,
   "topArtists": [
     {
       "name": "Mathame",
@@ -27,7 +27,7 @@
     },
     {
       "name": "CamelPhat",
-      "tracks": 49
+      "tracks": 50
     },
     {
       "name": "Solomun",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Unique Moment",
+      "artists": [
+        "CamelPhat",
+        "Volkoder"
+      ],
+      "addedAt": "2026-07-11T05:21:44.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7"
+    },
+    {
       "name": "Disconnection",
       "artists": [
         "Q.U.A.K.E",
@@ -129,14 +138,6 @@
       ],
       "addedAt": "2026-07-10T19:44:50.000Z",
       "spotifyUrl": "https://open.spotify.com/track/36I65ewQKL0q3xbfuRxpTN"
-    },
-    {
-      "name": "Lost",
-      "artists": [
-        "Chris Avantgarde"
-      ],
-      "addedAt": "2026-07-10T19:39:19.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0TewnasoZUegiJZnGxUSi4"
     }
   ],
   "duplicateTracks": 1,
@@ -153,9 +154,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1936,
+  "availableTracks": 1937,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-11T02:39:35.101Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-07-11T07:56:21.054Z"
 }
