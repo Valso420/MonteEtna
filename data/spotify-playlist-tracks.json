@@ -86009,6 +86009,12 @@
         "name": "Skuro (IT)",
         "uri": "spotify:artist:1IhNa18PPS7VIpz8LNaIHJ",
         "spotifyUrl": "https://open.spotify.com/artist/1IhNa18PPS7VIpz8LNaIHJ"
+      },
+      {
+        "id": "1t209pHtHfFUWWgxJpHZhk",
+        "name": "NIKITA",
+        "uri": "spotify:artist:1t209pHtHfFUWWgxJpHZhk",
+        "spotifyUrl": "https://open.spotify.com/artist/1t209pHtHfFUWWgxJpHZhk"
       }
     ],
     "album": {
@@ -86017,7 +86023,7 @@
       "uri": "spotify:album:5WGRS1iN3eVJjuKVilBdZV",
       "releaseDate": "2026-07-03",
       "spotifyUrl": "https://open.spotify.com/album/5WGRS1iN3eVJjuKVilBdZV",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27325aabad57b14839af1e7fde4"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735dd0877c3e2f799fb59c3885"
     },
     "durationMs": 209062,
     "durationMin": 3.48,
