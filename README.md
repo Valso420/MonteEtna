@@ -1,55 +1,72 @@
 # Monte Etna
 
-Landing puente entre la playlist de Spotify Monte Etna (https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB) y el grupo cerrado de WhatsApp.
+Landing estática que conecta la
+[playlist Monte Etna](https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB)
+con un grupo cerrado de WhatsApp.
 
-URL publica: https://monteetna.vercel.app/
+Sitio público: [monteetna.vercel.app](https://monteetna.vercel.app/)
 
-## Proposito
+## Propósito
 
-Monte Etna presenta una comunidad electronica curada:
+Monte Etna presenta una comunidad de música electrónica curada:
 
-- La playlist es el sonido.
-- El grupo es el acceso.
+- la playlist es el sonido;
+- el grupo es el acceso.
 
-La pagina busca que el visitante siga la playlist, entre al grupo cerrado, o complete ambos pasos dentro del mismo circuito.
+La página permite seguir la playlist, solicitar acceso al grupo o completar ambos
+pasos dentro del mismo circuito.
 
-## Activos
+## Estructura
 
-- Spotify: playlist Monte Etna.
-- WhatsApp: grupo cerrado, solo admins, sin spam.
-- Imagen local de playlist: `assets/playlist-cover.jpg`.
-- Imagen hero: `assets/hero-volcanic-club.jpg`.
-- Export completo generado por sync: `data/spotify-playlist-tracks.json`.
-- CSV historico de la playlist: `data/spotify-playlist-tracks.csv`.
-- Resumen analitico: `data/spotify-playlist-summary.json`.
-- Script para obtener refresh token: `scripts/get-spotify-refresh-token.mjs`.
-- Script de sincronizacion oficial: `scripts/sync-spotify-playlist.mjs`.
+- `index.html`: landing completa, sin build ni dependencias.
+- `assets/playlist-cover.jpg`: portada local de la playlist.
+- `assets/hero-volcanic-club.jpg`: imagen principal.
+- `assets/spotify-summary.js`: fallback estático para el resumen visible.
+- `assets/playlist-description.txt`: copia manual de la descripción pública de la
+  playlist; no la consumen el sitio ni el workflow.
+- `data/spotify-playlist-tracks.json`: export generado de canciones.
+- `data/spotify-playlist-summary.json`: resumen generado y fuente primaria para
+  las métricas de la landing.
+- `data/spotify-playlist-tracks.csv`: export histórico; no lo actualiza el sync.
+- `scripts/`: autenticación, sincronización y validación de Spotify.
+- `.github/workflows/sync-spotify.yml`: actualización programada de los JSON.
 
-## Datos publicos de Spotify
+## Datos de Spotify en la landing
 
-Revisado el 2026-06-19:
+El navegador intenta cargar `data/spotify-playlist-summary.json`. Si el fetch
+falla —por ejemplo, al abrir el HTML directamente— utiliza
+`assets/spotify-summary.js` como fallback.
 
-- Curador: Mate Ramos.
-- Items: 1876.
-- Saves: 38.
-- Duracion total: 146.8 horas.
-- Artistas distintos: 1359.
-- Albumes representados: 1649.
+El JSON generado es la fuente primaria y contiene la fecha de actualización,
+cantidad de tracks, duración, artistas, álbumes, top de artistas y agregados
+recientes. El README no copia esas métricas porque cambian con cada
+sincronización.
 
-La landing consume `data/spotify-playlist-summary.json` en runtime estatico con fallback local. No llama a Spotify desde el navegador y no expone secretos.
+El workflow actualiza únicamente los JSON bajo `data/`. No actualiza
+`assets/spotify-summary.js`; cualquier cambio del fallback debe hacerse de forma
+deliberada y contrastarse con el resumen generado. La landing no llama a Spotify
+desde el navegador ni expone credenciales.
 
-## Sincronizacion de Spotify
+## Sincronización automática
 
-La actualizacion de datos corre con GitHub Actions cada 6 horas y tambien puede ejecutarse manualmente desde el workflow `Sync Spotify playlist`.
+GitHub Actions ejecuta `Sync Spotify playlist` cada seis horas y también admite
+un disparo manual desde la interfaz de Actions. Si los JSON no cambian, el
+workflow no crea un commit.
 
-El workflow requiere estos secrets del repo:
+Credenciales sensibles requeridas:
 
-- `SPOTIFY_CLIENT_ID`
-- `SPOTIFY_CLIENT_SECRET`
-- `SPOTIFY_REFRESH_TOKEN`
-- `SPOTIFY_PLAYLIST_ID`
+- `SPOTIFY_CLIENT_ID`;
+- `SPOTIFY_CLIENT_SECRET`;
+- `SPOTIFY_REFRESH_TOKEN`.
 
-El refresh token se genera localmente con el helper:
+`SPOTIFY_PLAYLIST_ID` identifica una playlist pública y no es secreto. El workflow
+lo obtiene actualmente desde GitHub Actions secrets como configuración del
+repositorio; `.env.example` mantiene el valor público por defecto. El redirect
+URI loopback también es configuración no sensible.
+
+## Obtener un refresh token
+
+El helper abre el flujo local de autorización:
 
 ```powershell
 $env:SPOTIFY_CLIENT_ID="..."
@@ -58,7 +75,13 @@ $env:SPOTIFY_REDIRECT_URI="http://127.0.0.1:8888/callback"
 node scripts/get-spotify-refresh-token.mjs
 ```
 
-Para sincronizar y validar datos localmente:
+El comando imprime el refresh token una sola vez en la terminal. Esa salida es
+un secreto: no debe copiarse a commits, documentación, logs, capturas ni mensajes.
+
+## Sincronización local
+
+Una sincronización real consulta Spotify y sobrescribe los dos JSON generados.
+Después de confirmar las credenciales y el playlist de destino:
 
 ```powershell
 $env:SPOTIFY_CLIENT_ID="..."
@@ -69,22 +92,30 @@ node scripts/sync-spotify-playlist.mjs
 node scripts/validate-spotify-data.mjs
 ```
 
-Archivos generados:
+El validador comprueba, entre otras cosas:
 
-- `data/spotify-playlist-tracks.json`
-- `data/spotify-playlist-summary.json`
+- que Spotify haya devuelto tracks;
+- que el total exportado coincida con el informado por la API;
+- que cada track tenga ID, nombre, duración y campo `addedBy`;
+- que el resumen tenga duración, artistas, álbumes, top y recientes;
+- que tracks disponibles y no disponibles sumen el total exportado.
 
-Validaciones incluidas:
+Antes de conservar el resultado debe revisarse que solo hayan cambiado:
 
-- falla si Spotify devuelve 0 tracks.
-- falla si `exportedTracks` no coincide con `totalTracks`.
-- falla si los tracks quedan sin nombre, sin duracion o sin top/recent data.
-- genera JSON valido antes de que GitHub Actions confirme cambios.
-- el workflow no genera commits si `data/` no cambio.
+- `data/spotify-playlist-tracks.json`;
+- `data/spotify-playlist-summary.json`.
 
-Si Spotify devuelve `403 Forbidden` al sincronizar, regenerar el refresh token con el helper actualizado. El endpoint oficial de items solo permite leer playlists donde el usuario autorizado es owner o colaborador.
+Si Spotify responde `403 Forbidden`, comprueba que la cuenta autorizada sea owner
+o colaboradora de la playlist y regenera el refresh token si corresponde.
 
-## Desarrollo
+## Desarrollo y validación
 
-Es una pagina estatica. Abrir `index.html` en el navegador o desplegar el repo como sitio estatico.
-No requiere paso de build.
+No hay instalación ni build. Abre `index.html` directamente o sirve la raíz con
+un servidor estático. Revisa layout responsive, imágenes, enlaces y el fallback
+de datos.
+
+La validación offline de los datos versionados es:
+
+```powershell
+node scripts/validate-spotify-data.mjs
+```
