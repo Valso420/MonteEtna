@@ -44421,16 +44421,16 @@
         "spotifyUrl": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
       },
       {
-        "id": "0N0nCdKwmRXiW7w7w9eKNo",
-        "name": "ACNOR",
-        "uri": "spotify:artist:0N0nCdKwmRXiW7w7w9eKNo",
-        "spotifyUrl": "https://open.spotify.com/artist/0N0nCdKwmRXiW7w7w9eKNo"
-      },
-      {
         "id": "6jpP7intdMUZIHm5O8WVL6",
         "name": "Axone",
         "uri": "spotify:artist:6jpP7intdMUZIHm5O8WVL6",
         "spotifyUrl": "https://open.spotify.com/artist/6jpP7intdMUZIHm5O8WVL6"
+      },
+      {
+        "id": "0N0nCdKwmRXiW7w7w9eKNo",
+        "name": "ACNOR",
+        "uri": "spotify:artist:0N0nCdKwmRXiW7w7w9eKNo",
+        "spotifyUrl": "https://open.spotify.com/artist/0N0nCdKwmRXiW7w7w9eKNo"
       }
     ],
     "album": {
