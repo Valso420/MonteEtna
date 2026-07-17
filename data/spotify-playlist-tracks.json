@@ -3291,8 +3291,8 @@
     "durationMin": 7.05,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -87430,5 +87430,189 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7",
     "uri": "spotify:track:2fJFjRgFpfdkbSoyRKUuf7"
+  },
+  {
+    "position": 1948,
+    "addedAt": "2026-07-17T12:25:50.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2KtVx4lNWEgRW7UXGxJZwO",
+    "name": "The Realm",
+    "artists": [
+      {
+        "id": "7mC3RkNNTV6p2j9w4F8Ip4",
+        "name": "Layton Giordani",
+        "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4",
+        "spotifyUrl": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+      },
+      {
+        "id": "7eHoBIirKPLD1FtgLZnjFV",
+        "name": "KASIA",
+        "uri": "spotify:artist:7eHoBIirKPLD1FtgLZnjFV",
+        "spotifyUrl": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+      }
+    ],
+    "album": {
+      "id": "17fphJG2iSPRDIXKZtaweO",
+      "name": "The Realm",
+      "uri": "spotify:album:17fphJG2iSPRDIXKZtaweO",
+      "releaseDate": "2026-07-17",
+      "spotifyUrl": "https://open.spotify.com/album/17fphJG2iSPRDIXKZtaweO",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273291a3d6c63d3fc8cc091beda"
+    },
+    "durationMs": 184615,
+    "durationMin": 3.08,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2KtVx4lNWEgRW7UXGxJZwO",
+    "uri": "spotify:track:2KtVx4lNWEgRW7UXGxJZwO"
+  },
+  {
+    "position": 1949,
+    "addedAt": "2026-07-17T12:27:40.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7CsjzGFIdvIMTVTMGeMo8v",
+    "name": "Future Generation",
+    "artists": [
+      {
+        "id": "6htWLP8aiuf19FYMA4VQAZ",
+        "name": "Massano",
+        "uri": "spotify:artist:6htWLP8aiuf19FYMA4VQAZ",
+        "spotifyUrl": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+      },
+      {
+        "id": "4XCU9tk7hogxz1SRTvVXLJ",
+        "name": "Glowal",
+        "uri": "spotify:artist:4XCU9tk7hogxz1SRTvVXLJ",
+        "spotifyUrl": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+      }
+    ],
+    "album": {
+      "id": "4RYR9IpxE7EoPUX2nzz12O",
+      "name": "Future Generation",
+      "uri": "spotify:album:4RYR9IpxE7EoPUX2nzz12O",
+      "releaseDate": "2026-07-17",
+      "spotifyUrl": "https://open.spotify.com/album/4RYR9IpxE7EoPUX2nzz12O",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273451e413805ab6f41dfdba667"
+    },
+    "durationMs": 183124,
+    "durationMin": 3.05,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7CsjzGFIdvIMTVTMGeMo8v",
+    "uri": "spotify:track:7CsjzGFIdvIMTVTMGeMo8v"
+  },
+  {
+    "position": 1950,
+    "addedAt": "2026-07-17T12:31:44.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3DSY7B0roAopGKkCQGut3K",
+    "name": "Dirty Beat",
+    "artists": [
+      {
+        "id": "6caPJFLv1wesmM7gwK1ACy",
+        "name": "Boris Brejcha",
+        "uri": "spotify:artist:6caPJFLv1wesmM7gwK1ACy",
+        "spotifyUrl": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+      },
+      {
+        "id": "1kprV7ls7rdPboF4LtuOgt",
+        "name": "MC Flipside",
+        "uri": "spotify:artist:1kprV7ls7rdPboF4LtuOgt",
+        "spotifyUrl": "https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt"
+      }
+    ],
+    "album": {
+      "id": "2uZkvxbfbloSSWoST9x1IP",
+      "name": "Dirty Beat",
+      "uri": "spotify:album:2uZkvxbfbloSSWoST9x1IP",
+      "releaseDate": "2026-07-17",
+      "spotifyUrl": "https://open.spotify.com/album/2uZkvxbfbloSSWoST9x1IP",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d84bf5537d34b29852e40383"
+    },
+    "durationMs": 184320,
+    "durationMin": 3.07,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3DSY7B0roAopGKkCQGut3K",
+    "uri": "spotify:track:3DSY7B0roAopGKkCQGut3K"
+  },
+  {
+    "position": 1951,
+    "addedAt": "2026-07-17T12:46:06.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7lvAJPxrLvbAfhZNgEFP4r",
+    "name": "Silent Pressure",
+    "artists": [
+      {
+        "id": "6iWBjg4b4ll4jLiParnWXT",
+        "name": "Bart Skils",
+        "uri": "spotify:artist:6iWBjg4b4ll4jLiParnWXT",
+        "spotifyUrl": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+      },
+      {
+        "id": "0tE5uhIK2tSierQTyLi9ci",
+        "name": "Weska",
+        "uri": "spotify:artist:0tE5uhIK2tSierQTyLi9ci",
+        "spotifyUrl": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
+      }
+    ],
+    "album": {
+      "id": "7Ix3ulz7HciLSZiicNv2cS",
+      "name": "For the Music",
+      "uri": "spotify:album:7Ix3ulz7HciLSZiicNv2cS",
+      "releaseDate": "2026-03-13",
+      "spotifyUrl": "https://open.spotify.com/album/7Ix3ulz7HciLSZiicNv2cS",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f17aa215c10719a3bebdd259"
+    },
+    "durationMs": 242992,
+    "durationMin": 4.05,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7lvAJPxrLvbAfhZNgEFP4r",
+    "uri": "spotify:track:7lvAJPxrLvbAfhZNgEFP4r"
   }
 ]

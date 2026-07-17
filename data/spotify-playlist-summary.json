@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1947,
-  "exportedTracks": 1947,
-  "totalDurationMs": 549058954,
-  "totalHours": 152.5,
+  "totalTracks": 1951,
+  "exportedTracks": 1951,
+  "totalDurationMs": 549854005,
+  "totalHours": 152.7,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1388,
-  "uniqueAlbums": 1696,
+  "uniqueArtists": 1389,
+  "uniqueAlbums": 1700,
   "topArtists": [
     {
       "name": "Mathame",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Massano",
-      "tracks": 55
+      "tracks": 56
     },
     {
       "name": "CamelPhat",
@@ -58,15 +58,15 @@
       "tracks": 29
     },
     {
+      "name": "Layton Giordani",
+      "tracks": 29
+    },
+    {
       "name": "Rebūke",
       "tracks": 29
     },
     {
       "name": "Kevin de Vries",
-      "tracks": 28
-    },
-    {
-      "name": "Layton Giordani",
       "tracks": 28
     },
     {
@@ -96,6 +96,42 @@
   ],
   "recentTracks": [
     {
+      "name": "Silent Pressure",
+      "artists": [
+        "Bart Skils",
+        "Weska"
+      ],
+      "addedAt": "2026-07-17T12:46:06.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7lvAJPxrLvbAfhZNgEFP4r"
+    },
+    {
+      "name": "Dirty Beat",
+      "artists": [
+        "Boris Brejcha",
+        "MC Flipside"
+      ],
+      "addedAt": "2026-07-17T12:31:44.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3DSY7B0roAopGKkCQGut3K"
+    },
+    {
+      "name": "Future Generation",
+      "artists": [
+        "Massano",
+        "Glowal"
+      ],
+      "addedAt": "2026-07-17T12:27:40.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7CsjzGFIdvIMTVTMGeMo8v"
+    },
+    {
+      "name": "The Realm",
+      "artists": [
+        "Layton Giordani",
+        "KASIA"
+      ],
+      "addedAt": "2026-07-17T12:25:50.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2KtVx4lNWEgRW7UXGxJZwO"
+    },
+    {
       "name": "Unique Moment",
       "artists": [
         "CamelPhat",
@@ -103,41 +139,6 @@
       ],
       "addedAt": "2026-07-11T05:21:44.000Z",
       "spotifyUrl": "https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7"
-    },
-    {
-      "name": "Disconnection",
-      "artists": [
-        "Q.U.A.K.E",
-        "ROZYO"
-      ],
-      "addedAt": "2026-07-10T20:54:20.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3vayMzB3JRenTAcPCH4CKu"
-    },
-    {
-      "name": "Where Are You Tonight (VIP Mix)",
-      "artists": [
-        "KREAM"
-      ],
-      "addedAt": "2026-07-10T20:38:07.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4QIBRuiw4hUoWjvsYifFMe"
-    },
-    {
-      "name": "Double Vision",
-      "artists": [
-        "Final Request"
-      ],
-      "addedAt": "2026-07-10T20:23:52.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7qF8Pzq8UTUEupookwuy7u"
-    },
-    {
-      "name": "The Other Side",
-      "artists": [
-        "Chris Avantgarde",
-        "Eddie Thoneick",
-        "Kisch"
-      ],
-      "addedAt": "2026-07-10T19:44:50.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/36I65ewQKL0q3xbfuRxpTN"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +155,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1937,
-  "unavailableTracks": 10,
+  "availableTracks": 1942,
+  "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-17T08:09:59.950Z"
+  "lastUpdated": "2026-07-17T13:37:27.294Z"
 }
