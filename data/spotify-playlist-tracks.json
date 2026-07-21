@@ -87614,5 +87614,91 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/7lvAJPxrLvbAfhZNgEFP4r",
     "uri": "spotify:track:7lvAJPxrLvbAfhZNgEFP4r"
+  },
+  {
+    "position": 1952,
+    "addedAt": "2026-07-21T02:27:12.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1uiKOpnI21waXFOlYOU5Za",
+    "name": "Layton Giordani, Patrick Topping & Kosmo Kint - Tonight - Live from UNVRS, Ibiza",
+    "artists": [
+      {
+        "id": "7mC3RkNNTV6p2j9w4F8Ip4",
+        "name": "Layton Giordani",
+        "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4",
+        "spotifyUrl": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+      }
+    ],
+    "album": {
+      "id": "5v7wmKK1veOhWh6pb9dFVV",
+      "name": "Layton Giordani, Patrick Topping & Kosmo Kint - Tonight (Live from UNVRS, Ibiza)",
+      "uri": "spotify:album:5v7wmKK1veOhWh6pb9dFVV",
+      "releaseDate": "2026-07-02",
+      "spotifyUrl": "https://open.spotify.com/album/5v7wmKK1veOhWh6pb9dFVV",
+      "coverUrl": "https://i.scdn.co/image/ab6742d3000053b7b125956796917f0780d58194"
+    },
+    "durationMs": 195369,
+    "durationMin": 3.26,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1uiKOpnI21waXFOlYOU5Za",
+    "uri": "spotify:track:1uiKOpnI21waXFOlYOU5Za"
+  },
+  {
+    "position": 1953,
+    "addedAt": "2026-07-21T02:27:57.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2AzAamWZi47Fv7nds8h7AM",
+    "name": "Proton",
+    "artists": [
+      {
+        "id": "6TVdVlY6irsNPkMHT2HkfD",
+        "name": "Space 92",
+        "uri": "spotify:artist:6TVdVlY6irsNPkMHT2HkfD",
+        "spotifyUrl": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+      },
+      {
+        "id": "4eFbq5PZgW7YbtA65PP4wS",
+        "name": "Alignment",
+        "uri": "spotify:artist:4eFbq5PZgW7YbtA65PP4wS",
+        "spotifyUrl": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+      }
+    ],
+    "album": {
+      "id": "3jzdQpVYQqHgfFbyYm5Pub",
+      "name": "Proton",
+      "uri": "spotify:album:3jzdQpVYQqHgfFbyYm5Pub",
+      "releaseDate": "2026-07-17",
+      "spotifyUrl": "https://open.spotify.com/album/3jzdQpVYQqHgfFbyYm5Pub",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737cc8c4cbb415cf0c6abc8e0f"
+    },
+    "durationMs": 190400,
+    "durationMin": 3.17,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2AzAamWZi47Fv7nds8h7AM",
+    "uri": "spotify:track:2AzAamWZi47Fv7nds8h7AM"
   }
 ]
