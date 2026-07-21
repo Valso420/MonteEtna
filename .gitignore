@@ -5,3 +5,6 @@
 node_modules
 dist
 build
+
+# Agent scratch space
+/.agent-tmp/
