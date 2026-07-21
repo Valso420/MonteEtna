@@ -87700,5 +87700,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2AzAamWZi47Fv7nds8h7AM",
     "uri": "spotify:track:2AzAamWZi47Fv7nds8h7AM"
+  },
+  {
+    "position": 1954,
+    "addedAt": "2026-07-21T17:45:25.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6IFB0IZGdsLzXdXm7p07mo",
+    "name": "Jungle",
+    "artists": [
+      {
+        "id": "05Pn4YBKlafyqay7CrSS17",
+        "name": "Gueva",
+        "uri": "spotify:artist:05Pn4YBKlafyqay7CrSS17",
+        "spotifyUrl": "https://open.spotify.com/artist/05Pn4YBKlafyqay7CrSS17"
+      },
+      {
+        "id": "1kAgfGexswhVsFKGRrcIMB",
+        "name": "Guzy",
+        "uri": "spotify:artist:1kAgfGexswhVsFKGRrcIMB",
+        "spotifyUrl": "https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB"
+      }
+    ],
+    "album": {
+      "id": "0x36cGduKwKjQYtwVG3Ia0",
+      "name": "Jungle",
+      "uri": "spotify:album:0x36cGduKwKjQYtwVG3Ia0",
+      "releaseDate": "2025-12-12",
+      "spotifyUrl": "https://open.spotify.com/album/0x36cGduKwKjQYtwVG3Ia0",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273026033e9052f7d31d31671fe"
+    },
+    "durationMs": 290476,
+    "durationMin": 4.84,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6IFB0IZGdsLzXdXm7p07mo",
+    "uri": "spotify:track:6IFB0IZGdsLzXdXm7p07mo"
   }
 ]
