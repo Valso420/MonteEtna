@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1954,
-  "exportedTracks": 1954,
-  "totalDurationMs": 550530250,
-  "totalHours": 152.9,
-  "averageDurationMin": 4.7,
-  "uniqueArtists": 1390,
-  "uniqueAlbums": 1703,
+  "totalTracks": 1960,
+  "exportedTracks": 1960,
+  "totalDurationMs": 551676504,
+  "totalHours": 153.2,
+  "averageDurationMin": 4.69,
+  "uniqueArtists": 1391,
+  "uniqueAlbums": 1707,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,48 +96,45 @@
   ],
   "recentTracks": [
     {
-      "name": "Jungle",
+      "name": "Electrify",
       "artists": [
-        "Gueva",
-        "Guzy"
+        "Eli Brown"
       ],
-      "addedAt": "2026-07-21T17:45:25.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6IFB0IZGdsLzXdXm7p07mo"
+      "addedAt": "2026-07-22T19:04:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
     },
     {
-      "name": "Proton",
+      "name": "Come To Life",
       "artists": [
-        "Space 92",
-        "Alignment"
+        "Cassian",
+        "AR/CO"
       ],
-      "addedAt": "2026-07-21T02:27:57.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2AzAamWZi47Fv7nds8h7AM"
+      "addedAt": "2026-07-22T18:36:15.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
     },
     {
-      "name": "Layton Giordani, Patrick Topping & Kosmo Kint - Tonight - Live from UNVRS, Ibiza",
+      "name": "Living Fast",
       "artists": [
-        "Layton Giordani"
+        "Lilly Palmer"
       ],
-      "addedAt": "2026-07-21T02:27:12.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1uiKOpnI21waXFOlYOU5Za"
+      "addedAt": "2026-07-22T18:28:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1fI5dqqQQkk8InvakMSP4h"
     },
     {
-      "name": "Silent Pressure",
+      "name": "Acid Infusion",
       "artists": [
-        "Bart Skils",
-        "Weska"
+        "Lilly Palmer"
       ],
-      "addedAt": "2026-07-17T12:46:06.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7lvAJPxrLvbAfhZNgEFP4r"
+      "addedAt": "2026-07-22T18:28:36.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1PINyT6MhsLpSnnCffcD89"
     },
     {
-      "name": "Dirty Beat",
+      "name": "You're the One",
       "artists": [
-        "Boris Brejcha",
-        "MC Flipside"
+        "Lilly Palmer"
       ],
-      "addedAt": "2026-07-17T12:31:44.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3DSY7B0roAopGKkCQGut3K"
+      "addedAt": "2026-07-22T18:28:32.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2iprNh1l75X3Wgwxn7hFne"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +151,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1945,
-  "unavailableTracks": 9,
+  "availableTracks": 1957,
+  "unavailableTracks": 3,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-22T02:39:40.512Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-07-22T19:19:38.675Z"
 }

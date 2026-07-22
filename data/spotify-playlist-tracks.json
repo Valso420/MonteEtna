@@ -14573,8 +14573,8 @@
     "durationMin": 6.42,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -15199,8 +15199,8 @@
     "durationMin": 3.02,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -36197,8 +36197,8 @@
     "durationMin": 5.31,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -57123,8 +57123,8 @@
     "durationMin": 3.49,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -58393,8 +58393,8 @@
     "durationMin": 3.84,
     "explicit": true,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -67107,8 +67107,8 @@
     "durationMin": 2.3,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -87746,5 +87746,257 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/6IFB0IZGdsLzXdXm7p07mo",
     "uri": "spotify:track:6IFB0IZGdsLzXdXm7p07mo"
+  },
+  {
+    "position": 1955,
+    "addedAt": "2026-07-22T18:23:51.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3vVapQ0417yRGO66kWT2V3",
+    "name": "Comes and Goes - Dom Dolla Remix",
+    "artists": [
+      {
+        "id": "3an9rnsXKPCAMlZgH4A0n4",
+        "name": "KETTAMA",
+        "uri": "spotify:artist:3an9rnsXKPCAMlZgH4A0n4",
+        "spotifyUrl": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+      },
+      {
+        "id": "205i7E8fNVfojowcQSfK9m",
+        "name": "Dom Dolla",
+        "uri": "spotify:artist:205i7E8fNVfojowcQSfK9m",
+        "spotifyUrl": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+      }
+    ],
+    "album": {
+      "id": "0P1a7qP5rKjk9tCdj8SAd5",
+      "name": "Comes and Goes (Dom Dolla Remix)",
+      "uri": "spotify:album:0P1a7qP5rKjk9tCdj8SAd5",
+      "releaseDate": "2026-07-17",
+      "spotifyUrl": "https://open.spotify.com/album/0P1a7qP5rKjk9tCdj8SAd5",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736a432f681cfdaee97b9cff4d"
+    },
+    "durationMs": 267272,
+    "durationMin": 4.45,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3vVapQ0417yRGO66kWT2V3",
+    "uri": "spotify:track:3vVapQ0417yRGO66kWT2V3"
+  },
+  {
+    "position": 1956,
+    "addedAt": "2026-07-22T18:28:32.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2iprNh1l75X3Wgwxn7hFne",
+    "name": "You're the One",
+    "artists": [
+      {
+        "id": "4h8IEOdrg60WM5XGyNOCVU",
+        "name": "Lilly Palmer",
+        "uri": "spotify:artist:4h8IEOdrg60WM5XGyNOCVU",
+        "spotifyUrl": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+      }
+    ],
+    "album": {
+      "id": "1gbkl2dQEu7kLZU1qLn0Ul",
+      "name": "You're The One EP",
+      "uri": "spotify:album:1gbkl2dQEu7kLZU1qLn0Ul",
+      "releaseDate": "2026-07-17",
+      "spotifyUrl": "https://open.spotify.com/album/1gbkl2dQEu7kLZU1qLn0Ul",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d18712ab1321da54d62294e6"
+    },
+    "durationMs": 181399,
+    "durationMin": 3.02,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2iprNh1l75X3Wgwxn7hFne",
+    "uri": "spotify:track:2iprNh1l75X3Wgwxn7hFne"
+  },
+  {
+    "position": 1957,
+    "addedAt": "2026-07-22T18:28:36.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1PINyT6MhsLpSnnCffcD89",
+    "name": "Acid Infusion",
+    "artists": [
+      {
+        "id": "4h8IEOdrg60WM5XGyNOCVU",
+        "name": "Lilly Palmer",
+        "uri": "spotify:artist:4h8IEOdrg60WM5XGyNOCVU",
+        "spotifyUrl": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+      }
+    ],
+    "album": {
+      "id": "1gbkl2dQEu7kLZU1qLn0Ul",
+      "name": "You're The One EP",
+      "uri": "spotify:album:1gbkl2dQEu7kLZU1qLn0Ul",
+      "releaseDate": "2026-07-17",
+      "spotifyUrl": "https://open.spotify.com/album/1gbkl2dQEu7kLZU1qLn0Ul",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d18712ab1321da54d62294e6"
+    },
+    "durationMs": 160624,
+    "durationMin": 2.68,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1PINyT6MhsLpSnnCffcD89",
+    "uri": "spotify:track:1PINyT6MhsLpSnnCffcD89"
+  },
+  {
+    "position": 1958,
+    "addedAt": "2026-07-22T18:28:43.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1fI5dqqQQkk8InvakMSP4h",
+    "name": "Living Fast",
+    "artists": [
+      {
+        "id": "4h8IEOdrg60WM5XGyNOCVU",
+        "name": "Lilly Palmer",
+        "uri": "spotify:artist:4h8IEOdrg60WM5XGyNOCVU",
+        "spotifyUrl": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+      }
+    ],
+    "album": {
+      "id": "1gbkl2dQEu7kLZU1qLn0Ul",
+      "name": "You're The One EP",
+      "uri": "spotify:album:1gbkl2dQEu7kLZU1qLn0Ul",
+      "releaseDate": "2026-07-17",
+      "spotifyUrl": "https://open.spotify.com/album/1gbkl2dQEu7kLZU1qLn0Ul",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d18712ab1321da54d62294e6"
+    },
+    "durationMs": 188322,
+    "durationMin": 3.14,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1fI5dqqQQkk8InvakMSP4h",
+    "uri": "spotify:track:1fI5dqqQQkk8InvakMSP4h"
+  },
+  {
+    "position": 1959,
+    "addedAt": "2026-07-22T18:36:15.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0CBRDrO5BuFxmfIjOSYUaW",
+    "name": "Come To Life",
+    "artists": [
+      {
+        "id": "1ChtRJ3f4rbv4vtz87i6CD",
+        "name": "Cassian",
+        "uri": "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD",
+        "spotifyUrl": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+      },
+      {
+        "id": "7mGI9Sd66FqHjIkwzkgbG7",
+        "name": "AR/CO",
+        "uri": "spotify:artist:7mGI9Sd66FqHjIkwzkgbG7",
+        "spotifyUrl": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+      }
+    ],
+    "album": {
+      "id": "0HIW7oTP9Y1RpJ1OlvJ4lD",
+      "name": "Come To Life",
+      "uri": "spotify:album:0HIW7oTP9Y1RpJ1OlvJ4lD",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738f20b84b386c301972857b9a"
+    },
+    "durationMs": 192209,
+    "durationMin": 3.2,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW",
+    "uri": "spotify:track:0CBRDrO5BuFxmfIjOSYUaW"
+  },
+  {
+    "position": 1960,
+    "addedAt": "2026-07-22T19:04:43.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6GqRZMF2nCtYakIrnkpith",
+    "name": "Electrify",
+    "artists": [
+      {
+        "id": "5lVNSw2GPci8kebrAQpZqU",
+        "name": "Eli Brown",
+        "uri": "spotify:artist:5lVNSw2GPci8kebrAQpZqU",
+        "spotifyUrl": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+      }
+    ],
+    "album": {
+      "id": "2BllKa75Mt0XF59p9xd0bs",
+      "name": "Electrify",
+      "uri": "spotify:album:2BllKa75Mt0XF59p9xd0bs",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ee2ae29d860d78974cf933b7"
+    },
+    "durationMs": 156428,
+    "durationMin": 2.61,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith",
+    "uri": "spotify:track:6GqRZMF2nCtYakIrnkpith"
   }
 ]
