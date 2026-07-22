@@ -11,3 +11,7 @@ build
 
 # Machine-local project context
 /docs/project-context.local.md
+
+# Local source and archival assets
+/assets/playlist-description.txt
+/data/spotify-playlist-tracks.csv

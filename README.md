@@ -22,14 +22,15 @@ pasos dentro del mismo circuito.
 - `assets/playlist-cover.jpg`: portada local de la playlist.
 - `assets/hero-volcanic-club.jpg`: imagen principal.
 - `assets/spotify-summary.js`: fallback estático para el resumen visible.
-- `assets/playlist-description.txt`: copia manual de la descripción pública de la
-  playlist; no la consumen el sitio ni el workflow.
 - `data/spotify-playlist-tracks.json`: export generado de canciones.
 - `data/spotify-playlist-summary.json`: resumen generado y fuente primaria para
   las métricas de la landing.
-- `data/spotify-playlist-tracks.csv`: export histórico; no lo actualiza el sync.
 - `scripts/`: autenticación, sincronización y validación de Spotify.
 - `.github/workflows/sync-spotify.yml`: actualización programada de los JSON.
+
+La descripción manual de la playlist y el CSV histórico no forman parte del
+runtime. Se conservan en `03 Contenido` y `90 Archivo` de la biblioteca local
+indicada por `docs/project-context.local.md`.
 
 ## Datos de Spotify en la landing
 

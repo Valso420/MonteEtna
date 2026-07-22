@@ -18,7 +18,7 @@ Monte Etna is a static landing page connecting a Spotify playlist with a closed 
 - `scripts/sync-spotify-playlist.mjs` generates `data/spotify-playlist-tracks.json` and `data/spotify-playlist-summary.json`.
 - `scripts/validate-spotify-data.mjs` validates both generated files.
 - The landing reads the summary as static data and must not call Spotify or expose credentials in the browser.
-- Do not hand-edit generated JSON or replace the historical CSV unless explicitly requested.
+- Do not hand-edit generated JSON. The historical CSV is local archival material outside the repository; do not replace it unless explicitly requested.
 - Preserve nonzero track checks, exported/total consistency, required track fields, top/recent data, and valid JSON output.
 
 ## External systems
