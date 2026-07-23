@@ -14573,8 +14573,8 @@
     "durationMin": 6.42,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
+    "isPlayable": false,
+    "isAvailable": false,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -15199,8 +15199,8 @@
     "durationMin": 3.02,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
+    "isPlayable": false,
+    "isAvailable": false,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -67107,8 +67107,8 @@
     "durationMin": 2.3,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
+    "isPlayable": false,
+    "isAvailable": false,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -69613,8 +69613,8 @@
     "durationMin": 3.65,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -76779,8 +76779,8 @@
     "durationMin": 3.55,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -80893,52 +80893,6 @@
   },
   {
     "position": 1798,
-    "addedAt": "2026-05-09T15:49:09.000Z",
-    "addedBy": {
-      "id": "peter_200002",
-      "uri": "spotify:user:peter_200002",
-      "href": "https://api.spotify.com/v1/users/peter_200002",
-      "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
-    },
-    "id": "0KZ47s9X43VaErZicJHrny",
-    "name": "Science (feat. Stevie Appleton) - Radio Edit",
-    "artists": [
-      {
-        "id": "2CIMQHirSU0MQqyYHq0eOx",
-        "name": "deadmau5",
-        "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx",
-        "spotifyUrl": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-      },
-      {
-        "id": "5qMHOzLlXeOEjOncWYtRfZ",
-        "name": "Stevie Appleton",
-        "uri": "spotify:artist:5qMHOzLlXeOEjOncWYtRfZ",
-        "spotifyUrl": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-      }
-    ],
-    "album": {
-      "id": "0JExrixTBrKhdEzTrvRIUO",
-      "name": "Science (feat. Stevie Appleton)",
-      "uri": "spotify:album:0JExrixTBrKhdEzTrvRIUO",
-      "releaseDate": "2026-02-20",
-      "spotifyUrl": "https://open.spotify.com/album/0JExrixTBrKhdEzTrvRIUO",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273908cc2dd8a5d76b5b2ef8c30"
-    },
-    "durationMs": 212000,
-    "durationMin": 3.53,
-    "explicit": false,
-    "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
-    "availableMarkets": 0,
-    "popularity": null,
-    "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/0KZ47s9X43VaErZicJHrny",
-    "uri": "spotify:track:0KZ47s9X43VaErZicJHrny"
-  },
-  {
-    "position": 1799,
     "addedAt": "2026-05-10T01:18:15.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -80990,7 +80944,7 @@
     "uri": "spotify:track:0pW6RQudN2xTIp3jjcmdMk"
   },
   {
-    "position": 1800,
+    "position": 1799,
     "addedAt": "2026-05-11T19:38:42.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -81030,7 +80984,7 @@
     "uri": "spotify:track:39Vr0wgQXNT0xhkj2cdjnd"
   },
   {
-    "position": 1801,
+    "position": 1800,
     "addedAt": "2026-05-11T02:43:10.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -81076,7 +81030,7 @@
     "uri": "spotify:track:0xDqF3lq9x9eyELEXXO49m"
   },
   {
-    "position": 1802,
+    "position": 1801,
     "addedAt": "2026-05-11T02:43:10.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -81122,7 +81076,7 @@
     "uri": "spotify:track:3zD0q9n1RuJi1KhETOZaB0"
   },
   {
-    "position": 1803,
+    "position": 1802,
     "addedAt": "2026-05-11T02:43:10.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -81168,7 +81122,7 @@
     "uri": "spotify:track:7HNe96ONTkI6yScyQIyI34"
   },
   {
-    "position": 1804,
+    "position": 1803,
     "addedAt": "2026-05-11T02:55:31.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -81208,7 +81162,7 @@
     "uri": "spotify:track:1W34fm437pe2u3mWBpGyx0"
   },
   {
-    "position": 1805,
+    "position": 1804,
     "addedAt": "2026-05-11T19:43:09.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -81248,7 +81202,7 @@
     "uri": "spotify:track:47vcfu0k6Iob6xtffRLvEx"
   },
   {
-    "position": 1806,
+    "position": 1805,
     "addedAt": "2026-05-11T20:09:57.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -81288,7 +81242,7 @@
     "uri": "spotify:track:4NOmNT6Nsu94oROC1EcyPg"
   },
   {
-    "position": 1807,
+    "position": 1806,
     "addedAt": "2026-05-12T21:58:59.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -81334,7 +81288,7 @@
     "uri": "spotify:track:0pz6VOtp9YFzTQJIrZmvtL"
   },
   {
-    "position": 1808,
+    "position": 1807,
     "addedAt": "2026-05-12T22:13:25.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -81374,7 +81328,7 @@
     "uri": "spotify:track:2Fz0Qh0xrireLZYODFNkUT"
   },
   {
-    "position": 1809,
+    "position": 1808,
     "addedAt": "2026-05-13T12:17:06.000Z",
     "addedBy": {
       "id": "31wtbg2kqdzvf3cofepro5ru6qsi",
@@ -81414,7 +81368,7 @@
     "uri": "spotify:track:26gsJCVhRMnJnFnPah8k53"
   },
   {
-    "position": 1810,
+    "position": 1809,
     "addedAt": "2026-05-13T15:39:23.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -81460,7 +81414,7 @@
     "uri": "spotify:track:0bTNizzSKGEVvAEZoF7Rr8"
   },
   {
-    "position": 1811,
+    "position": 1810,
     "addedAt": "2026-05-13T23:00:45.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -81500,7 +81454,7 @@
     "uri": "spotify:track:65nfJ9QRcQGovKnTZtb7fB"
   },
   {
-    "position": 1812,
+    "position": 1811,
     "addedAt": "2026-05-14T19:06:03.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -81552,7 +81506,7 @@
     "uri": "spotify:track:4rKjc7imRb8G7DWHuUcccH"
   },
   {
-    "position": 1813,
+    "position": 1812,
     "addedAt": "2026-05-14T19:23:00.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -81604,7 +81558,7 @@
     "uri": "spotify:track:7yHQfrYfhaQ8aoT4tf1eky"
   },
   {
-    "position": 1814,
+    "position": 1813,
     "addedAt": "2026-05-16T00:30:48.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -81650,7 +81604,7 @@
     "uri": "spotify:track:5Ggvl4BlXD9SESnHPcPPeL"
   },
   {
-    "position": 1815,
+    "position": 1814,
     "addedAt": "2026-05-16T18:00:29.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -81702,7 +81656,7 @@
     "uri": "spotify:track:4G6RcByL6hwtBJdhJDniFf"
   },
   {
-    "position": 1816,
+    "position": 1815,
     "addedAt": "2026-05-16T18:02:48.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -81748,7 +81702,7 @@
     "uri": "spotify:track:7HyS0rgA4t34Ri1dYA95oH"
   },
   {
-    "position": 1817,
+    "position": 1816,
     "addedAt": "2026-05-16T18:07:18.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -81794,7 +81748,7 @@
     "uri": "spotify:track:1q4EnQMHWETtzdWcaffOaF"
   },
   {
-    "position": 1818,
+    "position": 1817,
     "addedAt": "2026-05-18T11:19:04.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -81852,7 +81806,7 @@
     "uri": "spotify:track:5hYSsLVQ6Isk6YZrnsBj4E"
   },
   {
-    "position": 1819,
+    "position": 1818,
     "addedAt": "2026-05-22T10:25:59.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -81898,7 +81852,7 @@
     "uri": "spotify:track:1RaDR9M8gan0KxZOSl2i8Y"
   },
   {
-    "position": 1820,
+    "position": 1819,
     "addedAt": "2026-05-23T00:42:47.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -81938,7 +81892,7 @@
     "uri": "spotify:track:2FFwFlkKjKBSCdVpPf38Gj"
   },
   {
-    "position": 1821,
+    "position": 1820,
     "addedAt": "2026-05-28T16:25:27.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -81984,7 +81938,7 @@
     "uri": "spotify:track:67LCqJwNJJzPE5UYxzNDZj"
   },
   {
-    "position": 1822,
+    "position": 1821,
     "addedAt": "2026-05-28T16:26:24.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -82024,7 +81978,7 @@
     "uri": "spotify:track:0Yrd1CVVRaLDtxHrKZPb0Y"
   },
   {
-    "position": 1823,
+    "position": 1822,
     "addedAt": "2026-05-28T16:32:04.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -82070,7 +82024,7 @@
     "uri": "spotify:track:24NNAzfkvSV5A1k8zTXPQ2"
   },
   {
-    "position": 1824,
+    "position": 1823,
     "addedAt": "2026-05-28T16:32:25.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -82110,7 +82064,7 @@
     "uri": "spotify:track:57Pdkw4v6QwpWYx8RHo5BW"
   },
   {
-    "position": 1825,
+    "position": 1824,
     "addedAt": "2026-05-28T16:34:30.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -82150,7 +82104,7 @@
     "uri": "spotify:track:6pnVCuDeCGS6FXFIrh7cbK"
   },
   {
-    "position": 1826,
+    "position": 1825,
     "addedAt": "2026-05-28T16:35:05.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -82190,7 +82144,7 @@
     "uri": "spotify:track:5luwTSGlqn8uSDTIgYe9Sj"
   },
   {
-    "position": 1827,
+    "position": 1826,
     "addedAt": "2026-05-29T10:51:39.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -82230,7 +82184,7 @@
     "uri": "spotify:track:6IfkZ5ihJmIfCa3tkdHjpM"
   },
   {
-    "position": 1828,
+    "position": 1827,
     "addedAt": "2026-05-29T18:07:40.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -82276,7 +82230,7 @@
     "uri": "spotify:track:64tCfxj5hGC1Xlm9Y4dFz4"
   },
   {
-    "position": 1829,
+    "position": 1828,
     "addedAt": "2026-05-29T18:35:04.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -82316,7 +82270,7 @@
     "uri": "spotify:track:59IwqDfglT8yEzXYRc2HwF"
   },
   {
-    "position": 1830,
+    "position": 1829,
     "addedAt": "2026-06-01T23:08:29.000Z",
     "addedBy": {
       "id": "31wtbg2kqdzvf3cofepro5ru6qsi",
@@ -82356,7 +82310,7 @@
     "uri": "spotify:track:6EjaYiim96o0sy0bIG2kJs"
   },
   {
-    "position": 1831,
+    "position": 1830,
     "addedAt": "2026-06-01T23:48:47.000Z",
     "addedBy": {
       "id": "31wtbg2kqdzvf3cofepro5ru6qsi",
@@ -82396,7 +82350,7 @@
     "uri": "spotify:track:1d4f6kYCjDj1bSaCEkaBTr"
   },
   {
-    "position": 1832,
+    "position": 1831,
     "addedAt": "2026-06-02T17:38:44.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -82442,7 +82396,7 @@
     "uri": "spotify:track:1QmNoweAslb0i76oQFXmNd"
   },
   {
-    "position": 1833,
+    "position": 1832,
     "addedAt": "2026-06-03T00:16:30.000Z",
     "addedBy": {
       "id": "11177181596",
@@ -82482,7 +82436,7 @@
     "uri": "spotify:track:0ZbpTAMMw5DyT4fQJ76qlq"
   },
   {
-    "position": 1834,
+    "position": 1833,
     "addedAt": "2026-06-10T13:45:23.000Z",
     "addedBy": {
       "id": "11177181596",
@@ -82522,7 +82476,7 @@
     "uri": "spotify:track:0qThmvR6JcFaZatGLmr3IT"
   },
   {
-    "position": 1835,
+    "position": 1834,
     "addedAt": "2026-06-04T13:40:56.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -82574,7 +82528,7 @@
     "uri": "spotify:track:5BJ0J3mha2aZllDzAgkFmD"
   },
   {
-    "position": 1836,
+    "position": 1835,
     "addedAt": "2026-06-08T04:03:18.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -82614,7 +82568,7 @@
     "uri": "spotify:track:4lvJ1IcbShOTbNjUgkTwHI"
   },
   {
-    "position": 1837,
+    "position": 1836,
     "addedAt": "2026-06-08T23:09:57.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -82660,7 +82614,7 @@
     "uri": "spotify:track:09ctjXoWwXxYcvqIkmIFas"
   },
   {
-    "position": 1838,
+    "position": 1837,
     "addedAt": "2026-06-10T03:30:11.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -82700,7 +82654,7 @@
     "uri": "spotify:track:2q8GwNcMsb3IosMJmlGdeE"
   },
   {
-    "position": 1839,
+    "position": 1838,
     "addedAt": "2026-06-10T03:32:14.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -82746,7 +82700,7 @@
     "uri": "spotify:track:0QqexX8RENBLirZ8W1qMvY"
   },
   {
-    "position": 1840,
+    "position": 1839,
     "addedAt": "2026-06-10T03:32:21.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -82786,7 +82740,7 @@
     "uri": "spotify:track:6nOrd0I50hiXM3NSIIfxib"
   },
   {
-    "position": 1841,
+    "position": 1840,
     "addedAt": "2026-06-10T03:48:47.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -82826,7 +82780,7 @@
     "uri": "spotify:track:1MrG3sX66v1tk8sIDv3qCj"
   },
   {
-    "position": 1842,
+    "position": 1841,
     "addedAt": "2026-06-10T03:51:21.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -82872,7 +82826,7 @@
     "uri": "spotify:track:1a0rywIoG7GUBJP7agZ0vk"
   },
   {
-    "position": 1843,
+    "position": 1842,
     "addedAt": "2026-06-10T03:59:21.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -82912,7 +82866,7 @@
     "uri": "spotify:track:4ehPOiw2Sk3SnCdQXC8Rrs"
   },
   {
-    "position": 1844,
+    "position": 1843,
     "addedAt": "2026-06-10T04:04:34.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -82952,7 +82906,7 @@
     "uri": "spotify:track:1Q4X5XzzsKSIYV8DbyK6xj"
   },
   {
-    "position": 1845,
+    "position": 1844,
     "addedAt": "2026-06-10T04:07:34.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -82992,7 +82946,7 @@
     "uri": "spotify:track:4a3KHrHa4Z73korFBbMsPz"
   },
   {
-    "position": 1846,
+    "position": 1845,
     "addedAt": "2026-06-10T04:08:13.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -83032,7 +82986,7 @@
     "uri": "spotify:track:22Yk77RnLEuWMG9iNmF9T3"
   },
   {
-    "position": 1847,
+    "position": 1846,
     "addedAt": "2026-06-10T04:13:46.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -83072,7 +83026,7 @@
     "uri": "spotify:track:0DxUqhNd8Eijkna9gN1tWZ"
   },
   {
-    "position": 1848,
+    "position": 1847,
     "addedAt": "2026-06-10T04:20:26.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -83112,7 +83066,7 @@
     "uri": "spotify:track:6kO7xIuQtd6YSqca4EQ0CV"
   },
   {
-    "position": 1849,
+    "position": 1848,
     "addedAt": "2026-06-10T04:20:49.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -83164,7 +83118,7 @@
     "uri": "spotify:track:08m1m2Jbq3FQWFgW84SUdR"
   },
   {
-    "position": 1850,
+    "position": 1849,
     "addedAt": "2026-06-10T04:20:59.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -83210,7 +83164,7 @@
     "uri": "spotify:track:3nijcIH7jYpaDgSn38ijxe"
   },
   {
-    "position": 1851,
+    "position": 1850,
     "addedAt": "2026-06-10T13:46:08.000Z",
     "addedBy": {
       "id": "11177181596",
@@ -83262,7 +83216,7 @@
     "uri": "spotify:track:6SkahbG67GrZCRqq0K3tRZ"
   },
   {
-    "position": 1852,
+    "position": 1851,
     "addedAt": "2026-06-10T17:00:18.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -83302,7 +83256,7 @@
     "uri": "spotify:track:36oq17XvNMAlGFPN5aRKAd"
   },
   {
-    "position": 1853,
+    "position": 1852,
     "addedAt": "2026-06-12T03:34:37.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -83342,7 +83296,7 @@
     "uri": "spotify:track:63XMvsydldEuIUD9wSNI2G"
   },
   {
-    "position": 1854,
+    "position": 1853,
     "addedAt": "2026-06-12T21:53:01.000Z",
     "addedBy": {
       "id": "11177181596",
@@ -83382,7 +83336,7 @@
     "uri": "spotify:track:3M5mYzhAT19AdWjdq0FfN9"
   },
   {
-    "position": 1855,
+    "position": 1854,
     "addedAt": "2026-06-12T15:14:02.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83428,7 +83382,7 @@
     "uri": "spotify:track:2fpQBQEorsdMNJw2ASqoyC"
   },
   {
-    "position": 1856,
+    "position": 1855,
     "addedAt": "2026-06-12T15:38:45.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83468,7 +83422,7 @@
     "uri": "spotify:track:1kUEp7z1Ivfk2caT9uQP1P"
   },
   {
-    "position": 1857,
+    "position": 1856,
     "addedAt": "2026-06-12T15:55:23.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83508,7 +83462,7 @@
     "uri": "spotify:track:465OyHxq2vIj4DtpJKC555"
   },
   {
-    "position": 1858,
+    "position": 1857,
     "addedAt": "2026-06-12T16:46:16.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83548,7 +83502,7 @@
     "uri": "spotify:track:5H9qwIan5qx3MFNG8jyXgI"
   },
   {
-    "position": 1859,
+    "position": 1858,
     "addedAt": "2026-06-12T18:26:48.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83594,7 +83548,7 @@
     "uri": "spotify:track:1eOWc4Og7XNImIsJLrfgBY"
   },
   {
-    "position": 1860,
+    "position": 1859,
     "addedAt": "2026-06-12T19:02:39.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83640,7 +83594,7 @@
     "uri": "spotify:track:5JPdow1OalTBBcT5u5beSt"
   },
   {
-    "position": 1861,
+    "position": 1860,
     "addedAt": "2026-06-12T19:20:44.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83680,7 +83634,7 @@
     "uri": "spotify:track:6IyUueoBgzSMy7BL8Cysxk"
   },
   {
-    "position": 1862,
+    "position": 1861,
     "addedAt": "2026-06-12T19:29:29.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83720,7 +83674,7 @@
     "uri": "spotify:track:5jNh73wwbT7JimkQNTOaYW"
   },
   {
-    "position": 1863,
+    "position": 1862,
     "addedAt": "2026-06-12T19:37:52.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83772,7 +83726,7 @@
     "uri": "spotify:track:63r1HBCb8up0pTA5rgzRdw"
   },
   {
-    "position": 1864,
+    "position": 1863,
     "addedAt": "2026-06-12T19:44:43.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83818,7 +83772,7 @@
     "uri": "spotify:track:42qH7RSRQBvrMiKfKNkUto"
   },
   {
-    "position": 1865,
+    "position": 1864,
     "addedAt": "2026-06-12T19:51:13.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83858,7 +83812,7 @@
     "uri": "spotify:track:2Tft4nCrXPx7NAJAPAMz1P"
   },
   {
-    "position": 1866,
+    "position": 1865,
     "addedAt": "2026-06-12T20:01:59.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83904,7 +83858,7 @@
     "uri": "spotify:track:3subKKGknQS1wkW6zctMwC"
   },
   {
-    "position": 1867,
+    "position": 1866,
     "addedAt": "2026-06-12T20:14:42.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83944,7 +83898,7 @@
     "uri": "spotify:track:7uOogZvjTF0iFFEQLDLzQr"
   },
   {
-    "position": 1868,
+    "position": 1867,
     "addedAt": "2026-06-12T20:30:27.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -83984,7 +83938,7 @@
     "uri": "spotify:track:2Y8zHHJL0NmjwrK1KnDU9Z"
   },
   {
-    "position": 1869,
+    "position": 1868,
     "addedAt": "2026-06-12T20:58:20.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -84030,7 +83984,7 @@
     "uri": "spotify:track:49T4tjyFAyzi1CxRNeja89"
   },
   {
-    "position": 1870,
+    "position": 1869,
     "addedAt": "2026-06-12T21:01:48.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -84076,7 +84030,7 @@
     "uri": "spotify:track:0JfoajwOrobORrNG8z4vtt"
   },
   {
-    "position": 1871,
+    "position": 1870,
     "addedAt": "2026-06-12T21:24:27.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -84116,7 +84070,7 @@
     "uri": "spotify:track:5E8878mqe9ixIU5vruHUZq"
   },
   {
-    "position": 1872,
+    "position": 1871,
     "addedAt": "2026-06-13T03:17:51.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -84162,7 +84116,7 @@
     "uri": "spotify:track:2EWnEY46grQZZ9lzbi5Cq7"
   },
   {
-    "position": 1873,
+    "position": 1872,
     "addedAt": "2026-06-13T16:10:39.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -84202,7 +84156,7 @@
     "uri": "spotify:track:7Mt3W201jQ0yz2Ij1iBKXO"
   },
   {
-    "position": 1874,
+    "position": 1873,
     "addedAt": "2026-06-16T19:22:48.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84242,7 +84196,7 @@
     "uri": "spotify:track:4GJTbB9FNkGkvf6dxl22qW"
   },
   {
-    "position": 1875,
+    "position": 1874,
     "addedAt": "2026-06-19T13:32:52.000Z",
     "addedBy": {
       "id": "11177181596",
@@ -84288,7 +84242,7 @@
     "uri": "spotify:track:5eOZ8s3lC288WGTotdRc0z"
   },
   {
-    "position": 1876,
+    "position": 1875,
     "addedAt": "2026-06-19T16:33:08.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -84328,7 +84282,7 @@
     "uri": "spotify:track:4RWY8DxNRBMxXKOzxGOxC7"
   },
   {
-    "position": 1877,
+    "position": 1876,
     "addedAt": "2026-06-19T21:00:53.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84368,7 +84322,7 @@
     "uri": "spotify:track:65jqd1zeq3MAbTFa3utsyM"
   },
   {
-    "position": 1878,
+    "position": 1877,
     "addedAt": "2026-06-19T21:06:43.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84414,7 +84368,7 @@
     "uri": "spotify:track:7ade7I9VaYRst5E5QymdCV"
   },
   {
-    "position": 1879,
+    "position": 1878,
     "addedAt": "2026-06-19T21:06:52.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84460,7 +84414,7 @@
     "uri": "spotify:track:4dy35O7YGdQNKkG3YD8IbS"
   },
   {
-    "position": 1880,
+    "position": 1879,
     "addedAt": "2026-06-20T06:45:12.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84500,7 +84454,7 @@
     "uri": "spotify:track:783cbqDaqgNgCGXfzm2sIb"
   },
   {
-    "position": 1881,
+    "position": 1880,
     "addedAt": "2026-06-20T06:45:27.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84540,7 +84494,7 @@
     "uri": "spotify:track:3thDMKUcejNcK1pRvBD3ub"
   },
   {
-    "position": 1882,
+    "position": 1881,
     "addedAt": "2026-06-20T06:45:38.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84580,7 +84534,7 @@
     "uri": "spotify:track:76UvU03NJ0sHFAVatDYJc4"
   },
   {
-    "position": 1883,
+    "position": 1882,
     "addedAt": "2026-06-20T06:45:47.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84620,7 +84574,7 @@
     "uri": "spotify:track:7CPzO5uJQCfOk2GLHFiddw"
   },
   {
-    "position": 1884,
+    "position": 1883,
     "addedAt": "2026-06-20T14:35:40.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84666,7 +84620,7 @@
     "uri": "spotify:track:1R3a9TV8etxNSrA10DVLD5"
   },
   {
-    "position": 1885,
+    "position": 1884,
     "addedAt": "2026-06-20T15:10:27.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84712,7 +84666,7 @@
     "uri": "spotify:track:3gHWnvAiAbo9muQXfWrQKE"
   },
   {
-    "position": 1886,
+    "position": 1885,
     "addedAt": "2026-06-21T06:08:30.000Z",
     "addedBy": {
       "id": "11177181596",
@@ -84758,7 +84712,7 @@
     "uri": "spotify:track:40Ae5zby2T2LEnWmRSEUhN"
   },
   {
-    "position": 1887,
+    "position": 1886,
     "addedAt": "2026-06-24T03:30:51.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -84804,7 +84758,7 @@
     "uri": "spotify:track:0mZS7vgjScjJCcarWM3KrP"
   },
   {
-    "position": 1888,
+    "position": 1887,
     "addedAt": "2026-06-24T04:53:47.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84844,7 +84798,7 @@
     "uri": "spotify:track:3pTXEd6m0lCNrCTK0lHfwt"
   },
   {
-    "position": 1889,
+    "position": 1888,
     "addedAt": "2026-06-24T04:55:07.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -84884,7 +84838,7 @@
     "uri": "spotify:track:07HycoAxSmjq08V5qg1C5h"
   },
   {
-    "position": 1890,
+    "position": 1889,
     "addedAt": "2026-06-25T02:40:03.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -84924,7 +84878,7 @@
     "uri": "spotify:track:0Hl8Wb9o3rYr7tWqtO3XDB"
   },
   {
-    "position": 1891,
+    "position": 1890,
     "addedAt": "2026-06-26T16:43:09.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -84970,7 +84924,7 @@
     "uri": "spotify:track:32kfvYlSJ5P1NM0wWxiZ0v"
   },
   {
-    "position": 1892,
+    "position": 1891,
     "addedAt": "2026-06-26T16:47:24.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85022,7 +84976,7 @@
     "uri": "spotify:track:4qNqRgHTf2maOS3Ttggutw"
   },
   {
-    "position": 1893,
+    "position": 1892,
     "addedAt": "2026-06-26T19:00:12.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85062,7 +85016,7 @@
     "uri": "spotify:track:4zsWgeZjAyevBqc8xDqUDs"
   },
   {
-    "position": 1894,
+    "position": 1893,
     "addedAt": "2026-06-26T19:24:44.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85102,7 +85056,7 @@
     "uri": "spotify:track:4Cadk17BZse20uegkkIXFR"
   },
   {
-    "position": 1895,
+    "position": 1894,
     "addedAt": "2026-06-26T23:28:41.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85142,7 +85096,7 @@
     "uri": "spotify:track:5duCUK4zzzdJz5aJfFCXs1"
   },
   {
-    "position": 1896,
+    "position": 1895,
     "addedAt": "2026-06-26T23:34:44.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85182,7 +85136,7 @@
     "uri": "spotify:track:1TTjijajfwbU2LruKd3TOW"
   },
   {
-    "position": 1897,
+    "position": 1896,
     "addedAt": "2026-06-27T00:01:15.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85228,7 +85182,7 @@
     "uri": "spotify:track:2mnHquaHXcUmSylmhdzIhR"
   },
   {
-    "position": 1898,
+    "position": 1897,
     "addedAt": "2026-06-30T15:29:22.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -85268,7 +85222,7 @@
     "uri": "spotify:track:0qbNEggDdJg8V66O9BCorL"
   },
   {
-    "position": 1899,
+    "position": 1898,
     "addedAt": "2026-07-02T23:20:05.000Z",
     "addedBy": {
       "id": "31wtbg2kqdzvf3cofepro5ru6qsi",
@@ -85320,7 +85274,7 @@
     "uri": "spotify:track:25DgjoTlKK8KjstM4cZ8L2"
   },
   {
-    "position": 1900,
+    "position": 1899,
     "addedAt": "2026-07-02T21:06:53.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -85372,7 +85326,7 @@
     "uri": "spotify:track:29EfuNqfljIaXCH630KNHf"
   },
   {
-    "position": 1901,
+    "position": 1900,
     "addedAt": "2026-07-02T21:44:35.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -85412,7 +85366,7 @@
     "uri": "spotify:track:3KhfmxD6U9ll0mFgArrQTe"
   },
   {
-    "position": 1902,
+    "position": 1901,
     "addedAt": "2026-07-03T12:05:42.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85464,7 +85418,7 @@
     "uri": "spotify:track:2XSuCaF7OlY5yUF5ELnh0F"
   },
   {
-    "position": 1903,
+    "position": 1902,
     "addedAt": "2026-07-03T12:09:05.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85516,7 +85470,7 @@
     "uri": "spotify:track:3avXtcd0oJNUVB7prZEDYn"
   },
   {
-    "position": 1904,
+    "position": 1903,
     "addedAt": "2026-07-03T12:13:43.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85556,7 +85510,7 @@
     "uri": "spotify:track:0vgA7Avux3faFKOmUHTHvo"
   },
   {
-    "position": 1905,
+    "position": 1904,
     "addedAt": "2026-07-03T12:18:38.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85602,7 +85556,7 @@
     "uri": "spotify:track:70MDN9m18uDkWxJuE64i88"
   },
   {
-    "position": 1906,
+    "position": 1905,
     "addedAt": "2026-07-03T12:30:49.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85648,7 +85602,7 @@
     "uri": "spotify:track:6A6GbwidozXNvnxrkCRb8i"
   },
   {
-    "position": 1907,
+    "position": 1906,
     "addedAt": "2026-07-03T16:48:27.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -85688,7 +85642,7 @@
     "uri": "spotify:track:3BM7qZyTrtYugmnpvkyO0t"
   },
   {
-    "position": 1908,
+    "position": 1907,
     "addedAt": "2026-07-03T21:07:10.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -85728,7 +85682,7 @@
     "uri": "spotify:track:0GRZe7Bm4PVfMMexrrwk8c"
   },
   {
-    "position": 1909,
+    "position": 1908,
     "addedAt": "2026-07-03T21:08:23.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -85768,7 +85722,7 @@
     "uri": "spotify:track:5IScjeqtBGqizbzAoo9T9k"
   },
   {
-    "position": 1910,
+    "position": 1909,
     "addedAt": "2026-07-03T21:08:31.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -85808,7 +85762,7 @@
     "uri": "spotify:track:4dSN3XdbKbScjh1um3lqZh"
   },
   {
-    "position": 1911,
+    "position": 1910,
     "addedAt": "2026-07-07T23:00:25.000Z",
     "addedBy": {
       "id": "11177181596",
@@ -85854,7 +85808,7 @@
     "uri": "spotify:track:4mloPBa6kT7U2b6ok2TvZe"
   },
   {
-    "position": 1912,
+    "position": 1911,
     "addedAt": "2026-07-04T05:23:41.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -85900,7 +85854,7 @@
     "uri": "spotify:track:1JN37cHLmc852rbTdpVq8f"
   },
   {
-    "position": 1913,
+    "position": 1912,
     "addedAt": "2026-07-06T00:45:05.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -85940,7 +85894,7 @@
     "uri": "spotify:track:5za6XRkJQSrVipzabuf6cV"
   },
   {
-    "position": 1914,
+    "position": 1913,
     "addedAt": "2026-07-07T12:17:22.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -85986,7 +85940,7 @@
     "uri": "spotify:track:2Rvi0CiuXzYyYRd3i9wxqM"
   },
   {
-    "position": 1915,
+    "position": 1914,
     "addedAt": "2026-07-07T12:23:34.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86032,7 +85986,7 @@
     "uri": "spotify:track:1IdhGrwGyVecu7b1ZUvueH"
   },
   {
-    "position": 1916,
+    "position": 1915,
     "addedAt": "2026-07-07T12:30:46.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86078,7 +86032,7 @@
     "uri": "spotify:track:4SHAlw3C9Y1Mfqwq0thxpw"
   },
   {
-    "position": 1917,
+    "position": 1916,
     "addedAt": "2026-07-07T12:43:28.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86124,7 +86078,7 @@
     "uri": "spotify:track:6m9y6bdEEdNqJw3wz5CUUB"
   },
   {
-    "position": 1918,
+    "position": 1917,
     "addedAt": "2026-07-07T12:48:47.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86170,7 +86124,7 @@
     "uri": "spotify:track:5o9ddwUhXw50hymQN26U90"
   },
   {
-    "position": 1919,
+    "position": 1918,
     "addedAt": "2026-07-07T13:59:14.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -86222,7 +86176,7 @@
     "uri": "spotify:track:1t16VYu9RzXva4JalGhJqd"
   },
   {
-    "position": 1920,
+    "position": 1919,
     "addedAt": "2026-07-07T20:55:50.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86262,7 +86216,7 @@
     "uri": "spotify:track:75jGKxag8XXSpm1Bq89hnQ"
   },
   {
-    "position": 1921,
+    "position": 1920,
     "addedAt": "2026-07-07T21:01:11.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86302,7 +86256,7 @@
     "uri": "spotify:track:62XTDh8DUNx1Qad0m047fo"
   },
   {
-    "position": 1922,
+    "position": 1921,
     "addedAt": "2026-07-08T12:36:39.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86354,7 +86308,7 @@
     "uri": "spotify:track:3OFOOWfw3vmOoo2qI4DSYc"
   },
   {
-    "position": 1923,
+    "position": 1922,
     "addedAt": "2026-07-08T12:48:44.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86400,7 +86354,7 @@
     "uri": "spotify:track:2sngQ0HhlhEClVkiXXF8rt"
   },
   {
-    "position": 1924,
+    "position": 1923,
     "addedAt": "2026-07-08T12:51:42.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86440,7 +86394,7 @@
     "uri": "spotify:track:54vF34GSMXYZfjPXMsHYWf"
   },
   {
-    "position": 1925,
+    "position": 1924,
     "addedAt": "2026-07-08T15:37:36.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86492,7 +86446,7 @@
     "uri": "spotify:track:35cvTsMB8e89HKXkGWbdxY"
   },
   {
-    "position": 1926,
+    "position": 1925,
     "addedAt": "2026-07-08T15:38:48.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86532,7 +86486,7 @@
     "uri": "spotify:track:3nrT6SiujRG4Hhyskgx5hq"
   },
   {
-    "position": 1927,
+    "position": 1926,
     "addedAt": "2026-07-08T19:34:29.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86578,7 +86532,7 @@
     "uri": "spotify:track:0wKWnU5HMCr06lxFzJ5nwF"
   },
   {
-    "position": 1928,
+    "position": 1927,
     "addedAt": "2026-07-10T02:36:50.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -86624,7 +86578,7 @@
     "uri": "spotify:track:0Qe7O158l5mEbEa1iIALs0"
   },
   {
-    "position": 1929,
+    "position": 1928,
     "addedAt": "2026-07-10T13:56:32.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -86664,7 +86618,7 @@
     "uri": "spotify:track:3PGwNzt7sph4PFuTgMYZH2"
   },
   {
-    "position": 1930,
+    "position": 1929,
     "addedAt": "2026-07-10T18:36:53.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86716,7 +86670,7 @@
     "uri": "spotify:track:4kQX42ed8SzaydbFOVObVv"
   },
   {
-    "position": 1931,
+    "position": 1930,
     "addedAt": "2026-07-10T18:38:15.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86762,7 +86716,7 @@
     "uri": "spotify:track:4Dqzqz8X63dSY3r2fAe9fx"
   },
   {
-    "position": 1932,
+    "position": 1931,
     "addedAt": "2026-07-10T18:48:02.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86802,7 +86756,7 @@
     "uri": "spotify:track:5qDRsWb5JRWooFWfXIcClt"
   },
   {
-    "position": 1933,
+    "position": 1932,
     "addedAt": "2026-07-10T18:55:26.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86848,7 +86802,7 @@
     "uri": "spotify:track:79gYlPSfycSFND7YIhufKF"
   },
   {
-    "position": 1934,
+    "position": 1933,
     "addedAt": "2026-07-10T18:58:13.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86888,7 +86842,7 @@
     "uri": "spotify:track:6oFKE604kUFkW0l4Kc7taJ"
   },
   {
-    "position": 1935,
+    "position": 1934,
     "addedAt": "2026-07-10T19:03:36.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86928,7 +86882,7 @@
     "uri": "spotify:track:5ZYBV9QhE0Yv4NrZKmALLe"
   },
   {
-    "position": 1936,
+    "position": 1935,
     "addedAt": "2026-07-10T19:11:53.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -86968,7 +86922,7 @@
     "uri": "spotify:track:4IEXVWPxi8EPL8mCkp78Rm"
   },
   {
-    "position": 1937,
+    "position": 1936,
     "addedAt": "2026-07-10T19:15:31.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87008,7 +86962,7 @@
     "uri": "spotify:track:18hFrZd1e1zeTjcOXVTdQj"
   },
   {
-    "position": 1938,
+    "position": 1937,
     "addedAt": "2026-07-10T19:18:34.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87048,7 +87002,7 @@
     "uri": "spotify:track:6auP637pqOaecIIeOC6sC3"
   },
   {
-    "position": 1939,
+    "position": 1938,
     "addedAt": "2026-07-10T19:24:19.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87088,7 +87042,7 @@
     "uri": "spotify:track:2AQ26wXeHjgbyfHaPcdWQ7"
   },
   {
-    "position": 1940,
+    "position": 1939,
     "addedAt": "2026-07-10T19:32:29.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87128,7 +87082,7 @@
     "uri": "spotify:track:6AKSZJnsCwlGHGmgL12oXF"
   },
   {
-    "position": 1941,
+    "position": 1940,
     "addedAt": "2026-07-10T19:36:41.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87168,7 +87122,7 @@
     "uri": "spotify:track:2yaYRoiVBfNSEoHWKDQnOY"
   },
   {
-    "position": 1942,
+    "position": 1941,
     "addedAt": "2026-07-10T19:39:19.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87208,7 +87162,7 @@
     "uri": "spotify:track:0TewnasoZUegiJZnGxUSi4"
   },
   {
-    "position": 1943,
+    "position": 1942,
     "addedAt": "2026-07-10T19:44:50.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87260,7 +87214,7 @@
     "uri": "spotify:track:36I65ewQKL0q3xbfuRxpTN"
   },
   {
-    "position": 1944,
+    "position": 1943,
     "addedAt": "2026-07-10T20:23:52.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87300,7 +87254,7 @@
     "uri": "spotify:track:7qF8Pzq8UTUEupookwuy7u"
   },
   {
-    "position": 1945,
+    "position": 1944,
     "addedAt": "2026-07-10T20:38:07.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87340,7 +87294,7 @@
     "uri": "spotify:track:4QIBRuiw4hUoWjvsYifFMe"
   },
   {
-    "position": 1946,
+    "position": 1945,
     "addedAt": "2026-07-10T20:54:20.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87386,7 +87340,7 @@
     "uri": "spotify:track:3vayMzB3JRenTAcPCH4CKu"
   },
   {
-    "position": 1947,
+    "position": 1946,
     "addedAt": "2026-07-11T05:21:44.000Z",
     "addedBy": {
       "id": "mateolungo",
@@ -87432,7 +87386,7 @@
     "uri": "spotify:track:2fJFjRgFpfdkbSoyRKUuf7"
   },
   {
-    "position": 1948,
+    "position": 1947,
     "addedAt": "2026-07-17T12:25:50.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87478,7 +87432,7 @@
     "uri": "spotify:track:2KtVx4lNWEgRW7UXGxJZwO"
   },
   {
-    "position": 1949,
+    "position": 1948,
     "addedAt": "2026-07-17T12:27:40.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87524,7 +87478,7 @@
     "uri": "spotify:track:7CsjzGFIdvIMTVTMGeMo8v"
   },
   {
-    "position": 1950,
+    "position": 1949,
     "addedAt": "2026-07-17T12:31:44.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87570,7 +87524,7 @@
     "uri": "spotify:track:3DSY7B0roAopGKkCQGut3K"
   },
   {
-    "position": 1951,
+    "position": 1950,
     "addedAt": "2026-07-17T12:46:06.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87616,7 +87570,7 @@
     "uri": "spotify:track:7lvAJPxrLvbAfhZNgEFP4r"
   },
   {
-    "position": 1952,
+    "position": 1951,
     "addedAt": "2026-07-21T02:27:12.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87656,7 +87610,7 @@
     "uri": "spotify:track:1uiKOpnI21waXFOlYOU5Za"
   },
   {
-    "position": 1953,
+    "position": 1952,
     "addedAt": "2026-07-21T02:27:57.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87702,7 +87656,7 @@
     "uri": "spotify:track:2AzAamWZi47Fv7nds8h7AM"
   },
   {
-    "position": 1954,
+    "position": 1953,
     "addedAt": "2026-07-21T17:45:25.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87748,7 +87702,7 @@
     "uri": "spotify:track:6IFB0IZGdsLzXdXm7p07mo"
   },
   {
-    "position": 1955,
+    "position": 1954,
     "addedAt": "2026-07-22T18:23:51.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87794,7 +87748,7 @@
     "uri": "spotify:track:3vVapQ0417yRGO66kWT2V3"
   },
   {
-    "position": 1956,
+    "position": 1955,
     "addedAt": "2026-07-22T18:28:32.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87834,7 +87788,7 @@
     "uri": "spotify:track:2iprNh1l75X3Wgwxn7hFne"
   },
   {
-    "position": 1957,
+    "position": 1956,
     "addedAt": "2026-07-22T18:28:36.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87874,7 +87828,7 @@
     "uri": "spotify:track:1PINyT6MhsLpSnnCffcD89"
   },
   {
-    "position": 1958,
+    "position": 1957,
     "addedAt": "2026-07-22T18:28:43.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87914,7 +87868,7 @@
     "uri": "spotify:track:1fI5dqqQQkk8InvakMSP4h"
   },
   {
-    "position": 1959,
+    "position": 1958,
     "addedAt": "2026-07-22T18:36:15.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -87960,7 +87914,7 @@
     "uri": "spotify:track:0CBRDrO5BuFxmfIjOSYUaW"
   },
   {
-    "position": 1960,
+    "position": 1959,
     "addedAt": "2026-07-22T19:04:43.000Z",
     "addedBy": {
       "id": "valentinstampone2",

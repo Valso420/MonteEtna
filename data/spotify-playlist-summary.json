@@ -5,9 +5,9 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1960,
-  "exportedTracks": 1960,
-  "totalDurationMs": 551676504,
+  "totalTracks": 1959,
+  "exportedTracks": 1959,
+  "totalDurationMs": 551464504,
   "totalHours": 153.2,
   "averageDurationMin": 4.69,
   "uniqueArtists": 1391,
@@ -151,9 +151,9 @@
     }
   ],
   "explicitTracks": 39,
-  "availableTracks": 1957,
-  "unavailableTracks": 3,
+  "availableTracks": 1955,
+  "unavailableTracks": 4,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-22T19:19:38.675Z"
+  "lastUpdated": "2026-07-23T02:45:11.614Z"
 }
