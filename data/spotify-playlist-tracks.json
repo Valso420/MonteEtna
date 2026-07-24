@@ -87952,5 +87952,321 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith",
     "uri": "spotify:track:6GqRZMF2nCtYakIrnkpith"
+  },
+  {
+    "position": 1960,
+    "addedAt": "2026-07-24T12:30:13.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4xqKh9ZcFLssHKQWtnj6jl",
+    "name": "Follow",
+    "artists": [
+      {
+        "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+        "name": "Mathame",
+        "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+        "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+      },
+      {
+        "id": "7Io0XduXk7aOHFHA7sLru2",
+        "name": "Bonn",
+        "uri": "spotify:artist:7Io0XduXk7aOHFHA7sLru2",
+        "spotifyUrl": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+      }
+    ],
+    "album": {
+      "id": "7wIlJaB1s21YFwKkMBlDY0",
+      "name": "Follow",
+      "uri": "spotify:album:7wIlJaB1s21YFwKkMBlDY0",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/7wIlJaB1s21YFwKkMBlDY0",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738a484a50bb008cfc5dbc2d1f"
+    },
+    "durationMs": 226976,
+    "durationMin": 3.78,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl",
+    "uri": "spotify:track:4xqKh9ZcFLssHKQWtnj6jl"
+  },
+  {
+    "position": 1961,
+    "addedAt": "2026-07-24T12:42:06.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1uQLmsSdOT0F4iXpCDN1sZ",
+    "name": "Assunto",
+    "artists": [
+      {
+        "id": "1NaQOKgddaJipUtmptb7GI",
+        "name": "Argy",
+        "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI",
+        "spotifyUrl": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+      },
+      {
+        "id": "2gmkTgD5PwEI6E4Vh0f4ha",
+        "name": "SOLANCE",
+        "uri": "spotify:artist:2gmkTgD5PwEI6E4Vh0f4ha",
+        "spotifyUrl": "https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha"
+      }
+    ],
+    "album": {
+      "id": "46I9p8xZmYec27ppxJdbR2",
+      "name": "Assunto / Window Shake",
+      "uri": "spotify:album:46I9p8xZmYec27ppxJdbR2",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/46I9p8xZmYec27ppxJdbR2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fde820cd18437cc7ec7eb4e6"
+    },
+    "durationMs": 161000,
+    "durationMin": 2.68,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1uQLmsSdOT0F4iXpCDN1sZ",
+    "uri": "spotify:track:1uQLmsSdOT0F4iXpCDN1sZ"
+  },
+  {
+    "position": 1962,
+    "addedAt": "2026-07-24T12:45:05.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4dJVDcdrTwB0sDBbw4TfXR",
+    "name": "Window Shake",
+    "artists": [
+      {
+        "id": "1NaQOKgddaJipUtmptb7GI",
+        "name": "Argy",
+        "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI",
+        "spotifyUrl": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+      },
+      {
+        "id": "2gmkTgD5PwEI6E4Vh0f4ha",
+        "name": "SOLANCE",
+        "uri": "spotify:artist:2gmkTgD5PwEI6E4Vh0f4ha",
+        "spotifyUrl": "https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha"
+      }
+    ],
+    "album": {
+      "id": "46I9p8xZmYec27ppxJdbR2",
+      "name": "Assunto / Window Shake",
+      "uri": "spotify:album:46I9p8xZmYec27ppxJdbR2",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/46I9p8xZmYec27ppxJdbR2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fde820cd18437cc7ec7eb4e6"
+    },
+    "durationMs": 156860,
+    "durationMin": 2.61,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4dJVDcdrTwB0sDBbw4TfXR",
+    "uri": "spotify:track:4dJVDcdrTwB0sDBbw4TfXR"
+  },
+  {
+    "position": 1963,
+    "addedAt": "2026-07-24T13:29:29.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2ACCqERlitCyMawKsUZtMp",
+    "name": "I Wish",
+    "artists": [
+      {
+        "id": "3nOp9kU7OluZlOGCdqWqS3",
+        "name": "Jos & Eli",
+        "uri": "spotify:artist:3nOp9kU7OluZlOGCdqWqS3",
+        "spotifyUrl": "https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3"
+      }
+    ],
+    "album": {
+      "id": "7DCx2KU7dWaSmWuUHkB66x",
+      "name": "I Wish EP",
+      "uri": "spotify:album:7DCx2KU7dWaSmWuUHkB66x",
+      "releaseDate": "2025-06-06",
+      "spotifyUrl": "https://open.spotify.com/album/7DCx2KU7dWaSmWuUHkB66x",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b40a98b9bae829db73c29546"
+    },
+    "durationMs": 234193,
+    "durationMin": 3.9,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2ACCqERlitCyMawKsUZtMp",
+    "uri": "spotify:track:2ACCqERlitCyMawKsUZtMp"
+  },
+  {
+    "position": 1964,
+    "addedAt": "2026-07-24T16:39:10.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4fJj5d2sms5UUsFyvrNjwr",
+    "name": "Whisper To Me",
+    "artists": [
+      {
+        "id": "6RsLLSkSTcL4YrvgRcBTQd",
+        "name": "Jimi Jules",
+        "uri": "spotify:artist:6RsLLSkSTcL4YrvgRcBTQd",
+        "spotifyUrl": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+      },
+      {
+        "id": "5j34pD51tkc8KtqqYiBe8k",
+        "name": "Modern Tales",
+        "uri": "spotify:artist:5j34pD51tkc8KtqqYiBe8k",
+        "spotifyUrl": "https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k"
+      }
+    ],
+    "album": {
+      "id": "45wZrMoCQ7BF8UhdedUwNv",
+      "name": "Whisper To Me",
+      "uri": "spotify:album:45wZrMoCQ7BF8UhdedUwNv",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ab51bd4c7b3db640120e3049"
+    },
+    "durationMs": 226896,
+    "durationMin": 3.78,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr",
+    "uri": "spotify:track:4fJj5d2sms5UUsFyvrNjwr"
+  },
+  {
+    "position": 1965,
+    "addedAt": "2026-07-24T18:45:06.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1tZMhhllqKYTMku8O2FTgS",
+    "name": "Turning Stones - Mind Against Remix",
+    "artists": [
+      {
+        "id": "240wlM8vDrf6S4zCyzGj2W",
+        "name": "CamelPhat",
+        "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W",
+        "spotifyUrl": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+      },
+      {
+        "id": "6XZYAWJLL8UIbxAqjKj3cg",
+        "name": "SOHN",
+        "uri": "spotify:artist:6XZYAWJLL8UIbxAqjKj3cg",
+        "spotifyUrl": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+      },
+      {
+        "id": "48LWLoeY0dhwaiX1FRsn72",
+        "name": "Mind Against",
+        "uri": "spotify:artist:48LWLoeY0dhwaiX1FRsn72",
+        "spotifyUrl": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+      }
+    ],
+    "album": {
+      "id": "6GZ4PK7am4zhLQEsSdLuG6",
+      "name": "Turning Stones (Mind Against Remix)",
+      "uri": "spotify:album:6GZ4PK7am4zhLQEsSdLuG6",
+      "releaseDate": "2024-05-10",
+      "spotifyUrl": "https://open.spotify.com/album/6GZ4PK7am4zhLQEsSdLuG6",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27344ea974e6ce7210a75809050"
+    },
+    "durationMs": 251727,
+    "durationMin": 4.2,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1tZMhhllqKYTMku8O2FTgS",
+    "uri": "spotify:track:1tZMhhllqKYTMku8O2FTgS"
+  },
+  {
+    "position": 1966,
+    "addedAt": "2026-07-24T19:14:44.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2PKGJK3Kldd4DHJNzSFWJD",
+    "name": "Can't Slow Down",
+    "artists": [
+      {
+        "id": "06HO1b1nd4kQzRakdZBTSc",
+        "name": "Omar+",
+        "uri": "spotify:artist:06HO1b1nd4kQzRakdZBTSc",
+        "spotifyUrl": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+      }
+    ],
+    "album": {
+      "id": "42nNaIlInYzrmhucRo5WG1",
+      "name": "Can't Slow Down",
+      "uri": "spotify:album:42nNaIlInYzrmhucRo5WG1",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735f4cdef0e1275311a9403743"
+    },
+    "durationMs": 177240,
+    "durationMin": 2.95,
+    "explicit": true,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD",
+    "uri": "spotify:track:2PKGJK3Kldd4DHJNzSFWJD"
   }
 ]

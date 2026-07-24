@@ -5,17 +5,17 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1959,
-  "exportedTracks": 1959,
-  "totalDurationMs": 551464504,
-  "totalHours": 153.2,
+  "totalTracks": 1966,
+  "exportedTracks": 1966,
+  "totalDurationMs": 552899396,
+  "totalHours": 153.6,
   "averageDurationMin": 4.69,
-  "uniqueArtists": 1391,
-  "uniqueAlbums": 1707,
+  "uniqueArtists": 1393,
+  "uniqueAlbums": 1713,
   "topArtists": [
     {
       "name": "Mathame",
-      "tracks": 64
+      "tracks": 65
     },
     {
       "name": "Anyma",
@@ -27,7 +27,7 @@
     },
     {
       "name": "CamelPhat",
-      "tracks": 50
+      "tracks": 51
     },
     {
       "name": "Solomun",
@@ -39,7 +39,7 @@
     },
     {
       "name": "Argy",
-      "tracks": 38
+      "tracks": 40
     },
     {
       "name": "Adriatique",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Mind Against",
-      "tracks": 26
+      "tracks": 27
     },
     {
       "name": "Miss Monique",
@@ -96,45 +96,48 @@
   ],
   "recentTracks": [
     {
-      "name": "Electrify",
+      "name": "Can't Slow Down",
       "artists": [
-        "Eli Brown"
+        "Omar+"
       ],
-      "addedAt": "2026-07-22T19:04:43.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
+      "addedAt": "2026-07-24T19:14:44.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
     },
     {
-      "name": "Come To Life",
+      "name": "Turning Stones - Mind Against Remix",
       "artists": [
-        "Cassian",
-        "AR/CO"
+        "CamelPhat",
+        "SOHN",
+        "Mind Against"
       ],
-      "addedAt": "2026-07-22T18:36:15.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
+      "addedAt": "2026-07-24T18:45:06.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1tZMhhllqKYTMku8O2FTgS"
     },
     {
-      "name": "Living Fast",
+      "name": "Whisper To Me",
       "artists": [
-        "Lilly Palmer"
+        "Jimi Jules",
+        "Modern Tales"
       ],
-      "addedAt": "2026-07-22T18:28:43.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1fI5dqqQQkk8InvakMSP4h"
+      "addedAt": "2026-07-24T16:39:10.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
     },
     {
-      "name": "Acid Infusion",
+      "name": "I Wish",
       "artists": [
-        "Lilly Palmer"
+        "Jos & Eli"
       ],
-      "addedAt": "2026-07-22T18:28:36.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1PINyT6MhsLpSnnCffcD89"
+      "addedAt": "2026-07-24T13:29:29.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2ACCqERlitCyMawKsUZtMp"
     },
     {
-      "name": "You're the One",
+      "name": "Window Shake",
       "artists": [
-        "Lilly Palmer"
+        "Argy",
+        "SOLANCE"
       ],
-      "addedAt": "2026-07-22T18:28:32.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2iprNh1l75X3Wgwxn7hFne"
+      "addedAt": "2026-07-24T12:45:05.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4dJVDcdrTwB0sDBbw4TfXR"
     }
   ],
   "duplicateTracks": 1,
@@ -150,10 +153,10 @@
       "count": 2
     }
   ],
-  "explicitTracks": 39,
-  "availableTracks": 1950,
+  "explicitTracks": 40,
+  "availableTracks": 1957,
   "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-23T08:30:21.427Z"
+  "lastUpdated": "2026-07-24T19:25:05.651Z"
 }
