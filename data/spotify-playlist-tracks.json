@@ -88268,5 +88268,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD",
     "uri": "spotify:track:2PKGJK3Kldd4DHJNzSFWJD"
+  },
+  {
+    "position": 1967,
+    "addedAt": "2026-07-24T19:39:09.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4WHvIDcDOcAVrsI5BxPGBM",
+    "name": "Beat Goes On",
+    "artists": [
+      {
+        "id": "05tmGPn4fFdVpnsMt0YW5S",
+        "name": "Adam Ten",
+        "uri": "spotify:artist:05tmGPn4fFdVpnsMt0YW5S",
+        "spotifyUrl": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+      },
+      {
+        "id": "3DHC2ZUVADRKLSmqPcqvc6",
+        "name": "Rafael",
+        "uri": "spotify:artist:3DHC2ZUVADRKLSmqPcqvc6",
+        "spotifyUrl": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+      }
+    ],
+    "album": {
+      "id": "5ZBsNOxU0xOPIjpEwYLmDy",
+      "name": "Beat Goes On",
+      "uri": "spotify:album:5ZBsNOxU0xOPIjpEwYLmDy",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/5ZBsNOxU0xOPIjpEwYLmDy",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d50b5c70ef516aa0d6caf0b9"
+    },
+    "durationMs": 228387,
+    "durationMin": 3.81,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4WHvIDcDOcAVrsI5BxPGBM",
+    "uri": "spotify:track:4WHvIDcDOcAVrsI5BxPGBM"
   }
 ]

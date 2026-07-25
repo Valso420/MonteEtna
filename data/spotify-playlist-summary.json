@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1966,
-  "exportedTracks": 1966,
-  "totalDurationMs": 552899396,
+  "totalTracks": 1967,
+  "exportedTracks": 1967,
+  "totalDurationMs": 553127783,
   "totalHours": 153.6,
   "averageDurationMin": 4.69,
   "uniqueArtists": 1393,
-  "uniqueAlbums": 1713,
+  "uniqueAlbums": 1714,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Beat Goes On",
+      "artists": [
+        "Adam Ten",
+        "Rafael"
+      ],
+      "addedAt": "2026-07-24T19:39:09.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4WHvIDcDOcAVrsI5BxPGBM"
+    },
+    {
       "name": "Can't Slow Down",
       "artists": [
         "Omar+"
@@ -129,15 +138,6 @@
       ],
       "addedAt": "2026-07-24T13:29:29.000Z",
       "spotifyUrl": "https://open.spotify.com/track/2ACCqERlitCyMawKsUZtMp"
-    },
-    {
-      "name": "Window Shake",
-      "artists": [
-        "Argy",
-        "SOLANCE"
-      ],
-      "addedAt": "2026-07-24T12:45:05.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4dJVDcdrTwB0sDBbw4TfXR"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +154,9 @@
     }
   ],
   "explicitTracks": 40,
-  "availableTracks": 1957,
+  "availableTracks": 1958,
   "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-24T19:25:05.651Z"
+  "lastUpdated": "2026-07-25T02:38:56.179Z"
 }
