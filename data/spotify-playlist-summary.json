@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1967,
-  "exportedTracks": 1967,
-  "totalDurationMs": 553127783,
-  "totalHours": 153.6,
-  "averageDurationMin": 4.69,
-  "uniqueArtists": 1393,
-  "uniqueAlbums": 1714,
+  "totalTracks": 1975,
+  "exportedTracks": 1975,
+  "totalDurationMs": 556371291,
+  "totalHours": 154.5,
+  "averageDurationMin": 4.7,
+  "uniqueArtists": 1404,
+  "uniqueAlbums": 1722,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,48 +96,49 @@
   ],
   "recentTracks": [
     {
-      "name": "Beat Goes On",
+      "name": "The Amazing Lilou - Lee Burridge Revibe",
       "artists": [
-        "Adam Ten",
-        "Rafael"
+        "Luciano",
+        "Lee Burridge"
       ],
-      "addedAt": "2026-07-24T19:39:09.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4WHvIDcDOcAVrsI5BxPGBM"
+      "addedAt": "2026-07-25T16:41:09.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5HeVi3lqAiyKDH9ZyJpkQn"
     },
     {
-      "name": "Can't Slow Down",
+      "name": "Have a Name",
       "artists": [
-        "Omar+"
+        "Nacho Varela",
+        "Cruz Vittor",
+        "Geri Terella"
       ],
-      "addedAt": "2026-07-24T19:14:44.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
+      "addedAt": "2026-07-25T16:35:25.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0yAwmFCrHVUgJt9OBZz7nk"
     },
     {
-      "name": "Turning Stones - Mind Against Remix",
+      "name": "Ode to Life Formation",
       "artists": [
-        "CamelPhat",
-        "SOHN",
-        "Mind Against"
+        "Noraj Cue"
       ],
-      "addedAt": "2026-07-24T18:45:06.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1tZMhhllqKYTMku8O2FTgS"
+      "addedAt": "2026-07-25T16:26:13.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3OEbCwxKfdeCOTRP4QBXm5"
     },
     {
-      "name": "Whisper To Me",
+      "name": "Halo",
       "artists": [
-        "Jimi Jules",
-        "Modern Tales"
+        "DIM KELLY",
+        "Maya Safar"
       ],
-      "addedAt": "2026-07-24T16:39:10.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
+      "addedAt": "2026-07-25T16:14:34.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5ku1ZPBmBA8IrfUDuuz1Bk"
     },
     {
-      "name": "I Wish",
+      "name": "Sweet Disposition [Mixed]",
       "artists": [
-        "Jos & Eli"
+        "SAFAR",
+        "neverwaves"
       ],
-      "addedAt": "2026-07-24T13:29:29.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2ACCqERlitCyMawKsUZtMp"
+      "addedAt": "2026-07-25T15:54:09.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3JEuRj0l8LHCYsVzhD2dv9"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +155,9 @@
     }
   ],
   "explicitTracks": 40,
-  "availableTracks": 1958,
+  "availableTracks": 1966,
   "unavailableTracks": 9,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-25T08:06:10.484Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-07-25T19:07:00.582Z"
 }
