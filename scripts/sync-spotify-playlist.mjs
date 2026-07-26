@@ -7,6 +7,9 @@ const SUMMARY_PATH = path.join(OUTPUT_DIR, "spotify-playlist-summary.json");
 const TOKEN_URL = "https://accounts.spotify.com/api/token";
 const API_URL = "https://api.spotify.com/v1";
 const PAGE_LIMIT = 50;
+const MAX_RETRIES = 4;
+const RETRY_BASE_DELAY_MS = 1000;
+const RETRY_MAX_DELAY_MS = 10000;
 
 function requireEnv(name, value) {
   if (!value) {
@@ -74,15 +77,68 @@ function normalizeAddedBy(user) {
   };
 }
 
-async function requestJson(url, options = {}, label = "request") {
-  const response = await fetch(url, options);
-  const body = await response.text();
+function sleep(milliseconds) {
+  return new Promise((resolve) => setTimeout(resolve, milliseconds));
+}
 
-  if (!response.ok) {
-    throw new Error(`Spotify ${label} failed ${response.status}: ${body}`);
+function getRetryDelayMs(retryAfter, attempt) {
+  if (retryAfter) {
+    const seconds = Number(retryAfter);
+    if (Number.isFinite(seconds) && seconds >= 0) {
+      return seconds * 1000;
+    }
+
+    const date = Date.parse(retryAfter);
+    if (!Number.isNaN(date)) {
+      return Math.max(0, date - Date.now());
+    }
   }
 
-  return body ? JSON.parse(body) : null;
+  const exponentialDelay = Math.min(
+    RETRY_BASE_DELAY_MS * 2 ** attempt,
+    RETRY_MAX_DELAY_MS,
+  );
+  return exponentialDelay + Math.floor(Math.random() * 250);
+}
+
+function isRetryableStatus(status) {
+  return status === 429 || (status >= 500 && status <= 599);
+}
+
+async function requestJson(url, options = {}, label = "request") {
+  for (let attempt = 0; ; attempt += 1) {
+    let response;
+
+    try {
+      response = await fetch(url, options);
+    } catch (error) {
+      if (attempt >= MAX_RETRIES) {
+        throw new Error(`Spotify ${label} failed after retries: ${error.message}`);
+      }
+
+      const delay = getRetryDelayMs(null, attempt);
+      console.warn(
+        `Spotify ${label} network error; retrying in ${delay}ms (${attempt + 1}/${MAX_RETRIES}).`,
+      );
+      await sleep(delay);
+      continue;
+    }
+
+    const body = await response.text();
+    if (response.ok) {
+      return body ? JSON.parse(body) : null;
+    }
+
+    if (!isRetryableStatus(response.status) || attempt >= MAX_RETRIES) {
+      throw new Error(`Spotify ${label} failed ${response.status}: ${body}`);
+    }
+
+    const delay = getRetryDelayMs(response.headers.get("retry-after"), attempt);
+    console.warn(
+      `Spotify ${label} failed ${response.status}; retrying in ${delay}ms (${attempt + 1}/${MAX_RETRIES}).`,
+    );
+    await sleep(delay);
+  }
 }
 
 async function readJsonIfExists(filePath) {
