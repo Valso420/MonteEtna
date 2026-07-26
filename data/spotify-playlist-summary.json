@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1975,
-  "exportedTracks": 1975,
-  "totalDurationMs": 556371291,
-  "totalHours": 154.5,
+  "totalTracks": 1977,
+  "exportedTracks": 1977,
+  "totalDurationMs": 557332446,
+  "totalHours": 154.8,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1404,
-  "uniqueAlbums": 1722,
+  "uniqueArtists": 1405,
+  "uniqueAlbums": 1724,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,24 @@
   ],
   "recentTracks": [
     {
+      "name": "Freedom - Patrice Bäumel Remix",
+      "artists": [
+        "Budakid",
+        "Patrice Bäumel"
+      ],
+      "addedAt": "2026-07-25T23:14:56.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6YZpYso4IRiHZkorNJHl6j"
+    },
+    {
+      "name": "The Night Mail (Simon Vuarambon Remix)",
+      "artists": [
+        "New Jackson",
+        "Simon Vuarambon"
+      ],
+      "addedAt": "2026-07-25T19:49:04.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3HIweWbm5KvK72J3BaJRRl"
+    },
+    {
       "name": "The Amazing Lilou - Lee Burridge Revibe",
       "artists": [
         "Luciano",
@@ -121,24 +139,6 @@
       ],
       "addedAt": "2026-07-25T16:26:13.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3OEbCwxKfdeCOTRP4QBXm5"
-    },
-    {
-      "name": "Halo",
-      "artists": [
-        "DIM KELLY",
-        "Maya Safar"
-      ],
-      "addedAt": "2026-07-25T16:14:34.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5ku1ZPBmBA8IrfUDuuz1Bk"
-    },
-    {
-      "name": "Sweet Disposition [Mixed]",
-      "artists": [
-        "SAFAR",
-        "neverwaves"
-      ],
-      "addedAt": "2026-07-25T15:54:09.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3JEuRj0l8LHCYsVzhD2dv9"
     }
   ],
   "duplicateTracks": 1,
@@ -155,9 +155,9 @@
     }
   ],
   "explicitTracks": 40,
-  "availableTracks": 1966,
+  "availableTracks": 1968,
   "unavailableTracks": 9,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-25T19:07:00.582Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-07-26T02:48:04.094Z"
 }
