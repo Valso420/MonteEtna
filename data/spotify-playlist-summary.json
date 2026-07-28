@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1977,
-  "exportedTracks": 1977,
-  "totalDurationMs": 557332446,
-  "totalHours": 154.8,
+  "totalTracks": 1978,
+  "exportedTracks": 1978,
+  "totalDurationMs": 557626482,
+  "totalHours": 154.9,
   "averageDurationMin": 4.7,
   "uniqueArtists": 1405,
-  "uniqueAlbums": 1724,
+  "uniqueAlbums": 1723,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,23 @@
   ],
   "recentTracks": [
     {
+      "name": "Human Rights",
+      "artists": [
+        "Jimi Jules"
+      ],
+      "addedAt": "2026-07-28T17:14:35.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/71fTVclXnBs1yUWqXnuBHK"
+    },
+    {
+      "name": "Trippy Yeah",
+      "artists": [
+        "Jimi Jules",
+        "Black Coffee"
+      ],
+      "addedAt": "2026-07-28T17:08:52.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3cgNZ61ftRTdwGAIDiZnu1"
+    },
+    {
       "name": "Freedom - Patrice Bäumel Remix",
       "artists": [
         "Budakid",
@@ -121,24 +138,6 @@
       ],
       "addedAt": "2026-07-25T16:41:09.000Z",
       "spotifyUrl": "https://open.spotify.com/track/5HeVi3lqAiyKDH9ZyJpkQn"
-    },
-    {
-      "name": "Have a Name",
-      "artists": [
-        "Nacho Varela",
-        "Cruz Vittor",
-        "Geri Terella"
-      ],
-      "addedAt": "2026-07-25T16:35:25.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0yAwmFCrHVUgJt9OBZz7nk"
-    },
-    {
-      "name": "Ode to Life Formation",
-      "artists": [
-        "Noraj Cue"
-      ],
-      "addedAt": "2026-07-25T16:26:13.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3OEbCwxKfdeCOTRP4QBXm5"
     }
   ],
   "duplicateTracks": 1,
@@ -155,9 +154,9 @@
     }
   ],
   "explicitTracks": 40,
-  "availableTracks": 1968,
+  "availableTracks": 1969,
   "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-28T02:32:52.964Z"
+  "lastUpdated": "2026-07-28T19:23:44.961Z"
 }
