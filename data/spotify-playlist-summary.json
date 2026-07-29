@@ -5,10 +5,10 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1979,
-  "exportedTracks": 1979,
-  "totalDurationMs": 558073592,
-  "totalHours": 155,
+  "totalTracks": 1980,
+  "exportedTracks": 1980,
+  "totalDurationMs": 558376006,
+  "totalHours": 155.1,
   "averageDurationMin": 4.7,
   "uniqueArtists": 1405,
   "uniqueAlbums": 1724,
@@ -50,6 +50,10 @@
       "tracks": 31
     },
     {
+      "name": "Kevin de Vries",
+      "tracks": 30
+    },
+    {
       "name": "Layton Giordani",
       "tracks": 30
     },
@@ -59,10 +63,6 @@
     },
     {
       "name": "Adam Beyer",
-      "tracks": 29
-    },
-    {
-      "name": "Kevin de Vries",
       "tracks": 29
     },
     {
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Part Of Me",
+      "artists": [
+        "Kevin de Vries",
+        "Y do I"
+      ],
+      "addedAt": "2026-07-29T12:00:12.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1RU86zP9rjDtmrOZ2DSJ8H"
+    },
+    {
       "name": "Eternity",
       "artists": [
         "Kevin de Vries"
@@ -128,15 +137,6 @@
       ],
       "addedAt": "2026-07-25T23:14:56.000Z",
       "spotifyUrl": "https://open.spotify.com/track/6YZpYso4IRiHZkorNJHl6j"
-    },
-    {
-      "name": "The Night Mail (Simon Vuarambon Remix)",
-      "artists": [
-        "New Jackson",
-        "Simon Vuarambon"
-      ],
-      "addedAt": "2026-07-25T19:49:04.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3HIweWbm5KvK72J3BaJRRl"
     }
   ],
   "duplicateTracks": 1,
@@ -153,9 +153,9 @@
     }
   ],
   "explicitTracks": 40,
-  "availableTracks": 1970,
+  "availableTracks": 1971,
   "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-29T08:40:36.110Z"
+  "lastUpdated": "2026-07-29T14:10:06.420Z"
 }

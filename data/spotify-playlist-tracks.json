@@ -88866,5 +88866,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/42GfHKC3VjeSJJ6dblMOTy",
     "uri": "spotify:track:42GfHKC3VjeSJJ6dblMOTy"
+  },
+  {
+    "position": 1980,
+    "addedAt": "2026-07-29T12:00:12.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1RU86zP9rjDtmrOZ2DSJ8H",
+    "name": "Part Of Me",
+    "artists": [
+      {
+        "id": "11aPF3sc8lDWNqPVInm4Zx",
+        "name": "Kevin de Vries",
+        "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+        "spotifyUrl": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      },
+      {
+        "id": "4GVWch4tEmNGIx9gAWrnex",
+        "name": "Y do I",
+        "uri": "spotify:artist:4GVWch4tEmNGIx9gAWrnex",
+        "spotifyUrl": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+      }
+    ],
+    "album": {
+      "id": "6ooAO2z9UPfC2Rz1c9x52h",
+      "name": "Saga",
+      "uri": "spotify:album:6ooAO2z9UPfC2Rz1c9x52h",
+      "releaseDate": "2024-09-20",
+      "spotifyUrl": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27357bffe1cf6a8e73a959d6085"
+    },
+    "durationMs": 302414,
+    "durationMin": 5.04,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1RU86zP9rjDtmrOZ2DSJ8H",
+    "uri": "spotify:track:1RU86zP9rjDtmrOZ2DSJ8H"
   }
 ]
