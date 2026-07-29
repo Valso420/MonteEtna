@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1978,
-  "exportedTracks": 1978,
-  "totalDurationMs": 557626482,
-  "totalHours": 154.9,
+  "totalTracks": 1979,
+  "exportedTracks": 1979,
+  "totalDurationMs": 558073592,
+  "totalHours": 155,
   "averageDurationMin": 4.7,
   "uniqueArtists": 1405,
-  "uniqueAlbums": 1723,
+  "uniqueAlbums": 1724,
   "topArtists": [
     {
       "name": "Mathame",
@@ -62,12 +62,12 @@
       "tracks": 29
     },
     {
-      "name": "Rebūke",
+      "name": "Kevin de Vries",
       "tracks": 29
     },
     {
-      "name": "Kevin de Vries",
-      "tracks": 28
+      "name": "Rebūke",
+      "tracks": 29
     },
     {
       "name": "Goom Gum",
@@ -95,6 +95,14 @@
     }
   ],
   "recentTracks": [
+    {
+      "name": "Eternity",
+      "artists": [
+        "Kevin de Vries"
+      ],
+      "addedAt": "2026-07-28T23:27:27.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/42GfHKC3VjeSJJ6dblMOTy"
+    },
     {
       "name": "Human Rights",
       "artists": [
@@ -129,15 +137,6 @@
       ],
       "addedAt": "2026-07-25T19:49:04.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3HIweWbm5KvK72J3BaJRRl"
-    },
-    {
-      "name": "The Amazing Lilou - Lee Burridge Revibe",
-      "artists": [
-        "Luciano",
-        "Lee Burridge"
-      ],
-      "addedAt": "2026-07-25T16:41:09.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5HeVi3lqAiyKDH9ZyJpkQn"
     }
   ],
   "duplicateTracks": 1,
@@ -154,9 +153,9 @@
     }
   ],
   "explicitTracks": 40,
-  "availableTracks": 1969,
+  "availableTracks": 1970,
   "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-28T19:23:44.961Z"
+  "lastUpdated": "2026-07-29T02:37:44.077Z"
 }

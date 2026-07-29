@@ -88826,5 +88826,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/71fTVclXnBs1yUWqXnuBHK",
     "uri": "spotify:track:71fTVclXnBs1yUWqXnuBHK"
+  },
+  {
+    "position": 1979,
+    "addedAt": "2026-07-28T23:27:27.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "42GfHKC3VjeSJJ6dblMOTy",
+    "name": "Eternity",
+    "artists": [
+      {
+        "id": "11aPF3sc8lDWNqPVInm4Zx",
+        "name": "Kevin de Vries",
+        "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+        "spotifyUrl": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      }
+    ],
+    "album": {
+      "id": "2PnItJrQA4ghuEDI2szVRM",
+      "name": "A-Sides, Vol. 5 (20 Years 20 Tracks)",
+      "uri": "spotify:album:2PnItJrQA4ghuEDI2szVRM",
+      "releaseDate": "2016-08-15",
+      "spotifyUrl": "https://open.spotify.com/album/2PnItJrQA4ghuEDI2szVRM",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735ddad7bf882179ded8bba69f"
+    },
+    "durationMs": 447110,
+    "durationMin": 7.45,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/42GfHKC3VjeSJJ6dblMOTy",
+    "uri": "spotify:track:42GfHKC3VjeSJJ6dblMOTy"
   }
 ]
