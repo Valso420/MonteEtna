@@ -89244,5 +89244,195 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/5eoHZcjgBe03LEYBNGX7f7",
     "uri": "spotify:track:5eoHZcjgBe03LEYBNGX7f7"
+  },
+  {
+    "position": 1989,
+    "addedAt": "2026-07-31T14:49:19.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5Vz9XUiw2emOIRLobTMEkD",
+    "name": "Happiness Is So Sad",
+    "artists": [
+      {
+        "id": "1h6Cn3P4NGzXbaXidqURXs",
+        "name": "Swedish House Mafia",
+        "uri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs",
+        "spotifyUrl": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+      },
+      {
+        "id": "6oBm8HB0yfrIc9IHbxs6in",
+        "name": "Lykke Li",
+        "uri": "spotify:artist:6oBm8HB0yfrIc9IHbxs6in",
+        "spotifyUrl": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+      }
+    ],
+    "album": {
+      "id": "4WLLacwBaBRtV0qOzpFPMW",
+      "name": "Happiness Is So Sad",
+      "uri": "spotify:album:4WLLacwBaBRtV0qOzpFPMW",
+      "releaseDate": "2026-07-30",
+      "spotifyUrl": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ace7380e8ee73764ea11bbee"
+    },
+    "durationMs": 232835,
+    "durationMin": 3.88,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD",
+    "uri": "spotify:track:5Vz9XUiw2emOIRLobTMEkD"
+  },
+  {
+    "position": 1990,
+    "addedAt": "2026-07-31T15:58:57.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "6CIsyFl61h5tKDo2YXV1AG",
+    "name": "PLAYFUL MADNESS - Gaston Fiore Remix",
+    "artists": [
+      {
+        "id": "5okK26XaG9mv8O5iVKdM6k",
+        "name": "SWART",
+        "uri": "spotify:artist:5okK26XaG9mv8O5iVKdM6k",
+        "spotifyUrl": "https://open.spotify.com/artist/5okK26XaG9mv8O5iVKdM6k"
+      },
+      {
+        "id": "3uqt6nGempzAwX3uap01qn",
+        "name": "Gaston Fiore",
+        "uri": "spotify:artist:3uqt6nGempzAwX3uap01qn",
+        "spotifyUrl": "https://open.spotify.com/artist/3uqt6nGempzAwX3uap01qn"
+      }
+    ],
+    "album": {
+      "id": "0hoCG5GBN4taSaGU3zlonQ",
+      "name": "PLAYFUL MADNESS",
+      "uri": "spotify:album:0hoCG5GBN4taSaGU3zlonQ",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/0hoCG5GBN4taSaGU3zlonQ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732a5e57878411d3a69b33c3a6"
+    },
+    "durationMs": 346474,
+    "durationMin": 5.77,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6CIsyFl61h5tKDo2YXV1AG",
+    "uri": "spotify:track:6CIsyFl61h5tKDo2YXV1AG"
+  },
+  {
+    "position": 1991,
+    "addedAt": "2026-07-31T16:03:26.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "19qaByyKLCD9R2raOpD13U",
+    "name": "Go",
+    "artists": [
+      {
+        "id": "6GyqhF3pwKcbo3U3Ncm8TJ",
+        "name": "Ezequiel Arias",
+        "uri": "spotify:artist:6GyqhF3pwKcbo3U3Ncm8TJ",
+        "spotifyUrl": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+      },
+      {
+        "id": "224Zsim3dmWXWYUXFuHv0o",
+        "name": "HANA",
+        "uri": "spotify:artist:224Zsim3dmWXWYUXFuHv0o",
+        "spotifyUrl": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+      }
+    ],
+    "album": {
+      "id": "3FmEcyWRjyf15PEEkJ9rxd",
+      "name": "Go",
+      "uri": "spotify:album:3FmEcyWRjyf15PEEkJ9rxd",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/3FmEcyWRjyf15PEEkJ9rxd",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ebe7724310c8e5f1ab55ab66"
+    },
+    "durationMs": 259354,
+    "durationMin": 4.32,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/19qaByyKLCD9R2raOpD13U",
+    "uri": "spotify:track:19qaByyKLCD9R2raOpD13U"
+  },
+  {
+    "position": 1992,
+    "addedAt": "2026-07-31T16:05:40.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "7AmYe7BbL81X2WFZOJLqeP",
+    "name": "I'm Alive - Anna Tur Remix",
+    "artists": [
+      {
+        "id": "5MO2kbaGGA2a8kL4c9qqHq",
+        "name": "Paul Oakenfold",
+        "uri": "spotify:artist:5MO2kbaGGA2a8kL4c9qqHq",
+        "spotifyUrl": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+      },
+      {
+        "id": "6S2tas4z6DyIklBajDqJxI",
+        "name": "Infected Mushroom",
+        "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI",
+        "spotifyUrl": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+      },
+      {
+        "id": "3AV9wkRe9dDJjE1vk6ZwdH",
+        "name": "Anna Tur",
+        "uri": "spotify:artist:3AV9wkRe9dDJjE1vk6ZwdH",
+        "spotifyUrl": "https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH"
+      }
+    ],
+    "album": {
+      "id": "4XKLhGuZrTAlknm09ES1uw",
+      "name": "Mission Underground",
+      "uri": "spotify:album:4XKLhGuZrTAlknm09ES1uw",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/4XKLhGuZrTAlknm09ES1uw",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27313e03c4b74d934fbe7279518"
+    },
+    "durationMs": 180451,
+    "durationMin": 3.01,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7AmYe7BbL81X2WFZOJLqeP",
+    "uri": "spotify:track:7AmYe7BbL81X2WFZOJLqeP"
   }
 ]
