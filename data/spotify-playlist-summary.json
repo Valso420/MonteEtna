@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1980,
-  "exportedTracks": 1980,
-  "totalDurationMs": 558376006,
-  "totalHours": 155.1,
+  "totalTracks": 1976,
+  "exportedTracks": 1976,
+  "totalDurationMs": 557313549,
+  "totalHours": 154.8,
   "averageDurationMin": 4.7,
   "uniqueArtists": 1405,
-  "uniqueAlbums": 1724,
+  "uniqueAlbums": 1722,
   "topArtists": [
     {
       "name": "Mathame",
@@ -35,7 +35,7 @@
     },
     {
       "name": "ARTBAT",
-      "tracks": 46
+      "tracks": 45
     },
     {
       "name": "Argy",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Mind Against",
-      "tracks": 27
+      "tracks": 26
     },
     {
       "name": "Miss Monique",
@@ -87,14 +87,22 @@
     },
     {
       "name": "Chris Avantgarde",
-      "tracks": 24
+      "tracks": 23
     },
     {
       "name": "Armin van Buuren",
-      "tracks": 23
+      "tracks": 22
     }
   ],
   "recentTracks": [
+    {
+      "name": "Lonely Drive",
+      "artists": [
+        "Maceo Plex"
+      ],
+      "addedAt": "2026-07-30T23:19:09.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7MwxDzPlZ5dJPVgGkNI1AQ"
+    },
     {
       "name": "Part Of Me",
       "artists": [
@@ -128,34 +136,14 @@
       ],
       "addedAt": "2026-07-28T17:08:52.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3cgNZ61ftRTdwGAIDiZnu1"
-    },
-    {
-      "name": "Freedom - Patrice Bäumel Remix",
-      "artists": [
-        "Budakid",
-        "Patrice Bäumel"
-      ],
-      "addedAt": "2026-07-25T23:14:56.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6YZpYso4IRiHZkorNJHl6j"
     }
   ],
-  "duplicateTracks": 1,
-  "duplicateDetails": [
-    {
-      "id": "4DA4WJRYSqpxiaCFymm5uv",
-      "name": "Pull Out - Short Mix",
-      "artists": [
-        "ARTBAT",
-        "KAS:ST",
-        "Losless"
-      ],
-      "count": 2
-    }
-  ],
+  "duplicateTracks": 0,
+  "duplicateDetails": [],
   "explicitTracks": 40,
-  "availableTracks": 1971,
+  "availableTracks": 1967,
   "unavailableTracks": 9,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-30T19:26:05.156Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-07-31T02:49:33.600Z"
 }
