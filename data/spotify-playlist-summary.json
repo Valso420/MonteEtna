@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1976,
-  "exportedTracks": 1976,
-  "totalDurationMs": 557313549,
-  "totalHours": 154.8,
+  "totalTracks": 1988,
+  "exportedTracks": 1988,
+  "totalDurationMs": 560107783,
+  "totalHours": 155.6,
   "averageDurationMin": 4.7,
-  "uniqueArtists": 1405,
-  "uniqueAlbums": 1722,
+  "uniqueArtists": 1409,
+  "uniqueAlbums": 1733,
   "topArtists": [
     {
       "name": "Mathame",
@@ -19,11 +19,11 @@
     },
     {
       "name": "Anyma",
-      "tracks": 56
+      "tracks": 57
     },
     {
       "name": "Massano",
-      "tracks": 56
+      "tracks": 57
     },
     {
       "name": "CamelPhat",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Innellea",
-      "tracks": 31
+      "tracks": 32
     },
     {
       "name": "Kevin de Vries",
@@ -86,64 +86,66 @@
       "tracks": 26
     },
     {
-      "name": "Chris Avantgarde",
+      "name": "Armin van Buuren",
       "tracks": 23
     },
     {
-      "name": "Armin van Buuren",
-      "tracks": 22
+      "name": "Chris Avantgarde",
+      "tracks": 23
     }
   ],
   "recentTracks": [
     {
-      "name": "Lonely Drive",
+      "name": "Activator",
       "artists": [
-        "Maceo Plex"
+        "SCRIPT"
       ],
-      "addedAt": "2026-07-30T23:19:09.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7MwxDzPlZ5dJPVgGkNI1AQ"
+      "addedAt": "2026-07-31T13:53:00.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5eoHZcjgBe03LEYBNGX7f7"
     },
     {
-      "name": "Part Of Me",
+      "name": "Everlasting",
       "artists": [
-        "Kevin de Vries",
-        "Y do I"
+        "Armin van Buuren",
+        "SACHA"
       ],
-      "addedAt": "2026-07-29T12:00:12.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1RU86zP9rjDtmrOZ2DSJ8H"
+      "addedAt": "2026-07-31T13:43:29.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91"
     },
     {
-      "name": "Eternity",
+      "name": "Take You There",
       "artists": [
-        "Kevin de Vries"
+        "Odd Mob",
+        "OMNOM",
+        "HYPERBEAM"
       ],
-      "addedAt": "2026-07-28T23:27:27.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/42GfHKC3VjeSJJ6dblMOTy"
+      "addedAt": "2026-07-31T13:34:08.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
     },
     {
-      "name": "Human Rights",
+      "name": "Pretend Me",
       "artists": [
-        "Jimi Jules"
+        "Alphadog"
       ],
-      "addedAt": "2026-07-28T17:14:35.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/71fTVclXnBs1yUWqXnuBHK"
+      "addedAt": "2026-07-31T12:48:46.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5FPalZhw2IeIzZOk3wL6JS"
     },
     {
-      "name": "Trippy Yeah",
+      "name": "Sacrifice (with PARISI)",
       "artists": [
-        "Jimi Jules",
-        "Black Coffee"
+        "Anyma",
+        "PARISI"
       ],
-      "addedAt": "2026-07-28T17:08:52.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3cgNZ61ftRTdwGAIDiZnu1"
+      "addedAt": "2026-07-31T12:43:24.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5BYW81VirpjGniM4EixRp8"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
-  "explicitTracks": 40,
-  "availableTracks": 1967,
+  "explicitTracks": 41,
+  "availableTracks": 1979,
   "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-31T08:49:33.469Z"
+  "lastUpdated": "2026-07-31T14:06:29.402Z"
 }
