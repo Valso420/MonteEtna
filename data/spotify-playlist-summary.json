@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1992,
-  "exportedTracks": 1992,
-  "totalDurationMs": 561126897,
-  "totalHours": 155.9,
+  "totalTracks": 1997,
+  "exportedTracks": 1997,
+  "totalDurationMs": 562225161,
+  "totalHours": 156.2,
   "averageDurationMin": 4.69,
-  "uniqueArtists": 1414,
-  "uniqueAlbums": 1737,
+  "uniqueArtists": 1417,
+  "uniqueAlbums": 1742,
   "topArtists": [
     {
       "name": "Mathame",
@@ -50,15 +50,15 @@
       "tracks": 32
     },
     {
+      "name": "Vintage Culture",
+      "tracks": 31
+    },
+    {
       "name": "Kevin de Vries",
       "tracks": 30
     },
     {
       "name": "Layton Giordani",
-      "tracks": 30
-    },
-    {
-      "name": "Vintage Culture",
       "tracks": 30
     },
     {
@@ -96,57 +96,57 @@
   ],
   "recentTracks": [
     {
-      "name": "I'm Alive - Anna Tur Remix",
+      "name": "Action",
       "artists": [
-        "Paul Oakenfold",
-        "Infected Mushroom",
-        "Anna Tur"
+        "James Hype",
+        "Tita Lau"
       ],
-      "addedAt": "2026-07-31T16:05:40.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7AmYe7BbL81X2WFZOJLqeP"
+      "addedAt": "2026-07-31T20:24:25.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4fMCQYd5Xi0MrIQq2CCkqL"
     },
     {
-      "name": "Go",
+      "name": "It's Not Right",
       "artists": [
-        "Ezequiel Arias",
-        "HANA"
+        "Agustin Giri",
+        "Fabricio Mosoni"
       ],
-      "addedAt": "2026-07-31T16:03:26.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/19qaByyKLCD9R2raOpD13U"
+      "addedAt": "2026-07-31T20:21:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6oFBQi0l2lWBhKNmLRBeXo"
     },
     {
-      "name": "PLAYFUL MADNESS - Gaston Fiore Remix",
+      "name": "Get Closer",
       "artists": [
-        "SWART",
-        "Gaston Fiore"
+        "Silver Panda"
       ],
-      "addedAt": "2026-07-31T15:58:57.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6CIsyFl61h5tKDo2YXV1AG"
+      "addedAt": "2026-07-31T19:51:11.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7qw5gCuFPBuBVMsqX1iHmn"
     },
     {
-      "name": "Happiness Is So Sad",
+      "name": "Right Now",
       "artists": [
-        "Swedish House Mafia",
-        "Lykke Li"
+        "Rafael Cerato",
+        "Charles D (USA)"
       ],
-      "addedAt": "2026-07-31T14:49:19.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+      "addedAt": "2026-07-31T19:46:40.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6XBm5VoxBy0ebSvgl2Jyw6"
     },
     {
-      "name": "Activator",
+      "name": "Think Too Much",
       "artists": [
-        "SCRIPT"
+        "Vintage Culture",
+        "Nariman",
+        "rhys from the sticks"
       ],
-      "addedAt": "2026-07-31T13:53:00.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5eoHZcjgBe03LEYBNGX7f7"
+      "addedAt": "2026-07-31T19:43:22.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/21gMbdNtW8Za7QOdTmWa5G"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 41,
-  "availableTracks": 1983,
+  "availableTracks": 1988,
   "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-07-31T19:24:30.188Z"
+  "lastUpdated": "2026-08-01T02:48:06.906Z"
 }

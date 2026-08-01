@@ -89434,5 +89434,235 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/7AmYe7BbL81X2WFZOJLqeP",
     "uri": "spotify:track:7AmYe7BbL81X2WFZOJLqeP"
+  },
+  {
+    "position": 1993,
+    "addedAt": "2026-07-31T19:43:22.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "21gMbdNtW8Za7QOdTmWa5G",
+    "name": "Think Too Much",
+    "artists": [
+      {
+        "id": "28uJnu5EsrGml2tBd7y8ts",
+        "name": "Vintage Culture",
+        "uri": "spotify:artist:28uJnu5EsrGml2tBd7y8ts",
+        "spotifyUrl": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      {
+        "id": "2nfCSIlDMhDckP3xf3J0va",
+        "name": "Nariman",
+        "uri": "spotify:artist:2nfCSIlDMhDckP3xf3J0va",
+        "spotifyUrl": "https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va"
+      },
+      {
+        "id": "4tmqN5uP0Aj50ylHgfwvVa",
+        "name": "rhys from the sticks",
+        "uri": "spotify:artist:4tmqN5uP0Aj50ylHgfwvVa",
+        "spotifyUrl": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+      }
+    ],
+    "album": {
+      "id": "1IlDb8yklrYyFlwO8t83wE",
+      "name": "Think Too Much EP",
+      "uri": "spotify:album:1IlDb8yklrYyFlwO8t83wE",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/1IlDb8yklrYyFlwO8t83wE",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27364e673743a3459f4afcfb624"
+    },
+    "durationMs": 186825,
+    "durationMin": 3.11,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/21gMbdNtW8Za7QOdTmWa5G",
+    "uri": "spotify:track:21gMbdNtW8Za7QOdTmWa5G"
+  },
+  {
+    "position": 1994,
+    "addedAt": "2026-07-31T19:46:40.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6XBm5VoxBy0ebSvgl2Jyw6",
+    "name": "Right Now",
+    "artists": [
+      {
+        "id": "3NUcxMYt10f6cx567crDk2",
+        "name": "Rafael Cerato",
+        "uri": "spotify:artist:3NUcxMYt10f6cx567crDk2",
+        "spotifyUrl": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+      },
+      {
+        "id": "4JM9MtRRutmQVooyHnFTD1",
+        "name": "Charles D (USA)",
+        "uri": "spotify:artist:4JM9MtRRutmQVooyHnFTD1",
+        "spotifyUrl": "https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1"
+      }
+    ],
+    "album": {
+      "id": "5xWn745VRJkqHUR2QUTcek",
+      "name": "Right Now",
+      "uri": "spotify:album:5xWn745VRJkqHUR2QUTcek",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/5xWn745VRJkqHUR2QUTcek",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732575f51b1aaba95aef2352c9"
+    },
+    "durationMs": 242343,
+    "durationMin": 4.04,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6XBm5VoxBy0ebSvgl2Jyw6",
+    "uri": "spotify:track:6XBm5VoxBy0ebSvgl2Jyw6"
+  },
+  {
+    "position": 1995,
+    "addedAt": "2026-07-31T19:51:11.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7qw5gCuFPBuBVMsqX1iHmn",
+    "name": "Get Closer",
+    "artists": [
+      {
+        "id": "310IX3ZzFSl14ZvY2dM8Da",
+        "name": "Silver Panda",
+        "uri": "spotify:artist:310IX3ZzFSl14ZvY2dM8Da",
+        "spotifyUrl": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+      }
+    ],
+    "album": {
+      "id": "1UzgR1T1FIzSoZXsrhbTvf",
+      "name": "Get Closer",
+      "uri": "spotify:album:1UzgR1T1FIzSoZXsrhbTvf",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/1UzgR1T1FIzSoZXsrhbTvf",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739378125a841c044cdbc84c33"
+    },
+    "durationMs": 182812,
+    "durationMin": 3.05,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7qw5gCuFPBuBVMsqX1iHmn",
+    "uri": "spotify:track:7qw5gCuFPBuBVMsqX1iHmn"
+  },
+  {
+    "position": 1996,
+    "addedAt": "2026-07-31T20:21:43.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6oFBQi0l2lWBhKNmLRBeXo",
+    "name": "It's Not Right",
+    "artists": [
+      {
+        "id": "7zXtvsjXDrLakTsrs63fM5",
+        "name": "Agustin Giri",
+        "uri": "spotify:artist:7zXtvsjXDrLakTsrs63fM5",
+        "spotifyUrl": "https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5"
+      },
+      {
+        "id": "0nu3Ujww1dKxHgcIR9W4YP",
+        "name": "Fabricio Mosoni",
+        "uri": "spotify:artist:0nu3Ujww1dKxHgcIR9W4YP",
+        "spotifyUrl": "https://open.spotify.com/artist/0nu3Ujww1dKxHgcIR9W4YP"
+      }
+    ],
+    "album": {
+      "id": "4vZtwkMtXj1sQSMzKxF5Me",
+      "name": "It's Not Right",
+      "uri": "spotify:album:4vZtwkMtXj1sQSMzKxF5Me",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/4vZtwkMtXj1sQSMzKxF5Me",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27377e171030e5f27e9a7ed1413"
+    },
+    "durationMs": 307200,
+    "durationMin": 5.12,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6oFBQi0l2lWBhKNmLRBeXo",
+    "uri": "spotify:track:6oFBQi0l2lWBhKNmLRBeXo"
+  },
+  {
+    "position": 1997,
+    "addedAt": "2026-07-31T20:24:25.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4fMCQYd5Xi0MrIQq2CCkqL",
+    "name": "Action",
+    "artists": [
+      {
+        "id": "43BxCL6t4c73BQnIJtry5v",
+        "name": "James Hype",
+        "uri": "spotify:artist:43BxCL6t4c73BQnIJtry5v",
+        "spotifyUrl": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+      },
+      {
+        "id": "5g93IJMEpfC68NUaeVjr4h",
+        "name": "Tita Lau",
+        "uri": "spotify:artist:5g93IJMEpfC68NUaeVjr4h",
+        "spotifyUrl": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+      }
+    ],
+    "album": {
+      "id": "063tjyQ5QhpHnXz2hUqjEO",
+      "name": "STEREOHYPE Clubworld (Vol. 1)",
+      "uri": "spotify:album:063tjyQ5QhpHnXz2hUqjEO",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/063tjyQ5QhpHnXz2hUqjEO",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733ac93ab1e1239b0ac8990dba"
+    },
+    "durationMs": 179084,
+    "durationMin": 2.98,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4fMCQYd5Xi0MrIQq2CCkqL",
+    "uri": "spotify:track:4fMCQYd5Xi0MrIQq2CCkqL"
   }
 ]
