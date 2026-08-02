@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1997,
-  "exportedTracks": 1997,
-  "totalDurationMs": 562225161,
-  "totalHours": 156.2,
+  "totalTracks": 1996,
+  "exportedTracks": 1996,
+  "totalDurationMs": 561878687,
+  "totalHours": 156.1,
   "averageDurationMin": 4.69,
-  "uniqueArtists": 1417,
-  "uniqueAlbums": 1742,
+  "uniqueArtists": 1415,
+  "uniqueAlbums": 1741,
   "topArtists": [
     {
       "name": "Mathame",
@@ -144,9 +144,9 @@
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 41,
-  "availableTracks": 1988,
+  "availableTracks": 1987,
   "unavailableTracks": 9,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-01T19:07:40.685Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-02T02:47:08.971Z"
 }

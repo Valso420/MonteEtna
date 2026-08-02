@@ -89293,52 +89293,6 @@
   },
   {
     "position": 1990,
-    "addedAt": "2026-07-31T15:58:57.000Z",
-    "addedBy": {
-      "id": "peter_200002",
-      "uri": "spotify:user:peter_200002",
-      "href": "https://api.spotify.com/v1/users/peter_200002",
-      "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
-    },
-    "id": "6CIsyFl61h5tKDo2YXV1AG",
-    "name": "PLAYFUL MADNESS - Gaston Fiore Remix",
-    "artists": [
-      {
-        "id": "5okK26XaG9mv8O5iVKdM6k",
-        "name": "SWART",
-        "uri": "spotify:artist:5okK26XaG9mv8O5iVKdM6k",
-        "spotifyUrl": "https://open.spotify.com/artist/5okK26XaG9mv8O5iVKdM6k"
-      },
-      {
-        "id": "3uqt6nGempzAwX3uap01qn",
-        "name": "Gaston Fiore",
-        "uri": "spotify:artist:3uqt6nGempzAwX3uap01qn",
-        "spotifyUrl": "https://open.spotify.com/artist/3uqt6nGempzAwX3uap01qn"
-      }
-    ],
-    "album": {
-      "id": "0hoCG5GBN4taSaGU3zlonQ",
-      "name": "PLAYFUL MADNESS",
-      "uri": "spotify:album:0hoCG5GBN4taSaGU3zlonQ",
-      "releaseDate": "2026-07-31",
-      "spotifyUrl": "https://open.spotify.com/album/0hoCG5GBN4taSaGU3zlonQ",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732a5e57878411d3a69b33c3a6"
-    },
-    "durationMs": 346474,
-    "durationMin": 5.77,
-    "explicit": false,
-    "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
-    "availableMarkets": 0,
-    "popularity": null,
-    "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/6CIsyFl61h5tKDo2YXV1AG",
-    "uri": "spotify:track:6CIsyFl61h5tKDo2YXV1AG"
-  },
-  {
-    "position": 1991,
     "addedAt": "2026-07-31T16:03:26.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -89384,7 +89338,7 @@
     "uri": "spotify:track:19qaByyKLCD9R2raOpD13U"
   },
   {
-    "position": 1992,
+    "position": 1991,
     "addedAt": "2026-07-31T16:05:40.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -89436,7 +89390,7 @@
     "uri": "spotify:track:7AmYe7BbL81X2WFZOJLqeP"
   },
   {
-    "position": 1993,
+    "position": 1992,
     "addedAt": "2026-07-31T19:43:22.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -89488,7 +89442,7 @@
     "uri": "spotify:track:21gMbdNtW8Za7QOdTmWa5G"
   },
   {
-    "position": 1994,
+    "position": 1993,
     "addedAt": "2026-07-31T19:46:40.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -89534,7 +89488,7 @@
     "uri": "spotify:track:6XBm5VoxBy0ebSvgl2Jyw6"
   },
   {
-    "position": 1995,
+    "position": 1994,
     "addedAt": "2026-07-31T19:51:11.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -89574,7 +89528,7 @@
     "uri": "spotify:track:7qw5gCuFPBuBVMsqX1iHmn"
   },
   {
-    "position": 1996,
+    "position": 1995,
     "addedAt": "2026-07-31T20:21:43.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -89620,7 +89574,7 @@
     "uri": "spotify:track:6oFBQi0l2lWBhKNmLRBeXo"
   },
   {
-    "position": 1997,
+    "position": 1996,
     "addedAt": "2026-07-31T20:24:25.000Z",
     "addedBy": {
       "id": "valentinstampone2",
