@@ -89618,5 +89618,223 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/4fMCQYd5Xi0MrIQq2CCkqL",
     "uri": "spotify:track:4fMCQYd5Xi0MrIQq2CCkqL"
+  },
+  {
+    "position": 1997,
+    "addedAt": "2026-08-02T07:54:54.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "6jsRABwszIQUIqIm8UbU5y",
+    "name": "Presence",
+    "artists": [
+      {
+        "id": "6wktCejPtNcStIDD24buEm",
+        "name": "Kevin Di Serna",
+        "uri": "spotify:artist:6wktCejPtNcStIDD24buEm",
+        "spotifyUrl": "https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm"
+      },
+      {
+        "id": "3k4ltE4r23uaNfpav5iSQ3",
+        "name": "MAX",
+        "uri": "spotify:artist:3k4ltE4r23uaNfpav5iSQ3",
+        "spotifyUrl": "https://open.spotify.com/artist/3k4ltE4r23uaNfpav5iSQ3"
+      },
+      {
+        "id": "43IfU9NvLRvHnJjtuA0vbH",
+        "name": "Nim",
+        "uri": "spotify:artist:43IfU9NvLRvHnJjtuA0vbH",
+        "spotifyUrl": "https://open.spotify.com/artist/43IfU9NvLRvHnJjtuA0vbH"
+      }
+    ],
+    "album": {
+      "id": "24tndY3JguGFXXiEgmtjWs",
+      "name": "Summer Sampler 2019",
+      "uri": "spotify:album:24tndY3JguGFXXiEgmtjWs",
+      "releaseDate": "2019-08-09",
+      "spotifyUrl": "https://open.spotify.com/album/24tndY3JguGFXXiEgmtjWs",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27346675ba0362fe5957ebb24bc"
+    },
+    "durationMs": 361713,
+    "durationMin": 6.03,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6jsRABwszIQUIqIm8UbU5y",
+    "uri": "spotify:track:6jsRABwszIQUIqIm8UbU5y"
+  },
+  {
+    "position": 1998,
+    "addedAt": "2026-08-02T07:55:01.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "0d28O6vqhwrQCYJ6H7dTO5",
+    "name": "Rhapsody",
+    "artists": [
+      {
+        "id": "6wktCejPtNcStIDD24buEm",
+        "name": "Kevin Di Serna",
+        "uri": "spotify:artist:6wktCejPtNcStIDD24buEm",
+        "spotifyUrl": "https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm"
+      }
+    ],
+    "album": {
+      "id": "3o67s2rF1XBkueTauBJ9jm",
+      "name": "Rhapsody",
+      "uri": "spotify:album:3o67s2rF1XBkueTauBJ9jm",
+      "releaseDate": "2020-06-12",
+      "spotifyUrl": "https://open.spotify.com/album/3o67s2rF1XBkueTauBJ9jm",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737a5fbe2352620d543c18c6f3"
+    },
+    "durationMs": 324015,
+    "durationMin": 5.4,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5",
+    "uri": "spotify:track:0d28O6vqhwrQCYJ6H7dTO5"
+  },
+  {
+    "position": 1999,
+    "addedAt": "2026-08-02T07:55:12.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "3MM7GiGbhE0CalERVMH4TK",
+    "name": "Small Fragment from the Path",
+    "artists": [
+      {
+        "id": "6wktCejPtNcStIDD24buEm",
+        "name": "Kevin Di Serna",
+        "uri": "spotify:artist:6wktCejPtNcStIDD24buEm",
+        "spotifyUrl": "https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm"
+      }
+    ],
+    "album": {
+      "id": "4AVGQZlRrAxOT2WBjj5Tsz",
+      "name": "The Path EP",
+      "uri": "spotify:album:4AVGQZlRrAxOT2WBjj5Tsz",
+      "releaseDate": "2019-05-17",
+      "spotifyUrl": "https://open.spotify.com/album/4AVGQZlRrAxOT2WBjj5Tsz",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273507debdbef7523bdf21b6af5"
+    },
+    "durationMs": 384280,
+    "durationMin": 6.4,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3MM7GiGbhE0CalERVMH4TK",
+    "uri": "spotify:track:3MM7GiGbhE0CalERVMH4TK"
+  },
+  {
+    "position": 2000,
+    "addedAt": "2026-08-02T07:55:21.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "32j5RsqBlBdA5vc5PVWg3o",
+    "name": "Technicolour",
+    "artists": [
+      {
+        "id": "1f5QPXLfjlzlG77lCkdl0W",
+        "name": "Henry Saiz",
+        "uri": "spotify:artist:1f5QPXLfjlzlG77lCkdl0W",
+        "spotifyUrl": "https://open.spotify.com/artist/1f5QPXLfjlzlG77lCkdl0W"
+      },
+      {
+        "id": "6wktCejPtNcStIDD24buEm",
+        "name": "Kevin Di Serna",
+        "uri": "spotify:artist:6wktCejPtNcStIDD24buEm",
+        "spotifyUrl": "https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm"
+      }
+    ],
+    "album": {
+      "id": "1z3YjFAtWCFgnwWULuJEZU",
+      "name": "Technicolour Atemporal",
+      "uri": "spotify:album:1z3YjFAtWCFgnwWULuJEZU",
+      "releaseDate": "2025-12-12",
+      "spotifyUrl": "https://open.spotify.com/album/1z3YjFAtWCFgnwWULuJEZU",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fc5f2380d1006c9f6c735e62"
+    },
+    "durationMs": 361682,
+    "durationMin": 6.03,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/32j5RsqBlBdA5vc5PVWg3o",
+    "uri": "spotify:track:32j5RsqBlBdA5vc5PVWg3o"
+  },
+  {
+    "position": 2001,
+    "addedAt": "2026-08-02T07:55:32.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "3Bzl8eBClbrZO1GitOuews",
+    "name": "Amapola",
+    "artists": [
+      {
+        "id": "6wktCejPtNcStIDD24buEm",
+        "name": "Kevin Di Serna",
+        "uri": "spotify:artist:6wktCejPtNcStIDD24buEm",
+        "spotifyUrl": "https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm"
+      }
+    ],
+    "album": {
+      "id": "5rWXoKWFNbmL0UR1nKcSlp",
+      "name": "Secret Weapons Part 11",
+      "uri": "spotify:album:5rWXoKWFNbmL0UR1nKcSlp",
+      "releaseDate": "2019-01-18",
+      "spotifyUrl": "https://open.spotify.com/album/5rWXoKWFNbmL0UR1nKcSlp",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a656a1610fd3fcb37254dc2f"
+    },
+    "durationMs": 444306,
+    "durationMin": 7.41,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3Bzl8eBClbrZO1GitOuews",
+    "uri": "spotify:track:3Bzl8eBClbrZO1GitOuews"
   }
 ]

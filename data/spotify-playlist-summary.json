@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 1996,
-  "exportedTracks": 1996,
-  "totalDurationMs": 561878687,
-  "totalHours": 156.1,
-  "averageDurationMin": 4.69,
-  "uniqueArtists": 1415,
-  "uniqueAlbums": 1741,
+  "totalTracks": 2001,
+  "exportedTracks": 2001,
+  "totalDurationMs": 563754683,
+  "totalHours": 156.6,
+  "averageDurationMin": 4.7,
+  "uniqueArtists": 1417,
+  "uniqueAlbums": 1746,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,57 +96,55 @@
   ],
   "recentTracks": [
     {
-      "name": "Action",
+      "name": "Amapola",
       "artists": [
-        "James Hype",
-        "Tita Lau"
+        "Kevin Di Serna"
       ],
-      "addedAt": "2026-07-31T20:24:25.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4fMCQYd5Xi0MrIQq2CCkqL"
+      "addedAt": "2026-08-02T07:55:32.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3Bzl8eBClbrZO1GitOuews"
     },
     {
-      "name": "It's Not Right",
+      "name": "Technicolour",
       "artists": [
-        "Agustin Giri",
-        "Fabricio Mosoni"
+        "Henry Saiz",
+        "Kevin Di Serna"
       ],
-      "addedAt": "2026-07-31T20:21:43.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6oFBQi0l2lWBhKNmLRBeXo"
+      "addedAt": "2026-08-02T07:55:21.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/32j5RsqBlBdA5vc5PVWg3o"
     },
     {
-      "name": "Get Closer",
+      "name": "Small Fragment from the Path",
       "artists": [
-        "Silver Panda"
+        "Kevin Di Serna"
       ],
-      "addedAt": "2026-07-31T19:51:11.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7qw5gCuFPBuBVMsqX1iHmn"
+      "addedAt": "2026-08-02T07:55:12.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3MM7GiGbhE0CalERVMH4TK"
     },
     {
-      "name": "Right Now",
+      "name": "Rhapsody",
       "artists": [
-        "Rafael Cerato",
-        "Charles D (USA)"
+        "Kevin Di Serna"
       ],
-      "addedAt": "2026-07-31T19:46:40.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6XBm5VoxBy0ebSvgl2Jyw6"
+      "addedAt": "2026-08-02T07:55:01.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5"
     },
     {
-      "name": "Think Too Much",
+      "name": "Presence",
       "artists": [
-        "Vintage Culture",
-        "Nariman",
-        "rhys from the sticks"
+        "Kevin Di Serna",
+        "MAX",
+        "Nim"
       ],
-      "addedAt": "2026-07-31T19:43:22.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/21gMbdNtW8Za7QOdTmWa5G"
+      "addedAt": "2026-08-02T07:54:54.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6jsRABwszIQUIqIm8UbU5y"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 41,
-  "availableTracks": 1987,
+  "availableTracks": 1992,
   "unavailableTracks": 9,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-02T02:47:08.971Z"
+  "lastUpdated": "2026-08-02T08:23:59.825Z"
 }
