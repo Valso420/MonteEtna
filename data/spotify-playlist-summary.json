@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2001,
-  "exportedTracks": 2001,
-  "totalDurationMs": 563754683,
-  "totalHours": 156.6,
-  "averageDurationMin": 4.7,
-  "uniqueArtists": 1417,
-  "uniqueAlbums": 1746,
+  "totalTracks": 2006,
+  "exportedTracks": 2006,
+  "totalDurationMs": 565059418,
+  "totalHours": 157,
+  "averageDurationMin": 4.69,
+  "uniqueArtists": 1422,
+  "uniqueAlbums": 1751,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,55 +96,59 @@
   ],
   "recentTracks": [
     {
-      "name": "Amapola",
+      "name": "Private Dancer",
       "artists": [
-        "Kevin Di Serna"
+        "Basti Grub",
+        "Dizzy Monroe"
       ],
-      "addedAt": "2026-08-02T07:55:32.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3Bzl8eBClbrZO1GitOuews"
+      "addedAt": "2026-08-06T22:53:20.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5il77IFmqWrYl5TrBhIq86"
     },
     {
-      "name": "Technicolour",
+      "name": "Spring Girl",
       "artists": [
-        "Henry Saiz",
-        "Kevin Di Serna"
+        "Adam Ten",
+        "Maori"
       ],
-      "addedAt": "2026-08-02T07:55:21.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/32j5RsqBlBdA5vc5PVWg3o"
+      "addedAt": "2026-08-06T22:52:59.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8"
     },
     {
-      "name": "Small Fragment from the Path",
+      "name": "Kilt",
       "artists": [
-        "Kevin Di Serna"
+        "KETTAMA"
       ],
-      "addedAt": "2026-08-02T07:55:12.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3MM7GiGbhE0CalERVMH4TK"
+      "addedAt": "2026-08-06T22:52:44.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2xYGMOnVUO9P62uiYDu4aD"
     },
     {
-      "name": "Rhapsody",
+      "name": "CAVE - Partiboi69 & X CLUB. Remix",
       "artists": [
-        "Kevin Di Serna"
+        "Dom Dolla",
+        "Tove Lo",
+        "Partiboi69",
+        "X CLUB."
       ],
-      "addedAt": "2026-08-02T07:55:01.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5"
+      "addedAt": "2026-08-06T22:52:19.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3G8v8bUaefnLn5BRWSSb1i"
     },
     {
-      "name": "Presence",
+      "name": "Far Away Place - Jody Wisternoff & James Grant Remix",
       "artists": [
-        "Kevin Di Serna",
-        "MAX",
-        "Nim"
+        "Xinobi",
+        "James Grant",
+        "Jody Wisternoff"
       ],
-      "addedAt": "2026-08-02T07:54:54.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6jsRABwszIQUIqIm8UbU5y"
+      "addedAt": "2026-08-06T22:52:00.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2tzT3i3AofX2OAjdGJdBhw"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 41,
-  "availableTracks": 1991,
-  "unavailableTracks": 10,
+  "availableTracks": 1995,
+  "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-06T08:35:55.522Z"
+  "lastUpdated": "2026-08-06T23:59:13.158Z"
 }

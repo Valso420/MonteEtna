@@ -3291,8 +3291,8 @@
     "durationMin": 7.05,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
+    "isPlayable": false,
+    "isAvailable": false,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -89836,5 +89836,247 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3Bzl8eBClbrZO1GitOuews",
     "uri": "spotify:track:3Bzl8eBClbrZO1GitOuews"
+  },
+  {
+    "position": 2002,
+    "addedAt": "2026-08-06T22:52:00.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "2tzT3i3AofX2OAjdGJdBhw",
+    "name": "Far Away Place - Jody Wisternoff & James Grant Remix",
+    "artists": [
+      {
+        "id": "1w7cucUEPR1Yq9g03g6T8m",
+        "name": "Xinobi",
+        "uri": "spotify:artist:1w7cucUEPR1Yq9g03g6T8m",
+        "spotifyUrl": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+      },
+      {
+        "id": "45fFrwMq6sPP5P4k1qqFi7",
+        "name": "James Grant",
+        "uri": "spotify:artist:45fFrwMq6sPP5P4k1qqFi7",
+        "spotifyUrl": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+      },
+      {
+        "id": "5gTVJRQmuS88nOhhdHqErL",
+        "name": "Jody Wisternoff",
+        "uri": "spotify:artist:5gTVJRQmuS88nOhhdHqErL",
+        "spotifyUrl": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+      }
+    ],
+    "album": {
+      "id": "3qBwZrr55yxmJrMCy6WmsT",
+      "name": "Far Away Place (Jody Wisternoff & James Grant Remix)",
+      "uri": "spotify:album:3qBwZrr55yxmJrMCy6WmsT",
+      "releaseDate": "2017-10-20",
+      "spotifyUrl": "https://open.spotify.com/album/3qBwZrr55yxmJrMCy6WmsT",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739ccdcdf00d34706d6c700e50"
+    },
+    "durationMs": 239947,
+    "durationMin": 4,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2tzT3i3AofX2OAjdGJdBhw",
+    "uri": "spotify:track:2tzT3i3AofX2OAjdGJdBhw"
+  },
+  {
+    "position": 2003,
+    "addedAt": "2026-08-06T22:52:19.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "3G8v8bUaefnLn5BRWSSb1i",
+    "name": "CAVE - Partiboi69 & X CLUB. Remix",
+    "artists": [
+      {
+        "id": "205i7E8fNVfojowcQSfK9m",
+        "name": "Dom Dolla",
+        "uri": "spotify:artist:205i7E8fNVfojowcQSfK9m",
+        "spotifyUrl": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+      },
+      {
+        "id": "4NHQUGzhtTLFvgF5SZesLK",
+        "name": "Tove Lo",
+        "uri": "spotify:artist:4NHQUGzhtTLFvgF5SZesLK",
+        "spotifyUrl": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+      },
+      {
+        "id": "0CutULGVZ24wOr1HHYoEOL",
+        "name": "Partiboi69",
+        "uri": "spotify:artist:0CutULGVZ24wOr1HHYoEOL",
+        "spotifyUrl": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+      },
+      {
+        "id": "4CYPaFp9yDrNduNptv0DPQ",
+        "name": "X CLUB.",
+        "uri": "spotify:artist:4CYPaFp9yDrNduNptv0DPQ",
+        "spotifyUrl": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+      }
+    ],
+    "album": {
+      "id": "4o1KIagUFPxvmvsObnRLvT",
+      "name": "CAVE (Partiboi69 & X CLUB. Remix)",
+      "uri": "spotify:album:4o1KIagUFPxvmvsObnRLvT",
+      "releaseDate": "2024-12-06",
+      "spotifyUrl": "https://open.spotify.com/album/4o1KIagUFPxvmvsObnRLvT",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735ce49895ee8efea8d6df5b51"
+    },
+    "durationMs": 191937,
+    "durationMin": 3.2,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3G8v8bUaefnLn5BRWSSb1i",
+    "uri": "spotify:track:3G8v8bUaefnLn5BRWSSb1i"
+  },
+  {
+    "position": 2004,
+    "addedAt": "2026-08-06T22:52:44.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "2xYGMOnVUO9P62uiYDu4aD",
+    "name": "Kilt",
+    "artists": [
+      {
+        "id": "3an9rnsXKPCAMlZgH4A0n4",
+        "name": "KETTAMA",
+        "uri": "spotify:artist:3an9rnsXKPCAMlZgH4A0n4",
+        "spotifyUrl": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+      }
+    ],
+    "album": {
+      "id": "6L25aUr2Ntt2pfYfXMcpDp",
+      "name": "Bucklyn Bridge EP",
+      "uri": "spotify:album:6L25aUr2Ntt2pfYfXMcpDp",
+      "releaseDate": "2018-07-16",
+      "spotifyUrl": "https://open.spotify.com/album/6L25aUr2Ntt2pfYfXMcpDp",
+      "coverUrl": "https://i.scdn.co/image/d75942bfdfa3fb5201930fee1ff3ed77dc5ca9ff"
+    },
+    "durationMs": 287160,
+    "durationMin": 4.79,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2xYGMOnVUO9P62uiYDu4aD",
+    "uri": "spotify:track:2xYGMOnVUO9P62uiYDu4aD"
+  },
+  {
+    "position": 2005,
+    "addedAt": "2026-08-06T22:52:59.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "03mX4WEpvZPkHmEsd2ZoV8",
+    "name": "Spring Girl",
+    "artists": [
+      {
+        "id": "05tmGPn4fFdVpnsMt0YW5S",
+        "name": "Adam Ten",
+        "uri": "spotify:artist:05tmGPn4fFdVpnsMt0YW5S",
+        "spotifyUrl": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+      },
+      {
+        "id": "2GjC0P8uCItsOxEYXtm7kv",
+        "name": "Maori",
+        "uri": "spotify:artist:2GjC0P8uCItsOxEYXtm7kv",
+        "spotifyUrl": "https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv"
+      }
+    ],
+    "album": {
+      "id": "2JjG2Nnj87eX9lDnNNNdqP",
+      "name": "Spring Girl",
+      "uri": "spotify:album:2JjG2Nnj87eX9lDnNNNdqP",
+      "releaseDate": "2023-08-25",
+      "spotifyUrl": "https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b6eeb9608eda56843c5f1eca"
+    },
+    "durationMs": 228571,
+    "durationMin": 3.81,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8",
+    "uri": "spotify:track:03mX4WEpvZPkHmEsd2ZoV8"
+  },
+  {
+    "position": 2006,
+    "addedAt": "2026-08-06T22:53:20.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "5il77IFmqWrYl5TrBhIq86",
+    "name": "Private Dancer",
+    "artists": [
+      {
+        "id": "3VAVMUyDwL7FlkivpaMeRh",
+        "name": "Basti Grub",
+        "uri": "spotify:artist:3VAVMUyDwL7FlkivpaMeRh",
+        "spotifyUrl": "https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh"
+      },
+      {
+        "id": "47ZxMauawIcSZMbRWGomOu",
+        "name": "Dizzy Monroe",
+        "uri": "spotify:artist:47ZxMauawIcSZMbRWGomOu",
+        "spotifyUrl": "https://open.spotify.com/artist/47ZxMauawIcSZMbRWGomOu"
+      }
+    ],
+    "album": {
+      "id": "7kG46L26YVB490W2nxnF1Z",
+      "name": "Private Dancer",
+      "uri": "spotify:album:7kG46L26YVB490W2nxnF1Z",
+      "releaseDate": "2023-03-17",
+      "spotifyUrl": "https://open.spotify.com/album/7kG46L26YVB490W2nxnF1Z",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a29bdccc8409deed5a0f17ff"
+    },
+    "durationMs": 357120,
+    "durationMin": 5.95,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5il77IFmqWrYl5TrBhIq86",
+    "uri": "spotify:track:5il77IFmqWrYl5TrBhIq86"
   }
 ]
