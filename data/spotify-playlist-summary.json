@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2015,
-  "exportedTracks": 2015,
-  "totalDurationMs": 566961967,
-  "totalHours": 157.5,
-  "averageDurationMin": 4.69,
-  "uniqueArtists": 1424,
-  "uniqueAlbums": 1755,
+  "totalTracks": 2022,
+  "exportedTracks": 2022,
+  "totalDurationMs": 568248539,
+  "totalHours": 157.8,
+  "averageDurationMin": 4.68,
+  "uniqueArtists": 1425,
+  "uniqueAlbums": 1761,
   "topArtists": [
     {
       "name": "Mathame",
@@ -43,18 +43,18 @@
     },
     {
       "name": "Adriatique",
-      "tracks": 37
+      "tracks": 38
     },
     {
       "name": "Innellea",
       "tracks": 32
     },
     {
-      "name": "Kevin de Vries",
-      "tracks": 31
+      "name": "Vintage Culture",
+      "tracks": 32
     },
     {
-      "name": "Vintage Culture",
+      "name": "Kevin de Vries",
       "tracks": 31
     },
     {
@@ -96,56 +96,56 @@
   ],
   "recentTracks": [
     {
-      "name": "Raider on the Storm",
+      "name": "Closer (Adriatique x GENESI)",
       "artists": [
-        "Solomun",
-        "Inéz"
+        "Adriatique",
+        "Emmit Fenn",
+        "GENESI"
       ],
-      "addedAt": "2026-08-07T13:01:40.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7dVZVODisLTpb8sAyghTUA"
+      "addedAt": "2026-08-07T13:47:14.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2vXLAk4PXwX6MFdyaiZ3Xg"
     },
     {
-      "name": "Life's Too Short - MK Remix",
+      "name": "It's Like That",
       "artists": [
-        "Hot Since 82",
-        "MK"
+        "Eli Brown"
       ],
-      "addedAt": "2026-08-07T13:01:29.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4g0kbbdXakIB8hZIyibxUL"
+      "addedAt": "2026-08-07T13:42:29.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4NxJwtZ01ndD6SVY9QKxt3"
     },
     {
-      "name": "Body Shake",
+      "name": "Wow - Edit",
       "artists": [
-        "Max Styler"
+        "Hot Since 82"
       ],
-      "addedAt": "2026-08-07T12:54:47.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3oToDCuXNWSgqkxtPKQM3b"
+      "addedAt": "2026-08-07T13:40:30.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4"
     },
     {
-      "name": "Love Forever (feat. Kuuda)",
+      "name": "Guilty Pleasures",
       "artists": [
-        "Max Styler",
-        "Kuuda"
+        "Vintage Culture"
       ],
-      "addedAt": "2026-08-07T12:54:35.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1TnejgU7YqwYrWRu2ZFxRU"
+      "addedAt": "2026-08-07T13:35:06.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/05UGoyJblonfzRuR9BHivU"
     },
     {
-      "name": "Uh Oh! (feat. Benni Ola)",
+      "name": "Coming Up (It’s Dare)",
       "artists": [
-        "Max Styler",
-        "Benni Ola"
+        "Odd Mob",
+        "OMNOM",
+        "HYPERBEAM"
       ],
-      "addedAt": "2026-08-07T12:54:25.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1EPJvABmhKAXlMn9FpPuGs"
+      "addedAt": "2026-08-07T13:29:18.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 41,
-  "availableTracks": 2004,
+  "availableTracks": 2011,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-07T13:02:50.434Z"
+  "lastUpdated": "2026-08-07T18:56:46.335Z"
 }

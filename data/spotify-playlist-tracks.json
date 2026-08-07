@@ -90468,5 +90468,315 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/7dVZVODisLTpb8sAyghTUA",
     "uri": "spotify:track:7dVZVODisLTpb8sAyghTUA"
+  },
+  {
+    "position": 2016,
+    "addedAt": "2026-08-07T13:06:08.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "48vSb2Wjw3wD3OFBiqikJb",
+    "name": "High On You",
+    "artists": [
+      {
+        "id": "5ykY9Uweo3gl5VFpb6z6pQ",
+        "name": "Jackie Hollander",
+        "uri": "spotify:artist:5ykY9Uweo3gl5VFpb6z6pQ",
+        "spotifyUrl": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+      }
+    ],
+    "album": {
+      "id": "2o4HpfJgXEMKg6lwE6hY2h",
+      "name": "High On You",
+      "uri": "spotify:album:2o4HpfJgXEMKg6lwE6hY2h",
+      "releaseDate": "2026-05-01",
+      "spotifyUrl": "https://open.spotify.com/album/2o4HpfJgXEMKg6lwE6hY2h",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736e6ce091de4d95a035c9eb5c"
+    },
+    "durationMs": 181875,
+    "durationMin": 3.03,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/48vSb2Wjw3wD3OFBiqikJb",
+    "uri": "spotify:track:48vSb2Wjw3wD3OFBiqikJb"
+  },
+  {
+    "position": 2017,
+    "addedAt": "2026-08-07T13:21:06.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0tyDJrT56TE8JyFIrn813y",
+    "name": "Wavey - Linska Remix",
+    "artists": [
+      {
+        "id": "5lVNSw2GPci8kebrAQpZqU",
+        "name": "Eli Brown",
+        "uri": "spotify:artist:5lVNSw2GPci8kebrAQpZqU",
+        "spotifyUrl": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+      },
+      {
+        "id": "5f7jxYF5js7lD5lMyIPUBq",
+        "name": "Linska",
+        "uri": "spotify:artist:5f7jxYF5js7lD5lMyIPUBq",
+        "spotifyUrl": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+      }
+    ],
+    "album": {
+      "id": "3cRtggSAxGVTvfSO6jnJAb",
+      "name": "Wavey (Linska Remix)",
+      "uri": "spotify:album:3cRtggSAxGVTvfSO6jnJAb",
+      "releaseDate": "2025-12-16",
+      "spotifyUrl": "https://open.spotify.com/album/3cRtggSAxGVTvfSO6jnJAb",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e9123adf96fb7d67b0a2762a"
+    },
+    "durationMs": 166350,
+    "durationMin": 2.77,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0tyDJrT56TE8JyFIrn813y",
+    "uri": "spotify:track:0tyDJrT56TE8JyFIrn813y"
+  },
+  {
+    "position": 2018,
+    "addedAt": "2026-08-07T13:29:18.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7JHkJ5mDS868b5j5h67cwL",
+    "name": "Coming Up (It’s Dare)",
+    "artists": [
+      {
+        "id": "4qLwtWhlhyAoQ4S9mSrDW9",
+        "name": "Odd Mob",
+        "uri": "spotify:artist:4qLwtWhlhyAoQ4S9mSrDW9",
+        "spotifyUrl": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+      },
+      {
+        "id": "3PYRXP25JcbqhvNaJYcnWy",
+        "name": "OMNOM",
+        "uri": "spotify:artist:3PYRXP25JcbqhvNaJYcnWy",
+        "spotifyUrl": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+      },
+      {
+        "id": "1b4DIAooTye6qmHHYRck9n",
+        "name": "HYPERBEAM",
+        "uri": "spotify:artist:1b4DIAooTye6qmHHYRck9n",
+        "spotifyUrl": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+      }
+    ],
+    "album": {
+      "id": "2aXtY87dtUYnV93D8xTdmq",
+      "name": "Coming Up (It’s Dare)",
+      "uri": "spotify:album:2aXtY87dtUYnV93D8xTdmq",
+      "releaseDate": "2025-11-14",
+      "spotifyUrl": "https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273129dee088ba982b52fd6d904"
+    },
+    "durationMs": 180895,
+    "durationMin": 3.01,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL",
+    "uri": "spotify:track:7JHkJ5mDS868b5j5h67cwL"
+  },
+  {
+    "position": 2019,
+    "addedAt": "2026-08-07T13:35:06.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "05UGoyJblonfzRuR9BHivU",
+    "name": "Guilty Pleasures",
+    "artists": [
+      {
+        "id": "28uJnu5EsrGml2tBd7y8ts",
+        "name": "Vintage Culture",
+        "uri": "spotify:artist:28uJnu5EsrGml2tBd7y8ts",
+        "spotifyUrl": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      }
+    ],
+    "album": {
+      "id": "1IlDb8yklrYyFlwO8t83wE",
+      "name": "Think Too Much EP",
+      "uri": "spotify:album:1IlDb8yklrYyFlwO8t83wE",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/1IlDb8yklrYyFlwO8t83wE",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27364e673743a3459f4afcfb624"
+    },
+    "durationMs": 201230,
+    "durationMin": 3.35,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/05UGoyJblonfzRuR9BHivU",
+    "uri": "spotify:track:05UGoyJblonfzRuR9BHivU"
+  },
+  {
+    "position": 2020,
+    "addedAt": "2026-08-07T13:40:30.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0Fs4F8Biqm6x8SRiMd7Og4",
+    "name": "Wow - Edit",
+    "artists": [
+      {
+        "id": "1tRBmMtER4fGrzrt8O9VpS",
+        "name": "Hot Since 82",
+        "uri": "spotify:artist:1tRBmMtER4fGrzrt8O9VpS",
+        "spotifyUrl": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+      }
+    ],
+    "album": {
+      "id": "2ngwtq1gQQSfkWe7z4QKad",
+      "name": "Wow",
+      "uri": "spotify:album:2ngwtq1gQQSfkWe7z4QKad",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/2ngwtq1gQQSfkWe7z4QKad",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737a73425d9aa84c97ad2220ec"
+    },
+    "durationMs": 172258,
+    "durationMin": 2.87,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4",
+    "uri": "spotify:track:0Fs4F8Biqm6x8SRiMd7Og4"
+  },
+  {
+    "position": 2021,
+    "addedAt": "2026-08-07T13:42:29.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4NxJwtZ01ndD6SVY9QKxt3",
+    "name": "It's Like That",
+    "artists": [
+      {
+        "id": "5lVNSw2GPci8kebrAQpZqU",
+        "name": "Eli Brown",
+        "uri": "spotify:artist:5lVNSw2GPci8kebrAQpZqU",
+        "spotifyUrl": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+      }
+    ],
+    "album": {
+      "id": "1u4BoTCoy8Fjbv1RCAQelV",
+      "name": "It's Like That",
+      "uri": "spotify:album:1u4BoTCoy8Fjbv1RCAQelV",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/1u4BoTCoy8Fjbv1RCAQelV",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27335018b5346cc9d8989286219"
+    },
+    "durationMs": 196630,
+    "durationMin": 3.28,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4NxJwtZ01ndD6SVY9QKxt3",
+    "uri": "spotify:track:4NxJwtZ01ndD6SVY9QKxt3"
+  },
+  {
+    "position": 2022,
+    "addedAt": "2026-08-07T13:47:14.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2vXLAk4PXwX6MFdyaiZ3Xg",
+    "name": "Closer (Adriatique x GENESI)",
+    "artists": [
+      {
+        "id": "02DWGcShQivFepRvGJ7xhB",
+        "name": "Adriatique",
+        "uri": "spotify:artist:02DWGcShQivFepRvGJ7xhB",
+        "spotifyUrl": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+      },
+      {
+        "id": "3VVLqeEqQQqTgT8YhfY9Z6",
+        "name": "Emmit Fenn",
+        "uri": "spotify:artist:3VVLqeEqQQqTgT8YhfY9Z6",
+        "spotifyUrl": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+      },
+      {
+        "id": "4OG9hOPsfAEziKvOJj2SG7",
+        "name": "GENESI",
+        "uri": "spotify:artist:4OG9hOPsfAEziKvOJj2SG7",
+        "spotifyUrl": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+      }
+    ],
+    "album": {
+      "id": "4BurkgYvZAfaQL8xGVxCnm",
+      "name": "Closer (Adriatique x GENESI)",
+      "uri": "spotify:album:4BurkgYvZAfaQL8xGVxCnm",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/4BurkgYvZAfaQL8xGVxCnm",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b3b6816fb46f6fccd7a94d7f"
+    },
+    "durationMs": 187334,
+    "durationMin": 3.12,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2vXLAk4PXwX6MFdyaiZ3Xg",
+    "uri": "spotify:track:2vXLAk4PXwX6MFdyaiZ3Xg"
   }
 ]
