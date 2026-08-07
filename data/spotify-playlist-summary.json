@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2006,
-  "exportedTracks": 2006,
-  "totalDurationMs": 565059418,
-  "totalHours": 157,
+  "totalTracks": 2015,
+  "exportedTracks": 2015,
+  "totalDurationMs": 566961967,
+  "totalHours": 157.5,
   "averageDurationMin": 4.69,
-  "uniqueArtists": 1422,
-  "uniqueAlbums": 1751,
+  "uniqueArtists": 1424,
+  "uniqueAlbums": 1755,
   "topArtists": [
     {
       "name": "Mathame",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Solomun",
-      "tracks": 48
+      "tracks": 49
     },
     {
       "name": "ARTBAT",
@@ -50,12 +50,12 @@
       "tracks": 32
     },
     {
-      "name": "Vintage Culture",
+      "name": "Kevin de Vries",
       "tracks": 31
     },
     {
-      "name": "Kevin de Vries",
-      "tracks": 30
+      "name": "Vintage Culture",
+      "tracks": 31
     },
     {
       "name": "Layton Giordani",
@@ -74,6 +74,10 @@
       "tracks": 27
     },
     {
+      "name": "Max Styler",
+      "tracks": 26
+    },
+    {
       "name": "Mind Against",
       "tracks": 26
     },
@@ -88,67 +92,60 @@
     {
       "name": "Armin van Buuren",
       "tracks": 23
-    },
-    {
-      "name": "Chris Avantgarde",
-      "tracks": 23
     }
   ],
   "recentTracks": [
     {
-      "name": "Private Dancer",
+      "name": "Raider on the Storm",
       "artists": [
-        "Basti Grub",
-        "Dizzy Monroe"
+        "Solomun",
+        "Inéz"
       ],
-      "addedAt": "2026-08-06T22:53:20.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5il77IFmqWrYl5TrBhIq86"
+      "addedAt": "2026-08-07T13:01:40.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7dVZVODisLTpb8sAyghTUA"
     },
     {
-      "name": "Spring Girl",
+      "name": "Life's Too Short - MK Remix",
       "artists": [
-        "Adam Ten",
-        "Maori"
+        "Hot Since 82",
+        "MK"
       ],
-      "addedAt": "2026-08-06T22:52:59.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8"
+      "addedAt": "2026-08-07T13:01:29.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4g0kbbdXakIB8hZIyibxUL"
     },
     {
-      "name": "Kilt",
+      "name": "Body Shake",
       "artists": [
-        "KETTAMA"
+        "Max Styler"
       ],
-      "addedAt": "2026-08-06T22:52:44.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2xYGMOnVUO9P62uiYDu4aD"
+      "addedAt": "2026-08-07T12:54:47.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3oToDCuXNWSgqkxtPKQM3b"
     },
     {
-      "name": "CAVE - Partiboi69 & X CLUB. Remix",
+      "name": "Love Forever (feat. Kuuda)",
       "artists": [
-        "Dom Dolla",
-        "Tove Lo",
-        "Partiboi69",
-        "X CLUB."
+        "Max Styler",
+        "Kuuda"
       ],
-      "addedAt": "2026-08-06T22:52:19.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3G8v8bUaefnLn5BRWSSb1i"
+      "addedAt": "2026-08-07T12:54:35.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1TnejgU7YqwYrWRu2ZFxRU"
     },
     {
-      "name": "Far Away Place - Jody Wisternoff & James Grant Remix",
+      "name": "Uh Oh! (feat. Benni Ola)",
       "artists": [
-        "Xinobi",
-        "James Grant",
-        "Jody Wisternoff"
+        "Max Styler",
+        "Benni Ola"
       ],
-      "addedAt": "2026-08-06T22:52:00.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2tzT3i3AofX2OAjdGJdBhw"
+      "addedAt": "2026-08-07T12:54:25.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1EPJvABmhKAXlMn9FpPuGs"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 41,
-  "availableTracks": 1995,
+  "availableTracks": 2004,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-06T23:59:13.158Z"
+  "lastUpdated": "2026-08-07T13:02:50.434Z"
 }

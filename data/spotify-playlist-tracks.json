@@ -90078,5 +90078,395 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/5il77IFmqWrYl5TrBhIq86",
     "uri": "spotify:track:5il77IFmqWrYl5TrBhIq86"
+  },
+  {
+    "position": 2007,
+    "addedAt": "2026-08-07T12:37:00.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7Dukh87qwI5c0IB1UEAp73",
+    "name": "7 Days",
+    "artists": [
+      {
+        "id": "0xRXCcSX89eobfrshSVdyu",
+        "name": "MEDUZA",
+        "uri": "spotify:artist:0xRXCcSX89eobfrshSVdyu",
+        "spotifyUrl": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+      },
+      {
+        "id": "11aPF3sc8lDWNqPVInm4Zx",
+        "name": "Kevin de Vries",
+        "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+        "spotifyUrl": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      }
+    ],
+    "album": {
+      "id": "6GmRL1IwZjDeVxZJBwf8Oq",
+      "name": "7 Days",
+      "uri": "spotify:album:6GmRL1IwZjDeVxZJBwf8Oq",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27323e3f9e371052fc1589a3659"
+    },
+    "durationMs": 207187,
+    "durationMin": 3.45,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73",
+    "uri": "spotify:track:7Dukh87qwI5c0IB1UEAp73"
+  },
+  {
+    "position": 2008,
+    "addedAt": "2026-08-07T12:41:14.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5mlM1QO2M7TiPiC5ivvfb9",
+    "name": "Templo Disko",
+    "artists": [
+      {
+        "id": "3NKKngINK1tP6BFy0WOyWk",
+        "name": "Max Styler",
+        "uri": "spotify:artist:3NKKngINK1tP6BFy0WOyWk",
+        "spotifyUrl": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+      }
+    ],
+    "album": {
+      "id": "0620dMBIpjeI61scHdp9w2",
+      "name": "I Don't Think I Can Stop",
+      "uri": "spotify:album:0620dMBIpjeI61scHdp9w2",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cd104592394577141cb64014"
+    },
+    "durationMs": 257142,
+    "durationMin": 4.29,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5mlM1QO2M7TiPiC5ivvfb9",
+    "uri": "spotify:track:5mlM1QO2M7TiPiC5ivvfb9"
+  },
+  {
+    "position": 2009,
+    "addedAt": "2026-08-07T12:44:50.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2Lnn85xm6wBgxGtYRMEkrC",
+    "name": "Feel The XTC",
+    "artists": [
+      {
+        "id": "3NKKngINK1tP6BFy0WOyWk",
+        "name": "Max Styler",
+        "uri": "spotify:artist:3NKKngINK1tP6BFy0WOyWk",
+        "spotifyUrl": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+      }
+    ],
+    "album": {
+      "id": "0620dMBIpjeI61scHdp9w2",
+      "name": "I Don't Think I Can Stop",
+      "uri": "spotify:album:0620dMBIpjeI61scHdp9w2",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cd104592394577141cb64014"
+    },
+    "durationMs": 227076,
+    "durationMin": 3.78,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2Lnn85xm6wBgxGtYRMEkrC",
+    "uri": "spotify:track:2Lnn85xm6wBgxGtYRMEkrC"
+  },
+  {
+    "position": 2010,
+    "addedAt": "2026-08-07T12:48:46.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3l41zI65N8cCuJ0LNQImmF",
+    "name": "Close My Eyes",
+    "artists": [
+      {
+        "id": "3NKKngINK1tP6BFy0WOyWk",
+        "name": "Max Styler",
+        "uri": "spotify:artist:3NKKngINK1tP6BFy0WOyWk",
+        "spotifyUrl": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+      }
+    ],
+    "album": {
+      "id": "0620dMBIpjeI61scHdp9w2",
+      "name": "I Don't Think I Can Stop",
+      "uri": "spotify:album:0620dMBIpjeI61scHdp9w2",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cd104592394577141cb64014"
+    },
+    "durationMs": 196171,
+    "durationMin": 3.27,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3l41zI65N8cCuJ0LNQImmF",
+    "uri": "spotify:track:3l41zI65N8cCuJ0LNQImmF"
+  },
+  {
+    "position": 2011,
+    "addedAt": "2026-08-07T12:54:25.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1EPJvABmhKAXlMn9FpPuGs",
+    "name": "Uh Oh! (feat. Benni Ola)",
+    "artists": [
+      {
+        "id": "3NKKngINK1tP6BFy0WOyWk",
+        "name": "Max Styler",
+        "uri": "spotify:artist:3NKKngINK1tP6BFy0WOyWk",
+        "spotifyUrl": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+      },
+      {
+        "id": "4q90901wzb3GPqUBKuhoRg",
+        "name": "Benni Ola",
+        "uri": "spotify:artist:4q90901wzb3GPqUBKuhoRg",
+        "spotifyUrl": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+      }
+    ],
+    "album": {
+      "id": "0620dMBIpjeI61scHdp9w2",
+      "name": "I Don't Think I Can Stop",
+      "uri": "spotify:album:0620dMBIpjeI61scHdp9w2",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cd104592394577141cb64014"
+    },
+    "durationMs": 223124,
+    "durationMin": 3.72,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1EPJvABmhKAXlMn9FpPuGs",
+    "uri": "spotify:track:1EPJvABmhKAXlMn9FpPuGs"
+  },
+  {
+    "position": 2012,
+    "addedAt": "2026-08-07T12:54:35.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1TnejgU7YqwYrWRu2ZFxRU",
+    "name": "Love Forever (feat. Kuuda)",
+    "artists": [
+      {
+        "id": "3NKKngINK1tP6BFy0WOyWk",
+        "name": "Max Styler",
+        "uri": "spotify:artist:3NKKngINK1tP6BFy0WOyWk",
+        "spotifyUrl": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+      },
+      {
+        "id": "2aPOSo3CvB3a15zDorFBCh",
+        "name": "Kuuda",
+        "uri": "spotify:artist:2aPOSo3CvB3a15zDorFBCh",
+        "spotifyUrl": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+      }
+    ],
+    "album": {
+      "id": "0620dMBIpjeI61scHdp9w2",
+      "name": "I Don't Think I Can Stop",
+      "uri": "spotify:album:0620dMBIpjeI61scHdp9w2",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cd104592394577141cb64014"
+    },
+    "durationMs": 218333,
+    "durationMin": 3.64,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1TnejgU7YqwYrWRu2ZFxRU",
+    "uri": "spotify:track:1TnejgU7YqwYrWRu2ZFxRU"
+  },
+  {
+    "position": 2013,
+    "addedAt": "2026-08-07T12:54:47.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3oToDCuXNWSgqkxtPKQM3b",
+    "name": "Body Shake",
+    "artists": [
+      {
+        "id": "3NKKngINK1tP6BFy0WOyWk",
+        "name": "Max Styler",
+        "uri": "spotify:artist:3NKKngINK1tP6BFy0WOyWk",
+        "spotifyUrl": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+      }
+    ],
+    "album": {
+      "id": "0620dMBIpjeI61scHdp9w2",
+      "name": "I Don't Think I Can Stop",
+      "uri": "spotify:album:0620dMBIpjeI61scHdp9w2",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cd104592394577141cb64014"
+    },
+    "durationMs": 226874,
+    "durationMin": 3.78,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3oToDCuXNWSgqkxtPKQM3b",
+    "uri": "spotify:track:3oToDCuXNWSgqkxtPKQM3b"
+  },
+  {
+    "position": 2014,
+    "addedAt": "2026-08-07T13:01:29.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4g0kbbdXakIB8hZIyibxUL",
+    "name": "Life's Too Short - MK Remix",
+    "artists": [
+      {
+        "id": "1tRBmMtER4fGrzrt8O9VpS",
+        "name": "Hot Since 82",
+        "uri": "spotify:artist:1tRBmMtER4fGrzrt8O9VpS",
+        "spotifyUrl": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+      },
+      {
+        "id": "1yqxFtPHKcGcv6SXZNdyT9",
+        "name": "MK",
+        "uri": "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9",
+        "spotifyUrl": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+      }
+    ],
+    "album": {
+      "id": "4MbkrltqApulRb55rT8xoE",
+      "name": "Life's Too Short (MK Remix)",
+      "uri": "spotify:album:4MbkrltqApulRb55rT8xoE",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/4MbkrltqApulRb55rT8xoE",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730ee2e24dfccd1ab5d4aaa03d"
+    },
+    "durationMs": 153618,
+    "durationMin": 2.56,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4g0kbbdXakIB8hZIyibxUL",
+    "uri": "spotify:track:4g0kbbdXakIB8hZIyibxUL"
+  },
+  {
+    "position": 2015,
+    "addedAt": "2026-08-07T13:01:40.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7dVZVODisLTpb8sAyghTUA",
+    "name": "Raider on the Storm",
+    "artists": [
+      {
+        "id": "5wJK4kQAkVGjqM9x46KQOC",
+        "name": "Solomun",
+        "uri": "spotify:artist:5wJK4kQAkVGjqM9x46KQOC",
+        "spotifyUrl": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+      },
+      {
+        "id": "6zBax4hSAI1BJYgwF61EP5",
+        "name": "Inéz",
+        "uri": "spotify:artist:6zBax4hSAI1BJYgwF61EP5",
+        "spotifyUrl": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+      }
+    ],
+    "album": {
+      "id": "5Ru0WPywMRUUfH6LptpD75",
+      "name": "Raider on the Storm",
+      "uri": "spotify:album:5Ru0WPywMRUUfH6LptpD75",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/5Ru0WPywMRUUfH6LptpD75",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27386c9566284b71edf22791472"
+    },
+    "durationMs": 193024,
+    "durationMin": 3.22,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7dVZVODisLTpb8sAyghTUA",
+    "uri": "spotify:track:7dVZVODisLTpb8sAyghTUA"
   }
 ]
