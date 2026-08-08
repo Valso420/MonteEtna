@@ -6,6 +6,9 @@ node_modules
 dist
 build
 
+# Codex local files
+/.codex-remote-attachments/
+
 # Agent scratch space
 /.agent-tmp/
 
