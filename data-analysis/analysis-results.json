@@ -1,0 +1,1386 @@
+{
+  "generatedAt": "2026-08-13T20:11:46.917Z",
+  "sourceSnapshot": "2026-08-13T19:02:34.449Z",
+  "playlist": {
+    "id": "3MKATRzfONdGDAbiQ7nioB",
+    "name": "🗻Monte Etna🌋",
+    "followers": 38,
+    "tracks": 2022,
+    "totalHours": 157.8,
+    "firstAddedAt": "2023-04-21T07:14:19.000Z",
+    "lastAddedAt": "2026-08-07T13:47:14.000Z",
+    "daysSinceLastAdditionAtSnapshot": 6.2
+  },
+  "quality": {
+    "distinctTrackIdentities": 2022,
+    "missingTrackIdentities": 0,
+    "duplicateIdentityGroups": [],
+    "exactDuplicateRows": 0,
+    "positionsAreContiguous": true,
+    "completeness": [
+      {
+        "field": "id",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "uri",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "name",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "addedAt",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "addedById",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "artists",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "albumId",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "albumName",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "albumReleaseDate",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "durationMs",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "spotifyUrl",
+        "missing": 0,
+        "missingRate": 0
+      },
+      {
+        "field": "popularity",
+        "missing": 2022,
+        "missingRate": 100
+      },
+      {
+        "field": "previewUrl",
+        "missing": 2022,
+        "missingRate": 100
+      }
+    ],
+    "summaryChecks": [
+      {
+        "check": "Tracks exportados",
+        "expected": 2022,
+        "actual": 2022,
+        "status": "OK"
+      },
+      {
+        "check": "Duración total",
+        "expected": 568248539,
+        "actual": 568248539,
+        "status": "OK"
+      },
+      {
+        "check": "Artistas únicos",
+        "expected": 1424,
+        "actual": 1424,
+        "status": "OK"
+      },
+      {
+        "check": "Álbumes únicos",
+        "expected": 1761,
+        "actual": 1761,
+        "status": "OK"
+      },
+      {
+        "check": "Tracks explícitos",
+        "expected": 41,
+        "actual": 41,
+        "status": "OK"
+      },
+      {
+        "check": "Tracks disponibles",
+        "expected": 2011,
+        "actual": 2011,
+        "status": "OK"
+      },
+      {
+        "check": "Tracks no disponibles",
+        "expected": 11,
+        "actual": 11,
+        "status": "OK"
+      },
+      {
+        "check": "Tracks locales",
+        "expected": 0,
+        "actual": 0,
+        "status": "OK"
+      },
+      {
+        "check": "Duplicados por identidad",
+        "expected": 0,
+        "actual": 0,
+        "status": "OK"
+      }
+    ],
+    "candidateSameRecordingGroups": [],
+    "invalidOrFutureAddedDates": 0,
+    "releaseDatesAfterAddition": 0,
+    "sqlCrossChecks": [
+      {
+        "check": "Métricas principales",
+        "passed": true
+      },
+      {
+        "check": "Adiciones mensuales",
+        "passed": true
+      },
+      {
+        "check": "Ranking de artistas",
+        "passed": true
+      },
+      {
+        "check": "Mix de lanzamientos",
+        "passed": true
+      },
+      {
+        "check": "Bandas de duración",
+        "passed": true
+      },
+      {
+        "check": "Tabla de calidad",
+        "passed": true
+      }
+    ],
+    "sqlCrossChecksPass": true
+  },
+  "availability": {
+    "available": 2011,
+    "unavailable": 11,
+    "playable": 2011,
+    "unplayable": 11,
+    "availabilityPlayableMismatches": 0,
+    "zeroAvailableMarkets": 2022,
+    "nonzeroAvailableMarkets": 0,
+    "local": 0,
+    "explicit": 41,
+    "availableRate": 0.9945598417408507,
+    "explicitRate": 0.020276953511374877
+  },
+  "duration": {
+    "averageMin": 4.68,
+    "medianMin": 3.98,
+    "p10Min": 2.99,
+    "p25Min": 3.39,
+    "p75Min": 5.9,
+    "p90Min": 7.36,
+    "shortestMin": 1.91,
+    "longestMin": 28.53,
+    "bands": [
+      {
+        "band": "Menos de 3 min",
+        "order": 1,
+        "tracks": 207,
+        "share": 0.102
+      },
+      {
+        "band": "3 a 5 min",
+        "order": 2,
+        "tracks": 1135,
+        "share": 0.561
+      },
+      {
+        "band": "5 a 7 min",
+        "order": 3,
+        "tracks": 409,
+        "share": 0.20199999999999999
+      },
+      {
+        "band": "7 a 10 min",
+        "order": 4,
+        "tracks": 263,
+        "share": 0.13
+      },
+      {
+        "band": "10 min o más",
+        "order": 5,
+        "tracks": 8,
+        "share": 0.004
+      }
+    ],
+    "longestTracks": [
+      {
+        "name": "Everywhere You Go - Villalobos Celestial Voice Amnesia Resurrection Mix",
+        "artists": "Mari Kvien Brunvoll, Ricardo Villalobos",
+        "durationMin": 28.53,
+        "album": "Everywhere You Go",
+        "releaseDate": "2014-03-24"
+      },
+      {
+        "name": "Time",
+        "artists": "Pachanga Boys",
+        "durationMin": 15.22,
+        "album": "Girlcatcher",
+        "releaseDate": "2012-01-19"
+      },
+      {
+        "name": "Hell to the Liars - Kölsch Remix",
+        "artists": "London Grammar, Kölsch",
+        "durationMin": 12.7,
+        "album": "The Remixes",
+        "releaseDate": "2023-07-21"
+      },
+      {
+        "name": "The Amazing Lilou - Lee Burridge Revibe",
+        "artists": "Luciano, Lee Burridge",
+        "durationMin": 12.56,
+        "album": "Summer Sampler 2023",
+        "releaseDate": "2023-08-18"
+      },
+      {
+        "name": "Come Save Me (Live) - The Pachanga Boys' Jagwar Pawar Version",
+        "artists": "Jagwar Ma, Pachanga Boys",
+        "durationMin": 12.55,
+        "album": "John Digweed (Live in Argentina)",
+        "releaseDate": "2013-12-09"
+      },
+      {
+        "name": "Xpander",
+        "artists": "Sasha",
+        "durationMin": 11.51,
+        "album": "The Xpander E.P.",
+        "releaseDate": "1999-07-05"
+      },
+      {
+        "name": "The Last Track",
+        "artists": "Lehar",
+        "durationMin": 10.55,
+        "album": "Picture: Lehar",
+        "releaseDate": "2017-10-13"
+      },
+      {
+        "name": "Ashes in the Wind",
+        "artists": "Sébastien Léger",
+        "durationMin": 10.07,
+        "album": "Secrets EP",
+        "releaseDate": "2020-02-28"
+      },
+      {
+        "name": "Euneirophrenia",
+        "artists": "Retza, YokoO",
+        "durationMin": 9.87,
+        "album": "Euneirophrenia EP",
+        "releaseDate": "2017-09-29"
+      },
+      {
+        "name": "Children With No Name",
+        "artists": "Khen, Guy Mantzur, Kamila",
+        "durationMin": 9.84,
+        "album": "Black Coffee Ibiza 17 Appreciation Mix",
+        "releaseDate": "2017-10-08"
+      }
+    ]
+  },
+  "artists": {
+    "unique": 1424,
+    "uniquePrimary": 726,
+    "totalCredits": 3671,
+    "medianTracksPerArtist": 1,
+    "oneTrackArtists": 956,
+    "oneTrackArtistShare": 0.6713483146067416,
+    "topTenCreditShare": 0.1269408880414056,
+    "tracksFeaturingTopTen": 435,
+    "tracksFeaturingTopTenShare": 0.21513353115727002,
+    "top": [
+      {
+        "artist": "Mathame",
+        "tracks": 65,
+        "share": 0.03214638971315529
+      },
+      {
+        "artist": "Anyma",
+        "tracks": 57,
+        "share": 0.028189910979228485
+      },
+      {
+        "artist": "Massano",
+        "tracks": 57,
+        "share": 0.028189910979228485
+      },
+      {
+        "artist": "CamelPhat",
+        "tracks": 51,
+        "share": 0.025222551928783383
+      },
+      {
+        "artist": "Solomun",
+        "tracks": 49,
+        "share": 0.02423343224530168
+      },
+      {
+        "artist": "ARTBAT",
+        "tracks": 45,
+        "share": 0.02225519287833828
+      },
+      {
+        "artist": "Argy",
+        "tracks": 40,
+        "share": 0.019782393669634024
+      },
+      {
+        "artist": "Adriatique",
+        "tracks": 38,
+        "share": 0.018793273986152326
+      },
+      {
+        "artist": "Innellea",
+        "tracks": 32,
+        "share": 0.01582591493570722
+      },
+      {
+        "artist": "Vintage Culture",
+        "tracks": 32,
+        "share": 0.01582591493570722
+      },
+      {
+        "artist": "Kevin de Vries",
+        "tracks": 31,
+        "share": 0.01533135509396637
+      },
+      {
+        "artist": "Layton Giordani",
+        "tracks": 30,
+        "share": 0.01483679525222552
+      },
+      {
+        "artist": "Adam Beyer",
+        "tracks": 29,
+        "share": 0.014342235410484669
+      },
+      {
+        "artist": "Rebūke",
+        "tracks": 29,
+        "share": 0.014342235410484669
+      },
+      {
+        "artist": "Goom Gum",
+        "tracks": 27,
+        "share": 0.013353115727002967
+      },
+      {
+        "artist": "Max Styler",
+        "tracks": 26,
+        "share": 0.012858555885262116
+      },
+      {
+        "artist": "Mind Against",
+        "tracks": 26,
+        "share": 0.012858555885262116
+      },
+      {
+        "artist": "TH;EN",
+        "tracks": 26,
+        "share": 0.012858555885262116
+      },
+      {
+        "artist": "Miss Monique",
+        "tracks": 25,
+        "share": 0.012363996043521267
+      },
+      {
+        "artist": "Armin van Buuren",
+        "tracks": 23,
+        "share": 0.011374876360039565
+      },
+      {
+        "artist": "Chris Avantgarde",
+        "tracks": 23,
+        "share": 0.011374876360039565
+      },
+      {
+        "artist": "Colyn",
+        "tracks": 22,
+        "share": 0.010880316518298714
+      },
+      {
+        "artist": "John Summit",
+        "tracks": 22,
+        "share": 0.010880316518298714
+      },
+      {
+        "artist": "Adam Sellouk",
+        "tracks": 21,
+        "share": 0.010385756676557863
+      },
+      {
+        "artist": "GENESI",
+        "tracks": 20,
+        "share": 0.009891196834817012
+      },
+      {
+        "artist": "Agents Of Time",
+        "tracks": 19,
+        "share": 0.009396636993076163
+      },
+      {
+        "artist": "KAS:ST",
+        "tracks": 19,
+        "share": 0.009396636993076163
+      },
+      {
+        "artist": "Fideles",
+        "tracks": 18,
+        "share": 0.008902077151335312
+      },
+      {
+        "artist": "Ezequiel Arias",
+        "tracks": 17,
+        "share": 0.008407517309594461
+      },
+      {
+        "artist": "RÜFÜS DU SOL",
+        "tracks": 17,
+        "share": 0.008407517309594461
+      }
+    ],
+    "topPrimary": [
+      {
+        "artist": "Mathame",
+        "tracks": 49,
+        "share": 0.02423343224530168
+      },
+      {
+        "artist": "Anyma",
+        "tracks": 46,
+        "share": 0.02274975272007913
+      },
+      {
+        "artist": "Massano",
+        "tracks": 43,
+        "share": 0.02126607319485658
+      },
+      {
+        "artist": "CamelPhat",
+        "tracks": 36,
+        "share": 0.017804154302670624
+      },
+      {
+        "artist": "Adriatique",
+        "tracks": 29,
+        "share": 0.014342235410484669
+      },
+      {
+        "artist": "ARTBAT",
+        "tracks": 29,
+        "share": 0.014342235410484669
+      },
+      {
+        "artist": "Argy",
+        "tracks": 27,
+        "share": 0.013353115727002967
+      },
+      {
+        "artist": "Solomun",
+        "tracks": 27,
+        "share": 0.013353115727002967
+      },
+      {
+        "artist": "Adam Beyer",
+        "tracks": 24,
+        "share": 0.011869436201780416
+      },
+      {
+        "artist": "Max Styler",
+        "tracks": 23,
+        "share": 0.011374876360039565
+      },
+      {
+        "artist": "Armin van Buuren",
+        "tracks": 22,
+        "share": 0.010880316518298714
+      },
+      {
+        "artist": "Innellea",
+        "tracks": 22,
+        "share": 0.010880316518298714
+      },
+      {
+        "artist": "Rebūke",
+        "tracks": 22,
+        "share": 0.010880316518298714
+      },
+      {
+        "artist": "TH;EN",
+        "tracks": 22,
+        "share": 0.010880316518298714
+      },
+      {
+        "artist": "Layton Giordani",
+        "tracks": 21,
+        "share": 0.010385756676557863
+      },
+      {
+        "artist": "Miss Monique",
+        "tracks": 21,
+        "share": 0.010385756676557863
+      },
+      {
+        "artist": "Vintage Culture",
+        "tracks": 21,
+        "share": 0.010385756676557863
+      },
+      {
+        "artist": "Mind Against",
+        "tracks": 19,
+        "share": 0.009396636993076163
+      },
+      {
+        "artist": "Goom Gum",
+        "tracks": 18,
+        "share": 0.008902077151335312
+      },
+      {
+        "artist": "Kevin de Vries",
+        "tracks": 18,
+        "share": 0.008902077151335312
+      }
+    ],
+    "collaborationBands": [
+      {
+        "collaborators": "1 artista",
+        "order": 1,
+        "tracks": 866,
+        "share": 0.42828882294757664
+      },
+      {
+        "collaborators": "2 artistas",
+        "order": 2,
+        "tracks": 770,
+        "share": 0.380811078140455
+      },
+      {
+        "collaborators": "3 artistas",
+        "order": 3,
+        "tracks": 310,
+        "share": 0.1533135509396637
+      },
+      {
+        "collaborators": "4 o más",
+        "order": 4,
+        "tracks": 76,
+        "share": 0.03758654797230465
+      }
+    ]
+  },
+  "albums": {
+    "unique": 1761,
+    "oneTrackAlbums": 1615,
+    "oneTrackAlbumShare": 0.9170925610448609,
+    "top": [
+      {
+        "album": "Hyperreal",
+        "primaryArtist": "Chris Avantgarde",
+        "tracks": 12,
+        "releaseDate": "2026-07-10"
+      },
+      {
+        "album": "Genesys II",
+        "primaryArtist": "Anyma",
+        "tracks": 10,
+        "releaseDate": "2024-03-29"
+      },
+      {
+        "album": "Unity",
+        "primaryArtist": "Ae:ther",
+        "tracks": 10,
+        "releaseDate": "2020-04-03"
+      },
+      {
+        "album": "MEMO",
+        "primaryArtist": "Mathame",
+        "tracks": 8,
+        "releaseDate": "2023-06-30"
+      },
+      {
+        "album": "The End Of Genesys",
+        "primaryArtist": "Anyma",
+        "tracks": 8,
+        "releaseDate": "2025-05-30"
+      },
+      {
+        "album": "Natural",
+        "primaryArtist": "Massano",
+        "tracks": 7,
+        "releaseDate": "2025-04-25"
+      },
+      {
+        "album": "New World",
+        "primaryArtist": "Argy",
+        "tracks": 7,
+        "releaseDate": "2024-03-15"
+      },
+      {
+        "album": "The Infrastructure 3.0",
+        "primaryArtist": "Massano",
+        "tracks": 7,
+        "releaseDate": "2025-06-27"
+      },
+      {
+        "album": "Unity Pt. 3",
+        "primaryArtist": "Dyzen",
+        "tracks": 7,
+        "releaseDate": "2022-07-20"
+      },
+      {
+        "album": "Genesys",
+        "primaryArtist": "Anyma",
+        "tracks": 6,
+        "releaseDate": "2023-08-11"
+      },
+      {
+        "album": "I Don't Think I Can Stop",
+        "primaryArtist": "Max Styler",
+        "tracks": 6,
+        "releaseDate": "2026-08-07"
+      },
+      {
+        "album": "Metaflora IV (Vol. 1)",
+        "primaryArtist": "Mind Against",
+        "tracks": 6,
+        "releaseDate": "2026-05-28"
+      },
+      {
+        "album": "Nobody Is Not Loved",
+        "primaryArtist": "Solomun",
+        "tracks": 6,
+        "releaseDate": "2021-05-28"
+      },
+      {
+        "album": "Nexus 001",
+        "primaryArtist": "WELKER",
+        "tracks": 5,
+        "releaseDate": "2026-01-16"
+      },
+      {
+        "album": "The Pledge",
+        "primaryArtist": "MRAK",
+        "tracks": 5,
+        "releaseDate": "2024-06-28"
+      },
+      {
+        "album": "World Of Era",
+        "primaryArtist": "Rebūke",
+        "tracks": 5,
+        "releaseDate": "2025-08-01"
+      },
+      {
+        "album": "Explorer Vol. 1",
+        "primaryArtist": "Adam Beyer",
+        "tracks": 4,
+        "releaseDate": "2025-07-11"
+      },
+      {
+        "album": "Finding Home",
+        "primaryArtist": "Innellea",
+        "tracks": 4,
+        "releaseDate": "2025-09-05"
+      },
+      {
+        "album": "Quantum Echoes, Pt. I",
+        "primaryArtist": "Adriatique",
+        "tracks": 4,
+        "releaseDate": "2025-09-19"
+      },
+      {
+        "album": "Unity Pt. 2",
+        "primaryArtist": "Mathame",
+        "tracks": 4,
+        "releaseDate": "2021-01-22"
+      }
+    ]
+  },
+  "releases": {
+    "knownReleaseYears": 2022,
+    "earliestYear": 1995,
+    "latestYear": 2026,
+    "medianYear": 2024,
+    "releaseYearCounts": [
+      {
+        "year": 1995,
+        "count": 1
+      },
+      {
+        "year": 1996,
+        "count": 1
+      },
+      {
+        "year": 1998,
+        "count": 2
+      },
+      {
+        "year": 1999,
+        "count": 2
+      },
+      {
+        "year": 2000,
+        "count": 2
+      },
+      {
+        "year": 2001,
+        "count": 1
+      },
+      {
+        "year": 2002,
+        "count": 2
+      },
+      {
+        "year": 2003,
+        "count": 2
+      },
+      {
+        "year": 2004,
+        "count": 2
+      },
+      {
+        "year": 2005,
+        "count": 1
+      },
+      {
+        "year": 2006,
+        "count": 2
+      },
+      {
+        "year": 2007,
+        "count": 3
+      },
+      {
+        "year": 2008,
+        "count": 9
+      },
+      {
+        "year": 2009,
+        "count": 10
+      },
+      {
+        "year": 2010,
+        "count": 6
+      },
+      {
+        "year": 2011,
+        "count": 9
+      },
+      {
+        "year": 2012,
+        "count": 19
+      },
+      {
+        "year": 2013,
+        "count": 8
+      },
+      {
+        "year": 2014,
+        "count": 18
+      },
+      {
+        "year": 2015,
+        "count": 15
+      },
+      {
+        "year": 2016,
+        "count": 20
+      },
+      {
+        "year": 2017,
+        "count": 30
+      },
+      {
+        "year": 2018,
+        "count": 43
+      },
+      {
+        "year": 2019,
+        "count": 66
+      },
+      {
+        "year": 2020,
+        "count": 81
+      },
+      {
+        "year": 2021,
+        "count": 66
+      },
+      {
+        "year": 2022,
+        "count": 129
+      },
+      {
+        "year": 2023,
+        "count": 241
+      },
+      {
+        "year": 2024,
+        "count": 408
+      },
+      {
+        "year": 2025,
+        "count": 585
+      },
+      {
+        "year": 2026,
+        "count": 238
+      }
+    ],
+    "releaseMix": [
+      {
+        "bucket": "Antes de 2000",
+        "order": 1,
+        "tracks": 6,
+        "share": 0.002967359050445104
+      },
+      {
+        "bucket": "2000–2009",
+        "order": 2,
+        "tracks": 34,
+        "share": 0.016815034619188922
+      },
+      {
+        "bucket": "2010–2019",
+        "order": 3,
+        "tracks": 234,
+        "share": 0.11572700296735905
+      },
+      {
+        "bucket": "2020–2022",
+        "order": 4,
+        "tracks": 276,
+        "share": 0.13649851632047477
+      },
+      {
+        "bucket": "2023",
+        "order": 5,
+        "tracks": 241,
+        "share": 0.11918892185954501
+      },
+      {
+        "bucket": "2024",
+        "order": 6,
+        "tracks": 408,
+        "share": 0.20178041543026706
+      },
+      {
+        "bucket": "2025",
+        "order": 7,
+        "tracks": 585,
+        "share": 0.2893175074183976
+      },
+      {
+        "bucket": "2026",
+        "order": 8,
+        "tracks": 238,
+        "share": 0.11770524233432245
+      }
+    ],
+    "recentReleaseShare": 0.7279920870425322,
+    "catalogBefore2020Share": 0.13550939663699307,
+    "releaseLagSample": 2015,
+    "medianDaysFromReleaseToAddition": 162,
+    "withinNinetyDaysOfRelease": 865,
+    "withinNinetyDaysOfReleaseShare": 0.4292803970223325,
+    "moreThanFiveYearsAfterRelease": 276,
+    "moreThanFiveYearsAfterReleaseShare": 0.1369727047146402
+  },
+  "additions": {
+    "monthly": [
+      {
+        "month": "2023-04",
+        "tracks": 12,
+        "year": 2023,
+        "monthNumber": 4,
+        "cumulativeTracks": 12
+      },
+      {
+        "month": "2023-05",
+        "tracks": 15,
+        "year": 2023,
+        "monthNumber": 5,
+        "cumulativeTracks": 27
+      },
+      {
+        "month": "2023-06",
+        "tracks": 8,
+        "year": 2023,
+        "monthNumber": 6,
+        "cumulativeTracks": 35
+      },
+      {
+        "month": "2023-07",
+        "tracks": 5,
+        "year": 2023,
+        "monthNumber": 7,
+        "cumulativeTracks": 40
+      },
+      {
+        "month": "2023-08",
+        "tracks": 8,
+        "year": 2023,
+        "monthNumber": 8,
+        "cumulativeTracks": 48
+      },
+      {
+        "month": "2023-09",
+        "tracks": 5,
+        "year": 2023,
+        "monthNumber": 9,
+        "cumulativeTracks": 53
+      },
+      {
+        "month": "2023-10",
+        "tracks": 0,
+        "year": 2023,
+        "monthNumber": 10,
+        "cumulativeTracks": 53
+      },
+      {
+        "month": "2023-11",
+        "tracks": 13,
+        "year": 2023,
+        "monthNumber": 11,
+        "cumulativeTracks": 66
+      },
+      {
+        "month": "2023-12",
+        "tracks": 27,
+        "year": 2023,
+        "monthNumber": 12,
+        "cumulativeTracks": 93
+      },
+      {
+        "month": "2024-01",
+        "tracks": 20,
+        "year": 2024,
+        "monthNumber": 1,
+        "cumulativeTracks": 113
+      },
+      {
+        "month": "2024-02",
+        "tracks": 29,
+        "year": 2024,
+        "monthNumber": 2,
+        "cumulativeTracks": 142
+      },
+      {
+        "month": "2024-03",
+        "tracks": 17,
+        "year": 2024,
+        "monthNumber": 3,
+        "cumulativeTracks": 159
+      },
+      {
+        "month": "2024-04",
+        "tracks": 26,
+        "year": 2024,
+        "monthNumber": 4,
+        "cumulativeTracks": 185
+      },
+      {
+        "month": "2024-05",
+        "tracks": 46,
+        "year": 2024,
+        "monthNumber": 5,
+        "cumulativeTracks": 231
+      },
+      {
+        "month": "2024-06",
+        "tracks": 44,
+        "year": 2024,
+        "monthNumber": 6,
+        "cumulativeTracks": 275
+      },
+      {
+        "month": "2024-07",
+        "tracks": 67,
+        "year": 2024,
+        "monthNumber": 7,
+        "cumulativeTracks": 342
+      },
+      {
+        "month": "2024-08",
+        "tracks": 41,
+        "year": 2024,
+        "monthNumber": 8,
+        "cumulativeTracks": 383
+      },
+      {
+        "month": "2024-09",
+        "tracks": 42,
+        "year": 2024,
+        "monthNumber": 9,
+        "cumulativeTracks": 425
+      },
+      {
+        "month": "2024-10",
+        "tracks": 68,
+        "year": 2024,
+        "monthNumber": 10,
+        "cumulativeTracks": 493
+      },
+      {
+        "month": "2024-11",
+        "tracks": 96,
+        "year": 2024,
+        "monthNumber": 11,
+        "cumulativeTracks": 589
+      },
+      {
+        "month": "2024-12",
+        "tracks": 52,
+        "year": 2024,
+        "monthNumber": 12,
+        "cumulativeTracks": 641
+      },
+      {
+        "month": "2025-01",
+        "tracks": 55,
+        "year": 2025,
+        "monthNumber": 1,
+        "cumulativeTracks": 696
+      },
+      {
+        "month": "2025-02",
+        "tracks": 68,
+        "year": 2025,
+        "monthNumber": 2,
+        "cumulativeTracks": 764
+      },
+      {
+        "month": "2025-03",
+        "tracks": 63,
+        "year": 2025,
+        "monthNumber": 3,
+        "cumulativeTracks": 827
+      },
+      {
+        "month": "2025-04",
+        "tracks": 48,
+        "year": 2025,
+        "monthNumber": 4,
+        "cumulativeTracks": 875
+      },
+      {
+        "month": "2025-05",
+        "tracks": 76,
+        "year": 2025,
+        "monthNumber": 5,
+        "cumulativeTracks": 951
+      },
+      {
+        "month": "2025-06",
+        "tracks": 79,
+        "year": 2025,
+        "monthNumber": 6,
+        "cumulativeTracks": 1030
+      },
+      {
+        "month": "2025-07",
+        "tracks": 117,
+        "year": 2025,
+        "monthNumber": 7,
+        "cumulativeTracks": 1147
+      },
+      {
+        "month": "2025-08",
+        "tracks": 89,
+        "year": 2025,
+        "monthNumber": 8,
+        "cumulativeTracks": 1236
+      },
+      {
+        "month": "2025-09",
+        "tracks": 116,
+        "year": 2025,
+        "monthNumber": 9,
+        "cumulativeTracks": 1352
+      },
+      {
+        "month": "2025-10",
+        "tracks": 115,
+        "year": 2025,
+        "monthNumber": 10,
+        "cumulativeTracks": 1467
+      },
+      {
+        "month": "2025-11",
+        "tracks": 35,
+        "year": 2025,
+        "monthNumber": 11,
+        "cumulativeTracks": 1502
+      },
+      {
+        "month": "2025-12",
+        "tracks": 62,
+        "year": 2025,
+        "monthNumber": 12,
+        "cumulativeTracks": 1564
+      },
+      {
+        "month": "2026-01",
+        "tracks": 51,
+        "year": 2026,
+        "monthNumber": 1,
+        "cumulativeTracks": 1615
+      },
+      {
+        "month": "2026-02",
+        "tracks": 25,
+        "year": 2026,
+        "monthNumber": 2,
+        "cumulativeTracks": 1640
+      },
+      {
+        "month": "2026-03",
+        "tracks": 53,
+        "year": 2026,
+        "monthNumber": 3,
+        "cumulativeTracks": 1693
+      },
+      {
+        "month": "2026-04",
+        "tracks": 70,
+        "year": 2026,
+        "monthNumber": 4,
+        "cumulativeTracks": 1763
+      },
+      {
+        "month": "2026-05",
+        "tracks": 62,
+        "year": 2026,
+        "monthNumber": 5,
+        "cumulativeTracks": 1825
+      },
+      {
+        "month": "2026-06",
+        "tracks": 68,
+        "year": 2026,
+        "monthNumber": 6,
+        "cumulativeTracks": 1893
+      },
+      {
+        "month": "2026-07",
+        "tracks": 103,
+        "year": 2026,
+        "monthNumber": 7,
+        "cumulativeTracks": 1996
+      },
+      {
+        "month": "2026-08",
+        "tracks": 26,
+        "year": 2026,
+        "monthNumber": 8,
+        "cumulativeTracks": 2022
+      }
+    ],
+    "yearly": [
+      {
+        "year": 2023,
+        "count": 93
+      },
+      {
+        "year": 2024,
+        "count": 548
+      },
+      {
+        "year": 2025,
+        "count": 923
+      },
+      {
+        "year": 2026,
+        "count": 458
+      }
+    ],
+    "activeMonths": 40,
+    "medianPerActiveMonth": 49.5,
+    "peakMonths": [
+      {
+        "month": "2025-07",
+        "tracks": 117,
+        "year": 2025,
+        "monthNumber": 7,
+        "cumulativeTracks": 1147
+      },
+      {
+        "month": "2025-09",
+        "tracks": 116,
+        "year": 2025,
+        "monthNumber": 9,
+        "cumulativeTracks": 1352
+      },
+      {
+        "month": "2025-10",
+        "tracks": 115,
+        "year": 2025,
+        "monthNumber": 10,
+        "cumulativeTracks": 1467
+      },
+      {
+        "month": "2026-07",
+        "tracks": 103,
+        "year": 2026,
+        "monthNumber": 7,
+        "cumulativeTracks": 1996
+      },
+      {
+        "month": "2024-11",
+        "tracks": 96,
+        "year": 2024,
+        "monthNumber": 11,
+        "cumulativeTracks": 589
+      },
+      {
+        "month": "2025-08",
+        "tracks": 89,
+        "year": 2025,
+        "monthNumber": 8,
+        "cumulativeTracks": 1236
+      },
+      {
+        "month": "2025-06",
+        "tracks": 79,
+        "year": 2025,
+        "monthNumber": 6,
+        "cumulativeTracks": 1030
+      },
+      {
+        "month": "2025-05",
+        "tracks": 76,
+        "year": 2025,
+        "monthNumber": 5,
+        "cumulativeTracks": 951
+      }
+    ],
+    "peakDays": [
+      {
+        "date": "2025-09-29",
+        "count": 24
+      },
+      {
+        "date": "2025-05-23",
+        "count": 22
+      },
+      {
+        "date": "2025-10-24",
+        "count": 20
+      },
+      {
+        "date": "2026-07-31",
+        "count": 20
+      },
+      {
+        "date": "2024-07-19",
+        "count": 19
+      },
+      {
+        "date": "2025-10-01",
+        "count": 19
+      },
+      {
+        "date": "2026-07-10",
+        "count": 19
+      },
+      {
+        "date": "2026-06-12",
+        "count": 18
+      },
+      {
+        "date": "2025-03-17",
+        "count": 16
+      },
+      {
+        "date": "2026-06-10",
+        "count": 16
+      },
+      {
+        "date": "2026-08-07",
+        "count": 16
+      },
+      {
+        "date": "2025-08-04",
+        "count": 15
+      }
+    ]
+  },
+  "curation": {
+    "distinctAddingAccounts": 14,
+    "topAddingAccountShare": 0.367457962413452,
+    "tracksWithVersionMarker": 499,
+    "tracksWithVersionMarkerShare": 0.24678536102868448,
+    "versionMarkers": [
+      {
+        "marker": "Remix",
+        "tracks": 370,
+        "share": 0.18298714144411474
+      },
+      {
+        "marker": "Edit",
+        "tracks": 42,
+        "share": 0.020771513353115726
+      },
+      {
+        "marker": "Extended",
+        "tracks": 37,
+        "share": 0.018298714144411473
+      },
+      {
+        "marker": "Mix",
+        "tracks": 80,
+        "share": 0.03956478733926805
+      },
+      {
+        "marker": "Live",
+        "tracks": 2,
+        "share": 0.0009891196834817012
+      },
+      {
+        "marker": "Remaster",
+        "tracks": 2,
+        "share": 0.0009891196834817012
+      },
+      {
+        "marker": "Version",
+        "tracks": 9,
+        "share": 0.004451038575667656
+      },
+      {
+        "marker": "Dub",
+        "tracks": 5,
+        "share": 0.002472799208704253
+      },
+      {
+        "marker": "Acoustic",
+        "tracks": 0,
+        "share": 0
+      },
+      {
+        "marker": "Instrumental",
+        "tracks": 0,
+        "share": 0
+      }
+    ]
+  }
+}

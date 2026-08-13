@@ -1,0 +1,836 @@
+{
+  "surface": "report",
+  "manifest": {
+    "version": 1,
+    "surface": "report",
+    "title": "Radiografía de la playlist Monte Etna",
+    "description": "Análisis descriptivo y de calidad del snapshot completo de Spotify.",
+    "generatedAt": "2026-08-13T20:11:46.917Z",
+    "cards": [
+      {
+        "id": "tracks_card",
+        "description": "Entradas actualmente presentes en la playlist.",
+        "dataset": "headline_metrics",
+        "sourceId": "playlist_analysis_sql",
+        "metrics": [
+          {
+            "label": "Tracks",
+            "field": "tracks",
+            "format": "number"
+          }
+        ]
+      },
+      {
+        "id": "hours_card",
+        "description": "Duración continua de todo el catálogo.",
+        "dataset": "headline_metrics",
+        "sourceId": "playlist_analysis_sql",
+        "metrics": [
+          {
+            "label": "Horas",
+            "field": "totalHours",
+            "format": "number",
+            "unit": "h"
+          }
+        ]
+      },
+      {
+        "id": "artists_card",
+        "description": "Artistas acreditados al menos una vez.",
+        "dataset": "headline_metrics",
+        "sourceId": "playlist_analysis_sql",
+        "metrics": [
+          {
+            "label": "Artistas únicos",
+            "field": "uniqueArtists",
+            "format": "number"
+          }
+        ]
+      },
+      {
+        "id": "availability_card",
+        "description": "Porcentaje de tracks marcado como disponible en el snapshot.",
+        "dataset": "headline_metrics",
+        "sourceId": "playlist_analysis_sql",
+        "metrics": [
+          {
+            "label": "Disponibles",
+            "field": "availableRate",
+            "format": "percent"
+          }
+        ]
+      }
+    ],
+    "charts": [
+      {
+        "id": "monthly_additions_chart",
+        "title": "Tracks actuales por mes de incorporación",
+        "subtitle": "2023-04 a 2026-08; sólo incluye tracks que siguen en la playlist",
+        "type": "line",
+        "dataset": "monthly_additions",
+        "sourceId": "playlist_analysis_sql",
+        "encodings": {
+          "x": {
+            "field": "month",
+            "type": "temporal",
+            "label": "Mes"
+          },
+          "y": {
+            "field": "tracks",
+            "type": "quantitative",
+            "label": "Tracks"
+          },
+          "tooltip": [
+            {
+              "field": "cumulativeTracks",
+              "type": "quantitative",
+              "label": "Acumulado vigente",
+              "format": "number"
+            },
+            {
+              "field": "year",
+              "type": "quantitative",
+              "label": "Año",
+              "format": "number"
+            }
+          ]
+        },
+        "palette": {
+          "kind": "single",
+          "root": "orange"
+        }
+      },
+      {
+        "id": "top_artists_chart",
+        "title": "Artistas con más tracks",
+        "subtitle": "Top 15; cada track cuenta una vez por artista acreditado",
+        "type": "bar",
+        "dataset": "top_artists",
+        "sourceId": "playlist_analysis_sql",
+        "encodings": {
+          "x": {
+            "field": "artist",
+            "type": "nominal",
+            "label": "Artista"
+          },
+          "y": {
+            "field": "tracks",
+            "type": "quantitative",
+            "label": "Tracks"
+          },
+          "tooltip": [
+            {
+              "field": "share",
+              "type": "quantitative",
+              "label": "Proporción de la playlist",
+              "format": "percent"
+            },
+            {
+              "field": "rank",
+              "type": "quantitative",
+              "label": "Posición",
+              "format": "number"
+            }
+          ]
+        },
+        "options": {
+          "orientation": "horizontal",
+          "valueLabels": true
+        },
+        "palette": {
+          "kind": "single",
+          "root": "blue"
+        }
+      },
+      {
+        "id": "release_mix_chart",
+        "title": "Composición por año de lanzamiento",
+        "subtitle": "2022 tracks con año conocido; buckets históricos y años recientes",
+        "type": "bar",
+        "dataset": "release_mix",
+        "sourceId": "playlist_analysis_sql",
+        "encodings": {
+          "x": {
+            "field": "bucket",
+            "type": "nominal",
+            "label": "Lanzamiento"
+          },
+          "y": {
+            "field": "tracks",
+            "type": "quantitative",
+            "label": "Tracks"
+          },
+          "tooltip": [
+            {
+              "field": "share",
+              "type": "quantitative",
+              "label": "Proporción",
+              "format": "percent"
+            },
+            {
+              "field": "order",
+              "type": "quantitative",
+              "label": "Orden",
+              "format": "number"
+            }
+          ]
+        },
+        "palette": {
+          "kind": "single",
+          "root": "olive"
+        }
+      },
+      {
+        "id": "duration_chart",
+        "title": "Distribución de duración",
+        "subtitle": "Mediana 3.98 min; percentil 90 7.36 min",
+        "type": "bar",
+        "dataset": "duration_bands",
+        "sourceId": "playlist_analysis_sql",
+        "encodings": {
+          "x": {
+            "field": "band",
+            "type": "nominal",
+            "label": "Duración"
+          },
+          "y": {
+            "field": "tracks",
+            "type": "quantitative",
+            "label": "Tracks"
+          },
+          "tooltip": [
+            {
+              "field": "share",
+              "type": "quantitative",
+              "label": "Proporción",
+              "format": "percent"
+            },
+            {
+              "field": "order",
+              "type": "quantitative",
+              "label": "Orden",
+              "format": "number"
+            }
+          ]
+        },
+        "palette": {
+          "kind": "single",
+          "root": "gold"
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "playlist_analysis_sql",
+        "label": "Consultas reproducibles del análisis de la playlist",
+        "path": "data-analysis/report-source.sql"
+      },
+      {
+        "id": "spotify_tracks_export",
+        "label": "Export versionado de la playlist de Spotify",
+        "path": "data/spotify-playlist-tracks.json"
+      }
+    ],
+    "blocks": [
+      {
+        "id": "title",
+        "type": "markdown",
+        "body": "# Radiografía de la playlist Monte Etna"
+      },
+      {
+        "id": "executive_summary",
+        "type": "markdown",
+        "sourceId": "playlist_analysis_sql",
+        "body": "## Executive Summary\n\n- **Es una colección grande, profunda y vigente.** Reúne 2.022 tracks, 157,8 horas y 1.424 artistas; la última incorporación ocurrió 6.2 días antes del snapshot.\n- **La identidad es reconocible sin depender de unos pocos nombres.** Mathame lidera con 65 tracks, pero el top 10 participa en sólo 21.5% de la playlist y 67.1% de los artistas aparece una sola vez.\n- **Los datos son confiables para describir la curaduría, con límites claros.** No hay IDs duplicados y el resumen reconcilia, aunque 11 tracks no están disponibles y popularidad, géneros, audio features, escuchas e historial de eliminaciones no están presentes."
+      },
+      {
+        "id": "headline_metrics",
+        "type": "metric-strip",
+        "cardIds": [
+          "tracks_card",
+          "hours_card",
+          "artists_card",
+          "availability_card"
+        ]
+      },
+      {
+        "id": "growth_section",
+        "type": "markdown",
+        "sourceId": "playlist_analysis_sql",
+        "body": "## La playlist creció por oleadas, no a ritmo uniforme\n\nLa colección vigente abarca incorporaciones desde 2023-04-21 hasta 2026-08-07. La mediana fue de 49.5 tracks por mes activo; los picos reflejan sesiones de curaduría o cargas por lotes, no necesariamente descubrimiento orgánico continuo.\n\n**Implicación:** para comunicar actividad conviene mostrar fecha de actualización y novedades recientes, pero no presentar esta serie como crecimiento neto histórico: los tracks eliminados ya no están en el snapshot."
+      },
+      {
+        "id": "monthly_additions_block",
+        "type": "chart",
+        "chartId": "monthly_additions_chart"
+      },
+      {
+        "id": "artist_section",
+        "type": "markdown",
+        "sourceId": "playlist_analysis_sql",
+        "body": "## Un núcleo de artistas define el sonido, acompañado por una cola larga\n\nMathame, Anyma y Massano encabezan la presencia. Aun así, 956 artistas aparecen una sola vez y los tracks que incluyen al top 10 representan 21.5% del total.\n\n**Implicación:** la playlist tiene referentes fuertes para explicar su identidad, pero suficiente amplitud para no sentirse como una discografía de pocos nombres."
+      },
+      {
+        "id": "top_artists_block",
+        "type": "chart",
+        "chartId": "top_artists_chart"
+      },
+      {
+        "id": "catalog_section",
+        "type": "markdown",
+        "sourceId": "playlist_analysis_sql",
+        "body": "## El catálogo es contemporáneo, con espacio para rescates\n\n72.8% de los tracks con fecha conocida fue lanzado entre 2023 y 2026, mientras que 13.6% es anterior a 2020. Entre los tracks con fecha completa, 42.9% se agregó dentro de los 90 días de su lanzamiento.\n\n**Implicación:** la selección combina descubrimiento reciente con catálogo, una mezcla útil para sostener actualidad sin perder profundidad."
+      },
+      {
+        "id": "release_mix_block",
+        "type": "chart",
+        "chartId": "release_mix_chart"
+      },
+      {
+        "id": "duration_section",
+        "type": "markdown",
+        "sourceId": "playlist_analysis_sql",
+        "body": "## La duración combina formato estándar con una cola larga de club\n\nLa mediana es 3.98 minutos y el 50% central se ubica entre 3.39 y 5.9 minutos. 33.6% dura al menos cinco minutos.\n\n**Implicación:** el núcleo está en el formato estándar de tres a cinco minutos, pero un tercio de la selección conserva duraciones extendidas útiles para una experiencia de club."
+      },
+      {
+        "id": "duration_block",
+        "type": "chart",
+        "chartId": "duration_chart"
+      },
+      {
+        "id": "quality_section",
+        "type": "markdown",
+        "sourceId": "playlist_analysis_sql",
+        "body": "## La base es apta para análisis descriptivo\n\nLas 2.022 posiciones son completas, las identidades son únicas y los nueve agregados del resumen coinciden con el detalle. Hay 0 grupos candidatos por título, artistas y duración similar con IDs distintos: requieren ISRC o comparación de audio antes de considerarlos el mismo track.\n\n**Implicación:** se pueden respaldar decisiones editoriales y controles operativos con estos datos; no se deben inferir popularidad, rendimiento o comportamiento de oyentes."
+      },
+      {
+        "id": "recommendations",
+        "type": "markdown",
+        "body": "## Próximos pasos recomendados\n\n1. **Usar la amplitud como argumento editorial:** combinar artistas ancla con novedades y rescates, en lugar de describir la playlist sólo por volumen.\n2. **Automatizar controles estables:** unicidad de ID/URI, posiciones completas, reconciliación del resumen, frescura y tasa de tracks no disponibles.\n3. **Agregar ISRC al export si el objetivo es detectar la misma grabación en lanzamientos distintos.** El ID de Spotify detecta repeticiones exactas dentro del catálogo, pero no todas las reediciones equivalentes.\n4. **Guardar snapshots históricos si se quiere medir crecimiento real:** seguidores, altas, bajas, rotación y velocidad de renovación no pueden reconstruirse desde una sola foto."
+      },
+      {
+        "id": "further_questions",
+        "type": "markdown",
+        "body": "## Preguntas que los datos actuales no pueden responder\n\n- ¿Qué tracks o artistas generan más escuchas, guardados o seguidores?\n- ¿Cuál es la rotación real, incluyendo tracks eliminados?\n- ¿Cómo se distribuyen energía, tempo, tonalidad y rasgos sonoros?\n- ¿Cómo evolucionaron los seguidores y la conversión desde la landing?"
+      },
+      {
+        "id": "caveats",
+        "type": "markdown",
+        "sourceId": "playlist_analysis_sql",
+        "body": "## Supuestos y límites\n\n- Snapshot analizado: 2026-08-13 19:02:34.449 UTC.\n- Cada fila representa un track actualmente presente; las eliminaciones históricas no aparecen.\n- Las fechas `addedAt` se agrupan en UTC.\n- Los remixes, edits y versiones con IDs distintos se consideran tracks distintos.\n- Los candidatos de misma grabación por metadatos no son duplicados confirmados sin ISRC o huella de audio.\n- `availableMarkets` vale cero en todo el export, por lo que no sirve para comparar disponibilidad geográfica.\n- No se infieren géneros, popularidad ni engagement porque esos campos no están disponibles en el export."
+      }
+    ]
+  },
+  "snapshot": {
+    "version": 1,
+    "generatedAt": "2026-08-13T20:11:46.917Z",
+    "status": "ready",
+    "datasets": {
+      "headline_metrics": [
+        {
+          "tracks": 2022,
+          "totalHours": 157.8,
+          "uniqueArtists": 1424,
+          "availableRate": 0.9945598417408507
+        }
+      ],
+      "monthly_additions": [
+        {
+          "month": "2023-04",
+          "tracks": 12,
+          "year": 2023,
+          "monthNumber": 4,
+          "cumulativeTracks": 12
+        },
+        {
+          "month": "2023-05",
+          "tracks": 15,
+          "year": 2023,
+          "monthNumber": 5,
+          "cumulativeTracks": 27
+        },
+        {
+          "month": "2023-06",
+          "tracks": 8,
+          "year": 2023,
+          "monthNumber": 6,
+          "cumulativeTracks": 35
+        },
+        {
+          "month": "2023-07",
+          "tracks": 5,
+          "year": 2023,
+          "monthNumber": 7,
+          "cumulativeTracks": 40
+        },
+        {
+          "month": "2023-08",
+          "tracks": 8,
+          "year": 2023,
+          "monthNumber": 8,
+          "cumulativeTracks": 48
+        },
+        {
+          "month": "2023-09",
+          "tracks": 5,
+          "year": 2023,
+          "monthNumber": 9,
+          "cumulativeTracks": 53
+        },
+        {
+          "month": "2023-10",
+          "tracks": 0,
+          "year": 2023,
+          "monthNumber": 10,
+          "cumulativeTracks": 53
+        },
+        {
+          "month": "2023-11",
+          "tracks": 13,
+          "year": 2023,
+          "monthNumber": 11,
+          "cumulativeTracks": 66
+        },
+        {
+          "month": "2023-12",
+          "tracks": 27,
+          "year": 2023,
+          "monthNumber": 12,
+          "cumulativeTracks": 93
+        },
+        {
+          "month": "2024-01",
+          "tracks": 20,
+          "year": 2024,
+          "monthNumber": 1,
+          "cumulativeTracks": 113
+        },
+        {
+          "month": "2024-02",
+          "tracks": 29,
+          "year": 2024,
+          "monthNumber": 2,
+          "cumulativeTracks": 142
+        },
+        {
+          "month": "2024-03",
+          "tracks": 17,
+          "year": 2024,
+          "monthNumber": 3,
+          "cumulativeTracks": 159
+        },
+        {
+          "month": "2024-04",
+          "tracks": 26,
+          "year": 2024,
+          "monthNumber": 4,
+          "cumulativeTracks": 185
+        },
+        {
+          "month": "2024-05",
+          "tracks": 46,
+          "year": 2024,
+          "monthNumber": 5,
+          "cumulativeTracks": 231
+        },
+        {
+          "month": "2024-06",
+          "tracks": 44,
+          "year": 2024,
+          "monthNumber": 6,
+          "cumulativeTracks": 275
+        },
+        {
+          "month": "2024-07",
+          "tracks": 67,
+          "year": 2024,
+          "monthNumber": 7,
+          "cumulativeTracks": 342
+        },
+        {
+          "month": "2024-08",
+          "tracks": 41,
+          "year": 2024,
+          "monthNumber": 8,
+          "cumulativeTracks": 383
+        },
+        {
+          "month": "2024-09",
+          "tracks": 42,
+          "year": 2024,
+          "monthNumber": 9,
+          "cumulativeTracks": 425
+        },
+        {
+          "month": "2024-10",
+          "tracks": 68,
+          "year": 2024,
+          "monthNumber": 10,
+          "cumulativeTracks": 493
+        },
+        {
+          "month": "2024-11",
+          "tracks": 96,
+          "year": 2024,
+          "monthNumber": 11,
+          "cumulativeTracks": 589
+        },
+        {
+          "month": "2024-12",
+          "tracks": 52,
+          "year": 2024,
+          "monthNumber": 12,
+          "cumulativeTracks": 641
+        },
+        {
+          "month": "2025-01",
+          "tracks": 55,
+          "year": 2025,
+          "monthNumber": 1,
+          "cumulativeTracks": 696
+        },
+        {
+          "month": "2025-02",
+          "tracks": 68,
+          "year": 2025,
+          "monthNumber": 2,
+          "cumulativeTracks": 764
+        },
+        {
+          "month": "2025-03",
+          "tracks": 63,
+          "year": 2025,
+          "monthNumber": 3,
+          "cumulativeTracks": 827
+        },
+        {
+          "month": "2025-04",
+          "tracks": 48,
+          "year": 2025,
+          "monthNumber": 4,
+          "cumulativeTracks": 875
+        },
+        {
+          "month": "2025-05",
+          "tracks": 76,
+          "year": 2025,
+          "monthNumber": 5,
+          "cumulativeTracks": 951
+        },
+        {
+          "month": "2025-06",
+          "tracks": 79,
+          "year": 2025,
+          "monthNumber": 6,
+          "cumulativeTracks": 1030
+        },
+        {
+          "month": "2025-07",
+          "tracks": 117,
+          "year": 2025,
+          "monthNumber": 7,
+          "cumulativeTracks": 1147
+        },
+        {
+          "month": "2025-08",
+          "tracks": 89,
+          "year": 2025,
+          "monthNumber": 8,
+          "cumulativeTracks": 1236
+        },
+        {
+          "month": "2025-09",
+          "tracks": 116,
+          "year": 2025,
+          "monthNumber": 9,
+          "cumulativeTracks": 1352
+        },
+        {
+          "month": "2025-10",
+          "tracks": 115,
+          "year": 2025,
+          "monthNumber": 10,
+          "cumulativeTracks": 1467
+        },
+        {
+          "month": "2025-11",
+          "tracks": 35,
+          "year": 2025,
+          "monthNumber": 11,
+          "cumulativeTracks": 1502
+        },
+        {
+          "month": "2025-12",
+          "tracks": 62,
+          "year": 2025,
+          "monthNumber": 12,
+          "cumulativeTracks": 1564
+        },
+        {
+          "month": "2026-01",
+          "tracks": 51,
+          "year": 2026,
+          "monthNumber": 1,
+          "cumulativeTracks": 1615
+        },
+        {
+          "month": "2026-02",
+          "tracks": 25,
+          "year": 2026,
+          "monthNumber": 2,
+          "cumulativeTracks": 1640
+        },
+        {
+          "month": "2026-03",
+          "tracks": 53,
+          "year": 2026,
+          "monthNumber": 3,
+          "cumulativeTracks": 1693
+        },
+        {
+          "month": "2026-04",
+          "tracks": 70,
+          "year": 2026,
+          "monthNumber": 4,
+          "cumulativeTracks": 1763
+        },
+        {
+          "month": "2026-05",
+          "tracks": 62,
+          "year": 2026,
+          "monthNumber": 5,
+          "cumulativeTracks": 1825
+        },
+        {
+          "month": "2026-06",
+          "tracks": 68,
+          "year": 2026,
+          "monthNumber": 6,
+          "cumulativeTracks": 1893
+        },
+        {
+          "month": "2026-07",
+          "tracks": 103,
+          "year": 2026,
+          "monthNumber": 7,
+          "cumulativeTracks": 1996
+        },
+        {
+          "month": "2026-08",
+          "tracks": 26,
+          "year": 2026,
+          "monthNumber": 8,
+          "cumulativeTracks": 2022
+        }
+      ],
+      "top_artists": [
+        {
+          "artist": "Mathame",
+          "tracks": 65,
+          "share": 0.03214638971315529,
+          "rank": 1
+        },
+        {
+          "artist": "Anyma",
+          "tracks": 57,
+          "share": 0.028189910979228485,
+          "rank": 2
+        },
+        {
+          "artist": "Massano",
+          "tracks": 57,
+          "share": 0.028189910979228485,
+          "rank": 3
+        },
+        {
+          "artist": "CamelPhat",
+          "tracks": 51,
+          "share": 0.025222551928783383,
+          "rank": 4
+        },
+        {
+          "artist": "Solomun",
+          "tracks": 49,
+          "share": 0.02423343224530168,
+          "rank": 5
+        },
+        {
+          "artist": "ARTBAT",
+          "tracks": 45,
+          "share": 0.02225519287833828,
+          "rank": 6
+        },
+        {
+          "artist": "Argy",
+          "tracks": 40,
+          "share": 0.019782393669634024,
+          "rank": 7
+        },
+        {
+          "artist": "Adriatique",
+          "tracks": 38,
+          "share": 0.018793273986152326,
+          "rank": 8
+        },
+        {
+          "artist": "Innellea",
+          "tracks": 32,
+          "share": 0.01582591493570722,
+          "rank": 9
+        },
+        {
+          "artist": "Vintage Culture",
+          "tracks": 32,
+          "share": 0.01582591493570722,
+          "rank": 10
+        },
+        {
+          "artist": "Kevin de Vries",
+          "tracks": 31,
+          "share": 0.01533135509396637,
+          "rank": 11
+        },
+        {
+          "artist": "Layton Giordani",
+          "tracks": 30,
+          "share": 0.01483679525222552,
+          "rank": 12
+        },
+        {
+          "artist": "Adam Beyer",
+          "tracks": 29,
+          "share": 0.014342235410484669,
+          "rank": 13
+        },
+        {
+          "artist": "Rebūke",
+          "tracks": 29,
+          "share": 0.014342235410484669,
+          "rank": 14
+        },
+        {
+          "artist": "Goom Gum",
+          "tracks": 27,
+          "share": 0.013353115727002967,
+          "rank": 15
+        }
+      ],
+      "release_mix": [
+        {
+          "bucket": "Antes de 2000",
+          "order": 1,
+          "tracks": 6,
+          "share": 0.002967359050445104
+        },
+        {
+          "bucket": "2000–2009",
+          "order": 2,
+          "tracks": 34,
+          "share": 0.016815034619188922
+        },
+        {
+          "bucket": "2010–2019",
+          "order": 3,
+          "tracks": 234,
+          "share": 0.11572700296735905
+        },
+        {
+          "bucket": "2020–2022",
+          "order": 4,
+          "tracks": 276,
+          "share": 0.13649851632047477
+        },
+        {
+          "bucket": "2023",
+          "order": 5,
+          "tracks": 241,
+          "share": 0.11918892185954501
+        },
+        {
+          "bucket": "2024",
+          "order": 6,
+          "tracks": 408,
+          "share": 0.20178041543026706
+        },
+        {
+          "bucket": "2025",
+          "order": 7,
+          "tracks": 585,
+          "share": 0.2893175074183976
+        },
+        {
+          "bucket": "2026",
+          "order": 8,
+          "tracks": 238,
+          "share": 0.11770524233432245
+        }
+      ],
+      "duration_bands": [
+        {
+          "band": "Menos de 3 min",
+          "order": 1,
+          "tracks": 207,
+          "share": 0.10237388724035608
+        },
+        {
+          "band": "3 a 5 min",
+          "order": 2,
+          "tracks": 1135,
+          "share": 0.5613254203758655
+        },
+        {
+          "band": "5 a 7 min",
+          "order": 3,
+          "tracks": 409,
+          "share": 0.2022749752720079
+        },
+        {
+          "band": "7 a 10 min",
+          "order": 4,
+          "tracks": 263,
+          "share": 0.13006923837784373
+        },
+        {
+          "band": "10 min o más",
+          "order": 5,
+          "tracks": 8,
+          "share": 0.003956478733926805
+        }
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "playlist_analysis_sql",
+      "label": "Consultas reproducibles del análisis de la playlist",
+      "path": "data-analysis/report-source.sql",
+      "query": {
+        "engine": "sqlite",
+        "language": "sql",
+        "description": "Vistas SQL ejecutadas en memoria sobre el snapshot completo de tracks y artistas.",
+        "executed_at": "2026-08-13T20:11:46.917Z",
+        "tables_used": [
+          "tracks",
+          "track_artists",
+          "summary_values"
+        ],
+        "filters": [
+          "Sin muestreo",
+          "Todos los tracks del snapshot",
+          "Fechas interpretadas en UTC"
+        ],
+        "metric_definitions": [
+          "Artista único: ID de Spotify del artista; nombre normalizado como respaldo.",
+          "Duplicado inequívoco: ID o URI estable del track repetido.",
+          "Candidato por metadatos: mismo título normalizado, mismos artistas y duración con diferencia máxima de 2 segundos, pero ID distinto.",
+          "Adiciones mensuales: fecha addedAt de tracks que permanecen en el snapshot actual; no representa tracks eliminados."
+        ]
+      }
+    },
+    {
+      "id": "spotify_tracks_export",
+      "label": "Export versionado de la playlist de Spotify",
+      "path": "data/spotify-playlist-tracks.json"
+    }
+  ]
+}
