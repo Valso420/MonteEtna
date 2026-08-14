@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2024,
-  "exportedTracks": 2024,
-  "totalDurationMs": 568688198,
-  "totalHours": 158,
+  "totalTracks": 2027,
+  "exportedTracks": 2027,
+  "totalDurationMs": 569268989,
+  "totalHours": 158.1,
   "averageDurationMin": 4.68,
-  "uniqueArtists": 1424,
-  "uniqueAlbums": 1762,
+  "uniqueArtists": 1426,
+  "uniqueAlbums": 1765,
   "topArtists": [
     {
       "name": "Mathame",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Anyma",
-      "tracks": 57
+      "tracks": 58
     },
     {
       "name": "Massano",
@@ -27,7 +27,7 @@
     },
     {
       "name": "CamelPhat",
-      "tracks": 52
+      "tracks": 53
     },
     {
       "name": "Solomun",
@@ -58,12 +58,12 @@
       "tracks": 31
     },
     {
-      "name": "Layton Giordani",
+      "name": "Adam Beyer",
       "tracks": 30
     },
     {
-      "name": "Adam Beyer",
-      "tracks": 29
+      "name": "Layton Giordani",
+      "tracks": 30
     },
     {
       "name": "Rebūke",
@@ -96,6 +96,33 @@
   ],
   "recentTracks": [
     {
+      "name": "Let Loose",
+      "artists": [
+        "Adam Beyer",
+        "DJ Jock"
+      ],
+      "addedAt": "2026-08-14T12:29:25.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2zJj9ajxjEgKfpE80XoO4N"
+    },
+    {
+      "name": "Sauna - CamelPhat Remix",
+      "artists": [
+        "Jessie Ware",
+        "CamelPhat"
+      ],
+      "addedAt": "2026-08-14T12:25:51.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/07ZPaoVakyrdFbLA5cmQmx"
+    },
+    {
+      "name": "Other Dimension",
+      "artists": [
+        "Anyma",
+        "Volkoder"
+      ],
+      "addedAt": "2026-08-14T12:22:22.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5IQCfDD1PwrArvdEFDLUZ2"
+    },
+    {
       "name": "Roped In",
       "artists": [
         "Gorgon City"
@@ -111,40 +138,14 @@
       ],
       "addedAt": "2026-08-13T19:29:38.000Z",
       "spotifyUrl": "https://open.spotify.com/track/4m1C2UZPL12NhbvQQ9IwrB"
-    },
-    {
-      "name": "Closer (Adriatique x GENESI)",
-      "artists": [
-        "Adriatique",
-        "Emmit Fenn",
-        "GENESI"
-      ],
-      "addedAt": "2026-08-07T13:47:14.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2vXLAk4PXwX6MFdyaiZ3Xg"
-    },
-    {
-      "name": "It's Like That",
-      "artists": [
-        "Eli Brown"
-      ],
-      "addedAt": "2026-08-07T13:42:29.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4NxJwtZ01ndD6SVY9QKxt3"
-    },
-    {
-      "name": "Wow - Edit",
-      "artists": [
-        "Hot Since 82"
-      ],
-      "addedAt": "2026-08-07T13:40:30.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 41,
-  "availableTracks": 2013,
+  "availableTracks": 2016,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-14T07:23:49.643Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-14T13:05:38.933Z"
 }

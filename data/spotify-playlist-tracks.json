@@ -89133,7 +89133,7 @@
       "uri": "spotify:album:5oB1a3IpezAWEtn35xEfok",
       "releaseDate": "2026-07-31",
       "spotifyUrl": "https://open.spotify.com/album/5oB1a3IpezAWEtn35xEfok",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27349c6a0bef36fd02d77e7d361"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739b4b4c8bba4b307229125221"
     },
     "durationMs": 157593,
     "durationMin": 2.63,
@@ -90858,5 +90858,143 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2nTPWZMSY7OsjoqfW68920",
     "uri": "spotify:track:2nTPWZMSY7OsjoqfW68920"
+  },
+  {
+    "position": 2025,
+    "addedAt": "2026-08-14T12:22:22.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5IQCfDD1PwrArvdEFDLUZ2",
+    "name": "Other Dimension",
+    "artists": [
+      {
+        "id": "4iBwchw0U0GZv5RfVYSMxN",
+        "name": "Anyma",
+        "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN",
+        "spotifyUrl": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+      },
+      {
+        "id": "5SwGFGfUlV6Dan4ygjF5CU",
+        "name": "Volkoder",
+        "uri": "spotify:artist:5SwGFGfUlV6Dan4ygjF5CU",
+        "spotifyUrl": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+      }
+    ],
+    "album": {
+      "id": "3jLVDlQGAhXz7OZSyS8C1W",
+      "name": "Other Dimension",
+      "uri": "spotify:album:3jLVDlQGAhXz7OZSyS8C1W",
+      "releaseDate": "2026-08-14",
+      "spotifyUrl": "https://open.spotify.com/album/3jLVDlQGAhXz7OZSyS8C1W",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273509c22db83c1b2ce958a6785"
+    },
+    "durationMs": 204462,
+    "durationMin": 3.41,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5IQCfDD1PwrArvdEFDLUZ2",
+    "uri": "spotify:track:5IQCfDD1PwrArvdEFDLUZ2"
+  },
+  {
+    "position": 2026,
+    "addedAt": "2026-08-14T12:25:51.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "07ZPaoVakyrdFbLA5cmQmx",
+    "name": "Sauna - CamelPhat Remix",
+    "artists": [
+      {
+        "id": "5Mq7iqCWBzofK39FBqblNc",
+        "name": "Jessie Ware",
+        "uri": "spotify:artist:5Mq7iqCWBzofK39FBqblNc",
+        "spotifyUrl": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+      },
+      {
+        "id": "240wlM8vDrf6S4zCyzGj2W",
+        "name": "CamelPhat",
+        "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W",
+        "spotifyUrl": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+      }
+    ],
+    "album": {
+      "id": "0G9o1ny2lMtw3Q4sEa1hh4",
+      "name": "Sauna (CamelPhat Remix)",
+      "uri": "spotify:album:0G9o1ny2lMtw3Q4sEa1hh4",
+      "releaseDate": "2026-08-14",
+      "spotifyUrl": "https://open.spotify.com/album/0G9o1ny2lMtw3Q4sEa1hh4",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27362d14c7cf107098c6a4d2d36"
+    },
+    "durationMs": 182022,
+    "durationMin": 3.03,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/07ZPaoVakyrdFbLA5cmQmx",
+    "uri": "spotify:track:07ZPaoVakyrdFbLA5cmQmx"
+  },
+  {
+    "position": 2027,
+    "addedAt": "2026-08-14T12:29:25.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2zJj9ajxjEgKfpE80XoO4N",
+    "name": "Let Loose",
+    "artists": [
+      {
+        "id": "1btv9qmIpbp7q1ixCYNdHu",
+        "name": "Adam Beyer",
+        "uri": "spotify:artist:1btv9qmIpbp7q1ixCYNdHu",
+        "spotifyUrl": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+      },
+      {
+        "id": "59GJRTFK8O0XHSMjx2R2CL",
+        "name": "DJ Jock",
+        "uri": "spotify:artist:59GJRTFK8O0XHSMjx2R2CL",
+        "spotifyUrl": "https://open.spotify.com/artist/59GJRTFK8O0XHSMjx2R2CL"
+      }
+    ],
+    "album": {
+      "id": "6BvywdNBwlvmgf4l1TZLXv",
+      "name": "Let Loose",
+      "uri": "spotify:album:6BvywdNBwlvmgf4l1TZLXv",
+      "releaseDate": "2026-08-14",
+      "spotifyUrl": "https://open.spotify.com/album/6BvywdNBwlvmgf4l1TZLXv",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27348dbc8357537a1cb02e6ac5c"
+    },
+    "durationMs": 194307,
+    "durationMin": 3.24,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2zJj9ajxjEgKfpE80XoO4N",
+    "uri": "spotify:track:2zJj9ajxjEgKfpE80XoO4N"
   }
 ]
