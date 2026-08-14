@@ -8,81 +8,74 @@
     <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
     <link rel="canonical" href="https://monteetna.vercel.app/" />
     <meta name="description"
-        content="Monte Etna: playlist de musica electronica, comunidad cerrada, fechas, entradas y drops seleccionados." />
+        content="Monte Etna: playlist de música electrónica, comunidad cerrada, fechas, entradas y drops seleccionados." />
     <meta property="og:title" content="Monte Etna" />
     <meta property="og:description" content="La playlist es el sonido. El grupo es el acceso." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://monteetna.vercel.app/" />
     <meta property="og:image" content="https://monteetna.vercel.app/assets/hero-volcanic-club.jpg" />
     <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:alt" content="Monte Etna: playlist electronica y acceso privado" />
+    <meta property="og:image:alt" content="Monte Etna: playlist electrónica y acceso privado" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Monte Etna" />
     <meta name="twitter:description" content="La playlist es el sonido. El grupo es el acceso." />
     <meta name="twitter:image" content="https://monteetna.vercel.app/assets/hero-volcanic-club.jpg" />
-    <meta name="twitter:image:alt" content="Monte Etna: playlist electronica y acceso privado" />
+    <meta name="twitter:image:alt" content="Monte Etna: playlist electrónica y acceso privado" />
     <meta name="robots" content="index, follow" />
-    <meta name="theme-color" content="#050506" />
+    <meta name="theme-color" content="#050505" />
     <script src="assets/spotify-summary.js" defer></script>
 
     <style>
         :root {
-            --bg: #050506;
-            --panel: rgba(12, 12, 14, 0.72);
-            --panel-strong: rgba(18, 18, 20, 0.86);
-            --text: #fff4e7;
-            --muted: rgba(255, 244, 231, 0.7);
-            --faint: rgba(255, 244, 231, 0.48);
-            --line: rgba(255, 255, 255, 0.16);
-            --lava: #ff3d12;
-            --ember: #ff8a1e;
-            --spotify: #1ed760;
-            --whatsapp: #25d366;
-            --max: 1120px;
-            --radius: 8px;
+            color-scheme: dark;
+            --color-background: #050505;
+            --color-surface: #0a0a0a;
+            --color-foreground: #f5f0e8;
+            --color-muted: #bbb6ae;
+            --color-border: #54504a;
+            --color-border-soft: #2f2c29;
+            --color-lava: #ff6b00;
+            --color-spotify: #1ed760;
+            --color-whatsapp: #25d366;
+            --font-display: "Arial Narrow", "Aptos Display", "Roboto Condensed", "Helvetica Neue", Arial, sans-serif;
+            --font-body: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            --font-editorial: Georgia, "Times New Roman", serif;
+            --content-width: 1180px;
+            --gutter: clamp(20px, 5vw, 72px);
+            --section-space: clamp(72px, 8vw, 112px);
+            --transition: 180ms ease-out;
         }
 
-        * {
+        *,
+        *::before,
+        *::after {
             box-sizing: border-box;
         }
 
         html {
             scroll-behavior: smooth;
+            background: var(--color-background);
         }
 
         body {
             margin: 0;
+            min-width: 320px;
             min-height: 100vh;
-            font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-            background: var(--bg);
-            color: var(--text);
             overflow-x: hidden;
-        }
-
-        body::before,
-        body::after {
-            content: "";
-            position: fixed;
-            inset: 0;
-            pointer-events: none;
-        }
-
-        body::before {
-            z-index: -3;
             background:
-                linear-gradient(90deg, rgba(5, 5, 6, 0.96) 0%, rgba(5, 5, 6, 0.76) 38%, rgba(5, 5, 6, 0.2) 72%),
-                linear-gradient(180deg, rgba(5, 5, 6, 0.24) 0%, rgba(5, 5, 6, 0.92) 86%),
-                url("assets/hero-volcanic-club.jpg") right top / cover no-repeat;
+                radial-gradient(circle at 50% -15%, rgba(255, 255, 255, 0.035), transparent 35rem),
+                var(--color-background);
+            color: var(--color-foreground);
+            font-family: var(--font-body);
+            font-size: 16px;
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+            text-rendering: optimizeLegibility;
         }
 
-        body::after {
-            z-index: -2;
-            opacity: 0.28;
-            background:
-                linear-gradient(rgba(255, 255, 255, 0.045) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(255, 255, 255, 0.045) 1px, transparent 1px);
-            background-size: 64px 64px;
-            mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.84), transparent 76%);
+        img {
+            display: block;
+            max-width: 100%;
         }
 
         a {
@@ -90,590 +83,433 @@
             text-decoration: none;
         }
 
-        .shell {
-            width: min(var(--max), calc(100% - 40px));
-            margin: 0 auto;
-        }
-
-        .nav {
-            min-height: 72px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 18px;
-            position: relative;
-            z-index: 10;
-        }
-
-        .brand {
-            display: inline-flex;
-            align-items: center;
-            gap: 12px;
-            font-size: 13px;
-            font-weight: 900;
-            text-transform: uppercase;
-        }
-
-        .mark {
-            width: 38px;
-            height: 38px;
-            display: grid;
-            place-items: center;
-            border-radius: 50%;
-            border: 1px solid rgba(255, 255, 255, 0.22);
-            background:
-                radial-gradient(circle at 50% 50%, #ffd6a1 0 7%, transparent 8%),
-                radial-gradient(circle at 50% 52%, var(--ember) 0 23%, transparent 24%),
-                radial-gradient(circle at 50% 52%, var(--lava) 0 42%, #190604 43% 100%);
-            box-shadow: 0 0 34px rgba(255, 61, 18, 0.46);
-        }
-
-        .nav-link {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            min-height: 38px;
-            padding: 0 14px;
-            border: 1px solid var(--line);
-            border-radius: 999px;
-            background: rgba(255, 255, 255, 0.055);
-            color: var(--muted);
-            font-size: 13px;
-            font-weight: 800;
-            backdrop-filter: blur(16px);
-        }
-
-        .hero {
-            min-height: calc(100svh - 150px);
-            display: grid;
-            grid-template-columns: minmax(0, 0.95fr) minmax(280px, 0.48fr);
-            align-items: center;
-            gap: 52px;
-            padding: 44px 0 52px;
-        }
-
-        .hero-copy {
-            max-width: 720px;
-        }
-
-        .kicker {
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-            min-height: 36px;
-            padding: 0 13px;
-            border: 1px solid rgba(255, 255, 255, 0.18);
-            border-radius: 999px;
-            background: rgba(255, 255, 255, 0.07);
-            color: var(--muted);
-            font-size: 12px;
-            font-weight: 900;
-            text-transform: uppercase;
-            backdrop-filter: blur(16px);
-        }
-
-        .kicker::before {
-            content: "";
-            width: 8px;
-            height: 8px;
-            border-radius: 999px;
-            background: var(--lava);
-            box-shadow: 0 0 0 8px rgba(255, 61, 18, 0.14), 0 0 24px rgba(255, 61, 18, 0.86);
-        }
-
         h1,
         h2,
+        dl,
+        dd,
+        dt,
+        figure,
         p {
             margin: 0;
         }
 
-        h1 {
-            margin-top: 22px;
-            max-width: 760px;
-            font-size: 8.8rem;
-            line-height: 0.82;
-            font-weight: 1000;
-            text-transform: uppercase;
-            text-shadow: 0 0 54px rgba(255, 61, 18, 0.24);
+        .shell {
+            width: min(var(--content-width), calc(100% - (var(--gutter) * 2)));
+            margin-inline: auto;
         }
 
-        .tagline {
-            max-width: 680px;
-            margin-top: 26px;
-            font-size: 2.35rem;
-            line-height: 1.04;
-            font-weight: 850;
+        .skip-link {
+            position: fixed;
+            top: 12px;
+            left: 12px;
+            z-index: 100;
+            padding: 10px 14px;
+            translate: 0 -160%;
+            background: var(--color-foreground);
+            color: var(--color-background);
+            font-weight: 800;
         }
 
-        .tagline span {
-            color: var(--ember);
+        .skip-link:focus {
+            translate: 0;
         }
 
-        .sub {
-            max-width: 560px;
-            margin-top: 18px;
-            color: var(--muted);
-            font-size: 1.12rem;
-            line-height: 1.55;
+        :focus-visible {
+            outline: 3px solid var(--color-lava);
+            outline-offset: 4px;
         }
 
-        .playlist-visual {
-            width: min(100%, 360px);
-            justify-self: end;
-            position: relative;
-        }
-
-        .playlist-visual::before {
-            content: "";
-            position: absolute;
-            inset: 10% -12% -8% -12%;
-            z-index: -1;
-            background: radial-gradient(circle, rgba(255, 255, 255, 0.22), transparent 62%);
-            filter: blur(20px);
-            opacity: 0.7;
-        }
-
-        .playlist-frame {
-            display: block;
-            padding: 10px;
-            border: 1px solid rgba(255, 255, 255, 0.18);
-            border-radius: var(--radius);
-            background:
-                linear-gradient(180deg, rgba(255, 255, 255, 0.14), rgba(255, 255, 255, 0.045)),
-                rgba(5, 5, 6, 0.74);
-            box-shadow: 0 30px 90px rgba(0, 0, 0, 0.48);
-            backdrop-filter: blur(18px);
-            transition: transform 170ms ease, border-color 170ms ease, box-shadow 170ms ease;
-        }
-
-        .playlist-frame:hover {
-            transform: translateY(-3px);
-            border-color: rgba(30, 215, 96, 0.44);
-            box-shadow: 0 30px 90px rgba(0, 0, 0, 0.5), 0 0 46px rgba(30, 215, 96, 0.12);
-        }
-
-        .playlist-cover {
-            width: 100%;
-            height: auto;
-            aspect-ratio: 1;
-            display: block;
-            object-fit: cover;
-            border-radius: 6px;
-            border: 1px solid rgba(255, 255, 255, 0.14);
-        }
-
-        .playlist-meta {
-            padding: 16px 4px 2px;
-        }
-
-        .playlist-eyebrow {
-            color: var(--spotify);
-            font-size: 12px;
-            font-weight: 950;
-            text-transform: uppercase;
-        }
-
-        .playlist-title {
-            margin-top: 8px;
-            font-size: 1.65rem;
-            line-height: 1;
-            font-weight: 1000;
-            text-transform: uppercase;
-        }
-
-        .playlist-detail {
-            margin-top: 8px;
-            color: var(--muted);
-            font-size: 0.95rem;
-            line-height: 1.45;
-        }
-
-        .playlist-stats {
+        .site-header {
+            min-height: 88px;
             display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            margin-top: 14px;
-            color: var(--text);
-            font-size: 12px;
-            font-weight: 900;
+            align-items: center;
+            justify-content: space-between;
+            gap: 24px;
+            padding-block: 20px;
+        }
+
+        .brand,
+        .descriptor,
+        .eyebrow,
+        .metric-label,
+        .artist,
+        .step-label,
+        .button {
+            font-family: var(--font-display);
+            font-weight: 800;
             text-transform: uppercase;
         }
 
-        .playlist-stats span {
-            padding: 7px 9px;
-            border: 1px solid rgba(255, 255, 255, 0.14);
-            border-radius: 999px;
-            background: rgba(255, 255, 255, 0.055);
+        .brand {
+            min-height: 44px;
+            display: inline-flex;
+            align-items: center;
+            font-size: 1rem;
+            letter-spacing: 0.02em;
+        }
+
+        .descriptor {
+            color: var(--color-muted);
+            font-size: 0.75rem;
+            letter-spacing: 0.1em;
+            text-align: right;
+        }
+
+        .hero {
+            display: grid;
+            grid-template-columns: minmax(0, 0.92fr) minmax(360px, 0.88fr);
+            align-items: center;
+            gap: clamp(48px, 7vw, 96px);
+            padding-block: clamp(52px, 6vw, 80px) var(--section-space);
+        }
+
+        .hero-copy {
+            min-width: 0;
+        }
+
+        .hero-title {
+            max-width: 9ch;
+            font-family: var(--font-display);
+            font-size: clamp(4.5rem, 7.2vw, 6.8rem);
+            font-stretch: condensed;
+            font-weight: 900;
+            letter-spacing: -0.065em;
+            line-height: 0.82;
+            text-transform: uppercase;
+            text-wrap: balance;
+        }
+
+        .accent {
+            color: var(--color-lava);
+        }
+
+        .hero-line {
+            max-width: 29rem;
+            margin-top: 32px;
+            color: var(--color-foreground);
+            font-size: clamp(1.18rem, 2vw, 1.55rem);
+            font-weight: 500;
+            line-height: 1.3;
+        }
+
+        .hero-line .accent {
+            font-weight: 750;
         }
 
         .actions {
-            display: flex;
-            flex-wrap: wrap;
+            display: grid;
             gap: 12px;
+            width: min(100%, 390px);
             margin-top: 32px;
         }
 
-        .btn {
-            min-height: 58px;
-            display: inline-flex;
+        .button {
+            min-height: 62px;
+            display: grid;
+            grid-template-columns: 28px 1fr 24px;
             align-items: center;
-            justify-content: center;
-            gap: 10px;
-            padding: 0 22px;
-            border-radius: 999px;
-            border: 1px solid transparent;
-            font-weight: 900;
-            transition: transform 170ms ease, box-shadow 170ms ease, background 170ms ease, border-color 170ms ease;
+            gap: 14px;
+            padding: 12px 18px;
+            border: 1px solid var(--color-border);
+            color: var(--color-foreground);
+            font-size: 0.9rem;
+            letter-spacing: 0.025em;
+            touch-action: manipulation;
+            transition:
+                color var(--transition),
+                background-color var(--transition),
+                border-color var(--transition),
+                transform var(--transition);
         }
 
-        .btn:hover {
-            transform: translateY(-2px);
+        .button:hover {
+            border-color: var(--color-foreground);
+            background: rgba(255, 255, 255, 0.055);
         }
 
-        .btn::before {
+        .button:active {
+            transform: scale(0.985);
+        }
+
+        .button-primary {
+            border-color: var(--color-spotify);
+            background: var(--color-spotify);
+            color: #031107;
+        }
+
+        .button-primary:hover {
+            border-color: #59ee8e;
+            background: #59ee8e;
+        }
+
+        .button-primary .button-arrow {
+            filter: brightness(0);
+        }
+
+        .button-icon,
+        .button-arrow {
+            width: 100%;
+            height: auto;
+        }
+
+        .button-icon {
+            fill: currentColor;
+        }
+
+        .button-whatsapp .button-icon {
+            color: var(--color-whatsapp);
+        }
+
+        .button-arrow {
+            color: currentColor;
+        }
+
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            width: min(100%, 430px);
+            margin: 32px 0 0;
+        }
+
+        .metric {
+            display: flex;
+            flex-direction: column-reverse;
+            min-width: 0;
+            padding-inline: 18px;
+            border-left: 1px solid var(--color-border);
+        }
+
+        .metric:first-child {
+            padding-left: 0;
+            border-left: 0;
+        }
+
+        .metric:last-child {
+            padding-right: 0;
+        }
+
+        .metric-value {
+            display: block;
+            white-space: nowrap;
+            font-family: var(--font-editorial);
+            font-size: clamp(1.4rem, 2.6vw, 2.5rem);
+            font-variant-numeric: tabular-nums;
+            line-height: 1;
+        }
+
+        .metric-label {
+            display: block;
+            margin-top: 9px;
+            color: var(--color-muted);
+            font-size: 0.72rem;
+            letter-spacing: 0.1em;
+        }
+
+        .cover-frame {
+            width: min(100%, 500px);
+            justify-self: end;
+            padding: 12px;
+            border: 1px solid var(--color-border);
+            background: rgba(255, 255, 255, 0.015);
+        }
+
+        .cover {
+            width: 100%;
+            height: auto;
+            aspect-ratio: 1;
+            object-fit: cover;
+        }
+
+        .numbered-section {
+            padding-bottom: var(--section-space);
+        }
+
+        .section-number {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            align-items: center;
+            gap: 20px;
+            color: var(--color-lava);
+            font-family: var(--font-editorial);
+            font-size: clamp(1.9rem, 3vw, 2.65rem);
+            line-height: 1;
+        }
+
+        .section-number::after {
             content: "";
-            width: 10px;
-            height: 10px;
-            border-radius: 999px;
-            background: currentColor;
+            height: 1px;
+            background: var(--color-border);
         }
 
-        .btn-spotify {
-            background: var(--spotify);
-            color: #04150a;
-            box-shadow: 0 22px 64px rgba(30, 215, 96, 0.24);
+        .radiography {
+            position: relative;
+            min-height: clamp(520px, 60vw, 690px);
+            display: grid;
+            align-content: space-between;
+            margin-top: 36px;
+            overflow: hidden;
+            isolation: isolate;
+            padding: clamp(32px, 5vw, 64px);
         }
 
-        .btn-whatsapp {
-            background: rgba(255, 255, 255, 0.08);
-            border-color: var(--line);
-            color: var(--text);
-            backdrop-filter: blur(16px);
+        .radiography::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            z-index: -2;
+            background: url("assets/hero-volcanic-club.jpg") 72% center / cover no-repeat;
+            filter: saturate(0.78) contrast(1.12) brightness(0.72);
+            transform: scale(1.01);
         }
 
-        .btn-whatsapp:hover {
-            background: rgba(37, 211, 102, 0.16);
-            border-color: rgba(37, 211, 102, 0.42);
-            box-shadow: 0 22px 64px rgba(37, 211, 102, 0.13);
+        .radiography::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            z-index: -1;
+            background:
+                linear-gradient(90deg, rgba(5, 5, 5, 0.96) 0%, rgba(5, 5, 5, 0.62) 38%, rgba(5, 5, 5, 0.02) 72%),
+                linear-gradient(180deg, rgba(5, 5, 5, 0.05), rgba(5, 5, 5, 0.78));
         }
 
-        .proof {
+        .radiography-copy {
+            max-width: 600px;
+        }
+
+        .eyebrow {
+            color: var(--color-foreground);
+            font-size: 0.75rem;
+            letter-spacing: 0.1em;
+        }
+
+        .editorial-title {
+            max-width: 15ch;
+            margin-top: 16px;
+            font-family: var(--font-editorial);
+            font-size: clamp(2.55rem, 5.4vw, 5.4rem);
+            font-weight: 400;
+            letter-spacing: -0.045em;
+            line-height: 0.98;
+            text-wrap: balance;
+        }
+
+        .artist-list {
             display: flex;
             flex-wrap: wrap;
-            gap: 10px;
-            margin-top: 22px;
+            gap: 12px;
+            margin-top: 72px;
         }
 
-        .chip {
+        .artist {
             display: inline-flex;
             align-items: center;
-            min-height: 36px;
-            padding: 0 12px;
-            border: 1px solid var(--line);
-            border-radius: 999px;
-            background: rgba(255, 255, 255, 0.055);
-            color: var(--muted);
-            font-size: 13px;
-            font-weight: 850;
-            text-transform: uppercase;
-            backdrop-filter: blur(16px);
+            gap: 12px;
+            font-size: clamp(0.83rem, 1.5vw, 1rem);
+            letter-spacing: 0.09em;
         }
 
-        .insights {
-            padding: 4px 0 78px;
+        .artist:not(:last-child)::after {
+            content: "";
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            background: var(--color-lava);
         }
 
-        .section-head {
+        .journey {
+            margin-top: 38px;
+        }
+
+        .steps {
+            display: grid;
+            gap: 0;
             max-width: 760px;
+            margin: 0 auto;
+            padding: 0;
+            list-style: none;
+            counter-reset: access-steps;
         }
 
-        .section-head strong {
-            color: var(--spotify);
-            font-size: 13px;
-            font-weight: 950;
-            text-transform: uppercase;
+        .step {
+            counter-increment: access-steps;
+            display: grid;
+            grid-template-columns: 72px 1fr;
+            gap: 28px;
+            min-height: 132px;
         }
 
-        .section-head h2 {
+        .step::before {
+            content: counter(access-steps, decimal-leading-zero);
+            width: 58px;
+            height: 58px;
+            display: grid;
+            place-items: center;
+            align-self: start;
+            border: 1px solid var(--color-lava);
+            border-radius: 50%;
+            color: var(--color-lava);
+            font-family: var(--font-display);
+            font-size: 0.95rem;
+            font-weight: 800;
+        }
+
+        .step-body {
+            position: relative;
+            padding-top: 10px;
+        }
+
+        .step:not(:last-child) .step-body::before {
+            content: "";
+            position: absolute;
+            top: 58px;
+            left: -57px;
+            width: 1px;
+            height: 75px;
+            background: var(--color-lava);
+        }
+
+        .step-label {
+            display: block;
+            font-size: clamp(1.45rem, 3vw, 2.2rem);
+            letter-spacing: -0.025em;
+            line-height: 1.05;
+        }
+
+        .step-copy {
+            max-width: 42ch;
             margin-top: 12px;
-            font-size: 2.55rem;
-            line-height: 1;
-            font-weight: 1000;
-            text-transform: uppercase;
-        }
-
-        .section-head p {
-            max-width: 640px;
-            margin-top: 14px;
-            color: var(--muted);
-            font-size: 1rem;
+            color: var(--color-muted);
+            font-size: clamp(1rem, 1.7vw, 1.12rem);
             line-height: 1.55;
         }
 
-        .insights-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 14px;
-            margin-top: 24px;
+        .final-cta {
+            margin-top: clamp(44px, 7vw, 80px);
+            padding-top: clamp(52px, 8vw, 88px);
+            border-top: 1px solid var(--color-border);
+            text-align: center;
         }
 
-        .insight-card {
-            min-height: 132px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            padding: 18px;
-            border: 1px solid var(--line);
-            border-radius: var(--radius);
-            background:
-                linear-gradient(180deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.045)),
-                rgba(5, 5, 6, 0.62);
-            backdrop-filter: blur(18px);
-        }
-
-        .insight-value {
-            color: var(--ember);
-            font-size: 2rem;
-            line-height: 1;
-            font-weight: 1000;
-            letter-spacing: 0;
-        }
-
-        .insight-label {
-            color: var(--muted);
-            font-size: 0.86rem;
-            line-height: 1.3;
-            font-weight: 850;
-            text-transform: uppercase;
-        }
-
-        .artist-strip {
-            position: relative;
-            overflow: hidden;
-            margin-top: 14px;
-            padding: 16px 0;
-            border: 1px solid rgba(255, 255, 255, 0.13);
-            border-radius: var(--radius);
-            background: var(--panel);
-            backdrop-filter: blur(18px);
-        }
-
-        .artist-strip::before,
-        .artist-strip::after {
-            content: "";
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            z-index: 1;
-            width: 58px;
-            pointer-events: none;
-        }
-
-        .artist-strip::before {
-            left: 0;
-            background: linear-gradient(90deg, rgba(12, 12, 14, 0.96), transparent);
-        }
-
-        .artist-strip::after {
-            right: 0;
-            background: linear-gradient(270deg, rgba(12, 12, 14, 0.96), transparent);
-        }
-
-        .artist-track {
-            display: flex;
-            width: max-content;
-            animation: artist-carousel 42s linear infinite;
-        }
-
-        .artist-strip:hover .artist-track {
-            animation-play-state: paused;
-        }
-
-        .artist-set {
-            display: flex;
-            gap: 10px;
-            padding-right: 10px;
-        }
-
-        .artist-strip span {
-            display: inline-flex;
-            align-items: center;
-            flex: 0 0 auto;
-            min-height: 34px;
-            padding: 0 11px;
-            border: 1px solid rgba(255, 255, 255, 0.14);
-            border-radius: 999px;
-            background: rgba(255, 255, 255, 0.055);
-            color: var(--text);
-            font-size: 12px;
+        .final-title {
+            font-family: var(--font-display);
+            font-size: clamp(2.7rem, 6vw, 5.6rem);
             font-weight: 900;
+            letter-spacing: -0.055em;
+            line-height: 0.9;
             text-transform: uppercase;
+            text-wrap: balance;
         }
 
-        @keyframes artist-carousel {
-            from {
-                transform: translateX(0);
-            }
-
-            to {
-                transform: translateX(-50%);
-            }
+        .final-cta .actions {
+            width: min(100%, 620px);
+            margin-inline: auto;
         }
 
-        @media (prefers-reduced-motion: reduce) {
-            .artist-strip {
-                overflow-x: auto;
-            }
-
-            .artist-track {
-                animation: none;
-            }
-
-            .artist-set[aria-hidden="true"] {
-                display: none;
-            }
-        }
-
-        .data-panel {
-            margin-top: 14px;
-            padding: 18px;
-            border: 1px solid rgba(255, 255, 255, 0.13);
-            border-radius: var(--radius);
-            background: var(--panel);
-            backdrop-filter: blur(18px);
-        }
-
-        .data-panel strong {
-            color: var(--spotify);
-            font-size: 13px;
-            font-weight: 950;
-            text-transform: uppercase;
-        }
-
-        .data-panel p,
-        .data-panel li {
-            color: var(--muted);
-            font-size: 0.95rem;
-            line-height: 1.5;
-        }
-
-        .data-panel p {
-            margin-top: 10px;
-        }
-
-        .recent-tracks {
-            display: grid;
-            gap: 8px;
-            margin: 12px 0 0;
-            padding-left: 18px;
-        }
-
-        .bridge {
-            padding: 18px 0 78px;
-        }
-
-        .bridge-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 14px;
-        }
-
-        .bridge-panel {
-            min-height: 210px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            padding: 22px;
-            border: 1px solid var(--line);
-            border-radius: var(--radius);
-            background: linear-gradient(180deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.05));
-            backdrop-filter: blur(18px);
-            box-shadow: 0 28px 80px rgba(0, 0, 0, 0.28);
-            overflow: hidden;
-        }
-
-        .bridge-panel strong {
-            color: var(--ember);
-            font-size: 13px;
-            font-weight: 950;
-            text-transform: uppercase;
-        }
-
-        .bridge-panel h2 {
-            max-width: 430px;
-            margin-top: 42px;
-            font-size: 2.25rem;
-            line-height: 1;
-            font-weight: 950;
-        }
-
-        .bridge-panel p {
-            max-width: 430px;
-            margin-top: 14px;
-            color: var(--muted);
-            font-size: 1rem;
-            line-height: 1.5;
-        }
-
-        .flow {
-            margin-top: 14px;
-            padding: 18px;
-            border: 1px solid rgba(255, 255, 255, 0.13);
-            border-radius: var(--radius);
-            background: var(--panel);
-            color: var(--faint);
-            font-size: 0.95rem;
-            font-weight: 850;
-            text-transform: uppercase;
-            backdrop-filter: blur(18px);
-        }
-
-        .flow b {
-            color: var(--text);
-        }
-
-        .final {
-            padding: 0 0 78px;
-        }
-
-        .final-inner {
-            display: grid;
-            grid-template-columns: 1fr auto;
-            align-items: center;
-            gap: 24px;
-            padding: 24px;
-            border: 1px solid var(--line);
-            border-radius: var(--radius);
-            background:
-                linear-gradient(90deg, rgba(255, 61, 18, 0.24), transparent 46%),
-                var(--panel-strong);
-            backdrop-filter: blur(18px);
-        }
-
-        .final h2 {
-            font-size: 2.65rem;
-            line-height: 1;
-            font-weight: 1000;
-            text-transform: uppercase;
-        }
-
-        .final p {
-            margin-top: 10px;
-            color: var(--muted);
-            font-size: 1rem;
-            line-height: 1.5;
-        }
-
-        .final .actions {
-            margin-top: 0;
-            justify-content: flex-end;
-        }
-
-        footer {
-            padding: 24px 0;
-            border-top: 1px solid var(--line);
-            color: rgba(255, 244, 231, 0.52);
-            font-size: 13px;
+        .site-footer {
+            padding-block: 24px;
+            border-top: 1px solid var(--color-border-soft);
+            color: var(--color-muted);
+            font-size: 0.76rem;
         }
 
         .footer-inner {
@@ -684,370 +520,373 @@
         }
 
         @media (max-width: 900px) {
-            body::before {
-                background:
-                    linear-gradient(180deg, rgba(5, 5, 6, 0.42) 0%, rgba(5, 5, 6, 0.94) 74%),
-                    linear-gradient(90deg, rgba(5, 5, 6, 0.94), rgba(5, 5, 6, 0.36)),
-                    url("assets/hero-volcanic-club.jpg") 62% top / cover no-repeat;
-            }
-
-            h1 {
-                font-size: 6.4rem;
-            }
-
-            .tagline {
-                font-size: 2rem;
-            }
-
-            .hero,
-            .bridge-grid,
-            .final-inner {
-                grid-template-columns: 1fr;
-            }
-
-            .insights-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-
-            .playlist-visual {
-                width: min(100%, 320px);
-                justify-self: start;
-            }
-
-            .final .actions {
-                justify-content: flex-start;
-            }
-        }
-
-        @media (max-width: 620px) {
-            .shell {
-                width: min(100% - 24px, var(--max));
-            }
-
-            .nav {
-                min-height: 66px;
-            }
-
-            .nav-link {
-                display: none;
+            .site-header {
+                min-height: 76px;
             }
 
             .hero {
                 min-height: auto;
+                grid-template-columns: 1fr;
+                gap: 40px;
+                padding-block: 48px var(--section-space);
+            }
+
+            .hero-title {
+                max-width: 8ch;
+                font-size: clamp(4rem, 10vw, 6.5rem);
+            }
+
+            .hero-copy {
+                display: contents;
+            }
+
+            .hero-heading {
+                order: 1;
+            }
+
+            .hero-actions {
+                order: 2;
+            }
+
+            .cover-frame {
+                width: min(100%, 620px);
+                justify-self: center;
+                order: 3;
+            }
+
+            .hero-metrics {
+                order: 4;
+            }
+
+            .radiography {
+                min-height: 610px;
+            }
+
+            .radiography::after {
+                background:
+                    linear-gradient(180deg, rgba(5, 5, 5, 0.88) 0%, rgba(5, 5, 5, 0.35) 43%, rgba(5, 5, 5, 0.88) 100%);
+            }
+        }
+
+        @media (max-width: 620px) {
+            :root {
+                --gutter: 20px;
+                --section-space: 88px;
+            }
+
+            .site-header {
                 align-items: flex-start;
-                padding: 72px 0 42px;
-                gap: 34px;
+                padding-block: 16px;
             }
 
-            h1 {
-                font-size: 4.2rem;
-                line-height: 0.88;
-            }
-
-            .tagline {
-                margin-top: 22px;
-                font-size: 1.62rem;
-            }
-
-            .sub {
-                font-size: 1rem;
-            }
-
-            .playlist-visual {
-                width: 100%;
-            }
-
-            .playlist-visual::before {
-                inset: 10% 0 -8% 0;
-            }
-
-            .playlist-frame {
-                display: grid;
-                grid-template-columns: 108px 1fr;
-                align-items: center;
-                gap: 14px;
-                padding: 10px;
-            }
-
-            .playlist-meta {
-                padding: 0;
-            }
-
-            .playlist-title {
-                font-size: 1.25rem;
-            }
-
-            .playlist-detail {
+            .brand {
                 font-size: 0.88rem;
             }
 
+            .descriptor {
+                display: none;
+            }
+
+            .hero {
+                gap: 28px;
+                padding-top: 44px;
+            }
+
+            .hero-title {
+                max-width: 7.5ch;
+                font-size: clamp(4rem, 20vw, 5.6rem);
+                line-height: 0.84;
+            }
+
+            .hero-line {
+                max-width: 21rem;
+                margin-top: 24px;
+                font-size: 1.15rem;
+            }
+
             .actions {
-                display: grid;
-                grid-template-columns: 1fr;
-            }
-
-            .btn {
                 width: 100%;
+                margin-top: 0;
             }
 
-            .bridge {
-                padding-bottom: 52px;
-            }
-
-            .insights {
-                padding-bottom: 52px;
-            }
-
-            .section-head h2 {
-                font-size: 1.95rem;
-            }
-
-            .insights-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .insight-card {
-                min-height: 112px;
-            }
-
-            .bridge-panel {
-                min-height: 178px;
-                padding: 18px;
-            }
-
-            .bridge-panel h2 {
-                margin-top: 34px;
-                font-size: 1.85rem;
-            }
-
-            .flow {
+            .button {
+                min-height: 58px;
+                grid-template-columns: 24px 1fr 22px;
+                padding-inline: 16px;
                 font-size: 0.82rem;
             }
 
-            .final {
-                padding-bottom: 54px;
+            .metrics {
+                width: 100%;
+                margin-top: 2px;
             }
 
-            .final-inner {
-                padding: 18px;
+            .metric {
+                padding-inline: 12px;
             }
 
-            .final h2 {
-                font-size: 2rem;
+            .metric-value {
+                font-size: clamp(1.45rem, 8vw, 2.1rem);
+            }
+
+            .metric-label {
+                font-size: 0.62rem;
+                letter-spacing: 0.06em;
+            }
+
+            .cover-frame {
+                padding: 8px;
+            }
+
+            .section-number {
+                gap: 14px;
+            }
+
+            .radiography {
+                min-height: 560px;
+                margin-top: 28px;
+                padding: 26px 22px;
+            }
+
+            .radiography::before {
+                background-position: 68% center;
+            }
+
+            .editorial-title {
+                max-width: 12ch;
+                font-size: clamp(2.65rem, 12vw, 4rem);
+            }
+
+            .artist-list {
+                gap: 8px;
+            }
+
+            .artist {
+                gap: 8px;
+                font-size: 0.72rem;
+            }
+
+            .step {
+                grid-template-columns: 56px 1fr;
+                gap: 18px;
+                min-height: 124px;
+            }
+
+            .step::before {
+                width: 48px;
+                height: 48px;
+                font-size: 0.8rem;
+            }
+
+            .step:not(:last-child) .step-body::before {
+                top: 48px;
+                left: -43px;
+                height: 76px;
+            }
+
+            .step-label {
+                font-size: 1.35rem;
+            }
+
+            .final-title {
+                font-size: clamp(2.6rem, 14vw, 4.2rem);
+            }
+        }
+
+        @media (max-width: 380px) {
+            .hero-title {
+                max-width: 7.8ch;
+                font-size: 3.65rem;
+            }
+
+            .button {
+                font-size: 0.75rem;
+            }
+
+            .metric-value {
+                font-size: 1.38rem;
+            }
+        }
+
+        @media (min-width: 720px) and (max-height: 520px) and (orientation: landscape) {
+            .site-header {
+                min-height: 64px;
+            }
+
+            .hero {
+                grid-template-columns: minmax(0, 1fr) minmax(260px, 0.65fr);
+                min-height: auto;
+                padding-block: 36px 80px;
+            }
+
+            .hero-copy {
+                display: block;
+            }
+
+            .hero-title {
+                font-size: clamp(3.8rem, 10vw, 6rem);
+            }
+
+            .cover-frame {
+                width: min(100%, 360px);
+                order: initial;
+            }
+
+            .hero-actions,
+            .hero-metrics {
+                order: initial;
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            html {
+                scroll-behavior: auto;
+            }
+
+            *,
+            *::before,
+            *::after {
+                scroll-behavior: auto !important;
+                transition-duration: 0.01ms !important;
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
             }
         }
     </style>
 </head>
 
 <body>
-    <header class="shell nav">
-        <a href="#top" class="brand" aria-label="Monte Etna">
-            <span class="mark" aria-hidden="true"></span>
-            <span>Monte Etna</span>
-        </a>
+    <a class="skip-link" href="#main-content">Saltar al contenido principal</a>
 
-        <a class="nav-link" href="#access">Playlist + grupo cerrado</a>
+    <header class="site-header shell">
+        <a class="brand" href="#top" aria-label="Ir al inicio de Monte Etna">Monte Etna</a>
+        <p class="descriptor">Playlist pública&nbsp;&nbsp;·&nbsp;&nbsp;Comunidad cerrada</p>
     </header>
 
-    <main id="top">
-        <section class="shell hero">
+    <main id="main-content">
+        <section class="hero shell" id="top" aria-labelledby="hero-title">
             <div class="hero-copy">
-                <div class="kicker">Playlist publica + acceso privado</div>
+                <div class="hero-heading">
+                    <h1 class="hero-title" id="hero-title">
+                        Subí.<br />
+                        El sonido<br />
+                        ya está<br />
+                        arriba<span class="accent">.</span>
+                    </h1>
 
-                <h1>Monte<br>Etna</h1>
+                    <p class="hero-line">
+                        La playlist es el <span class="accent">sonido</span>.<br />
+                        El grupo es el <span class="accent">acceso</span>.
+                    </p>
+                </div>
 
-                <p class="tagline">
-                    La playlist es el <span>sonido</span>.<br>
-                    El grupo es el <span>acceso</span>.
-                </p>
-
-                <p class="sub">
-                    Una seleccion extensa de musica electronica. La portada abre el ascenso; el grupo concentra fechas,
-                    entradas y drops seleccionados.
-                </p>
-
-                <div class="actions" aria-label="Acciones principales">
-                    <a class="btn btn-spotify"
-                        href="https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB"
+                <div class="actions hero-actions" aria-label="Acciones principales">
+                    <a class="button button-primary" href="https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB"
                         target="_blank" rel="noopener noreferrer"
                         aria-label="Seguir la playlist Monte Etna en Spotify">
-                        Seguir playlist
+                        <img class="button-icon" src="assets/spotify.svg" alt="" width="28" height="28" />
+                        <span>Seguir en Spotify</span>
+                        <img class="button-arrow" src="assets/arrow-right.svg" alt="" width="24" height="24" />
                     </a>
 
-                    <a class="btn btn-whatsapp" href="https://chat.whatsapp.com/Ecj1Oj8jPf29T3Ze6Pl2Oc"
+                    <a class="button button-whatsapp" href="https://chat.whatsapp.com/Ecj1Oj8jPf29T3Ze6Pl2Oc"
                         target="_blank" rel="noopener noreferrer" aria-label="Entrar al grupo cerrado de WhatsApp">
-                        Entrar al grupo
+                        <img class="button-icon" src="assets/whatsapp.svg" alt="" width="28" height="28" />
+                        <span>Entrar al grupo</span>
+                        <img class="button-arrow" src="assets/arrow-right.svg" alt="" width="24" height="24" />
                     </a>
                 </div>
 
-                <div class="proof" aria-label="Caracteristicas del grupo">
-                    <span class="chip" id="hero-tracks">1876 tracks</span>
-                    <span class="chip" id="hero-hours">146 horas de musica electronica</span>
-                    <span class="chip">Solo admins</span>
-                    <span class="chip">Sin spam</span>
-                </div>
+                <dl class="metrics hero-metrics" aria-label="Datos de la playlist">
+                    <div class="metric">
+                        <dt class="metric-label">Tracks</dt>
+                        <dd class="metric-value" id="tracks-value">2.022</dd>
+                    </div>
+                    <div class="metric">
+                        <dt class="metric-label">Horas</dt>
+                        <dd class="metric-value" id="hours-value">157,8</dd>
+                    </div>
+                    <div class="metric">
+                        <dt class="metric-label">Artistas</dt>
+                        <dd class="metric-value" id="artists-value">1.424</dd>
+                    </div>
+                </dl>
             </div>
 
-            <aside class="playlist-visual" aria-label="Portada de la playlist Monte Etna">
-                <a class="playlist-frame"
-                    href="https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB"
-                    target="_blank" rel="noopener noreferrer"
-                    aria-label="Abrir la playlist Monte Etna en Spotify">
-                    <img class="playlist-cover" src="assets/playlist-cover.jpg"
-                        alt="Portada de la playlist Monte Etna" width="300" height="300">
+            <figure class="cover-frame">
+                <img class="cover" src="assets/playlist-cover.jpg" alt="Portada de la playlist Monte Etna"
+                    width="300" height="300" />
+            </figure>
+        </section>
 
-                    <div class="playlist-meta">
-                        <div class="playlist-eyebrow">Spotify playlist</div>
-                        <div class="playlist-title">Monte Etna</div>
-                        <p class="playlist-detail">Un ascenso oscuro hacia el sonido.</p>
-                        <div class="playlist-stats" aria-label="Datos de la playlist">
-                            <span id="playlist-tracks">1876 tracks</span>
-                            <span id="playlist-hours">146.8 horas</span>
+        <section class="numbered-section shell" aria-labelledby="radiography-title">
+            <div class="section-number" aria-hidden="true">01</div>
+
+            <div class="radiography">
+                <div class="radiography-copy">
+                    <p class="eyebrow">Radiografía de la playlist</p>
+                    <h2 class="editorial-title" id="radiography-title">
+                        Una curaduría extensa, no una lista al azar.
+                    </h2>
+                </div>
+
+                <div class="artist-list" id="top-artists" aria-label="Artistas con más presencia">
+                    <span class="artist">Mathame</span>
+                    <span class="artist">Anyma</span>
+                    <span class="artist">Massano</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="numbered-section shell" id="access" aria-labelledby="access-title">
+            <div class="section-number" aria-hidden="true">02</div>
+
+            <div class="journey">
+                <h2 class="eyebrow" id="access-title">Del sonido al acceso</h2>
+
+                <ol class="steps">
+                    <li class="step">
+                        <div class="step-body">
+                            <span class="step-label">Seguí la playlist</span>
+                            <p class="step-copy">Entrá al clima: oscuro, ascendente y electrónico.</p>
                         </div>
-                    </div>
-                </a>
-            </aside>
-        </section>
-
-        <section class="shell insights" aria-label="Radiografia de la playlist">
-            <div class="section-head">
-                <strong>Radiografia</strong>
-                <h2>Una curadoria extensa, no una lista al azar.</h2>
-                <p id="radiography-copy">
-                    El volumen de tracks, horas y artistas define el sonido de la comunidad.
-                </p>
+                    </li>
+                    <li class="step">
+                        <div class="step-body">
+                            <span class="step-label">Entrá al grupo cerrado</span>
+                            <p class="step-copy">
+                                Fechas, entradas y drops seleccionados. Solo admins. Sin spam.
+                            </p>
+                        </div>
+                    </li>
+                </ol>
             </div>
 
-            <div class="insights-grid">
-                <article class="insight-card">
-                    <span class="insight-value" id="tracks-value">1876</span>
-                    <span class="insight-label">tracks</span>
-                </article>
-                <article class="insight-card">
-                    <span class="insight-value" id="hours-value">146.8 h</span>
-                    <span class="insight-label">de recorrido sonoro</span>
-                </article>
-                <article class="insight-card">
-                    <span class="insight-value" id="artists-value">1359</span>
-                    <span class="insight-label">artistas distintos</span>
-                </article>
-            </div>
-
-            <div class="artist-strip" id="top-artists" aria-label="Artistas con mas presencia">
-                <div class="artist-track">
-                    <div class="artist-set">
-                        <span>Anyma</span>
-                        <span>Mathame</span>
-                        <span>Massano</span>
-                        <span>CamelPhat</span>
-                        <span>Solomun</span>
-                        <span>ARTBAT</span>
-                        <span>Adriatique</span>
-                        <span>Argy</span>
-                        <span>Innellea</span>
-                        <span>Adam Beyer</span>
-                        <span>Layton Giordani</span>
-                        <span>Rebuke</span>
-                        <span>Vintage Culture</span>
-                        <span>Goom Gum</span>
-                        <span>Kevin de Vries</span>
-                        <span>Mind Against</span>
-                        <span>Miss Monique</span>
-                        <span>TH;EN</span>
-                        <span>John Summit</span>
-                        <span>Adam Sellouk</span>
-                    </div>
-                    <div class="artist-set" aria-hidden="true">
-                        <span>Anyma</span>
-                        <span>Mathame</span>
-                        <span>Massano</span>
-                        <span>CamelPhat</span>
-                        <span>Solomun</span>
-                        <span>ARTBAT</span>
-                        <span>Adriatique</span>
-                        <span>Argy</span>
-                        <span>Innellea</span>
-                        <span>Adam Beyer</span>
-                        <span>Layton Giordani</span>
-                        <span>Rebuke</span>
-                        <span>Vintage Culture</span>
-                        <span>Goom Gum</span>
-                        <span>Kevin de Vries</span>
-                        <span>Mind Against</span>
-                        <span>Miss Monique</span>
-                        <span>TH;EN</span>
-                        <span>John Summit</span>
-                        <span>Adam Sellouk</span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="data-panel" aria-label="Identidad sonora y pulso reciente">
-                <strong>Identidad sonora</strong>
-                <p id="sound-identity">Mayor presencia: Anyma, Mathame, Massano.</p>
-                <strong>Pulso reciente</strong>
-                <ul class="recent-tracks" id="recent-tracks">
-                    <li>Blackout - TH;EN</li>
-                </ul>
-            </div>
-        </section>
-
-        <section class="shell bridge" id="access" aria-label="Acceso Monte Etna">
-            <div class="bridge-grid">
-                <article class="bridge-panel">
-                    <div>
-                        <strong>Spotify</strong>
-                        <h2>El sonido de Monte Etna.</h2>
-                    </div>
-                    <p>
-                        Una seleccion extensa para entrar al clima: oscuro, ascendente y electronico. El primer paso es
-                        seguirla.
-                    </p>
-                </article>
-
-                <article class="bridge-panel">
-                    <div>
-                        <strong>WhatsApp</strong>
-                        <h2>El acceso cerrado.</h2>
-                    </div>
-                    <p>
-                        Despues del sonido viene el acceso: fechas, entradas y drops puntuales. Publican solo admins
-                        para mantenerlo limpio.
-                    </p>
-                </article>
-            </div>
-
-            <div class="flow" aria-label="Circuito de conversion">
-                <b>Spotify</b> -> sonido -> comunidad -> <b>WhatsApp</b> / <b>WhatsApp</b> -> acceso -> <b>Spotify</b>
-            </div>
-        </section>
-
-        <section class="shell final" aria-label="Cierre">
-            <div class="final-inner">
-                <div>
-                    <h2>Subi al circuito.</h2>
-                    <p>Segui la playlist y sumate al grupo cerrado de Monte Etna.</p>
-                </div>
+            <div class="final-cta">
+                <h2 class="final-title">Subí al circuito<span class="accent">.</span></h2>
 
                 <div class="actions" aria-label="Acciones finales">
-                    <a class="btn btn-spotify"
-                        href="https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB"
+                    <a class="button button-primary" href="https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB"
                         target="_blank" rel="noopener noreferrer"
                         aria-label="Seguir la playlist Monte Etna en Spotify">
-                        Seguir playlist
+                        <img class="button-icon" src="assets/spotify.svg" alt="" width="28" height="28" />
+                        <span>Seguir en Spotify</span>
+                        <img class="button-arrow" src="assets/arrow-right.svg" alt="" width="24" height="24" />
                     </a>
 
-                    <a class="btn btn-whatsapp" href="https://chat.whatsapp.com/Ecj1Oj8jPf29T3Ze6Pl2Oc"
+                    <a class="button button-whatsapp" href="https://chat.whatsapp.com/Ecj1Oj8jPf29T3Ze6Pl2Oc"
                         target="_blank" rel="noopener noreferrer" aria-label="Entrar al grupo cerrado de WhatsApp">
-                        Entrar al grupo
+                        <img class="button-icon" src="assets/whatsapp.svg" alt="" width="28" height="28" />
+                        <span>Entrar al grupo</span>
+                        <img class="button-arrow" src="assets/arrow-right.svg" alt="" width="24" height="24" />
                     </a>
                 </div>
             </div>
         </section>
     </main>
 
-    <footer>
-        <div class="shell footer-inner">
+    <footer class="site-footer">
+        <div class="footer-inner shell">
             <span>Monte Etna</span>
             <span id="last-updated">datos sincronizados</span>
         </div>

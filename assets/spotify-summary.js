@@ -1,67 +1,18 @@
 (function () {
   var fallbackSummary = {
     playlistName: "Monte Etna",
-    totalTracks: 1876,
-    exportedTracks: 1876,
-    totalHours: 146.8,
-    averageDurationMin: 4.69,
-    uniqueArtists: 1359,
-    uniqueAlbums: 1649,
+    totalTracks: 2022,
+    exportedTracks: 2022,
+    totalHours: 157.8,
+    averageDurationMin: 4.68,
+    uniqueArtists: 1424,
+    uniqueAlbums: 1761,
     topArtists: [
-      { name: "Anyma", tracks: 56 },
-      { name: "Mathame", tracks: 56 },
-      { name: "Massano", tracks: 54 },
-      { name: "CamelPhat", tracks: 48 },
-      { name: "Solomun", tracks: 47 },
-      { name: "ARTBAT", tracks: 46 },
-      { name: "Adriatique", tracks: 37 },
-      { name: "Argy", tracks: 37 },
-      { name: "Innellea", tracks: 31 },
-      { name: "Adam Beyer", tracks: 28 },
-      { name: "Layton Giordani", tracks: 28 },
-      { name: "Rebuke", tracks: 28 },
-      { name: "Vintage Culture", tracks: 28 },
-      { name: "Goom Gum", tracks: 27 },
-      { name: "Kevin de Vries", tracks: 26 },
-      { name: "Mind Against", tracks: 26 },
-      { name: "Miss Monique", tracks: 26 },
-      { name: "TH;EN", tracks: 26 },
-      { name: "John Summit", tracks: 22 },
-      { name: "Adam Sellouk", tracks: 21 },
+      { name: "Mathame", tracks: 65 },
+      { name: "Anyma", tracks: 57 },
+      { name: "Massano", tracks: 57 },
     ],
-    recentTracks: [
-      {
-        name: "Blackout",
-        artists: ["TH;EN"],
-        addedAt: "2026-06-19T16:33:08.000Z",
-        spotifyUrl: "https://open.spotify.com/track/4RWY8DxNRBMxXKOzxGOxC7",
-      },
-      {
-        name: "Dancin - Extended Mix",
-        artists: ["DEFLEE", "Alexandr Craft"],
-        addedAt: "2026-06-19T13:32:52.000Z",
-        spotifyUrl: "https://open.spotify.com/track/5eOZ8s3lC288WGTotdRc0z",
-      },
-      {
-        name: "Baptism",
-        artists: ["Crystal Castles"],
-        addedAt: "2026-06-16T19:22:48.000Z",
-        spotifyUrl: "https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW",
-      },
-      {
-        name: "Circus Freaks",
-        artists: ["Adam Beyer"],
-        addedAt: "2026-06-13T16:10:39.000Z",
-        spotifyUrl: "https://open.spotify.com/track/7Mt3W201jQ0yz2Ij1iBKXO",
-      },
-      {
-        name: "Simulated - Bas Amro Remix",
-        artists: ["Marco V", "Bas Amro"],
-        addedAt: "2026-06-13T03:17:51.000Z",
-        spotifyUrl: "https://open.spotify.com/track/2EWnEY46grQZZ9lzbi5Cq7",
-      },
-    ],
-    lastUpdated: "2026-06-19T19:48:12.570Z",
+    lastUpdated: "2026-08-13T19:02:34.449Z",
   };
 
   function pick(summary, camelKey, snakeKey) {
@@ -99,7 +50,6 @@
           tracks: artist.tracks || null,
         };
       }),
-      recentTracks: pick(summary, "recentTracks", "recent_tracks") || [],
       lastUpdated: pick(summary, "lastUpdated", "exported_at") || fallbackSummary.lastUpdated,
     };
   }
@@ -118,7 +68,7 @@
       return "datos sincronizados";
     }
 
-    return "actualizada por ultima vez: " + date.toLocaleDateString("es-AR");
+    return "actualizada por última vez: " + date.toLocaleDateString("es-AR");
   }
 
   function setText(id, value) {
@@ -134,7 +84,7 @@
       return;
     }
 
-    var topArtists = artists.slice(0, 20).filter(function (artist) {
+    var topArtists = artists.slice(0, 3).filter(function (artist) {
       return artist.name;
     });
 
@@ -144,85 +94,26 @@
 
     element.textContent = "";
 
-    var track = document.createElement("div");
-    track.className = "artist-track";
-
-    function createSet(isDuplicate) {
-      var set = document.createElement("div");
-      set.className = "artist-set";
-
-      if (isDuplicate) {
-        set.setAttribute("aria-hidden", "true");
-      }
-
-      topArtists.forEach(function (artist) {
-        var item = document.createElement("span");
-        item.textContent = artist.name;
-        set.appendChild(item);
-      });
-
-      return set;
-    }
-
-    track.appendChild(createSet(false));
-    track.appendChild(createSet(true));
-    element.appendChild(track);
-  }
-
-  function renderRecentTracks(tracks) {
-    var element = document.getElementById("recent-tracks");
-    if (!element) {
-      return;
-    }
-
-    element.textContent = "";
-
-    if (!tracks || tracks.length === 0) {
-      var empty = document.createElement("li");
-      empty.textContent = "Disponible despues de la primera sincronizacion oficial.";
-      element.appendChild(empty);
-      return;
-    }
-
-    tracks.slice(0, 5).forEach(function (track) {
-      var item = document.createElement("li");
-      var artists = Array.isArray(track.artists) ? track.artists.join(", ") : track.artists;
-      item.textContent = track.name + (artists ? " - " + artists : "");
+    topArtists.forEach(function (artist) {
+      var item = document.createElement("span");
+      item.className = "artist";
+      item.textContent = artist.name;
       element.appendChild(item);
     });
   }
 
   function render(summary) {
-    var totalTracks = formatNumber(summary.totalTracks);
     var totalHours = summary.totalHours.toLocaleString("es-AR", {
       maximumFractionDigits: 1,
       minimumFractionDigits: 1,
     });
-    var topNames = summary.topArtists.slice(0, 3).map(function (artist) {
-      return artist.name;
-    });
 
-    setText("hero-tracks", totalTracks + " tracks");
-    setText("hero-hours", totalHours + " horas de musica electronica");
-    setText("playlist-tracks", totalTracks + " tracks");
-    setText("playlist-hours", totalHours + " horas");
-    setText(
-      "radiography-copy",
-      "El volumen de tracks, horas y artistas define el sonido de la comunidad.",
-    );
-    setText("tracks-value", totalTracks);
-    setText("hours-value", totalHours + " h");
+    setText("tracks-value", formatNumber(summary.totalTracks));
+    setText("hours-value", totalHours);
     setText("artists-value", formatNumber(summary.uniqueArtists));
-    setText(
-      "sound-identity",
-      topNames.length
-        ? "Mayor presencia: " + topNames.join(", ") + "."
-        : "Identidad sonora derivada del resumen oficial.",
-    );
     setText("last-updated", formatDate(summary.lastUpdated));
 
     renderArtists(summary.topArtists);
-    renderRecentTracks(summary.recentTracks);
   }
 
   fetch("data/spotify-playlist-summary.json", { cache: "no-cache" })
