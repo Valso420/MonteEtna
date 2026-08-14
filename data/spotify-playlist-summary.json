@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2022,
-  "exportedTracks": 2022,
-  "totalDurationMs": 568248539,
-  "totalHours": 157.8,
+  "totalTracks": 2024,
+  "exportedTracks": 2024,
+  "totalDurationMs": 568688198,
+  "totalHours": 158,
   "averageDurationMin": 4.68,
   "uniqueArtists": 1424,
-  "uniqueAlbums": 1761,
+  "uniqueAlbums": 1762,
   "topArtists": [
     {
       "name": "Mathame",
@@ -27,7 +27,7 @@
     },
     {
       "name": "CamelPhat",
-      "tracks": 51
+      "tracks": 52
     },
     {
       "name": "Solomun",
@@ -96,6 +96,23 @@
   ],
   "recentTracks": [
     {
+      "name": "Roped In",
+      "artists": [
+        "Gorgon City"
+      ],
+      "addedAt": "2026-08-13T19:30:05.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2nTPWZMSY7OsjoqfW68920"
+    },
+    {
+      "name": "Rabbit Hole",
+      "artists": [
+        "CamelPhat",
+        "Jem Cooke"
+      ],
+      "addedAt": "2026-08-13T19:29:38.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4m1C2UZPL12NhbvQQ9IwrB"
+    },
+    {
       "name": "Closer (Adriatique x GENESI)",
       "artists": [
         "Adriatique",
@@ -120,32 +137,14 @@
       ],
       "addedAt": "2026-08-07T13:40:30.000Z",
       "spotifyUrl": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4"
-    },
-    {
-      "name": "Guilty Pleasures",
-      "artists": [
-        "Vintage Culture"
-      ],
-      "addedAt": "2026-08-07T13:35:06.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/05UGoyJblonfzRuR9BHivU"
-    },
-    {
-      "name": "Coming Up (It’s Dare)",
-      "artists": [
-        "Odd Mob",
-        "OMNOM",
-        "HYPERBEAM"
-      ],
-      "addedAt": "2026-08-07T13:29:18.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 41,
-  "availableTracks": 2011,
+  "availableTracks": 2013,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-13T19:02:34.449Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-14T01:56:15.711Z"
 }
