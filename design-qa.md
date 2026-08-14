@@ -1,62 +1,61 @@
-# Design QA — Monte Etna
+# Design QA — Monte Etna refinement
 
 ## Evidence
 
-- Source visual truth: `C:\Users\mater\.codex\generated_images\019ffcf2-053a-70d1-b804-60676a1a0db7\monte-etna-option-2-refined-9x16.png`
-- Source pixels: 1080 × 1920, 9:16 concept board.
-- Browser-rendered implementation: `C:\Users\mater\AppData\Local\Temp\codex-monte-etna-redesign-verify\desktop-1440-final.png`
-- Responsive captures: `mobile-375-final.png`, `tablet-768-final-v2.png`, `desktop-1440-final.png`, and `landscape-812-final.png` in the same temporary evidence folder.
-- Full-view comparison: `C:\Users\mater\AppData\Local\Temp\codex-monte-etna-redesign-verify\design-qa-comparison.png`
-- Implementation viewport: 1440 × 1000 CSS pixels for the full desktop capture, at device scale factor 1. Additional checks at 320 × 568, 375 × 812, 480 × 320, 768 × 1024, 812 × 375, 1024 × 768, and 1440 × 1000.
-- Normalization: the 1080 × 1920 reference and full 1440-pixel-wide implementation capture were each scaled to 540 pixels wide in a single side-by-side comparison canvas. The reference is an intentionally condensed art-direction board rather than a literal full-page viewport, so fidelity was judged by section hierarchy, visual language, proportions, and responsive behavior rather than equal document height.
-- State: dark theme, landing route, static Spotify summary loaded, no hover or modal state.
-- Focused comparison: hero, radiography, access timeline, and final action areas were inspected in the full-size source and browser captures. Separate crops were unnecessary because the supplied 1080-pixel source and high-resolution browser captures kept type, imagery, and icon alignment legible.
+- User-reported desktop state: `C:\Users\mater\AppData\Local\Temp\codex-clipboard-86ac0dbe-67c2-4f18-aa3d-51caae21abd0.png` (1908 × 911 physical pixels, approximately 1526 × 699 CSS pixels at 125% display scaling).
+- Refined desktop capture: `C:\Users\mater\AppData\Local\Temp\monte-etna-refined-desktop-1526x699.png`.
+- Refined mobile capture: `C:\Users\mater\AppData\Local\Temp\monte-etna-refined-mobile-390x844.png`.
+- Additional browser checks: 188 × 812, 320 × 568, 375 × 812, 390 × 844, 430 × 932, 768 × 1024, 901 × 800, 1024 × 768, 1366 × 768, 1440 × 900, 1526 × 699, and 1908 × 911 CSS pixels.
+- State: dark landing page, static Spotify summary loaded, no hover or modal state.
 
 ## Findings
 
-No actionable P0, P1, or P2 findings remain.
+No actionable P0, P1, or P2 findings remain after the refinement pass.
 
-- Fonts and typography: the implementation preserves the condensed uppercase conversion voice, editorial serif contrast, tight display leading, and small uppercase labels. Local system stacks replace the concept's unspecified typefaces so the static page remains dependency-free.
-- Spacing and layout rhythm: the desktop grid, numbered section dividers, two-step timeline, and final centered action block preserve the reference hierarchy. Mobile and tablet intentionally reflow into a single conversion-first column. No horizontal overflow or clipped controls remained across the tested viewport matrix.
-- Colors and visual tokens: near-black, warm ivory, lava orange, and Spotify/WhatsApp action colors are consistently tokenized. Measured contrast was 17.97:1 for primary text, 10.11:1 for muted text, and 10.07:1 for Spotify button text.
-- Image quality and asset fidelity: both project-owned raster assets are used without placeholders. The playlist cover remains square and uncropped. The radiography image uses the available local volcanic scene with a readable crop and visible lava, matching the approved direction without inventing an asset.
-- Copy and content: all claims, links, values, and artist names come from repository content or the approved mock. No audience counts, testimonials, popularity claims, or event inventory were added.
-- Icons and interactions: local vector icons render cleanly; all four external CTAs expose descriptive accessible names, correct destinations, and `noopener noreferrer`. Keyboard order begins with the skip link and all focused links receive a 3-pixel visible outline.
-- Accessibility and resilience: one H1 and ordered H2 hierarchy, semantic list and metrics, meaningful cover alt text, decorative icon alts, 58–62 pixel controls, reduced-motion behavior, and direct-file fallback were verified. Browser console and page errors were empty.
+- Desktop fold: the reported layout produced a 1000-pixel hero and pushed CTAs below the visible area. The refined short-desktop layout ends the hero at 651 pixels in the equivalent 1526 × 699 viewport; CTAs, metrics, and cover all finish before the fold.
+- Hero wrapping: “El sonido” previously wrapped a second time and turned the intended four-line heading into five lines. Each intended line is now an explicit non-wrapping block, with four lines at every tested width.
+- Typography: the compressed `Arial Narrow` system was removed. The wordmark and descriptor now share the local Segoe UI stack, Georgia is reserved for editorial content and metrics, and a local mono stack is limited to small metadata labels.
+- Desktop composition: the cover was moved toward the conversion block, reducing the dead space between both hero columns without enlarging the text again.
+- Scale: desktop H1 is capped at 84 pixels, short-desktop H1 at about 70 pixels, and mobile H1 follows a continuous 44.8–60 pixel curve from 320 to 430 pixels. Supporting copy and section headings were reduced accordingly.
+- Mobile final action: a generic mobile `.actions` override previously removed all space between “Subí al circuito.” and its CTA group. The override now targets only the hero, while the final group retains 22–28 pixels of structural spacing. No overlap remained at 320, 375, 390, or 430 pixels.
+- Responsive resilience: no horizontal overflow, clipped buttons, wrapped metrics, or final-title collisions remained in the standard viewport matrix. At a 188-pixel CSS viewport used to approximate 200% zoom reflow, the narrow fallback stacks metrics and preserves full content width.
+- Accessibility: controls remain at least 52 pixels high, focus styles and skip link remain intact, reduced motion is preserved, and responsive changes do not alter DOM or keyboard order.
+- Content and data: copy, external destinations, dynamic IDs, and repository-backed values are unchanged.
 
 ## Comparison History
 
 ### Pass 1 — blocked
 
-- P1: the radiography visual was too desaturated and dark, making the volcano hard to recognize.
-- P1: desktop section spacing was substantially looser than the reference and weakened the editorial rhythm.
-- P2: at 768 pixels and narrow landscape widths, the two-column hero compressed text and could overlap the cover.
-- P2: tablet metric values could wrap; the narrow mobile descriptor became a competing three-line block.
+- P1: desktop hero was cut off before the primary CTA and metrics.
+- P1: “El sonido” created an unintended fifth line.
+- P1: mobile final title visually overlapped the first CTA.
+- P1: brand and descriptor used the rejected compressed display font.
+- P2: type scale and vertical spacing were too large across the page.
+- P2: the mobile H1 jumped abruptly above 380 pixels.
+- P2: a 320-pixel body minimum prevented correct 200% zoom reflow.
 
 ### Fixes
 
-- Raised the radiography saturation and exposure through the existing image treatment while preserving text contrast.
-- Reduced the desktop section spacing and removed the viewport-height hero minimum.
-- Kept the hero stacked through 900 pixels and limited the short-landscape two-column layout to widths of at least 720 pixels.
-- Made metric values non-wrapping and hid the redundant descriptor below 620 pixels.
+- Added stable heading line wrappers and a lower, continuous responsive scale.
+- Added a compact desktop-height treatment and reduced hero, cover, control, metric, section, and final-heading dimensions.
+- Replaced the typography tokens with local sans, serif, and mono roles.
+- Scoped the zero-margin rule to `.hero-actions` and restored a dedicated final CTA gap.
+- Removed the body minimum width and added an extreme-narrow reflow treatment.
 
 ### Pass 2 — passed
 
-- Post-fix captures show a recognizable lava-lit volcano, a tighter full-page rhythm, stable single-column tablet layout, and no title, CTA, metric, or cover collisions at the tested breakpoints.
-- HTTP and `file://` states both render 2.022 tracks, 157,8 hours, 1.424 artists, Mathame / Anyma / Massano, and the 13/8/2026 update date.
+- The equivalent user desktop viewport now shows the entire primary conversion block before the fold.
+- Mobile captures show clear separation between the final title and CTA group.
+- The complete responsive matrix has matching document and viewport widths and no interactive-element overflow.
 
-## Implementation Checklist
+## Verification
 
-- [x] Reference and implementation compared in one visual input.
-- [x] P0/P1/P2 findings fixed and recaptured.
-- [x] Mobile, tablet, desktop, and landscape layouts checked.
-- [x] Primary CTA destinations and keyboard focus order checked.
-- [x] Browser console, page errors, images, and static-data fallback checked.
-- [x] Reduced-motion behavior and contrast checked.
-
-## Follow-up Polish
-
-- P3: a bundled display font could narrow the small optical differences from the generated concept, but adding a font dependency was outside the project's existing static/local asset set.
-- P3: the final heading wraps on 375-pixel screens to preserve readable type size; this is an intentional responsive deviation from the condensed concept board.
+- [x] Viewport-only desktop capture at the reported effective size.
+- [x] Full-page mobile capture at 390 × 844.
+- [x] Responsive geometry and overflow matrix.
+- [x] 200% zoom-equivalent narrow reflow.
+- [x] Browser console and page-error checks.
+- [x] HTTP and direct-file static summary fallback.
+- [x] JavaScript syntax, generated-data validation, and diff check.
 
 final result: passed
