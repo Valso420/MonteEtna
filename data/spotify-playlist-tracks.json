@@ -90996,5 +90996,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2zJj9ajxjEgKfpE80XoO4N",
     "uri": "spotify:track:2zJj9ajxjEgKfpE80XoO4N"
+  },
+  {
+    "position": 2028,
+    "addedAt": "2026-08-15T15:24:25.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "162tQsDjbs2WxycB6h0iVD",
+    "name": "Acid Drop",
+    "artists": [
+      {
+        "id": "4f2K0RSYyxP4TUyZu1azYB",
+        "name": "Popof",
+        "uri": "spotify:artist:4f2K0RSYyxP4TUyZu1azYB",
+        "spotifyUrl": "https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB"
+      }
+    ],
+    "album": {
+      "id": "2OOirn0iMZSCfPwwzbWod3",
+      "name": "Acid Drop",
+      "uri": "spotify:album:2OOirn0iMZSCfPwwzbWod3",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/2OOirn0iMZSCfPwwzbWod3",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273713ad65d8024085808e192dc"
+    },
+    "durationMs": 202285,
+    "durationMin": 3.37,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/162tQsDjbs2WxycB6h0iVD",
+    "uri": "spotify:track:162tQsDjbs2WxycB6h0iVD"
   }
 ]

@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2027,
-  "exportedTracks": 2027,
-  "totalDurationMs": 569268989,
-  "totalHours": 158.1,
+  "totalTracks": 2028,
+  "exportedTracks": 2028,
+  "totalDurationMs": 569471274,
+  "totalHours": 158.2,
   "averageDurationMin": 4.68,
   "uniqueArtists": 1426,
-  "uniqueAlbums": 1765,
+  "uniqueAlbums": 1766,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Acid Drop",
+      "artists": [
+        "Popof"
+      ],
+      "addedAt": "2026-08-15T15:24:25.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/162tQsDjbs2WxycB6h0iVD"
+    },
+    {
       "name": "Let Loose",
       "artists": [
         "Adam Beyer",
@@ -129,23 +137,14 @@
       ],
       "addedAt": "2026-08-13T19:30:05.000Z",
       "spotifyUrl": "https://open.spotify.com/track/2nTPWZMSY7OsjoqfW68920"
-    },
-    {
-      "name": "Rabbit Hole",
-      "artists": [
-        "CamelPhat",
-        "Jem Cooke"
-      ],
-      "addedAt": "2026-08-13T19:29:38.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4m1C2UZPL12NhbvQQ9IwrB"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 41,
-  "availableTracks": 2016,
+  "availableTracks": 2017,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-15T12:36:32.721Z"
+  "lastUpdated": "2026-08-15T18:28:49.664Z"
 }
