@@ -91036,5 +91036,1407 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/162tQsDjbs2WxycB6h0iVD",
     "uri": "spotify:track:162tQsDjbs2WxycB6h0iVD"
+  },
+  {
+    "position": 2029,
+    "addedAt": "2026-08-16T16:43:53.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "4WjALE9YKVoypR6O1RFSs2",
+    "name": "Hold It Close",
+    "artists": [
+      {
+        "id": "50udUOTR7dQUgyPwPuCLM6",
+        "name": "MALUGI",
+        "uri": "spotify:artist:50udUOTR7dQUgyPwPuCLM6",
+        "spotifyUrl": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+      },
+      {
+        "id": "5hQmpI9StixOlzdd5ogQ3f",
+        "name": "TAET",
+        "uri": "spotify:artist:5hQmpI9StixOlzdd5ogQ3f",
+        "spotifyUrl": "https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f"
+      }
+    ],
+    "album": {
+      "id": "3naYUsuLnSavrbbW2PFGcd",
+      "name": "Hold It Close",
+      "uri": "spotify:album:3naYUsuLnSavrbbW2PFGcd",
+      "releaseDate": "2026-05-01",
+      "spotifyUrl": "https://open.spotify.com/album/3naYUsuLnSavrbbW2PFGcd",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cc139d150084982373ccca21"
+    },
+    "durationMs": 157705,
+    "durationMin": 2.63,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4WjALE9YKVoypR6O1RFSs2",
+    "uri": "spotify:track:4WjALE9YKVoypR6O1RFSs2"
+  },
+  {
+    "position": 2030,
+    "addedAt": "2026-08-16T16:44:10.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "5LVMWMTfGY8qT4LuP3n2ht",
+    "name": "Oh La La La",
+    "artists": [
+      {
+        "id": "1tRBmMtER4fGrzrt8O9VpS",
+        "name": "Hot Since 82",
+        "uri": "spotify:artist:1tRBmMtER4fGrzrt8O9VpS",
+        "spotifyUrl": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+      },
+      {
+        "id": "3gkV8EZ8pE0eCwyLeUNwzE",
+        "name": "2 Eivissa",
+        "uri": "spotify:artist:3gkV8EZ8pE0eCwyLeUNwzE",
+        "spotifyUrl": "https://open.spotify.com/artist/3gkV8EZ8pE0eCwyLeUNwzE"
+      }
+    ],
+    "album": {
+      "id": "0r4r3LbH0DCGmPwGGNrxeW",
+      "name": "Oh La La La",
+      "uri": "spotify:album:0r4r3LbH0DCGmPwGGNrxeW",
+      "releaseDate": "2026-04-17",
+      "spotifyUrl": "https://open.spotify.com/album/0r4r3LbH0DCGmPwGGNrxeW",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27354fd4bd53cf650d827481853"
+    },
+    "durationMs": 168549,
+    "durationMin": 2.81,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5LVMWMTfGY8qT4LuP3n2ht",
+    "uri": "spotify:track:5LVMWMTfGY8qT4LuP3n2ht"
+  },
+  {
+    "position": 2031,
+    "addedAt": "2026-08-16T16:44:15.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "6CR63qhTJnek9DDejDemiY",
+    "name": "So Good (feat. Kuuda)",
+    "artists": [
+      {
+        "id": "240wlM8vDrf6S4zCyzGj2W",
+        "name": "CamelPhat",
+        "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W",
+        "spotifyUrl": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+      },
+      {
+        "id": "7dcUWT1KmxjXieEnzFSjeH",
+        "name": "Josh Gigante",
+        "uri": "spotify:artist:7dcUWT1KmxjXieEnzFSjeH",
+        "spotifyUrl": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+      },
+      {
+        "id": "2aPOSo3CvB3a15zDorFBCh",
+        "name": "Kuuda",
+        "uri": "spotify:artist:2aPOSo3CvB3a15zDorFBCh",
+        "spotifyUrl": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+      }
+    ],
+    "album": {
+      "id": "5bbz0vL4jSp7q9qpKo7UU8",
+      "name": "So Good (feat. Kuuda)",
+      "uri": "spotify:album:5bbz0vL4jSp7q9qpKo7UU8",
+      "releaseDate": "2026-05-22",
+      "spotifyUrl": "https://open.spotify.com/album/5bbz0vL4jSp7q9qpKo7UU8",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b73a69bf2a0adde8b52c782d"
+    },
+    "durationMs": 183809,
+    "durationMin": 3.06,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY",
+    "uri": "spotify:track:6CR63qhTJnek9DDejDemiY"
+  },
+  {
+    "position": 2032,
+    "addedAt": "2026-08-16T16:44:51.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "6tzeI2THmOZi5RrRVetjMC",
+    "name": "Behind Me",
+    "artists": [
+      {
+        "id": "1tRBmMtER4fGrzrt8O9VpS",
+        "name": "Hot Since 82",
+        "uri": "spotify:artist:1tRBmMtER4fGrzrt8O9VpS",
+        "spotifyUrl": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+      }
+    ],
+    "album": {
+      "id": "45WzPxV1HnWjAygyidrHwS",
+      "name": "Behind Me",
+      "uri": "spotify:album:45WzPxV1HnWjAygyidrHwS",
+      "releaseDate": "2026-04-03",
+      "spotifyUrl": "https://open.spotify.com/album/45WzPxV1HnWjAygyidrHwS",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a43b7c8a2a532ad48c4a28b5"
+    },
+    "durationMs": 195937,
+    "durationMin": 3.27,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6tzeI2THmOZi5RrRVetjMC",
+    "uri": "spotify:track:6tzeI2THmOZi5RrRVetjMC"
+  },
+  {
+    "position": 2033,
+    "addedAt": "2026-08-16T16:44:57.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "5TJxNi6NZZIhhHnQPiDfiy",
+    "name": "4Get The Girl - Mellizos Remix",
+    "artists": [
+      {
+        "id": "1dgdvbogmctybPrGEcnYf6",
+        "name": "Route 94",
+        "uri": "spotify:artist:1dgdvbogmctybPrGEcnYf6",
+        "spotifyUrl": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+      },
+      {
+        "id": "58aKkaiVZkoeZNeHTz36Gi",
+        "name": "Mellizos",
+        "uri": "spotify:artist:58aKkaiVZkoeZNeHTz36Gi",
+        "spotifyUrl": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+      }
+    ],
+    "album": {
+      "id": "0YrjTtHeiScGEv672aCrL3",
+      "name": "4Get The Girl (Mellizos Remix)",
+      "uri": "spotify:album:0YrjTtHeiScGEv672aCrL3",
+      "releaseDate": "2026-08-07",
+      "spotifyUrl": "https://open.spotify.com/album/0YrjTtHeiScGEv672aCrL3",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27337b6b3a3b6d9cc8f0a03a2a8"
+    },
+    "durationMs": 160158,
+    "durationMin": 2.67,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5TJxNi6NZZIhhHnQPiDfiy",
+    "uri": "spotify:track:5TJxNi6NZZIhhHnQPiDfiy"
+  },
+  {
+    "position": 2034,
+    "addedAt": "2026-08-16T16:45:54.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "7JFH1pIbhv14d2TE6KiAeN",
+    "name": "where are you taking me? (mente)",
+    "artists": [
+      {
+        "id": "1vK8NnrPlBlF34LaiFX1SK",
+        "name": "Funk Tribu",
+        "uri": "spotify:artist:1vK8NnrPlBlF34LaiFX1SK",
+        "spotifyUrl": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+      },
+      {
+        "id": "7ypPN35cJ9wfF2Zs7aYS33",
+        "name": "Dillistone",
+        "uri": "spotify:artist:7ypPN35cJ9wfF2Zs7aYS33",
+        "spotifyUrl": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+      }
+    ],
+    "album": {
+      "id": "1aycvMYkEvofbfft4h9wo5",
+      "name": "where are you taking me? (mente)",
+      "uri": "spotify:album:1aycvMYkEvofbfft4h9wo5",
+      "releaseDate": "2026-07-03",
+      "spotifyUrl": "https://open.spotify.com/album/1aycvMYkEvofbfft4h9wo5",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a7c930443ddb62c7ce800c23"
+    },
+    "durationMs": 227938,
+    "durationMin": 3.8,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7JFH1pIbhv14d2TE6KiAeN",
+    "uri": "spotify:track:7JFH1pIbhv14d2TE6KiAeN"
+  },
+  {
+    "position": 2035,
+    "addedAt": "2026-08-16T16:46:26.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "3eQPYZSbYYiDRLKgRxTGsw",
+    "name": "Witch Doctor (Hot Since 82 Remix) / U Won’t C Me (Accapella) - Mixed",
+    "artists": [
+      {
+        "id": "7kNqXtgeIwFtelmRjWv205",
+        "name": "John Summit",
+        "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205",
+        "spotifyUrl": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      },
+      {
+        "id": "7btR5VXutQv39SDEzcfXEk",
+        "name": "Nic Fanciulli",
+        "uri": "spotify:artist:7btR5VXutQv39SDEzcfXEk",
+        "spotifyUrl": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+      },
+      {
+        "id": "1qBYNcfpwmb1ensiLvWxEV",
+        "name": "Mystic Bill",
+        "uri": "spotify:artist:1qBYNcfpwmb1ensiLvWxEV",
+        "spotifyUrl": "https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV"
+      },
+      {
+        "id": "1tRBmMtER4fGrzrt8O9VpS",
+        "name": "Hot Since 82",
+        "uri": "spotify:artist:1tRBmMtER4fGrzrt8O9VpS",
+        "spotifyUrl": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+      }
+    ],
+    "album": {
+      "id": "6Y4XAXs6suU2DyyRHYBgBD",
+      "name": "Defected In The House Ibiza 2026 (DJ Mix)",
+      "uri": "spotify:album:6Y4XAXs6suU2DyyRHYBgBD",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "https://open.spotify.com/album/6Y4XAXs6suU2DyyRHYBgBD",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fbeed91c01a900acc71406e5"
+    },
+    "durationMs": 310146,
+    "durationMin": 5.17,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3eQPYZSbYYiDRLKgRxTGsw",
+    "uri": "spotify:track:3eQPYZSbYYiDRLKgRxTGsw"
+  },
+  {
+    "position": 2036,
+    "addedAt": "2026-08-16T16:46:43.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "4FRuekKdW64dsRJXzzVOLy",
+    "name": "Tonight",
+    "artists": [
+      {
+        "id": "7mC3RkNNTV6p2j9w4F8Ip4",
+        "name": "Layton Giordani",
+        "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4",
+        "spotifyUrl": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+      },
+      {
+        "id": "7yRimuQSC5Ks3T2Ts0iyZa",
+        "name": "Patrick Topping",
+        "uri": "spotify:artist:7yRimuQSC5Ks3T2Ts0iyZa",
+        "spotifyUrl": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+      },
+      {
+        "id": "5xPHGeNecDlCoEezCF2bWn",
+        "name": "Kosmo Kint",
+        "uri": "spotify:artist:5xPHGeNecDlCoEezCF2bWn",
+        "spotifyUrl": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+      }
+    ],
+    "album": {
+      "id": "1yFzaDx3ibycTAZqUQHJMh",
+      "name": "Tonight",
+      "uri": "spotify:album:1yFzaDx3ibycTAZqUQHJMh",
+      "releaseDate": "2026-06-19",
+      "spotifyUrl": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27363a311ad5a7a5595ef6599b6"
+    },
+    "durationMs": 213953,
+    "durationMin": 3.57,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy",
+    "uri": "spotify:track:4FRuekKdW64dsRJXzzVOLy"
+  },
+  {
+    "position": 2037,
+    "addedAt": "2026-08-16T16:47:13.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "6hkD84eR7vRyge3O2hhP3m",
+    "name": "Shaded - Edit",
+    "artists": [
+      {
+        "id": "1tRBmMtER4fGrzrt8O9VpS",
+        "name": "Hot Since 82",
+        "uri": "spotify:artist:1tRBmMtER4fGrzrt8O9VpS",
+        "spotifyUrl": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+      },
+      {
+        "id": "1BRpMOjIH52Y93hbROTMXc",
+        "name": "Shades of Rhythm",
+        "uri": "spotify:artist:1BRpMOjIH52Y93hbROTMXc",
+        "spotifyUrl": "https://open.spotify.com/artist/1BRpMOjIH52Y93hbROTMXc"
+      }
+    ],
+    "album": {
+      "id": "4XDqE68uIPziiH89UkQcgr",
+      "name": "Shaded (Edit)",
+      "uri": "spotify:album:4XDqE68uIPziiH89UkQcgr",
+      "releaseDate": "2026-06-12",
+      "spotifyUrl": "https://open.spotify.com/album/4XDqE68uIPziiH89UkQcgr",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f19c3a614b0514a41fcf65d1"
+    },
+    "durationMs": 182950,
+    "durationMin": 3.05,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6hkD84eR7vRyge3O2hhP3m",
+    "uri": "spotify:track:6hkD84eR7vRyge3O2hhP3m"
+  },
+  {
+    "position": 2038,
+    "addedAt": "2026-08-16T16:48:41.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "4eupIj45yiQy6W7g65Qhzx",
+    "name": "Love Who You Love - KI/KI Remix - Radio Edit",
+    "artists": [
+      {
+        "id": "3X2DdnmoANw8Rg8luHyZQb",
+        "name": "Romy",
+        "uri": "spotify:artist:3X2DdnmoANw8Rg8luHyZQb",
+        "spotifyUrl": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+      },
+      {
+        "id": "0UMs6dTf23FC2fHc40fXNS",
+        "name": "KI/KI",
+        "uri": "spotify:artist:0UMs6dTf23FC2fHc40fXNS",
+        "spotifyUrl": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+      }
+    ],
+    "album": {
+      "id": "5M4eQWmJq9PuzbniuK2P9e",
+      "name": "Love Who You Love (KI/KI Remix - Radio Edit)",
+      "uri": "spotify:album:5M4eQWmJq9PuzbniuK2P9e",
+      "releaseDate": "2026-03-13",
+      "spotifyUrl": "https://open.spotify.com/album/5M4eQWmJq9PuzbniuK2P9e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273dbe41044989721e7081195d9"
+    },
+    "durationMs": 214461,
+    "durationMin": 3.57,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4eupIj45yiQy6W7g65Qhzx",
+    "uri": "spotify:track:4eupIj45yiQy6W7g65Qhzx"
+  },
+  {
+    "position": 2039,
+    "addedAt": "2026-08-16T16:50:01.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "50fjrDtKLs4Y12C6wtzwcd",
+    "name": "Breathe - Morgan Seatree & Marlon Hoffstadt Remix",
+    "artists": [
+      {
+        "id": "0HHa7ZJZxUQlg5l2mB0N0f",
+        "name": "Marlon Hoffstadt",
+        "uri": "spotify:artist:0HHa7ZJZxUQlg5l2mB0N0f",
+        "spotifyUrl": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+      },
+      {
+        "id": "0GInfEJXl2kGPhSsVqEqXh",
+        "name": "Morgan Seatree",
+        "uri": "spotify:artist:0GInfEJXl2kGPhSsVqEqXh",
+        "spotifyUrl": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+      }
+    ],
+    "album": {
+      "id": "7o7g4jPidxd1J0k1ImpqNJ",
+      "name": "Breathe (Morgan Seatree & Marlon Hoffstadt Remix)",
+      "uri": "spotify:album:7o7g4jPidxd1J0k1ImpqNJ",
+      "releaseDate": "2026-05-22",
+      "spotifyUrl": "https://open.spotify.com/album/7o7g4jPidxd1J0k1ImpqNJ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b250ab1590a777c1b3de1350"
+    },
+    "durationMs": 179607,
+    "durationMin": 2.99,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/50fjrDtKLs4Y12C6wtzwcd",
+    "uri": "spotify:track:50fjrDtKLs4Y12C6wtzwcd"
+  },
+  {
+    "position": 2040,
+    "addedAt": "2026-08-16T16:50:45.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "3ZYnpgImdmlKvOXLMm9dMX",
+    "name": "On Your Mind",
+    "artists": [
+      {
+        "id": "7itMGcVGRKS43LcTQvJitf",
+        "name": "Rossi.",
+        "uri": "spotify:artist:7itMGcVGRKS43LcTQvJitf",
+        "spotifyUrl": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+      },
+      {
+        "id": "2UNjfzEkfsdWVDwnuD6vdH",
+        "name": "bbyclose",
+        "uri": "spotify:artist:2UNjfzEkfsdWVDwnuD6vdH",
+        "spotifyUrl": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+      }
+    ],
+    "album": {
+      "id": "5pK4zjoOm6dpoplv7iOyqP",
+      "name": "On Your Mind",
+      "uri": "spotify:album:5pK4zjoOm6dpoplv7iOyqP",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/5pK4zjoOm6dpoplv7iOyqP",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730c9cce994439f5f5f3d9602f"
+    },
+    "durationMs": 197000,
+    "durationMin": 3.28,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3ZYnpgImdmlKvOXLMm9dMX",
+    "uri": "spotify:track:3ZYnpgImdmlKvOXLMm9dMX"
+  },
+  {
+    "position": 2041,
+    "addedAt": "2026-08-16T16:50:50.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "4QNEi4zAOm0FwfwJXLgp7s",
+    "name": "My Life Is A Disco (In The Mix)",
+    "artists": [
+      {
+        "id": "58aKkaiVZkoeZNeHTz36Gi",
+        "name": "Mellizos",
+        "uri": "spotify:artist:58aKkaiVZkoeZNeHTz36Gi",
+        "spotifyUrl": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+      },
+      {
+        "id": "4ccqZWdI5OZP6twQ3c8GV9",
+        "name": "Mixmasters",
+        "uri": "spotify:artist:4ccqZWdI5OZP6twQ3c8GV9",
+        "spotifyUrl": "https://open.spotify.com/artist/4ccqZWdI5OZP6twQ3c8GV9"
+      }
+    ],
+    "album": {
+      "id": "5Ewcwq6g95vO2qXiXN1AKc",
+      "name": "My Life Is A Disco (In The Mix)",
+      "uri": "spotify:album:5Ewcwq6g95vO2qXiXN1AKc",
+      "releaseDate": "2026-05-08",
+      "spotifyUrl": "https://open.spotify.com/album/5Ewcwq6g95vO2qXiXN1AKc",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a348be93873abdabaaa8455c"
+    },
+    "durationMs": 175750,
+    "durationMin": 2.93,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s",
+    "uri": "spotify:track:4QNEi4zAOm0FwfwJXLgp7s"
+  },
+  {
+    "position": 2042,
+    "addedAt": "2026-08-16T16:50:55.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "1SF8DK4wmqKcxehSfheLPS",
+    "name": "Wo, man - Edit",
+    "artists": [
+      {
+        "id": "2mLA48B366zkELXYx7hcDN",
+        "name": "Peggy Gou",
+        "uri": "spotify:artist:2mLA48B366zkELXYx7hcDN",
+        "spotifyUrl": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+      },
+      {
+        "id": "3ZpEKRjHaHANcpk10u6Ntq",
+        "name": "Ayra Starr",
+        "uri": "spotify:artist:3ZpEKRjHaHANcpk10u6Ntq",
+        "spotifyUrl": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+      }
+    ],
+    "album": {
+      "id": "2QTswa6ASdPGZ6DXfQWrax",
+      "name": "Wo, man (Edit)",
+      "uri": "spotify:album:2QTswa6ASdPGZ6DXfQWrax",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273abe678506dae97703f6a4285"
+    },
+    "durationMs": 200500,
+    "durationMin": 3.34,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS",
+    "uri": "spotify:track:1SF8DK4wmqKcxehSfheLPS"
+  },
+  {
+    "position": 2043,
+    "addedAt": "2026-08-16T16:52:05.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "2v4NP088R6LUgFBDF9JqBg",
+    "name": "MYSTERY OF RAW",
+    "artists": [
+      {
+        "id": "4cvdQRyHmkSQSakUrW2oxv",
+        "name": "Michael Bibi",
+        "uri": "spotify:artist:4cvdQRyHmkSQSakUrW2oxv",
+        "spotifyUrl": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+      },
+      {
+        "id": "3an9rnsXKPCAMlZgH4A0n4",
+        "name": "KETTAMA",
+        "uri": "spotify:artist:3an9rnsXKPCAMlZgH4A0n4",
+        "spotifyUrl": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+      },
+      {
+        "id": "34EP7KEpOjXcM2TCat1ISk",
+        "name": "Wu-Tang Clan",
+        "uri": "spotify:artist:34EP7KEpOjXcM2TCat1ISk",
+        "spotifyUrl": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+      }
+    ],
+    "album": {
+      "id": "4bIsm7G40iX21BGY567Xaw",
+      "name": "MYSTERY OF RAW",
+      "uri": "spotify:album:4bIsm7G40iX21BGY567Xaw",
+      "releaseDate": "2026-08-14",
+      "spotifyUrl": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736782c751d24d812c86796bff"
+    },
+    "durationMs": 228923,
+    "durationMin": 3.82,
+    "explicit": true,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg",
+    "uri": "spotify:track:2v4NP088R6LUgFBDF9JqBg"
+  },
+  {
+    "position": 2044,
+    "addedAt": "2026-08-16T16:56:14.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "7EFn41OWyp4bl9UxUaysdr",
+    "name": "Zone (feat. Poppy Baskcomb)",
+    "artists": [
+      {
+        "id": "1yqxFtPHKcGcv6SXZNdyT9",
+        "name": "MK",
+        "uri": "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9",
+        "spotifyUrl": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+      },
+      {
+        "id": "4STmXOXUF3UieHU46NWLVt",
+        "name": "Poppy Baskcomb",
+        "uri": "spotify:artist:4STmXOXUF3UieHU46NWLVt",
+        "spotifyUrl": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+      }
+    ],
+    "album": {
+      "id": "00rU0tWrqlGziKpGgOgxkF",
+      "name": "Zone (feat. Poppy Baskcomb)",
+      "uri": "spotify:album:00rU0tWrqlGziKpGgOgxkF",
+      "releaseDate": "2026-05-15",
+      "spotifyUrl": "https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739a0f5bda363782177988bd94"
+    },
+    "durationMs": 176274,
+    "durationMin": 2.94,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr",
+    "uri": "spotify:track:7EFn41OWyp4bl9UxUaysdr"
+  },
+  {
+    "position": 2045,
+    "addedAt": "2026-08-16T16:56:24.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "263Ecah3YA4hVZHxR2Ex9p",
+    "name": "Good Girl",
+    "artists": [
+      {
+        "id": "7MdlXmq2HViAJWo9cf30sR",
+        "name": "Cloonee",
+        "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+        "spotifyUrl": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      },
+      {
+        "id": "6HabM2PUM519iIxervGWSb",
+        "name": "Prospa",
+        "uri": "spotify:artist:6HabM2PUM519iIxervGWSb",
+        "spotifyUrl": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+      },
+      {
+        "id": "6UyRsPqWooGjDexC857b1T",
+        "name": "Tristan Henry",
+        "uri": "spotify:artist:6UyRsPqWooGjDexC857b1T",
+        "spotifyUrl": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+      }
+    ],
+    "album": {
+      "id": "3CzmngQynWM7xY9HlNm8Xx",
+      "name": "Good Girl",
+      "uri": "spotify:album:3CzmngQynWM7xY9HlNm8Xx",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a3c886ee9b32417992f8839a"
+    },
+    "durationMs": 181411,
+    "durationMin": 3.02,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p",
+    "uri": "spotify:track:263Ecah3YA4hVZHxR2Ex9p"
+  },
+  {
+    "position": 2046,
+    "addedAt": "2026-08-16T16:57:07.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "25PFZE1QqJieWRIJOCk755",
+    "name": "Hey Everybody",
+    "artists": [
+      {
+        "id": "2Invsp3HSrAeJy4u7Retry",
+        "name": "Kolter",
+        "uri": "spotify:artist:2Invsp3HSrAeJy4u7Retry",
+        "spotifyUrl": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+      }
+    ],
+    "album": {
+      "id": "29o9pfqTU04YHmxCyOl1nT",
+      "name": "Hey Everybody",
+      "uri": "spotify:album:29o9pfqTU04YHmxCyOl1nT",
+      "releaseDate": "2026-07-17",
+      "spotifyUrl": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27370e67a7ad7772bbf9bd96f1c"
+    },
+    "durationMs": 156498,
+    "durationMin": 2.61,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755",
+    "uri": "spotify:track:25PFZE1QqJieWRIJOCk755"
+  },
+  {
+    "position": 2047,
+    "addedAt": "2026-08-16T16:57:38.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "1NlIoNToanthaXHzapI3ct",
+    "name": "Lovers On The Dancefloor",
+    "artists": [
+      {
+        "id": "6zsJjoCtL1WByG0VsuFWzR",
+        "name": "BLOND:ISH",
+        "uri": "spotify:artist:6zsJjoCtL1WByG0VsuFWzR",
+        "spotifyUrl": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+      },
+      {
+        "id": "2HOnhVnbETGW5Q9TVdZm0S",
+        "name": "Kurtis Wells",
+        "uri": "spotify:artist:2HOnhVnbETGW5Q9TVdZm0S",
+        "spotifyUrl": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+      }
+    ],
+    "album": {
+      "id": "7zMCGjwMweprIONeGRrsLN",
+      "name": "Lovers On The Dancefloor",
+      "uri": "spotify:album:7zMCGjwMweprIONeGRrsLN",
+      "releaseDate": "2026-06-12",
+      "spotifyUrl": "https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a00443f4b2a323f87a10fcd0"
+    },
+    "durationMs": 153088,
+    "durationMin": 2.55,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct",
+    "uri": "spotify:track:1NlIoNToanthaXHzapI3ct"
+  },
+  {
+    "position": 2048,
+    "addedAt": "2026-08-16T16:58:17.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "0LMLLGttUBquTqTGVHAXt2",
+    "name": "$MONEY",
+    "artists": [
+      {
+        "id": "6zsJjoCtL1WByG0VsuFWzR",
+        "name": "BLOND:ISH",
+        "uri": "spotify:artist:6zsJjoCtL1WByG0VsuFWzR",
+        "spotifyUrl": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+      }
+    ],
+    "album": {
+      "id": "5dQYI26DBmHOksNfPoUtys",
+      "name": "$MONEY",
+      "uri": "spotify:album:5dQYI26DBmHOksNfPoUtys",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273933ef87c5a4dd5612a485c98"
+    },
+    "durationMs": 154898,
+    "durationMin": 2.58,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2",
+    "uri": "spotify:track:0LMLLGttUBquTqTGVHAXt2"
+  },
+  {
+    "position": 2049,
+    "addedAt": "2026-08-16T16:59:25.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "4F1J5Y890NaaTUOumYzYUX",
+    "name": "Dreams",
+    "artists": [
+      {
+        "id": "6HabM2PUM519iIxervGWSb",
+        "name": "Prospa",
+        "uri": "spotify:artist:6HabM2PUM519iIxervGWSb",
+        "spotifyUrl": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+      }
+    ],
+    "album": {
+      "id": "7lPvo4py6cKMEjE7Bk5raJ",
+      "name": "Free Your Mind",
+      "uri": "spotify:album:7lPvo4py6cKMEjE7Bk5raJ",
+      "releaseDate": "2026-06-05",
+      "spotifyUrl": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273586475e0e7697109f9c69a49"
+    },
+    "durationMs": 236249,
+    "durationMin": 3.94,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX",
+    "uri": "spotify:track:4F1J5Y890NaaTUOumYzYUX"
+  },
+  {
+    "position": 2050,
+    "addedAt": "2026-08-16T17:01:16.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "5zX4JjkoT2pgvlWPnjgVNQ",
+    "name": "What A Life (feat. Florence Arman)",
+    "artists": [
+      {
+        "id": "1VJ0briNOlXRtJUAzoUJdt",
+        "name": "FISHER",
+        "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt",
+        "spotifyUrl": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+      },
+      {
+        "id": "2OTqocUdUt52tEuCd1sJ15",
+        "name": "Florence Arman",
+        "uri": "spotify:artist:2OTqocUdUt52tEuCd1sJ15",
+        "spotifyUrl": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+      }
+    ],
+    "album": {
+      "id": "6Ad7E2sBgst9CrKF6kUZf2",
+      "name": "What A Life (feat. Florence Arman)",
+      "uri": "spotify:album:6Ad7E2sBgst9CrKF6kUZf2",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27373902d12b0f2815e46137795"
+    },
+    "durationMs": 189398,
+    "durationMin": 3.16,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ",
+    "uri": "spotify:track:5zX4JjkoT2pgvlWPnjgVNQ"
+  },
+  {
+    "position": 2051,
+    "addedAt": "2026-08-16T17:02:45.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "2qpkcHxt9Kc5RLf4f7HokU",
+    "name": "Silver Lines (feat. Emily Warren)",
+    "artists": [
+      {
+        "id": "4p5WgeiPSPpqPDs7T6OkWf",
+        "name": "ANOTR",
+        "uri": "spotify:artist:4p5WgeiPSPpqPDs7T6OkWf",
+        "spotifyUrl": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+      },
+      {
+        "id": "1oKdM70mJD8VvDOTKeS8t1",
+        "name": "Emily Warren",
+        "uri": "spotify:artist:1oKdM70mJD8VvDOTKeS8t1",
+        "spotifyUrl": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+      }
+    ],
+    "album": {
+      "id": "0cDWfAk9fRIvcdeITJmUF1",
+      "name": "Silver Lines (feat. Emily Warren)",
+      "uri": "spotify:album:0cDWfAk9fRIvcdeITJmUF1",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273942570e673752df824a72c75"
+    },
+    "durationMs": 201296,
+    "durationMin": 3.35,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU",
+    "uri": "spotify:track:2qpkcHxt9Kc5RLf4f7HokU"
+  },
+  {
+    "position": 2052,
+    "addedAt": "2026-08-16T17:02:55.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "1myIzdJMe0NLZPW07ICp9s",
+    "name": "State Of Mind",
+    "artists": [
+      {
+        "id": "4admDxmnri5Zco0xYrJ0ji",
+        "name": "Jamie Jones",
+        "uri": "spotify:artist:4admDxmnri5Zco0xYrJ0ji",
+        "spotifyUrl": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+      },
+      {
+        "id": "5mNpMP01Co4vXZ3U0fWP3C",
+        "name": "Camden Cox",
+        "uri": "spotify:artist:5mNpMP01Co4vXZ3U0fWP3C",
+        "spotifyUrl": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+      }
+    ],
+    "album": {
+      "id": "1S2rG0Tl6kf9vorqpbPIoe",
+      "name": "State Of Mind",
+      "uri": "spotify:album:1S2rG0Tl6kf9vorqpbPIoe",
+      "releaseDate": "2026-06-26",
+      "spotifyUrl": "https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731aa240be164842e97cb4038f"
+    },
+    "durationMs": 184320,
+    "durationMin": 3.07,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s",
+    "uri": "spotify:track:1myIzdJMe0NLZPW07ICp9s"
+  },
+  {
+    "position": 2053,
+    "addedAt": "2026-08-16T17:03:11.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "17hXD675xObMcH0h6aIpHA",
+    "name": "Steppin' In",
+    "artists": [
+      {
+        "id": "40JyDxGqtYSowWYT2jaive",
+        "name": "Alan Fitzpatrick",
+        "uri": "spotify:artist:40JyDxGqtYSowWYT2jaive",
+        "spotifyUrl": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+      }
+    ],
+    "album": {
+      "id": "2V6SgJ13E9AFhpy1C6N06o",
+      "name": "Steppin' In EP",
+      "uri": "spotify:album:2V6SgJ13E9AFhpy1C6N06o",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/2V6SgJ13E9AFhpy1C6N06o",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273bd202bb57c9d88ccef63962a"
+    },
+    "durationMs": 165382,
+    "durationMin": 2.76,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/17hXD675xObMcH0h6aIpHA",
+    "uri": "spotify:track:17hXD675xObMcH0h6aIpHA"
+  },
+  {
+    "position": 2054,
+    "addedAt": "2026-08-16T17:03:47.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "5dy1bdvVpdW62kizAWUACU",
+    "name": "Mobile Groove",
+    "artists": [
+      {
+        "id": "4cvdQRyHmkSQSakUrW2oxv",
+        "name": "Michael Bibi",
+        "uri": "spotify:artist:4cvdQRyHmkSQSakUrW2oxv",
+        "spotifyUrl": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+      }
+    ],
+    "album": {
+      "id": "2njt1aVBaYxJLhWsdffPvD",
+      "name": "Mobile Groove",
+      "uri": "spotify:album:2njt1aVBaYxJLhWsdffPvD",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/2njt1aVBaYxJLhWsdffPvD",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273374a584e5f68fc1586b95c14"
+    },
+    "durationMs": 219534,
+    "durationMin": 3.66,
+    "explicit": true,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5dy1bdvVpdW62kizAWUACU",
+    "uri": "spotify:track:5dy1bdvVpdW62kizAWUACU"
+  },
+  {
+    "position": 2055,
+    "addedAt": "2026-08-16T17:04:01.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "5WZQkHYzUGBpUCgCk9eXgA",
+    "name": "Ride On Me",
+    "artists": [
+      {
+        "id": "4E0HD2PMY8kQJIjlShrLUS",
+        "name": "PAWSA",
+        "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS",
+        "spotifyUrl": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+      }
+    ],
+    "album": {
+      "id": "5yRI7CON1FuhWmw2jRAXX4",
+      "name": "Ride On Me",
+      "uri": "spotify:album:5yRI7CON1FuhWmw2jRAXX4",
+      "releaseDate": "2026-06-03",
+      "spotifyUrl": "https://open.spotify.com/album/5yRI7CON1FuhWmw2jRAXX4",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a7de381e6a3dbb56042ce75b"
+    },
+    "durationMs": 229845,
+    "durationMin": 3.83,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA",
+    "uri": "spotify:track:5WZQkHYzUGBpUCgCk9eXgA"
+  },
+  {
+    "position": 2056,
+    "addedAt": "2026-08-16T17:05:45.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "7LhaYxesZoZQ8b9WJGuLDx",
+    "name": "Trapped - Radio-Edit",
+    "artists": [
+      {
+        "id": "2Invsp3HSrAeJy4u7Retry",
+        "name": "Kolter",
+        "uri": "spotify:artist:2Invsp3HSrAeJy4u7Retry",
+        "spotifyUrl": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+      }
+    ],
+    "album": {
+      "id": "3HK2AgbyXwcMfYBjG2A71e",
+      "name": "What Did You Come For ?",
+      "uri": "spotify:album:3HK2AgbyXwcMfYBjG2A71e",
+      "releaseDate": "2026-04-10",
+      "spotifyUrl": "https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730ac8c8f8e4ba1f6d29a143c0"
+    },
+    "durationMs": 221535,
+    "durationMin": 3.69,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx",
+    "uri": "spotify:track:7LhaYxesZoZQ8b9WJGuLDx"
+  },
+  {
+    "position": 2057,
+    "addedAt": "2026-08-16T17:05:59.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "7iwxJiYZb6KCcE4dq4bGI2",
+    "name": "Superstitious",
+    "artists": [
+      {
+        "id": "7tH1Y2LeCe2LUxvru8y7Df",
+        "name": "Ronnie Spiteri",
+        "uri": "spotify:artist:7tH1Y2LeCe2LUxvru8y7Df",
+        "spotifyUrl": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+      }
+    ],
+    "album": {
+      "id": "4OFWmT2MVOf56J4u4WMe1b",
+      "name": "Superstitious",
+      "uri": "spotify:album:4OFWmT2MVOf56J4u4WMe1b",
+      "releaseDate": "2026-07-10",
+      "spotifyUrl": "https://open.spotify.com/album/4OFWmT2MVOf56J4u4WMe1b",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273976186c7155e4db5ca5dd51d"
+    },
+    "durationMs": 192383,
+    "durationMin": 3.21,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7iwxJiYZb6KCcE4dq4bGI2",
+    "uri": "spotify:track:7iwxJiYZb6KCcE4dq4bGI2"
+  },
+  {
+    "position": 2058,
+    "addedAt": "2026-08-16T17:06:08.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "0niU8VMrQzSNhrmsiLlmeS",
+    "name": "Shinjuku",
+    "artists": [
+      {
+        "id": "2UgphhGSlC9QWgaZWUOCkl",
+        "name": "Franky Rizardo",
+        "uri": "spotify:artist:2UgphhGSlC9QWgaZWUOCkl",
+        "spotifyUrl": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+      }
+    ],
+    "album": {
+      "id": "5HiGwQ6NJl5XuXD2ugSFMz",
+      "name": "Shinjuku",
+      "uri": "spotify:album:5HiGwQ6NJl5XuXD2ugSFMz",
+      "releaseDate": "2026-03-20",
+      "spotifyUrl": "https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27334dc561906b1e3e8d811e7b9"
+    },
+    "durationMs": 167905,
+    "durationMin": 2.8,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS",
+    "uri": "spotify:track:0niU8VMrQzSNhrmsiLlmeS"
+  },
+  {
+    "position": 2059,
+    "addedAt": "2026-08-16T17:08:02.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "55LA3TJnSWxefo2arVfXHJ",
+    "name": "Like That (feat. DJ Dre)",
+    "artists": [
+      {
+        "id": "3K5qBiy5EHwb270817Cy6e",
+        "name": "L.P. Rhythm",
+        "uri": "spotify:artist:3K5qBiy5EHwb270817Cy6e",
+        "spotifyUrl": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+      },
+      {
+        "id": "7nlHMb6OJZ3HPEAu7aLonU",
+        "name": "DJ Dre",
+        "uri": "spotify:artist:7nlHMb6OJZ3HPEAu7aLonU",
+        "spotifyUrl": "https://open.spotify.com/artist/7nlHMb6OJZ3HPEAu7aLonU"
+      }
+    ],
+    "album": {
+      "id": "5ccGat4JLwq2lteVoIdiiA",
+      "name": "Like That (feat. DJ Dre)",
+      "uri": "spotify:album:5ccGat4JLwq2lteVoIdiiA",
+      "releaseDate": "2026-05-22",
+      "spotifyUrl": "https://open.spotify.com/album/5ccGat4JLwq2lteVoIdiiA",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730ae19bf5f13e5dd0b94364af"
+    },
+    "durationMs": 170909,
+    "durationMin": 2.85,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ",
+    "uri": "spotify:track:55LA3TJnSWxefo2arVfXHJ"
   }
 ]

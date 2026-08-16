@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2028,
-  "exportedTracks": 2028,
-  "totalDurationMs": 569471274,
-  "totalHours": 158.2,
-  "averageDurationMin": 4.68,
-  "uniqueArtists": 1426,
-  "uniqueAlbums": 1766,
+  "totalTracks": 2059,
+  "exportedTracks": 2059,
+  "totalDurationMs": 575469585,
+  "totalHours": 159.9,
+  "averageDurationMin": 4.66,
+  "uniqueArtists": 1453,
+  "uniqueAlbums": 1797,
   "topArtists": [
     {
       "name": "Mathame",
@@ -27,7 +27,7 @@
     },
     {
       "name": "CamelPhat",
-      "tracks": 53
+      "tracks": 54
     },
     {
       "name": "Solomun",
@@ -58,11 +58,11 @@
       "tracks": 31
     },
     {
-      "name": "Adam Beyer",
-      "tracks": 30
+      "name": "Layton Giordani",
+      "tracks": 31
     },
     {
-      "name": "Layton Giordani",
+      "name": "Adam Beyer",
       "tracks": 30
     },
     {
@@ -96,55 +96,53 @@
   ],
   "recentTracks": [
     {
-      "name": "Acid Drop",
+      "name": "Like That (feat. DJ Dre)",
       "artists": [
-        "Popof"
+        "L.P. Rhythm",
+        "DJ Dre"
       ],
-      "addedAt": "2026-08-15T15:24:25.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/162tQsDjbs2WxycB6h0iVD"
+      "addedAt": "2026-08-16T17:08:02.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ"
     },
     {
-      "name": "Let Loose",
+      "name": "Shinjuku",
       "artists": [
-        "Adam Beyer",
-        "DJ Jock"
+        "Franky Rizardo"
       ],
-      "addedAt": "2026-08-14T12:29:25.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2zJj9ajxjEgKfpE80XoO4N"
+      "addedAt": "2026-08-16T17:06:08.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
     },
     {
-      "name": "Sauna - CamelPhat Remix",
+      "name": "Superstitious",
       "artists": [
-        "Jessie Ware",
-        "CamelPhat"
+        "Ronnie Spiteri"
       ],
-      "addedAt": "2026-08-14T12:25:51.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/07ZPaoVakyrdFbLA5cmQmx"
+      "addedAt": "2026-08-16T17:05:59.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7iwxJiYZb6KCcE4dq4bGI2"
     },
     {
-      "name": "Other Dimension",
+      "name": "Trapped - Radio-Edit",
       "artists": [
-        "Anyma",
-        "Volkoder"
+        "Kolter"
       ],
-      "addedAt": "2026-08-14T12:22:22.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5IQCfDD1PwrArvdEFDLUZ2"
+      "addedAt": "2026-08-16T17:05:45.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
     },
     {
-      "name": "Roped In",
+      "name": "Ride On Me",
       "artists": [
-        "Gorgon City"
+        "PAWSA"
       ],
-      "addedAt": "2026-08-13T19:30:05.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2nTPWZMSY7OsjoqfW68920"
+      "addedAt": "2026-08-16T17:04:01.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
-  "explicitTracks": 41,
-  "availableTracks": 2017,
+  "explicitTracks": 43,
+  "availableTracks": 2048,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-16T06:38:39.839Z"
+  "lastUpdated": "2026-08-16T18:28:13.465Z"
 }
