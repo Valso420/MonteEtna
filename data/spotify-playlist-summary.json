@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2059,
-  "exportedTracks": 2059,
-  "totalDurationMs": 575469585,
-  "totalHours": 159.9,
+  "totalTracks": 2062,
+  "exportedTracks": 2062,
+  "totalDurationMs": 576108338,
+  "totalHours": 160,
   "averageDurationMin": 4.66,
-  "uniqueArtists": 1453,
-  "uniqueAlbums": 1797,
+  "uniqueArtists": 1456,
+  "uniqueAlbums": 1800,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,32 @@
   ],
   "recentTracks": [
     {
+      "name": "Bad Wolf (feat. UNIIQU3)",
+      "artists": [
+        "Michael Bibi",
+        "UNIIQU3"
+      ],
+      "addedAt": "2026-08-16T20:32:38.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
+    },
+    {
+      "name": "Lets Get High",
+      "artists": [
+        "Michael Bibi"
+      ],
+      "addedAt": "2026-08-16T20:31:41.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4YAJb6gLzaa0qyFUbjAWuW"
+    },
+    {
+      "name": "Talamanca's Flute",
+      "artists": [
+        "GENNARO",
+        "Morena Prudente"
+      ],
+      "addedAt": "2026-08-16T20:29:46.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1ycMf1eSeBWTlaihLShhTe"
+    },
+    {
       "name": "Like That (feat. DJ Dre)",
       "artists": [
         "L.P. Rhythm",
@@ -111,38 +137,14 @@
       ],
       "addedAt": "2026-08-16T17:06:08.000Z",
       "spotifyUrl": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
-    },
-    {
-      "name": "Superstitious",
-      "artists": [
-        "Ronnie Spiteri"
-      ],
-      "addedAt": "2026-08-16T17:05:59.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7iwxJiYZb6KCcE4dq4bGI2"
-    },
-    {
-      "name": "Trapped - Radio-Edit",
-      "artists": [
-        "Kolter"
-      ],
-      "addedAt": "2026-08-16T17:05:45.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
-    },
-    {
-      "name": "Ride On Me",
-      "artists": [
-        "PAWSA"
-      ],
-      "addedAt": "2026-08-16T17:04:01.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5WZQkHYzUGBpUCgCk9eXgA"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2048,
+  "availableTracks": 2051,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-16T18:28:13.465Z"
+  "lastUpdated": "2026-08-17T01:14:30.357Z"
 }
