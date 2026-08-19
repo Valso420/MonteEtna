@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2062,
-  "exportedTracks": 2062,
-  "totalDurationMs": 576108338,
-  "totalHours": 160,
+  "totalTracks": 2064,
+  "exportedTracks": 2064,
+  "totalDurationMs": 576669466,
+  "totalHours": 160.2,
   "averageDurationMin": 4.66,
-  "uniqueArtists": 1456,
-  "uniqueAlbums": 1800,
+  "uniqueArtists": 1457,
+  "uniqueAlbums": 1802,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,23 @@
   ],
   "recentTracks": [
     {
+      "name": "Sky and Sand",
+      "artists": [
+        "Paul Kalkbrenner",
+        "Fritz Kalkbrenner"
+      ],
+      "addedAt": "2026-08-19T17:45:28.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV"
+    },
+    {
+      "name": "Fabienk (deadmau5 remake)",
+      "artists": [
+        "deadmau5"
+      ],
+      "addedAt": "2026-08-19T17:45:21.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/27VvbabSCwEpCiayUobIvM"
+    },
+    {
       "name": "Bad Wolf (feat. UNIIQU3)",
       "artists": [
         "Michael Bibi",
@@ -120,31 +137,14 @@
       ],
       "addedAt": "2026-08-16T20:29:46.000Z",
       "spotifyUrl": "https://open.spotify.com/track/1ycMf1eSeBWTlaihLShhTe"
-    },
-    {
-      "name": "Like That (feat. DJ Dre)",
-      "artists": [
-        "L.P. Rhythm",
-        "DJ Dre"
-      ],
-      "addedAt": "2026-08-16T17:08:02.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ"
-    },
-    {
-      "name": "Shinjuku",
-      "artists": [
-        "Franky Rizardo"
-      ],
-      "addedAt": "2026-08-16T17:06:08.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2051,
+  "availableTracks": 2053,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-19T01:13:55.964Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-19T18:34:45.095Z"
 }
