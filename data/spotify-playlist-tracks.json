@@ -92656,5 +92656,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV",
     "uri": "spotify:track:3ZSqMer9RLSglvi18bWXYV"
+  },
+  {
+    "position": 2065,
+    "addedAt": "2026-08-20T12:04:02.000Z",
+    "addedBy": {
+      "id": "31wtbg2kqdzvf3cofepro5ru6qsi",
+      "uri": "spotify:user:31wtbg2kqdzvf3cofepro5ru6qsi",
+      "href": "https://api.spotify.com/v1/users/31wtbg2kqdzvf3cofepro5ru6qsi",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/31wtbg2kqdzvf3cofepro5ru6qsi"
+    },
+    "id": "3y5Ufbqnrdpp2wUsaDpPuS",
+    "name": "Spirit Bird",
+    "artists": [
+      {
+        "id": "4jGpKAmwvU263l0tUh4xKU",
+        "name": "Joris Voorn",
+        "uri": "spotify:artist:4jGpKAmwvU263l0tUh4xKU",
+        "spotifyUrl": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+      },
+      {
+        "id": "5lbM4g6bhxjNX7R5QHP2nD",
+        "name": "Xavier Rudd",
+        "uri": "spotify:artist:5lbM4g6bhxjNX7R5QHP2nD",
+        "spotifyUrl": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+      }
+    ],
+    "album": {
+      "id": "5MBwoEnKyfli2K1l76HVpZ",
+      "name": "Spirit Bird",
+      "uri": "spotify:album:5MBwoEnKyfli2K1l76HVpZ",
+      "releaseDate": "2026-08-14",
+      "spotifyUrl": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734db1622dac0d334d936021f7"
+    },
+    "durationMs": 248571,
+    "durationMin": 4.14,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS",
+    "uri": "spotify:track:3y5Ufbqnrdpp2wUsaDpPuS"
   }
 ]

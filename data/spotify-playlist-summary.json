@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2064,
-  "exportedTracks": 2064,
-  "totalDurationMs": 576669466,
-  "totalHours": 160.2,
+  "totalTracks": 2065,
+  "exportedTracks": 2065,
+  "totalDurationMs": 576918037,
+  "totalHours": 160.3,
   "averageDurationMin": 4.66,
-  "uniqueArtists": 1457,
-  "uniqueAlbums": 1802,
+  "uniqueArtists": 1458,
+  "uniqueAlbums": 1803,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Spirit Bird",
+      "artists": [
+        "Joris Voorn",
+        "Xavier Rudd"
+      ],
+      "addedAt": "2026-08-20T12:04:02.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
+    },
+    {
       "name": "Sky and Sand",
       "artists": [
         "Paul Kalkbrenner",
@@ -128,23 +137,14 @@
       ],
       "addedAt": "2026-08-16T20:31:41.000Z",
       "spotifyUrl": "https://open.spotify.com/track/4YAJb6gLzaa0qyFUbjAWuW"
-    },
-    {
-      "name": "Talamanca's Flute",
-      "artists": [
-        "GENNARO",
-        "Morena Prudente"
-      ],
-      "addedAt": "2026-08-16T20:29:46.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1ycMf1eSeBWTlaihLShhTe"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2053,
+  "availableTracks": 2054,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-20T06:44:23.680Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-20T12:49:02.239Z"
 }
