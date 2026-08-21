@@ -92696,5 +92696,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS",
     "uri": "spotify:track:3y5Ufbqnrdpp2wUsaDpPuS"
+  },
+  {
+    "position": 2066,
+    "addedAt": "2026-08-21T18:04:49.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "36OMSWCG4S0OOnqSbEHmq0",
+    "name": "For the Music",
+    "artists": [
+      {
+        "id": "6iWBjg4b4ll4jLiParnWXT",
+        "name": "Bart Skils",
+        "uri": "spotify:artist:6iWBjg4b4ll4jLiParnWXT",
+        "spotifyUrl": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+      },
+      {
+        "id": "0tE5uhIK2tSierQTyLi9ci",
+        "name": "Weska",
+        "uri": "spotify:artist:0tE5uhIK2tSierQTyLi9ci",
+        "spotifyUrl": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
+      }
+    ],
+    "album": {
+      "id": "7Ix3ulz7HciLSZiicNv2cS",
+      "name": "For the Music",
+      "uri": "spotify:album:7Ix3ulz7HciLSZiicNv2cS",
+      "releaseDate": "2026-03-13",
+      "spotifyUrl": "https://open.spotify.com/album/7Ix3ulz7HciLSZiicNv2cS",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f17aa215c10719a3bebdd259"
+    },
+    "durationMs": 214161,
+    "durationMin": 3.57,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/36OMSWCG4S0OOnqSbEHmq0",
+    "uri": "spotify:track:36OMSWCG4S0OOnqSbEHmq0"
   }
 ]

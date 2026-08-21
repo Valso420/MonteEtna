@@ -5,9 +5,9 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2065,
-  "exportedTracks": 2065,
-  "totalDurationMs": 576918037,
+  "totalTracks": 2066,
+  "exportedTracks": 2066,
+  "totalDurationMs": 577132198,
   "totalHours": 160.3,
   "averageDurationMin": 4.66,
   "uniqueArtists": 1457,
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "For the Music",
+      "artists": [
+        "Bart Skils",
+        "Weska"
+      ],
+      "addedAt": "2026-08-21T18:04:49.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/36OMSWCG4S0OOnqSbEHmq0"
+    },
+    {
       "name": "Spirit Bird",
       "artists": [
         "Joris Voorn",
@@ -129,22 +138,14 @@
       ],
       "addedAt": "2026-08-16T20:32:38.000Z",
       "spotifyUrl": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
-    },
-    {
-      "name": "Lets Get High",
-      "artists": [
-        "Michael Bibi"
-      ],
-      "addedAt": "2026-08-16T20:31:41.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4YAJb6gLzaa0qyFUbjAWuW"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2055,
+  "availableTracks": 2056,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-21T12:46:18.240Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-21T18:35:57.538Z"
 }
