@@ -92742,5 +92742,63 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/36OMSWCG4S0OOnqSbEHmq0",
     "uri": "spotify:track:36OMSWCG4S0OOnqSbEHmq0"
+  },
+  {
+    "position": 2067,
+    "addedAt": "2026-08-21T19:14:27.000Z",
+    "addedBy": {
+      "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
+      "uri": "spotify:user:31alyv5dft4kt3nfkz5es2cyhbyy",
+      "href": "https://api.spotify.com/v1/users/31alyv5dft4kt3nfkz5es2cyhbyy",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/31alyv5dft4kt3nfkz5es2cyhbyy"
+    },
+    "id": "224jZfleU5Xfq4bAVCTWZ6",
+    "name": "Movin' Thru Your System",
+    "artists": [
+      {
+        "id": "4ClEUQ8NxfO6jVClYXE2Zh",
+        "name": "Jark Prongo",
+        "uri": "spotify:artist:4ClEUQ8NxfO6jVClYXE2Zh",
+        "spotifyUrl": "https://open.spotify.com/artist/4ClEUQ8NxfO6jVClYXE2Zh"
+      },
+      {
+        "id": "5Aw0IGM5JS3FuTgtRsDWGA",
+        "name": "Chocolate Puma",
+        "uri": "spotify:artist:5Aw0IGM5JS3FuTgtRsDWGA",
+        "spotifyUrl": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+      },
+      {
+        "id": "4mpJaw5y17CIN08qqe8EfB",
+        "name": "Hernan Cattaneo",
+        "uri": "spotify:artist:4mpJaw5y17CIN08qqe8EfB",
+        "spotifyUrl": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+      },
+      {
+        "id": "4Oh4pMKSHRFuE8FbZdeh4j",
+        "name": "Brigado Crew",
+        "uri": "spotify:artist:4Oh4pMKSHRFuE8FbZdeh4j",
+        "spotifyUrl": "https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j"
+      }
+    ],
+    "album": {
+      "id": "466AFfQg86T6QCBh3sqWHa",
+      "name": "Movin' Thru Your System",
+      "uri": "spotify:album:466AFfQg86T6QCBh3sqWHa",
+      "releaseDate": "2026-08-21",
+      "spotifyUrl": "https://open.spotify.com/album/466AFfQg86T6QCBh3sqWHa",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a276216e5bea613119cf9cd4"
+    },
+    "durationMs": 234239,
+    "durationMin": 3.9,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/224jZfleU5Xfq4bAVCTWZ6",
+    "uri": "spotify:track:224jZfleU5Xfq4bAVCTWZ6"
   }
 ]

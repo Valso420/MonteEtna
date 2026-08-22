@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2066,
-  "exportedTracks": 2066,
-  "totalDurationMs": 577132198,
-  "totalHours": 160.3,
+  "totalTracks": 2067,
+  "exportedTracks": 2067,
+  "totalDurationMs": 577366437,
+  "totalHours": 160.4,
   "averageDurationMin": 4.66,
-  "uniqueArtists": 1457,
-  "uniqueAlbums": 1803,
+  "uniqueArtists": 1459,
+  "uniqueAlbums": 1804,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,17 @@
   ],
   "recentTracks": [
     {
+      "name": "Movin' Thru Your System",
+      "artists": [
+        "Jark Prongo",
+        "Chocolate Puma",
+        "Hernan Cattaneo",
+        "Brigado Crew"
+      ],
+      "addedAt": "2026-08-21T19:14:27.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/224jZfleU5Xfq4bAVCTWZ6"
+    },
+    {
       "name": "For the Music",
       "artists": [
         "Bart Skils",
@@ -129,23 +140,14 @@
       ],
       "addedAt": "2026-08-19T17:45:21.000Z",
       "spotifyUrl": "https://open.spotify.com/track/27VvbabSCwEpCiayUobIvM"
-    },
-    {
-      "name": "Bad Wolf (feat. UNIIQU3)",
-      "artists": [
-        "Michael Bibi",
-        "UNIIQU3"
-      ],
-      "addedAt": "2026-08-16T20:32:38.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2056,
+  "availableTracks": 2057,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-21T18:35:57.538Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-22T01:12:50.449Z"
 }
