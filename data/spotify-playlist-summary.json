@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2069,
-  "exportedTracks": 2069,
-  "totalDurationMs": 577799498,
-  "totalHours": 160.5,
-  "averageDurationMin": 4.65,
+  "totalTracks": 2075,
+  "exportedTracks": 2075,
+  "totalDurationMs": 579887377,
+  "totalHours": 161.1,
+  "averageDurationMin": 4.66,
   "uniqueArtists": 1459,
-  "uniqueAlbums": 1804,
+  "uniqueAlbums": 1808,
   "topArtists": [
     {
       "name": "Mathame",
@@ -90,64 +90,59 @@
       "tracks": 26
     },
     {
-      "name": "Armin van Buuren",
+      "name": "19:26",
       "tracks": 23
     }
   ],
   "recentTracks": [
     {
-      "name": "Nocturne",
+      "name": "Luminescence",
       "artists": [
         "19:26"
       ],
-      "addedAt": "2026-08-22T04:05:59.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1XhRI26CJoYSeZctIyNEIR"
+      "addedAt": "2026-08-22T17:37:55.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4yCSFIKcgPoIEYRJ1pI7JW"
     },
     {
-      "name": "Giza",
+      "name": "Vega",
       "artists": [
-        "Anyma",
         "19:26"
       ],
-      "addedAt": "2026-08-22T04:04:53.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6n9Nhx5nhAPrsnjQpL8zna"
+      "addedAt": "2026-08-22T16:52:15.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5wb60glkInDtfW23svqqTW"
     },
     {
-      "name": "Movin' Thru Your System",
+      "name": "Final Call",
       "artists": [
-        "Jark Prongo",
-        "Chocolate Puma",
-        "Hernan Cattaneo",
-        "Brigado Crew"
+        "19:26",
+        "Armonica"
       ],
-      "addedAt": "2026-08-21T19:14:27.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/224jZfleU5Xfq4bAVCTWZ6"
+      "addedAt": "2026-08-22T16:40:14.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7sr01zO8q1L1Leg4fuhEl6"
     },
     {
-      "name": "For the Music",
+      "name": "Sailor",
       "artists": [
-        "Bart Skils",
-        "Weska"
+        "19:26"
       ],
-      "addedAt": "2026-08-21T18:04:49.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/36OMSWCG4S0OOnqSbEHmq0"
+      "addedAt": "2026-08-22T16:29:25.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5kLvA0WRmzHEvJSeeocNfQ"
     },
     {
-      "name": "Spirit Bird",
+      "name": "Consequence",
       "artists": [
-        "Joris Voorn",
-        "Xavier Rudd"
+        "19:26"
       ],
-      "addedAt": "2026-08-20T12:04:02.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
+      "addedAt": "2026-08-22T16:19:31.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5XsnTVmgPlfQaaxzSi6huo"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2059,
+  "availableTracks": 2065,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-22T06:39:19.792Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-22T18:29:49.874Z"
 }
