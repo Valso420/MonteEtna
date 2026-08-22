@@ -5,11 +5,11 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2067,
-  "exportedTracks": 2067,
-  "totalDurationMs": 577366437,
-  "totalHours": 160.4,
-  "averageDurationMin": 4.66,
+  "totalTracks": 2069,
+  "exportedTracks": 2069,
+  "totalDurationMs": 577799498,
+  "totalHours": 160.5,
+  "averageDurationMin": 4.65,
   "uniqueArtists": 1459,
   "uniqueAlbums": 1804,
   "topArtists": [
@@ -19,7 +19,7 @@
     },
     {
       "name": "Anyma",
-      "tracks": 58
+      "tracks": 59
     },
     {
       "name": "Massano",
@@ -96,6 +96,23 @@
   ],
   "recentTracks": [
     {
+      "name": "Nocturne",
+      "artists": [
+        "19:26"
+      ],
+      "addedAt": "2026-08-22T04:05:59.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1XhRI26CJoYSeZctIyNEIR"
+    },
+    {
+      "name": "Giza",
+      "artists": [
+        "Anyma",
+        "19:26"
+      ],
+      "addedAt": "2026-08-22T04:04:53.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6n9Nhx5nhAPrsnjQpL8zna"
+    },
+    {
       "name": "Movin' Thru Your System",
       "artists": [
         "Jark Prongo",
@@ -123,31 +140,14 @@
       ],
       "addedAt": "2026-08-20T12:04:02.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
-    },
-    {
-      "name": "Sky and Sand",
-      "artists": [
-        "Paul Kalkbrenner",
-        "Fritz Kalkbrenner"
-      ],
-      "addedAt": "2026-08-19T17:45:28.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV"
-    },
-    {
-      "name": "Fabienk (deadmau5 remake)",
-      "artists": [
-        "deadmau5"
-      ],
-      "addedAt": "2026-08-19T17:45:21.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/27VvbabSCwEpCiayUobIvM"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2057,
+  "availableTracks": 2059,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-22T01:12:50.449Z"
+  "lastUpdated": "2026-08-22T06:39:19.792Z"
 }

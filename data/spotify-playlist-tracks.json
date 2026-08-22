@@ -92800,5 +92800,91 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/224jZfleU5Xfq4bAVCTWZ6",
     "uri": "spotify:track:224jZfleU5Xfq4bAVCTWZ6"
+  },
+  {
+    "position": 2068,
+    "addedAt": "2026-08-22T04:04:53.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6n9Nhx5nhAPrsnjQpL8zna",
+    "name": "Giza",
+    "artists": [
+      {
+        "id": "4iBwchw0U0GZv5RfVYSMxN",
+        "name": "Anyma",
+        "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN",
+        "spotifyUrl": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+      },
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "5mrhEkyhLEU7HCb1msC0bw",
+      "name": "The End Of Genesys (Deluxe)",
+      "uri": "spotify:album:5mrhEkyhLEU7HCb1msC0bw",
+      "releaseDate": "2025-12-31",
+      "spotifyUrl": "https://open.spotify.com/album/5mrhEkyhLEU7HCb1msC0bw",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c738458b95a8a619d90ac10e"
+    },
+    "durationMs": 299728,
+    "durationMin": 5,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6n9Nhx5nhAPrsnjQpL8zna",
+    "uri": "spotify:track:6n9Nhx5nhAPrsnjQpL8zna"
+  },
+  {
+    "position": 2069,
+    "addedAt": "2026-08-22T04:05:59.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1XhRI26CJoYSeZctIyNEIR",
+    "name": "Nocturne",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "5Jh1sAls1FdGK3qXoltanf",
+      "name": "The Passage",
+      "uri": "spotify:album:5Jh1sAls1FdGK3qXoltanf",
+      "releaseDate": "2025-10-03",
+      "spotifyUrl": "https://open.spotify.com/album/5Jh1sAls1FdGK3qXoltanf",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b0e5763aca0b6ceb7b1830b6"
+    },
+    "durationMs": 133333,
+    "durationMin": 2.22,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1XhRI26CJoYSeZctIyNEIR",
+    "uri": "spotify:track:1XhRI26CJoYSeZctIyNEIR"
   }
 ]
