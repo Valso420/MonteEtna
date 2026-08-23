@@ -5,10 +5,10 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2077,
-  "exportedTracks": 2077,
-  "totalDurationMs": 580737518,
-  "totalHours": 161.3,
+  "totalTracks": 2079,
+  "exportedTracks": 2079,
+  "totalDurationMs": 581504707,
+  "totalHours": 161.5,
   "averageDurationMin": 4.66,
   "uniqueArtists": 1459,
   "uniqueAlbums": 1810,
@@ -70,6 +70,10 @@
       "tracks": 29
     },
     {
+      "name": "19:26",
+      "tracks": 27
+    },
+    {
       "name": "Goom Gum",
       "tracks": 27
     },
@@ -88,13 +92,25 @@
     {
       "name": "TH;EN",
       "tracks": 26
-    },
-    {
-      "name": "19:26",
-      "tracks": 25
     }
   ],
   "recentTracks": [
+    {
+      "name": "Horizon",
+      "artists": [
+        "19:26"
+      ],
+      "addedAt": "2026-08-23T03:19:38.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/140cEz09AYV0dsJpwjVtny"
+    },
+    {
+      "name": "Alaska",
+      "artists": [
+        "19:26"
+      ],
+      "addedAt": "2026-08-23T03:12:14.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/39BdPzOQhjsvjBt5NqzlyY"
+    },
     {
       "name": "Vertigo",
       "artists": [
@@ -118,31 +134,14 @@
       ],
       "addedAt": "2026-08-22T17:37:55.000Z",
       "spotifyUrl": "https://open.spotify.com/track/4yCSFIKcgPoIEYRJ1pI7JW"
-    },
-    {
-      "name": "Vega",
-      "artists": [
-        "19:26"
-      ],
-      "addedAt": "2026-08-22T16:52:15.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5wb60glkInDtfW23svqqTW"
-    },
-    {
-      "name": "Final Call",
-      "artists": [
-        "19:26",
-        "Armonica"
-      ],
-      "addedAt": "2026-08-22T16:40:14.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7sr01zO8q1L1Leg4fuhEl6"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2067,
+  "availableTracks": 2069,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-23T01:18:32.443Z"
+  "lastUpdated": "2026-08-23T06:39:56.330Z"
 }
