@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2075,
-  "exportedTracks": 2075,
-  "totalDurationMs": 579887377,
-  "totalHours": 161.1,
+  "totalTracks": 2077,
+  "exportedTracks": 2077,
+  "totalDurationMs": 580737518,
+  "totalHours": 161.3,
   "averageDurationMin": 4.66,
   "uniqueArtists": 1459,
-  "uniqueAlbums": 1808,
+  "uniqueAlbums": 1810,
   "topArtists": [
     {
       "name": "Mathame",
@@ -91,10 +91,26 @@
     },
     {
       "name": "19:26",
-      "tracks": 23
+      "tracks": 25
     }
   ],
   "recentTracks": [
+    {
+      "name": "Vertigo",
+      "artists": [
+        "19:26"
+      ],
+      "addedAt": "2026-08-22T19:35:02.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/69hFWjVFflZpfTCKqbFZcg"
+    },
+    {
+      "name": "Final Say",
+      "artists": [
+        "19:26"
+      ],
+      "addedAt": "2026-08-22T19:12:01.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7zoMyw7vQoYhEzGvAKSy5j"
+    },
     {
       "name": "Luminescence",
       "artists": [
@@ -119,30 +135,14 @@
       ],
       "addedAt": "2026-08-22T16:40:14.000Z",
       "spotifyUrl": "https://open.spotify.com/track/7sr01zO8q1L1Leg4fuhEl6"
-    },
-    {
-      "name": "Sailor",
-      "artists": [
-        "19:26"
-      ],
-      "addedAt": "2026-08-22T16:29:25.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5kLvA0WRmzHEvJSeeocNfQ"
-    },
-    {
-      "name": "Consequence",
-      "artists": [
-        "19:26"
-      ],
-      "addedAt": "2026-08-22T16:19:31.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5XsnTVmgPlfQaaxzSi6huo"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2065,
+  "availableTracks": 2067,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-22T18:29:49.874Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-23T01:18:32.443Z"
 }

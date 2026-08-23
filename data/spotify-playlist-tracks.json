@@ -93144,5 +93144,85 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/4yCSFIKcgPoIEYRJ1pI7JW",
     "uri": "spotify:track:4yCSFIKcgPoIEYRJ1pI7JW"
+  },
+  {
+    "position": 2076,
+    "addedAt": "2026-08-22T19:12:01.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7zoMyw7vQoYhEzGvAKSy5j",
+    "name": "Final Say",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "0dmvMXj4bh1YXwVKxfWcRK",
+      "name": "X2",
+      "uri": "spotify:album:0dmvMXj4bh1YXwVKxfWcRK",
+      "releaseDate": "2022-08-05",
+      "spotifyUrl": "https://open.spotify.com/album/0dmvMXj4bh1YXwVKxfWcRK",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333042bba8e5d59a57ad40509"
+    },
+    "durationMs": 427741,
+    "durationMin": 7.13,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7zoMyw7vQoYhEzGvAKSy5j",
+    "uri": "spotify:track:7zoMyw7vQoYhEzGvAKSy5j"
+  },
+  {
+    "position": 2077,
+    "addedAt": "2026-08-22T19:35:02.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "69hFWjVFflZpfTCKqbFZcg",
+    "name": "Vertigo",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "7prMiyv09teItOhZ5iPQVL",
+      "name": "Vertigo - EP",
+      "uri": "spotify:album:7prMiyv09teItOhZ5iPQVL",
+      "releaseDate": "2022-06-17",
+      "spotifyUrl": "https://open.spotify.com/album/7prMiyv09teItOhZ5iPQVL",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736f60ce55a96b5f8f31b999aa"
+    },
+    "durationMs": 422400,
+    "durationMin": 7.04,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/69hFWjVFflZpfTCKqbFZcg",
+    "uri": "spotify:track:69hFWjVFflZpfTCKqbFZcg"
   }
 ]
