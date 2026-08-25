@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2079,
-  "exportedTracks": 2079,
-  "totalDurationMs": 581504707,
-  "totalHours": 161.5,
-  "averageDurationMin": 4.66,
-  "uniqueArtists": 1459,
-  "uniqueAlbums": 1810,
+  "totalTracks": 2086,
+  "exportedTracks": 2086,
+  "totalDurationMs": 584251211,
+  "totalHours": 162.3,
+  "averageDurationMin": 4.67,
+  "uniqueArtists": 1462,
+  "uniqueAlbums": 1816,
   "topArtists": [
     {
       "name": "Mathame",
@@ -46,6 +46,10 @@
       "tracks": 38
     },
     {
+      "name": "19:26",
+      "tracks": 34
+    },
+    {
       "name": "Innellea",
       "tracks": 32
     },
@@ -70,10 +74,6 @@
       "tracks": 29
     },
     {
-      "name": "19:26",
-      "tracks": 27
-    },
-    {
       "name": "Goom Gum",
       "tracks": 27
     },
@@ -96,52 +96,53 @@
   ],
   "recentTracks": [
     {
-      "name": "Horizon",
+      "name": "Last Lights From Betelgeuse",
       "artists": [
         "19:26"
       ],
-      "addedAt": "2026-08-23T03:19:38.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/140cEz09AYV0dsJpwjVtny"
+      "addedAt": "2026-08-25T16:50:41.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6u1IPeOAccyYSpe3BE8Zpw"
     },
     {
-      "name": "Alaska",
+      "name": "Able to Dream",
       "artists": [
         "19:26"
       ],
-      "addedAt": "2026-08-23T03:12:14.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/39BdPzOQhjsvjBt5NqzlyY"
+      "addedAt": "2026-08-25T16:48:41.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1k1Sp1bFMG4lqNqEu2D0lp"
     },
     {
-      "name": "Vertigo",
+      "name": "22 Police",
       "artists": [
-        "19:26"
+        "19:26",
+        "BOg"
       ],
-      "addedAt": "2026-08-22T19:35:02.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/69hFWjVFflZpfTCKqbFZcg"
+      "addedAt": "2026-08-25T16:43:59.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4h92Z1GFBigNPN2JeHzWu7"
     },
     {
-      "name": "Final Say",
+      "name": "Mission",
       "artists": [
         "19:26"
       ],
-      "addedAt": "2026-08-22T19:12:01.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7zoMyw7vQoYhEzGvAKSy5j"
+      "addedAt": "2026-08-25T16:34:45.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2gHYMUSIrTIwlrMw9Wt5gt"
     },
     {
-      "name": "Luminescence",
+      "name": "When Will You Return",
       "artists": [
         "19:26"
       ],
-      "addedAt": "2026-08-22T17:37:55.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4yCSFIKcgPoIEYRJ1pI7JW"
+      "addedAt": "2026-08-25T16:28:05.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0HV5hvqp9SHu5wTWze6XXy"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2069,
+  "availableTracks": 2076,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-25T12:46:23.187Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-25T18:38:43.003Z"
 }

@@ -93304,5 +93304,315 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/140cEz09AYV0dsJpwjVtny",
     "uri": "spotify:track:140cEz09AYV0dsJpwjVtny"
+  },
+  {
+    "position": 2080,
+    "addedAt": "2026-08-25T16:13:21.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "21qyKhbmJtjod6Weh8dClc",
+    "name": "Dreams",
+    "artists": [
+      {
+        "id": "6EnmXQhQQvFYrWorH0Duoy",
+        "name": "Armonica",
+        "uri": "spotify:artist:6EnmXQhQQvFYrWorH0Duoy",
+        "spotifyUrl": "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
+      },
+      {
+        "id": "4e330dGWIUSnrCcAp67uJt",
+        "name": "borelli",
+        "uri": "spotify:artist:4e330dGWIUSnrCcAp67uJt",
+        "spotifyUrl": "https://open.spotify.com/artist/4e330dGWIUSnrCcAp67uJt"
+      },
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      },
+      {
+        "id": "67XdiaqE6WRBCObL4dFrKK",
+        "name": "IAML",
+        "uri": "spotify:artist:67XdiaqE6WRBCObL4dFrKK",
+        "spotifyUrl": "https://open.spotify.com/artist/67XdiaqE6WRBCObL4dFrKK"
+      }
+    ],
+    "album": {
+      "id": "7hebmpHgBWDKqQmcjNioNj",
+      "name": "Dreams",
+      "uri": "spotify:album:7hebmpHgBWDKqQmcjNioNj",
+      "releaseDate": "2023-12-01",
+      "spotifyUrl": "https://open.spotify.com/album/7hebmpHgBWDKqQmcjNioNj",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a63defd6ea529bfd594eddc4"
+    },
+    "durationMs": 308541,
+    "durationMin": 5.14,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/21qyKhbmJtjod6Weh8dClc",
+    "uri": "spotify:track:21qyKhbmJtjod6Weh8dClc"
+  },
+  {
+    "position": 2081,
+    "addedAt": "2026-08-25T16:19:35.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4EugEBkzdYXsZYwBghq7RO",
+    "name": "Disobedience",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      },
+      {
+        "id": "7eMjH8sGNTqZycmrO1P9WD",
+        "name": "Animal Picnic",
+        "uri": "spotify:artist:7eMjH8sGNTqZycmrO1P9WD",
+        "spotifyUrl": "https://open.spotify.com/artist/7eMjH8sGNTqZycmrO1P9WD"
+      }
+    ],
+    "album": {
+      "id": "0JlHDHeW39JZlPKtT3b0Ze",
+      "name": "Sound of the Jungle (Pt. 1/6)",
+      "uri": "spotify:album:0JlHDHeW39JZlPKtT3b0Ze",
+      "releaseDate": "2023-02-17",
+      "spotifyUrl": "https://open.spotify.com/album/0JlHDHeW39JZlPKtT3b0Ze",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27352277481ce9e4d00571e3994"
+    },
+    "durationMs": 398455,
+    "durationMin": 6.64,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4EugEBkzdYXsZYwBghq7RO",
+    "uri": "spotify:track:4EugEBkzdYXsZYwBghq7RO"
+  },
+  {
+    "position": 2082,
+    "addedAt": "2026-08-25T16:28:05.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0HV5hvqp9SHu5wTWze6XXy",
+    "name": "When Will You Return",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "7prMiyv09teItOhZ5iPQVL",
+      "name": "Vertigo - EP",
+      "uri": "spotify:album:7prMiyv09teItOhZ5iPQVL",
+      "releaseDate": "2022-06-17",
+      "spotifyUrl": "https://open.spotify.com/album/7prMiyv09teItOhZ5iPQVL",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736f60ce55a96b5f8f31b999aa"
+    },
+    "durationMs": 434048,
+    "durationMin": 7.23,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0HV5hvqp9SHu5wTWze6XXy",
+    "uri": "spotify:track:0HV5hvqp9SHu5wTWze6XXy"
+  },
+  {
+    "position": 2083,
+    "addedAt": "2026-08-25T16:34:45.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2gHYMUSIrTIwlrMw9Wt5gt",
+    "name": "Mission",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "2i0Faiy3Hzh8aGopLiXZd8",
+      "name": "Mission",
+      "uri": "spotify:album:2i0Faiy3Hzh8aGopLiXZd8",
+      "releaseDate": "2023-07-28",
+      "spotifyUrl": "https://open.spotify.com/album/2i0Faiy3Hzh8aGopLiXZd8",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a21a66b24fc0b9eb1865ca5d"
+    },
+    "durationMs": 397688,
+    "durationMin": 6.63,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2gHYMUSIrTIwlrMw9Wt5gt",
+    "uri": "spotify:track:2gHYMUSIrTIwlrMw9Wt5gt"
+  },
+  {
+    "position": 2084,
+    "addedAt": "2026-08-25T16:43:59.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4h92Z1GFBigNPN2JeHzWu7",
+    "name": "22 Police",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      },
+      {
+        "id": "07WoprhlEQAT8ULen1GFsr",
+        "name": "BOg",
+        "uri": "spotify:artist:07WoprhlEQAT8ULen1GFsr",
+        "spotifyUrl": "https://open.spotify.com/artist/07WoprhlEQAT8ULen1GFsr"
+      }
+    ],
+    "album": {
+      "id": "0MUC6I33MCJjobQJVLJLdb",
+      "name": "22 Police",
+      "uri": "spotify:album:0MUC6I33MCJjobQJVLJLdb",
+      "releaseDate": "2021-10-22",
+      "spotifyUrl": "https://open.spotify.com/album/0MUC6I33MCJjobQJVLJLdb",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734cb36ce81375bebc4b6be64b"
+    },
+    "durationMs": 336188,
+    "durationMin": 5.6,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4h92Z1GFBigNPN2JeHzWu7",
+    "uri": "spotify:track:4h92Z1GFBigNPN2JeHzWu7"
+  },
+  {
+    "position": 2085,
+    "addedAt": "2026-08-25T16:48:41.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1k1Sp1bFMG4lqNqEu2D0lp",
+    "name": "Able to Dream",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "7s8nOjm2K4wYGFelKIj2y4",
+      "name": "Able to Dream",
+      "uri": "spotify:album:7s8nOjm2K4wYGFelKIj2y4",
+      "releaseDate": "2022-09-23",
+      "spotifyUrl": "https://open.spotify.com/album/7s8nOjm2K4wYGFelKIj2y4",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732d171ff137dc32ab48887014"
+    },
+    "durationMs": 406823,
+    "durationMin": 6.78,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1k1Sp1bFMG4lqNqEu2D0lp",
+    "uri": "spotify:track:1k1Sp1bFMG4lqNqEu2D0lp"
+  },
+  {
+    "position": 2086,
+    "addedAt": "2026-08-25T16:50:41.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6u1IPeOAccyYSpe3BE8Zpw",
+    "name": "Last Lights From Betelgeuse",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "3SzDcGQl6T7GrTejJVXXaR",
+      "name": "Last Lights From Betelgeuse",
+      "uri": "spotify:album:3SzDcGQl6T7GrTejJVXXaR",
+      "releaseDate": "2021-05-28",
+      "spotifyUrl": "https://open.spotify.com/album/3SzDcGQl6T7GrTejJVXXaR",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ffdf7b0a7c8b8593b66d4424"
+    },
+    "durationMs": 464761,
+    "durationMin": 7.75,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6u1IPeOAccyYSpe3BE8Zpw",
+    "uri": "spotify:track:6u1IPeOAccyYSpe3BE8Zpw"
   }
 ]
