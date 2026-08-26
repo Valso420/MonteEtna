@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2101,
-  "exportedTracks": 2101,
-  "totalDurationMs": 589800130,
-  "totalHours": 163.8,
+  "totalTracks": 2106,
+  "exportedTracks": 2106,
+  "totalDurationMs": 591763100,
+  "totalHours": 164.4,
   "averageDurationMin": 4.68,
-  "uniqueArtists": 1463,
-  "uniqueAlbums": 1827,
+  "uniqueArtists": 1464,
+  "uniqueAlbums": 1829,
   "topArtists": [
     {
       "name": "Mathame",
@@ -38,12 +38,12 @@
       "tracks": 45
     },
     {
-      "name": "Argy",
-      "tracks": 40
+      "name": "19:26",
+      "tracks": 43
     },
     {
-      "name": "19:26",
-      "tracks": 39
+      "name": "Argy",
+      "tracks": 40
     },
     {
       "name": "Adriatique",
@@ -71,7 +71,7 @@
     },
     {
       "name": "Rebūke",
-      "tracks": 29
+      "tracks": 30
     },
     {
       "name": "Goom Gum",
@@ -96,54 +96,54 @@
   ],
   "recentTracks": [
     {
-      "name": "Hundred Reasons",
+      "name": "People Dancing",
+      "artists": [
+        "Patrick Topping",
+        "Rebūke",
+        "1111"
+      ],
+      "addedAt": "2026-08-26T12:50:00.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5lw0SO3kFw34eRuzYbLCvY"
+    },
+    {
+      "name": "Alone Together",
       "artists": [
         "19:26"
       ],
-      "addedAt": "2026-08-26T00:54:13.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2WzR36o2Du1hHcrbs1FSB1"
+      "addedAt": "2026-08-26T12:44:47.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4nbWyuNR3yLo0Wzrb9CBRW"
     },
     {
-      "name": "Rainy Melody",
+      "name": "Illusion",
       "artists": [
         "19:26"
       ],
-      "addedAt": "2026-08-25T23:43:05.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4kgnuDjOqVcfzNJcRKwaRj"
+      "addedAt": "2026-08-26T12:37:04.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4xwgYGZIJ2eMoX2btxyIUH"
     },
     {
-      "name": "Something Right - Super Flu Remix",
+      "name": "Lockdown In Milan",
       "artists": [
-        "Eric Luttrell",
-        "Molly Moonwater",
-        "Super Flu"
+        "19:26"
       ],
-      "addedAt": "2026-08-25T21:30:03.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/02JSR4Qbi75or8gVaEJYm2"
+      "addedAt": "2026-08-26T12:33:22.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3RmNG6EvfjleznoyIOPkup"
     },
     {
-      "name": "Amanacer",
+      "name": "Sleep Disorder",
       "artists": [
-        "Solomun"
+        "19:26"
       ],
-      "addedAt": "2026-08-25T21:29:55.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4UpmJJ1PynAO36BCAAV2uC"
-    },
-    {
-      "name": "Martian",
-      "artists": [
-        "Colyn"
-      ],
-      "addedAt": "2026-08-25T21:29:33.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1RGeDvetEUCGQBlGsBQHdq"
+      "addedAt": "2026-08-26T12:25:46.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3Xw2NvOUv0J4sCcrjNl4GG"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2091,
+  "availableTracks": 2096,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-26T01:17:19.105Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-26T12:51:21.103Z"
 }
