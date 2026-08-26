@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2086,
-  "exportedTracks": 2086,
-  "totalDurationMs": 584251211,
-  "totalHours": 162.3,
-  "averageDurationMin": 4.67,
-  "uniqueArtists": 1462,
-  "uniqueAlbums": 1816,
+  "totalTracks": 2101,
+  "exportedTracks": 2101,
+  "totalDurationMs": 589800130,
+  "totalHours": 163.8,
+  "averageDurationMin": 4.68,
+  "uniqueArtists": 1463,
+  "uniqueAlbums": 1827,
   "topArtists": [
     {
       "name": "Mathame",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Solomun",
-      "tracks": 49
+      "tracks": 50
     },
     {
       "name": "ARTBAT",
@@ -42,12 +42,12 @@
       "tracks": 40
     },
     {
-      "name": "Adriatique",
-      "tracks": 38
+      "name": "19:26",
+      "tracks": 39
     },
     {
-      "name": "19:26",
-      "tracks": 34
+      "name": "Adriatique",
+      "tracks": 38
     },
     {
       "name": "Innellea",
@@ -96,53 +96,54 @@
   ],
   "recentTracks": [
     {
-      "name": "Last Lights From Betelgeuse",
+      "name": "Hundred Reasons",
       "artists": [
         "19:26"
       ],
-      "addedAt": "2026-08-25T16:50:41.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6u1IPeOAccyYSpe3BE8Zpw"
+      "addedAt": "2026-08-26T00:54:13.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2WzR36o2Du1hHcrbs1FSB1"
     },
     {
-      "name": "Able to Dream",
+      "name": "Rainy Melody",
       "artists": [
         "19:26"
       ],
-      "addedAt": "2026-08-25T16:48:41.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1k1Sp1bFMG4lqNqEu2D0lp"
+      "addedAt": "2026-08-25T23:43:05.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4kgnuDjOqVcfzNJcRKwaRj"
     },
     {
-      "name": "22 Police",
+      "name": "Something Right - Super Flu Remix",
       "artists": [
-        "19:26",
-        "BOg"
+        "Eric Luttrell",
+        "Molly Moonwater",
+        "Super Flu"
       ],
-      "addedAt": "2026-08-25T16:43:59.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4h92Z1GFBigNPN2JeHzWu7"
+      "addedAt": "2026-08-25T21:30:03.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/02JSR4Qbi75or8gVaEJYm2"
     },
     {
-      "name": "Mission",
+      "name": "Amanacer",
       "artists": [
-        "19:26"
+        "Solomun"
       ],
-      "addedAt": "2026-08-25T16:34:45.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2gHYMUSIrTIwlrMw9Wt5gt"
+      "addedAt": "2026-08-25T21:29:55.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4UpmJJ1PynAO36BCAAV2uC"
     },
     {
-      "name": "When Will You Return",
+      "name": "Martian",
       "artists": [
-        "19:26"
+        "Colyn"
       ],
-      "addedAt": "2026-08-25T16:28:05.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0HV5hvqp9SHu5wTWze6XXy"
+      "addedAt": "2026-08-25T21:29:33.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1RGeDvetEUCGQBlGsBQHdq"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 43,
-  "availableTracks": 2076,
+  "availableTracks": 2091,
   "unavailableTracks": 10,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-25T18:38:43.003Z"
+  "lastUpdated": "2026-08-26T01:17:19.105Z"
 }

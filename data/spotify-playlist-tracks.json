@@ -93614,5 +93614,641 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/6u1IPeOAccyYSpe3BE8Zpw",
     "uri": "spotify:track:6u1IPeOAccyYSpe3BE8Zpw"
+  },
+  {
+    "position": 2087,
+    "addedAt": "2026-08-25T20:59:18.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4KlhAMLsPhA5pbe0lAvzcc",
+    "name": "Distance",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "2yoUrfXn0o8rLRURQQbMgF",
+      "name": "Lockdown in Milan EP",
+      "uri": "spotify:album:2yoUrfXn0o8rLRURQQbMgF",
+      "releaseDate": "2021-09-10",
+      "spotifyUrl": "https://open.spotify.com/album/2yoUrfXn0o8rLRURQQbMgF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0d0740642514bab4770b9e6"
+    },
+    "durationMs": 444762,
+    "durationMin": 7.41,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4KlhAMLsPhA5pbe0lAvzcc",
+    "uri": "spotify:track:4KlhAMLsPhA5pbe0lAvzcc"
+  },
+  {
+    "position": 2088,
+    "addedAt": "2026-08-25T21:09:10.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6a6zXmXFMkoIp51cq7P5CF",
+    "name": "Roses Fade",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "6qsrHvfZJ3PwNOtnjdtG3D",
+      "name": "Divergence",
+      "uri": "spotify:album:6qsrHvfZJ3PwNOtnjdtG3D",
+      "releaseDate": "2022-05-20",
+      "spotifyUrl": "https://open.spotify.com/album/6qsrHvfZJ3PwNOtnjdtG3D",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734694a2ac87830f85049d060e"
+    },
+    "durationMs": 441290,
+    "durationMin": 7.35,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6a6zXmXFMkoIp51cq7P5CF",
+    "uri": "spotify:track:6a6zXmXFMkoIp51cq7P5CF"
+  },
+  {
+    "position": 2089,
+    "addedAt": "2026-08-25T21:13:36.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "431BWHiFPrkDoxeb3dVsKb",
+    "name": "Lost Smiles",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "3SzDcGQl6T7GrTejJVXXaR",
+      "name": "Last Lights From Betelgeuse",
+      "uri": "spotify:album:3SzDcGQl6T7GrTejJVXXaR",
+      "releaseDate": "2021-05-28",
+      "spotifyUrl": "https://open.spotify.com/album/3SzDcGQl6T7GrTejJVXXaR",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ffdf7b0a7c8b8593b66d4424"
+    },
+    "durationMs": 453337,
+    "durationMin": 7.56,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/431BWHiFPrkDoxeb3dVsKb",
+    "uri": "spotify:track:431BWHiFPrkDoxeb3dVsKb"
+  },
+  {
+    "position": 2090,
+    "addedAt": "2026-08-25T21:14:30.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "688sUoaOMF2jyL19TQxnJL",
+    "name": "Placebo",
+    "artists": [
+      {
+        "id": "7Em4kWZ5atMYknHwSkp3gD",
+        "name": "Guy J",
+        "uri": "spotify:artist:7Em4kWZ5atMYknHwSkp3gD",
+        "spotifyUrl": "https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD"
+      }
+    ],
+    "album": {
+      "id": "6JKav2Ubb9GrhPNJzwi6pu",
+      "name": "Secret Serv1ce",
+      "uri": "spotify:album:6JKav2Ubb9GrhPNJzwi6pu",
+      "releaseDate": "2026-08-21",
+      "spotifyUrl": "https://open.spotify.com/album/6JKav2Ubb9GrhPNJzwi6pu",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b1b88a2156895c23a0d8c8e3"
+    },
+    "durationMs": 648934,
+    "durationMin": 10.82,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/688sUoaOMF2jyL19TQxnJL",
+    "uri": "spotify:track:688sUoaOMF2jyL19TQxnJL"
+  },
+  {
+    "position": 2091,
+    "addedAt": "2026-08-25T21:15:17.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "3gno1vVNZ5fOolbbo6N0Sa",
+    "name": "Secret Serv1ce",
+    "artists": [
+      {
+        "id": "7Em4kWZ5atMYknHwSkp3gD",
+        "name": "Guy J",
+        "uri": "spotify:artist:7Em4kWZ5atMYknHwSkp3gD",
+        "spotifyUrl": "https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD"
+      }
+    ],
+    "album": {
+      "id": "6JKav2Ubb9GrhPNJzwi6pu",
+      "name": "Secret Serv1ce",
+      "uri": "spotify:album:6JKav2Ubb9GrhPNJzwi6pu",
+      "releaseDate": "2026-08-21",
+      "spotifyUrl": "https://open.spotify.com/album/6JKav2Ubb9GrhPNJzwi6pu",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b1b88a2156895c23a0d8c8e3"
+    },
+    "durationMs": 463794,
+    "durationMin": 7.73,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3gno1vVNZ5fOolbbo6N0Sa",
+    "uri": "spotify:track:3gno1vVNZ5fOolbbo6N0Sa"
+  },
+  {
+    "position": 2092,
+    "addedAt": "2026-08-25T21:16:22.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "5I8YZqgeADPkF3rUyAhpuz",
+    "name": "Deep Dive",
+    "artists": [
+      {
+        "id": "5Dyfxq0ZrFjjeFBdSNxDbo",
+        "name": "YOTTO",
+        "uri": "spotify:artist:5Dyfxq0ZrFjjeFBdSNxDbo",
+        "spotifyUrl": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+      },
+      {
+        "id": "2zzpznMuhKlKlqh1ma7Sms",
+        "name": "Dakota",
+        "uri": "spotify:artist:2zzpznMuhKlKlqh1ma7Sms",
+        "spotifyUrl": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+      }
+    ],
+    "album": {
+      "id": "3Ul4H9dSedDtMdT5YMRYTE",
+      "name": "Deep Dive",
+      "uri": "spotify:album:3Ul4H9dSedDtMdT5YMRYTE",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/3Ul4H9dSedDtMdT5YMRYTE",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739dc39441de812e9ac09cedec"
+    },
+    "durationMs": 220262,
+    "durationMin": 3.67,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5I8YZqgeADPkF3rUyAhpuz",
+    "uri": "spotify:track:5I8YZqgeADPkF3rUyAhpuz"
+  },
+  {
+    "position": 2093,
+    "addedAt": "2026-08-25T21:16:40.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "1h7E73gjm0VELmrT4TcLHo",
+    "name": "Samum - 8Kays Remix",
+    "artists": [
+      {
+        "id": "3F4cmqlG4wCV3aEZlHHO8p",
+        "name": "Woo York",
+        "uri": "spotify:artist:3F4cmqlG4wCV3aEZlHHO8p",
+        "spotifyUrl": "https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p"
+      },
+      {
+        "id": "6VJ8RuUWKIgm5p5uEvZCfQ",
+        "name": "8Kays",
+        "uri": "spotify:artist:6VJ8RuUWKIgm5p5uEvZCfQ",
+        "spotifyUrl": "https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ"
+      }
+    ],
+    "album": {
+      "id": "52VrTYzvEmiccQ8vMacUvM",
+      "name": "Samum (8Kays Remix)",
+      "uri": "spotify:album:52VrTYzvEmiccQ8vMacUvM",
+      "releaseDate": "2023-04-28",
+      "spotifyUrl": "https://open.spotify.com/album/52VrTYzvEmiccQ8vMacUvM",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27350d06b45350ddd0be1b437f1"
+    },
+    "durationMs": 387427,
+    "durationMin": 6.46,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1h7E73gjm0VELmrT4TcLHo",
+    "uri": "spotify:track:1h7E73gjm0VELmrT4TcLHo"
+  },
+  {
+    "position": 2094,
+    "addedAt": "2026-08-25T21:22:39.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "36pz2kGdelrsuihaSHxJa7",
+    "name": "Muted Mind - Ae:ther Remix",
+    "artists": [
+      {
+        "id": "5wMlMjOLeJfS5DfxqGfm83",
+        "name": "Jan Blomqvist",
+        "uri": "spotify:artist:5wMlMjOLeJfS5DfxqGfm83",
+        "spotifyUrl": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+      },
+      {
+        "id": "2Va4TMOAXwdFAcakAUNSsV",
+        "name": "Ae:ther",
+        "uri": "spotify:artist:2Va4TMOAXwdFAcakAUNSsV",
+        "spotifyUrl": "https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV"
+      }
+    ],
+    "album": {
+      "id": "13eqhMZ0w858yNGO8vnUdy",
+      "name": "Muted Mind (Ae:ther Remix)",
+      "uri": "spotify:album:13eqhMZ0w858yNGO8vnUdy",
+      "releaseDate": "2026-01-14",
+      "spotifyUrl": "https://open.spotify.com/album/13eqhMZ0w858yNGO8vnUdy",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732ec210b2633271fff393f8e3"
+    },
+    "durationMs": 248975,
+    "durationMin": 4.15,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/36pz2kGdelrsuihaSHxJa7",
+    "uri": "spotify:track:36pz2kGdelrsuihaSHxJa7"
+  },
+  {
+    "position": 2095,
+    "addedAt": "2026-08-25T21:23:23.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "1cJmgV9NhvQCBjYAtYobPN",
+    "name": "Broken Hearts",
+    "artists": [
+      {
+        "id": "6OP6u8D2Icl5qmrCbyTY7M",
+        "name": "Shall Ocin",
+        "uri": "spotify:artist:6OP6u8D2Icl5qmrCbyTY7M",
+        "spotifyUrl": "https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M"
+      },
+      {
+        "id": "7mGCESDlw5ChfZQTQ3eUIS",
+        "name": "braev",
+        "uri": "spotify:artist:7mGCESDlw5ChfZQTQ3eUIS",
+        "spotifyUrl": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+      }
+    ],
+    "album": {
+      "id": "2pQxKBQ59BitJrXWopepr8",
+      "name": "Broken Hearts EP",
+      "uri": "spotify:album:2pQxKBQ59BitJrXWopepr8",
+      "releaseDate": "2023-04-21",
+      "spotifyUrl": "https://open.spotify.com/album/2pQxKBQ59BitJrXWopepr8",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273af76eda086ead94c291470bf"
+    },
+    "durationMs": 226420,
+    "durationMin": 3.77,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1cJmgV9NhvQCBjYAtYobPN",
+    "uri": "spotify:track:1cJmgV9NhvQCBjYAtYobPN"
+  },
+  {
+    "position": 2096,
+    "addedAt": "2026-08-25T21:23:46.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "7nQG8LCK4GlYL0cPUW7v6C",
+    "name": "Colapso",
+    "artists": [
+      {
+        "id": "6OP6u8D2Icl5qmrCbyTY7M",
+        "name": "Shall Ocin",
+        "uri": "spotify:artist:6OP6u8D2Icl5qmrCbyTY7M",
+        "spotifyUrl": "https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M"
+      }
+    ],
+    "album": {
+      "id": "2pQxKBQ59BitJrXWopepr8",
+      "name": "Broken Hearts EP",
+      "uri": "spotify:album:2pQxKBQ59BitJrXWopepr8",
+      "releaseDate": "2023-04-21",
+      "spotifyUrl": "https://open.spotify.com/album/2pQxKBQ59BitJrXWopepr8",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273af76eda086ead94c291470bf"
+    },
+    "durationMs": 199370,
+    "durationMin": 3.32,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7nQG8LCK4GlYL0cPUW7v6C",
+    "uri": "spotify:track:7nQG8LCK4GlYL0cPUW7v6C"
+  },
+  {
+    "position": 2097,
+    "addedAt": "2026-08-25T21:29:33.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "1RGeDvetEUCGQBlGsBQHdq",
+    "name": "Martian",
+    "artists": [
+      {
+        "id": "5vr1GvUstxr6nwxniKqLOh",
+        "name": "Colyn",
+        "uri": "spotify:artist:5vr1GvUstxr6nwxniKqLOh",
+        "spotifyUrl": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+      }
+    ],
+    "album": {
+      "id": "1k1BF1g25kOC3scGP4yPv2",
+      "name": "Martian",
+      "uri": "spotify:album:1k1BF1g25kOC3scGP4yPv2",
+      "releaseDate": "2021-09-03",
+      "spotifyUrl": "https://open.spotify.com/album/1k1BF1g25kOC3scGP4yPv2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b3f755f23f2f4c4f8cd9cba9"
+    },
+    "durationMs": 255630,
+    "durationMin": 4.26,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1RGeDvetEUCGQBlGsBQHdq",
+    "uri": "spotify:track:1RGeDvetEUCGQBlGsBQHdq"
+  },
+  {
+    "position": 2098,
+    "addedAt": "2026-08-25T21:29:55.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "4UpmJJ1PynAO36BCAAV2uC",
+    "name": "Amanacer",
+    "artists": [
+      {
+        "id": "5wJK4kQAkVGjqM9x46KQOC",
+        "name": "Solomun",
+        "uri": "spotify:artist:5wJK4kQAkVGjqM9x46KQOC",
+        "spotifyUrl": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+      }
+    ],
+    "album": {
+      "id": "5o651kuTGdxyHtO2omgDrN",
+      "name": "Watergate XV",
+      "uri": "spotify:album:5o651kuTGdxyHtO2omgDrN",
+      "releaseDate": "2017-11-06",
+      "spotifyUrl": "https://open.spotify.com/album/5o651kuTGdxyHtO2omgDrN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c0a3a86bf7049b62155d888c"
+    },
+    "durationMs": 543923,
+    "durationMin": 9.07,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4UpmJJ1PynAO36BCAAV2uC",
+    "uri": "spotify:track:4UpmJJ1PynAO36BCAAV2uC"
+  },
+  {
+    "position": 2099,
+    "addedAt": "2026-08-25T21:30:03.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "02JSR4Qbi75or8gVaEJYm2",
+    "name": "Something Right - Super Flu Remix",
+    "artists": [
+      {
+        "id": "4EOyJnoiiOJ4vuNhSBArB2",
+        "name": "Eric Luttrell",
+        "uri": "spotify:artist:4EOyJnoiiOJ4vuNhSBArB2",
+        "spotifyUrl": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+      },
+      {
+        "id": "0z8KcRUs0oUnn9fdQ3jn7O",
+        "name": "Molly Moonwater",
+        "uri": "spotify:artist:0z8KcRUs0oUnn9fdQ3jn7O",
+        "spotifyUrl": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+      },
+      {
+        "id": "1iZiG82D4w7FLHvOUUj4zW",
+        "name": "Super Flu",
+        "uri": "spotify:artist:1iZiG82D4w7FLHvOUUj4zW",
+        "spotifyUrl": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+      }
+    ],
+    "album": {
+      "id": "3tj82aXQPPTLEnLAcAa8VI",
+      "name": "Life at Full Speed (Remixed)",
+      "uri": "spotify:album:3tj82aXQPPTLEnLAcAa8VI",
+      "releaseDate": "2025-04-01",
+      "spotifyUrl": "https://open.spotify.com/album/3tj82aXQPPTLEnLAcAa8VI",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d5448d30faf786430b4e47b9"
+    },
+    "durationMs": 236129,
+    "durationMin": 3.94,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/02JSR4Qbi75or8gVaEJYm2",
+    "uri": "spotify:track:02JSR4Qbi75or8gVaEJYm2"
+  },
+  {
+    "position": 2100,
+    "addedAt": "2026-08-25T23:43:05.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4kgnuDjOqVcfzNJcRKwaRj",
+    "name": "Rainy Melody",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "2yoUrfXn0o8rLRURQQbMgF",
+      "name": "Lockdown in Milan EP",
+      "uri": "spotify:album:2yoUrfXn0o8rLRURQQbMgF",
+      "releaseDate": "2021-09-10",
+      "spotifyUrl": "https://open.spotify.com/album/2yoUrfXn0o8rLRURQQbMgF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f0d0740642514bab4770b9e6"
+    },
+    "durationMs": 396266,
+    "durationMin": 6.6,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4kgnuDjOqVcfzNJcRKwaRj",
+    "uri": "spotify:track:4kgnuDjOqVcfzNJcRKwaRj"
+  },
+  {
+    "position": 2101,
+    "addedAt": "2026-08-26T00:54:13.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2WzR36o2Du1hHcrbs1FSB1",
+    "name": "Hundred Reasons",
+    "artists": [
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      }
+    ],
+    "album": {
+      "id": "5UMuQb9hvSQHU0ka3yvMVh",
+      "name": "Odd Echoes, Vol. 5",
+      "uri": "spotify:album:5UMuQb9hvSQHU0ka3yvMVh",
+      "releaseDate": "2021-12-17",
+      "spotifyUrl": "https://open.spotify.com/album/5UMuQb9hvSQHU0ka3yvMVh",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737b3a7eacceb419b4f961a711"
+    },
+    "durationMs": 382400,
+    "durationMin": 6.37,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2WzR36o2Du1hHcrbs1FSB1",
+    "uri": "spotify:track:2WzR36o2Du1hHcrbs1FSB1"
   }
 ]
