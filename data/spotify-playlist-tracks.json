@@ -4108,7 +4108,7 @@
       "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
     },
     "id": "5jf5tzTvyRWTHwiFiGYgsP",
-    "name": "Consciousness (Eric Prydz Remix)",
+    "name": "Consciousness - Eric Prydz Remix",
     "artists": [
       {
         "id": "4iBwchw0U0GZv5RfVYSMxN",
@@ -16828,7 +16828,7 @@
       "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
     },
     "id": "5EkSIWWEX7zkFTtSO28vT7",
-    "name": "Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",
+    "name": "Along Came Polly - Konstantin Sibold, ZAC, CARMEE Remix",
     "artists": [
       {
         "id": "113reBz1jA6rVxbXl55mlj",
@@ -36520,7 +36520,7 @@
       "spotifyUrl": "https://open.spotify.com/user/peter_200002"
     },
     "id": "6u4O8qYi83mw1ECH8UkDjD",
-    "name": "We Could Be Love (Fideles Remix)",
+    "name": "We Could Be Love - Fideles Remix",
     "artists": [
       {
         "id": "4csQIMQm6vI2A2SCVDuM2z",
@@ -46840,7 +46840,7 @@
       "spotifyUrl": "https://open.spotify.com/user/peter_200002"
     },
     "id": "3hLynaOFj7Pj8rYUj5ujpP",
-    "name": "Last Night (Fideles Remix)",
+    "name": "Last Night - Fideles Remix",
     "artists": [
       {
         "id": "2NrprO4CludRmaWtpqud10",
@@ -47024,7 +47024,7 @@
       "spotifyUrl": "https://open.spotify.com/user/11138796265"
     },
     "id": "6cg1PezjpVSRsRa7f9SnIP",
-    "name": "Last Night (Korolova Remix)",
+    "name": "Last Night - Korolova Remix",
     "artists": [
       {
         "id": "2NrprO4CludRmaWtpqud10",
@@ -48464,7 +48464,7 @@
       "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
     },
     "id": "6Vmw2zW2cchWRSySsljAUo",
-    "name": "So Good (GENESI Remix)",
+    "name": "So Good - GENESI Remix",
     "artists": [
       {
         "id": "4XECs6DHU3xRrr0uydWY2R",
@@ -94462,5 +94462,1131 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/5lw0SO3kFw34eRuzYbLCvY",
     "uri": "spotify:track:5lw0SO3kFw34eRuzYbLCvY"
+  },
+  {
+    "position": 2107,
+    "addedAt": "2026-08-28T13:17:10.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3GCfgCb2mbTj6VeKmazKGh",
+    "name": "Underground",
+    "artists": [
+      {
+        "id": "6htWLP8aiuf19FYMA4VQAZ",
+        "name": "Massano",
+        "uri": "spotify:artist:6htWLP8aiuf19FYMA4VQAZ",
+        "spotifyUrl": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+      },
+      {
+        "id": "3huzrC7mZ7tINmFf1g1hO0",
+        "name": "Humans Musik",
+        "uri": "spotify:artist:3huzrC7mZ7tINmFf1g1hO0",
+        "spotifyUrl": "https://open.spotify.com/artist/3huzrC7mZ7tINmFf1g1hO0"
+      }
+    ],
+    "album": {
+      "id": "23WfD5u5LWYBFlKo07p3Fc",
+      "name": "Underground",
+      "uri": "spotify:album:23WfD5u5LWYBFlKo07p3Fc",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/23WfD5u5LWYBFlKo07p3Fc",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e6b02a418dc92b6ea3bb5340"
+    },
+    "durationMs": 208578,
+    "durationMin": 3.48,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3GCfgCb2mbTj6VeKmazKGh",
+    "uri": "spotify:track:3GCfgCb2mbTj6VeKmazKGh"
+  },
+  {
+    "position": 2108,
+    "addedAt": "2026-08-28T13:17:26.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6F0gzWPeXOG51ndxHFESep",
+    "name": "Atoma",
+    "artists": [
+      {
+        "id": "4iBwchw0U0GZv5RfVYSMxN",
+        "name": "Anyma",
+        "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN",
+        "spotifyUrl": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+      }
+    ],
+    "album": {
+      "id": "7zZW1aECtgFPArOo6VxESj",
+      "name": "Atoma",
+      "uri": "spotify:album:7zZW1aECtgFPArOo6VxESj",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/7zZW1aECtgFPArOo6VxESj",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732b9b18f6328f3bc009da8ad1"
+    },
+    "durationMs": 150000,
+    "durationMin": 2.5,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6F0gzWPeXOG51ndxHFESep",
+    "uri": "spotify:track:6F0gzWPeXOG51ndxHFESep"
+  },
+  {
+    "position": 2109,
+    "addedAt": "2026-08-28T13:17:33.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4u4wMk7GgiKCkT1uoaVl0t",
+    "name": "Murda",
+    "artists": [
+      {
+        "id": "1NaQOKgddaJipUtmptb7GI",
+        "name": "Argy",
+        "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI",
+        "spotifyUrl": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+      },
+      {
+        "id": "2mmqhYDTD0weseyXUf1QJ5",
+        "name": "7 SKIES",
+        "uri": "spotify:artist:2mmqhYDTD0weseyXUf1QJ5",
+        "spotifyUrl": "https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5"
+      }
+    ],
+    "album": {
+      "id": "3q7EokQfEq60HDp7E6UQr5",
+      "name": "Murda",
+      "uri": "spotify:album:3q7EokQfEq60HDp7E6UQr5",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/3q7EokQfEq60HDp7E6UQr5",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730057cdefaeaf3182570e2721"
+    },
+    "durationMs": 174374,
+    "durationMin": 2.91,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4u4wMk7GgiKCkT1uoaVl0t",
+    "uri": "spotify:track:4u4wMk7GgiKCkT1uoaVl0t"
+  },
+  {
+    "position": 2110,
+    "addedAt": "2026-08-28T13:17:37.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1TBWw01QPSvmD7HFDJrmTD",
+    "name": "Man Like Me",
+    "artists": [
+      {
+        "id": "11aPF3sc8lDWNqPVInm4Zx",
+        "name": "Kevin de Vries",
+        "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+        "spotifyUrl": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      },
+      {
+        "id": "1IwmiRZ3QChoQOWjbgmP7B",
+        "name": "Platero",
+        "uri": "spotify:artist:1IwmiRZ3QChoQOWjbgmP7B",
+        "spotifyUrl": "https://open.spotify.com/artist/1IwmiRZ3QChoQOWjbgmP7B"
+      }
+    ],
+    "album": {
+      "id": "3MNo6ztNgWiMA6GzZ03wjg",
+      "name": "Man Like Me",
+      "uri": "spotify:album:3MNo6ztNgWiMA6GzZ03wjg",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/3MNo6ztNgWiMA6GzZ03wjg",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732cd07757e05890d085406a6e"
+    },
+    "durationMs": 202968,
+    "durationMin": 3.38,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1TBWw01QPSvmD7HFDJrmTD",
+    "uri": "spotify:track:1TBWw01QPSvmD7HFDJrmTD"
+  },
+  {
+    "position": 2111,
+    "addedAt": "2026-08-28T13:17:51.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1AhTeKyv0FXPL4NYLbeP99",
+    "name": "When The Fire Starts To Burn",
+    "artists": [
+      {
+        "id": "5vr1GvUstxr6nwxniKqLOh",
+        "name": "Colyn",
+        "uri": "spotify:artist:5vr1GvUstxr6nwxniKqLOh",
+        "spotifyUrl": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+      }
+    ],
+    "album": {
+      "id": "1QRTgXguE0mIUDy951aLbO",
+      "name": "When The Fire Starts To Burn",
+      "uri": "spotify:album:1QRTgXguE0mIUDy951aLbO",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/1QRTgXguE0mIUDy951aLbO",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730377416d1d060a3c3c372959"
+    },
+    "durationMs": 217887,
+    "durationMin": 3.63,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1AhTeKyv0FXPL4NYLbeP99",
+    "uri": "spotify:track:1AhTeKyv0FXPL4NYLbeP99"
+  },
+  {
+    "position": 2112,
+    "addedAt": "2026-08-28T13:17:59.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0TVb6JZduTBnKX2kkQiJZo",
+    "name": "Shake The Block",
+    "artists": [
+      {
+        "id": "0JQQmVsckc2tcIfzyaIoMc",
+        "name": "PACS",
+        "uri": "spotify:artist:0JQQmVsckc2tcIfzyaIoMc",
+        "spotifyUrl": "https://open.spotify.com/artist/0JQQmVsckc2tcIfzyaIoMc"
+      },
+      {
+        "id": "5B6a4tvHuhbxL5sNHRbbKH",
+        "name": "Moonphazes",
+        "uri": "spotify:artist:5B6a4tvHuhbxL5sNHRbbKH",
+        "spotifyUrl": "https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH"
+      }
+    ],
+    "album": {
+      "id": "7lNvNVGo1NSNGPnOEw3oRU",
+      "name": "Shake The Block",
+      "uri": "spotify:album:7lNvNVGo1NSNGPnOEw3oRU",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/7lNvNVGo1NSNGPnOEw3oRU",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273918748f61b028ca98357ca9d"
+    },
+    "durationMs": 246404,
+    "durationMin": 4.11,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0TVb6JZduTBnKX2kkQiJZo",
+    "uri": "spotify:track:0TVb6JZduTBnKX2kkQiJZo"
+  },
+  {
+    "position": 2113,
+    "addedAt": "2026-08-28T13:18:12.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2ZDFqdB6RFOuCcMBRgc4E5",
+    "name": "F*ck The Club",
+    "artists": [
+      {
+        "id": "1IhNa18PPS7VIpz8LNaIHJ",
+        "name": "Skuro (IT)",
+        "uri": "spotify:artist:1IhNa18PPS7VIpz8LNaIHJ",
+        "spotifyUrl": "https://open.spotify.com/artist/1IhNa18PPS7VIpz8LNaIHJ"
+      },
+      {
+        "id": "3NVOeVf2oPolFbXeTjdb3x",
+        "name": "Final Request",
+        "uri": "spotify:artist:3NVOeVf2oPolFbXeTjdb3x",
+        "spotifyUrl": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+      }
+    ],
+    "album": {
+      "id": "78p56lSgpLSsM31ueSvpmD",
+      "name": "F*ck The Club",
+      "uri": "spotify:album:78p56lSgpLSsM31ueSvpmD",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/78p56lSgpLSsM31ueSvpmD",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27347b315d136d612a8f699d040"
+    },
+    "durationMs": 192187,
+    "durationMin": 3.2,
+    "explicit": true,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2ZDFqdB6RFOuCcMBRgc4E5",
+    "uri": "spotify:track:2ZDFqdB6RFOuCcMBRgc4E5"
+  },
+  {
+    "position": 2114,
+    "addedAt": "2026-08-28T13:18:32.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7K4xmQ87a8CFPZSTaIB93z",
+    "name": "Prophecy",
+    "artists": [
+      {
+        "id": "4iBwchw0U0GZv5RfVYSMxN",
+        "name": "Anyma",
+        "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN",
+        "spotifyUrl": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+      },
+      {
+        "id": "2IelDQgKvM3U4P7HVVmaOX",
+        "name": "19:26",
+        "uri": "spotify:artist:2IelDQgKvM3U4P7HVVmaOX",
+        "spotifyUrl": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+      },
+      {
+        "id": "7ICFbeWRkxZ9JppxYRhtBl",
+        "name": "Baset",
+        "uri": "spotify:artist:7ICFbeWRkxZ9JppxYRhtBl",
+        "spotifyUrl": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+      }
+    ],
+    "album": {
+      "id": "0gNodTZAdNht0OpLirkGBW",
+      "name": "Prophecy",
+      "uri": "spotify:album:0gNodTZAdNht0OpLirkGBW",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/0gNodTZAdNht0OpLirkGBW",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27320ad6bfd2cc797f1746498f1"
+    },
+    "durationMs": 142153,
+    "durationMin": 2.37,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7K4xmQ87a8CFPZSTaIB93z",
+    "uri": "spotify:track:7K4xmQ87a8CFPZSTaIB93z"
+  },
+  {
+    "position": 2115,
+    "addedAt": "2026-08-28T13:34:53.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5PRr6RgJSagj7wxV2Mo9IJ",
+    "name": "March (Mixed)",
+    "artists": [
+      {
+        "id": "6D36JCiONtO40ykvT5RBec",
+        "name": "Goom Gum",
+        "uri": "spotify:artist:6D36JCiONtO40ykvT5RBec",
+        "spotifyUrl": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+      }
+    ],
+    "album": {
+      "id": "6XA9bEdVLG0i4pZyetQz7M",
+      "name": "A State of Trance, Ibiza 2026 (Mixed by Armin van Buuren)",
+      "uri": "spotify:album:6XA9bEdVLG0i4pZyetQz7M",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/6XA9bEdVLG0i4pZyetQz7M",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ebf6bf69216cdb7797c5f81c"
+    },
+    "durationMs": 245720,
+    "durationMin": 4.1,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5PRr6RgJSagj7wxV2Mo9IJ",
+    "uri": "spotify:track:5PRr6RgJSagj7wxV2Mo9IJ"
+  },
+  {
+    "position": 2116,
+    "addedAt": "2026-08-28T13:40:06.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1tyWdSABZbhauu9AaLOCca",
+    "name": "Go Go Go",
+    "artists": [
+      {
+        "id": "6TVdVlY6irsNPkMHT2HkfD",
+        "name": "Space 92",
+        "uri": "spotify:artist:6TVdVlY6irsNPkMHT2HkfD",
+        "spotifyUrl": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+      },
+      {
+        "id": "50KydUSYhBFGorhAgUcrL5",
+        "name": "Marie Vaunt",
+        "uri": "spotify:artist:50KydUSYhBFGorhAgUcrL5",
+        "spotifyUrl": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+      }
+    ],
+    "album": {
+      "id": "0kOy2f0GZ7AuQOeBeNtiko",
+      "name": "Go Go Go",
+      "uri": "spotify:album:0kOy2f0GZ7AuQOeBeNtiko",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/0kOy2f0GZ7AuQOeBeNtiko",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27357fe03f1c7199b4e60df0e7a"
+    },
+    "durationMs": 169241,
+    "durationMin": 2.82,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1tyWdSABZbhauu9AaLOCca",
+    "uri": "spotify:track:1tyWdSABZbhauu9AaLOCca"
+  },
+  {
+    "position": 2117,
+    "addedAt": "2026-08-28T13:47:03.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1BBJd8Q3MFNCsExmWAcB71",
+    "name": "Waiting For You",
+    "artists": [
+      {
+        "id": "5SwGFGfUlV6Dan4ygjF5CU",
+        "name": "Volkoder",
+        "uri": "spotify:artist:5SwGFGfUlV6Dan4ygjF5CU",
+        "spotifyUrl": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+      },
+      {
+        "id": "0I6oCyQQ1Q50q97y9B9gAx",
+        "name": "Korolova",
+        "uri": "spotify:artist:0I6oCyQQ1Q50q97y9B9gAx",
+        "spotifyUrl": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+      }
+    ],
+    "album": {
+      "id": "4d9sG01UpXomhq2HsDf6aX",
+      "name": "Waiting For You",
+      "uri": "spotify:album:4d9sG01UpXomhq2HsDf6aX",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/4d9sG01UpXomhq2HsDf6aX",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731f3f402d9c05b2999587a722"
+    },
+    "durationMs": 215625,
+    "durationMin": 3.59,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1BBJd8Q3MFNCsExmWAcB71",
+    "uri": "spotify:track:1BBJd8Q3MFNCsExmWAcB71"
+  },
+  {
+    "position": 2118,
+    "addedAt": "2026-08-28T13:57:44.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0BgvIwYRHI64uIM7XjOEBw",
+    "name": "Estimulo",
+    "artists": [
+      {
+        "id": "6GyqhF3pwKcbo3U3Ncm8TJ",
+        "name": "Ezequiel Arias",
+        "uri": "spotify:artist:6GyqhF3pwKcbo3U3Ncm8TJ",
+        "spotifyUrl": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+      }
+    ],
+    "album": {
+      "id": "002sr4Jvvxix3fxg8g6kHQ",
+      "name": "Estimulo",
+      "uri": "spotify:album:002sr4Jvvxix3fxg8g6kHQ",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/002sr4Jvvxix3fxg8g6kHQ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e9ff68bfe0a5de2ba6684510"
+    },
+    "durationMs": 228000,
+    "durationMin": 3.8,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0BgvIwYRHI64uIM7XjOEBw",
+    "uri": "spotify:track:0BgvIwYRHI64uIM7XjOEBw"
+  },
+  {
+    "position": 2119,
+    "addedAt": "2026-08-28T14:03:07.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5XZRBmDhBsJcIVZgoYtAmt",
+    "name": "Selekta",
+    "artists": [
+      {
+        "id": "28uJnu5EsrGml2tBd7y8ts",
+        "name": "Vintage Culture",
+        "uri": "spotify:artist:28uJnu5EsrGml2tBd7y8ts",
+        "spotifyUrl": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+      },
+      {
+        "id": "5K7tqzzCjUDd3RE4RYJh9L",
+        "name": "Kevin Brauer",
+        "uri": "spotify:artist:5K7tqzzCjUDd3RE4RYJh9L",
+        "spotifyUrl": "https://open.spotify.com/artist/5K7tqzzCjUDd3RE4RYJh9L"
+      },
+      {
+        "id": "1Nhg7gO8g4WQum0phRkU3C",
+        "name": "Tuggawar",
+        "uri": "spotify:artist:1Nhg7gO8g4WQum0phRkU3C",
+        "spotifyUrl": "https://open.spotify.com/artist/1Nhg7gO8g4WQum0phRkU3C"
+      }
+    ],
+    "album": {
+      "id": "63NpJixtRsgdH0mawV4WXC",
+      "name": "Selekta EP",
+      "uri": "spotify:album:63NpJixtRsgdH0mawV4WXC",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/63NpJixtRsgdH0mawV4WXC",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731a109b38bc37bd5849187880"
+    },
+    "durationMs": 196846,
+    "durationMin": 3.28,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5XZRBmDhBsJcIVZgoYtAmt",
+    "uri": "spotify:track:5XZRBmDhBsJcIVZgoYtAmt"
+  },
+  {
+    "position": 2120,
+    "addedAt": "2026-08-28T14:06:19.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5BPMItTjAsSOhOlDdftmhV",
+    "name": "Hey You",
+    "artists": [
+      {
+        "id": "4h8IEOdrg60WM5XGyNOCVU",
+        "name": "Lilly Palmer",
+        "uri": "spotify:artist:4h8IEOdrg60WM5XGyNOCVU",
+        "spotifyUrl": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+      }
+    ],
+    "album": {
+      "id": "43agWeNDQeBlQBR2gZqHA6",
+      "name": "Hey You",
+      "uri": "spotify:album:43agWeNDQeBlQBR2gZqHA6",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/43agWeNDQeBlQBR2gZqHA6",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e70f968107a51ee25ea22e3f"
+    },
+    "durationMs": 147466,
+    "durationMin": 2.46,
+    "explicit": true,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5BPMItTjAsSOhOlDdftmhV",
+    "uri": "spotify:track:5BPMItTjAsSOhOlDdftmhV"
+  },
+  {
+    "position": 2121,
+    "addedAt": "2026-08-28T14:08:53.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1ZNkbSuEpmxNiU6pQGAVoL",
+    "name": "Tell Me How You Want It",
+    "artists": [
+      {
+        "id": "4wlgF2WCCPNhQ0FpNwO3vc",
+        "name": "Magdalena",
+        "uri": "spotify:artist:4wlgF2WCCPNhQ0FpNwO3vc",
+        "spotifyUrl": "https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc"
+      }
+    ],
+    "album": {
+      "id": "0Q19LuGCBtMmbAhCxa1FGe",
+      "name": "Tell Me How You Want It",
+      "uri": "spotify:album:0Q19LuGCBtMmbAhCxa1FGe",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/0Q19LuGCBtMmbAhCxa1FGe",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d5c27566d7b814a334a1637e"
+    },
+    "durationMs": 169380,
+    "durationMin": 2.82,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1ZNkbSuEpmxNiU6pQGAVoL",
+    "uri": "spotify:track:1ZNkbSuEpmxNiU6pQGAVoL"
+  },
+  {
+    "position": 2122,
+    "addedAt": "2026-08-28T14:17:13.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6BMFCLbaEFQsRgsUk2pzCX",
+    "name": "Da Fonk (feat. Joni) - DJ Gigola Remix",
+    "artists": [
+      {
+        "id": "0rTh1tAdrEbdKZBTiiAQSo",
+        "name": "Mochakk",
+        "uri": "spotify:artist:0rTh1tAdrEbdKZBTiiAQSo",
+        "spotifyUrl": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+      },
+      {
+        "id": "7feJmqQ32fTIPKBmPXwHXf",
+        "name": "DJ Gigola",
+        "uri": "spotify:artist:7feJmqQ32fTIPKBmPXwHXf",
+        "spotifyUrl": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+      },
+      {
+        "id": "6nZ4pcLtZYblB2ZwD7qvwe",
+        "name": "Joni",
+        "uri": "spotify:artist:6nZ4pcLtZYblB2ZwD7qvwe",
+        "spotifyUrl": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
+      }
+    ],
+    "album": {
+      "id": "6Y0fDAUpgIu2hSYkRoGcIR",
+      "name": "Da Fonk (feat. Joni) [DJ Gigola Remix]",
+      "uri": "spotify:album:6Y0fDAUpgIu2hSYkRoGcIR",
+      "releaseDate": "2026-08-27",
+      "spotifyUrl": "https://open.spotify.com/album/6Y0fDAUpgIu2hSYkRoGcIR",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27313fe977cc41c926aceca8161"
+    },
+    "durationMs": 267428,
+    "durationMin": 4.46,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6BMFCLbaEFQsRgsUk2pzCX",
+    "uri": "spotify:track:6BMFCLbaEFQsRgsUk2pzCX"
+  },
+  {
+    "position": 2123,
+    "addedAt": "2026-08-28T14:21:48.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0xn4wZDwzzzguXzjoDbCJ1",
+    "name": "Flute Jam",
+    "artists": [
+      {
+        "id": "3TXQ1ddouwQAI78hV4hXDj",
+        "name": "Maceo Plex",
+        "uri": "spotify:artist:3TXQ1ddouwQAI78hV4hXDj",
+        "spotifyUrl": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+      }
+    ],
+    "album": {
+      "id": "05IL88Vd5hBmYRLYddSZTV",
+      "name": "Monster EP",
+      "uri": "spotify:album:05IL88Vd5hBmYRLYddSZTV",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/05IL88Vd5hBmYRLYddSZTV",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732c338c5cb7ff1825872328f2"
+    },
+    "durationMs": 261984,
+    "durationMin": 4.37,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0xn4wZDwzzzguXzjoDbCJ1",
+    "uri": "spotify:track:0xn4wZDwzzzguXzjoDbCJ1"
+  },
+  {
+    "position": 2124,
+    "addedAt": "2026-08-28T14:28:04.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4VBtp8x78yDKANaTLm2cRl",
+    "name": "LOOK OUT FOR ME: FOUR TET VERSION",
+    "artists": [
+      {
+        "id": "2qnpHrOzdmOo1S4ox3j17x",
+        "name": "Turnstile",
+        "uri": "spotify:artist:2qnpHrOzdmOo1S4ox3j17x",
+        "spotifyUrl": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+      },
+      {
+        "id": "7Eu1txygG6nJttLHbZdQOh",
+        "name": "Four Tet",
+        "uri": "spotify:artist:7Eu1txygG6nJttLHbZdQOh",
+        "spotifyUrl": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+      }
+    ],
+    "album": {
+      "id": "1KR1VedU3v1ZeVz0S1HPDL",
+      "name": "NEVER ENOUGH: VERSIONS",
+      "uri": "spotify:album:1KR1VedU3v1ZeVz0S1HPDL",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737c5f1dac8d59db0a4b80573d"
+    },
+    "durationMs": 366586,
+    "durationMin": 6.11,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4VBtp8x78yDKANaTLm2cRl",
+    "uri": "spotify:track:4VBtp8x78yDKANaTLm2cRl"
+  },
+  {
+    "position": 2125,
+    "addedAt": "2026-08-28T14:31:24.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1odZc6QF2iVlTRhoYm6BoW",
+    "name": "After Dark",
+    "artists": [
+      {
+        "id": "68ywCN6ZpInbcilOfLBa3a",
+        "name": "Chloé Caillet",
+        "uri": "spotify:artist:68ywCN6ZpInbcilOfLBa3a",
+        "spotifyUrl": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+      }
+    ],
+    "album": {
+      "id": "4KhVjMxDfGEwDh4D8w4QzF",
+      "name": "After Dark",
+      "uri": "spotify:album:4KhVjMxDfGEwDh4D8w4QzF",
+      "releaseDate": "2026-08-26",
+      "spotifyUrl": "https://open.spotify.com/album/4KhVjMxDfGEwDh4D8w4QzF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273765d2e45680bd6220b28c6f7"
+    },
+    "durationMs": 208024,
+    "durationMin": 3.47,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1odZc6QF2iVlTRhoYm6BoW",
+    "uri": "spotify:track:1odZc6QF2iVlTRhoYm6BoW"
+  },
+  {
+    "position": 2126,
+    "addedAt": "2026-08-28T14:35:43.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4ED5703T5Qy28Qt1uRorkI",
+    "name": "Anti Promi Energie",
+    "artists": [
+      {
+        "id": "2D9Oe8R9UhbMvFAsMJpXj0",
+        "name": "Kölsch",
+        "uri": "spotify:artist:2D9Oe8R9UhbMvFAsMJpXj0",
+        "spotifyUrl": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+      }
+    ],
+    "album": {
+      "id": "4LcYcxVFcdWfoSxydSQBlP",
+      "name": "Speicher 140",
+      "uri": "spotify:album:4LcYcxVFcdWfoSxydSQBlP",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/4LcYcxVFcdWfoSxydSQBlP",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f493f5242642bab881fc591d"
+    },
+    "durationMs": 303348,
+    "durationMin": 5.06,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4ED5703T5Qy28Qt1uRorkI",
+    "uri": "spotify:track:4ED5703T5Qy28Qt1uRorkI"
+  },
+  {
+    "position": 2127,
+    "addedAt": "2026-08-28T14:40:04.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7jGuW21OowpeOy0RYzAvr4",
+    "name": "Buka",
+    "artists": [
+      {
+        "id": "6xuIqCB0qedzXRYmj7fsGq",
+        "name": "Cherry (UA)",
+        "uri": "spotify:artist:6xuIqCB0qedzXRYmj7fsGq",
+        "spotifyUrl": "https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq"
+      }
+    ],
+    "album": {
+      "id": "3E8kxPUYS7yNEFy2YcDWVA",
+      "name": "Buka",
+      "uri": "spotify:album:3E8kxPUYS7yNEFy2YcDWVA",
+      "releaseDate": "2026-08-14",
+      "spotifyUrl": "https://open.spotify.com/album/3E8kxPUYS7yNEFy2YcDWVA",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273dd111247fff0aa174f2883ab"
+    },
+    "durationMs": 206456,
+    "durationMin": 3.44,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7jGuW21OowpeOy0RYzAvr4",
+    "uri": "spotify:track:7jGuW21OowpeOy0RYzAvr4"
+  },
+  {
+    "position": 2128,
+    "addedAt": "2026-08-28T15:17:02.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3HM90izXHg17bfvlfj5aZi",
+    "name": "ELEVATION",
+    "artists": [
+      {
+        "id": "2fdRphXxW7ncxOnkX4J3Pg",
+        "name": "RUBACK",
+        "uri": "spotify:artist:2fdRphXxW7ncxOnkX4J3Pg",
+        "spotifyUrl": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+      },
+      {
+        "id": "0Bg1joLOL52mJS0kf0pIDx",
+        "name": "Roddy Lima",
+        "uri": "spotify:artist:0Bg1joLOL52mJS0kf0pIDx",
+        "spotifyUrl": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+      },
+      {
+        "id": "2V431yZGG08uroH2CZAgur",
+        "name": "Sarah de Warren",
+        "uri": "spotify:artist:2V431yZGG08uroH2CZAgur",
+        "spotifyUrl": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+      }
+    ],
+    "album": {
+      "id": "56ztjSXwZrYHq9kesPRMSz",
+      "name": "ELEVATION",
+      "uri": "spotify:album:56ztjSXwZrYHq9kesPRMSz",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/56ztjSXwZrYHq9kesPRMSz",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d61e60116b17882165e9d4ad"
+    },
+    "durationMs": 200314,
+    "durationMin": 3.34,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3HM90izXHg17bfvlfj5aZi",
+    "uri": "spotify:track:3HM90izXHg17bfvlfj5aZi"
+  },
+  {
+    "position": 2129,
+    "addedAt": "2026-08-28T15:22:58.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0oiur5z4PFIgRfFcHcn6VG",
+    "name": "So Good (feat. Kuuda) - Sapian Remix",
+    "artists": [
+      {
+        "id": "4hWjDdwaSTU6SgOk5ZP3GT",
+        "name": "Sapian",
+        "uri": "spotify:artist:4hWjDdwaSTU6SgOk5ZP3GT",
+        "spotifyUrl": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+      },
+      {
+        "id": "240wlM8vDrf6S4zCyzGj2W",
+        "name": "CamelPhat",
+        "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W",
+        "spotifyUrl": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+      },
+      {
+        "id": "7dcUWT1KmxjXieEnzFSjeH",
+        "name": "Josh Gigante",
+        "uri": "spotify:artist:7dcUWT1KmxjXieEnzFSjeH",
+        "spotifyUrl": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+      },
+      {
+        "id": "2aPOSo3CvB3a15zDorFBCh",
+        "name": "Kuuda",
+        "uri": "spotify:artist:2aPOSo3CvB3a15zDorFBCh",
+        "spotifyUrl": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+      }
+    ],
+    "album": {
+      "id": "57YlHYZJTg89XwBMKNv6l7",
+      "name": "So Good (feat. Kuuda) [Remixes]",
+      "uri": "spotify:album:57YlHYZJTg89XwBMKNv6l7",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/57YlHYZJTg89XwBMKNv6l7",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738355676f85e0cbf6881b8400"
+    },
+    "durationMs": 185988,
+    "durationMin": 3.1,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0oiur5z4PFIgRfFcHcn6VG",
+    "uri": "spotify:track:0oiur5z4PFIgRfFcHcn6VG"
+  },
+  {
+    "position": 2130,
+    "addedAt": "2026-08-28T15:28:39.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4xvyX2bWRtLhcre6aMDBwI",
+    "name": "Y - Edit",
+    "artists": [
+      {
+        "id": "0NBGssQpgDczTsVEp4pCbR",
+        "name": "Oliver Huntemann",
+        "uri": "spotify:artist:0NBGssQpgDczTsVEp4pCbR",
+        "spotifyUrl": "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+      },
+      {
+        "id": "0xgdNNa5mIbnJKp8AG8S4z",
+        "name": "Victor Ruiz",
+        "uri": "spotify:artist:0xgdNNa5mIbnJKp8AG8S4z",
+        "spotifyUrl": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+      }
+    ],
+    "album": {
+      "id": "6Oj2KcMrvZsVevOf9LRIPh",
+      "name": "Y",
+      "uri": "spotify:album:6Oj2KcMrvZsVevOf9LRIPh",
+      "releaseDate": "2026-08-14",
+      "spotifyUrl": "https://open.spotify.com/album/6Oj2KcMrvZsVevOf9LRIPh",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ae1180cd11b09f60b3661d9a"
+    },
+    "durationMs": 197192,
+    "durationMin": 3.29,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4xvyX2bWRtLhcre6aMDBwI",
+    "uri": "spotify:track:4xvyX2bWRtLhcre6aMDBwI"
+  },
+  {
+    "position": 2131,
+    "addedAt": "2026-08-28T15:31:30.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2rXIxSOy6BtCnmM3xsHr4H",
+    "name": "Down Down - Dixon Edit",
+    "artists": [
+      {
+        "id": "7mxkWNWc7ceydKrZmVQmKK",
+        "name": "Ede",
+        "uri": "spotify:artist:7mxkWNWc7ceydKrZmVQmKK",
+        "spotifyUrl": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+      },
+      {
+        "id": "3wc57nV2fGEoM8x4xPK1O9",
+        "name": "Dixon",
+        "uri": "spotify:artist:3wc57nV2fGEoM8x4xPK1O9",
+        "spotifyUrl": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+      }
+    ],
+    "album": {
+      "id": "6Flo7KS1VkdWXHRvfxqhZF",
+      "name": "Down Down (Dixon Edit)",
+      "uri": "spotify:album:6Flo7KS1VkdWXHRvfxqhZF",
+      "releaseDate": "2026-05-08",
+      "spotifyUrl": "https://open.spotify.com/album/6Flo7KS1VkdWXHRvfxqhZF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b2aad374c6624fc87870c1f4"
+    },
+    "durationMs": 195192,
+    "durationMin": 3.25,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2rXIxSOy6BtCnmM3xsHr4H",
+    "uri": "spotify:track:2rXIxSOy6BtCnmM3xsHr4H"
   }
 ]

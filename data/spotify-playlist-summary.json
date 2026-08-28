@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2106,
-  "exportedTracks": 2106,
-  "totalDurationMs": 591763100,
-  "totalHours": 164.4,
-  "averageDurationMin": 4.68,
-  "uniqueArtists": 1464,
-  "uniqueAlbums": 1829,
+  "totalTracks": 2131,
+  "exportedTracks": 2131,
+  "totalDurationMs": 597062441,
+  "totalHours": 165.9,
+  "averageDurationMin": 4.67,
+  "uniqueArtists": 1475,
+  "uniqueAlbums": 1854,
   "topArtists": [
     {
       "name": "Mathame",
@@ -19,15 +19,15 @@
     },
     {
       "name": "Anyma",
-      "tracks": 59
+      "tracks": 61
     },
     {
       "name": "Massano",
-      "tracks": 57
+      "tracks": 58
     },
     {
       "name": "CamelPhat",
-      "tracks": 54
+      "tracks": 55
     },
     {
       "name": "Solomun",
@@ -39,27 +39,27 @@
     },
     {
       "name": "19:26",
-      "tracks": 43
+      "tracks": 44
     },
     {
       "name": "Argy",
-      "tracks": 40
+      "tracks": 41
     },
     {
       "name": "Adriatique",
       "tracks": 38
     },
     {
+      "name": "Vintage Culture",
+      "tracks": 33
+    },
+    {
       "name": "Innellea",
       "tracks": 32
     },
     {
-      "name": "Vintage Culture",
-      "tracks": 32
-    },
-    {
       "name": "Kevin de Vries",
-      "tracks": 31
+      "tracks": 32
     },
     {
       "name": "Layton Giordani",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Goom Gum",
-      "tracks": 27
+      "tracks": 28
     },
     {
       "name": "Max Styler",
@@ -96,54 +96,59 @@
   ],
   "recentTracks": [
     {
-      "name": "People Dancing",
+      "name": "Down Down - Dixon Edit",
       "artists": [
-        "Patrick Topping",
-        "Rebūke",
-        "1111"
+        "Ede",
+        "Dixon"
       ],
-      "addedAt": "2026-08-26T12:50:00.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5lw0SO3kFw34eRuzYbLCvY"
+      "addedAt": "2026-08-28T15:31:30.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2rXIxSOy6BtCnmM3xsHr4H"
     },
     {
-      "name": "Alone Together",
+      "name": "Y - Edit",
       "artists": [
-        "19:26"
+        "Oliver Huntemann",
+        "Victor Ruiz"
       ],
-      "addedAt": "2026-08-26T12:44:47.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4nbWyuNR3yLo0Wzrb9CBRW"
+      "addedAt": "2026-08-28T15:28:39.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4xvyX2bWRtLhcre6aMDBwI"
     },
     {
-      "name": "Illusion",
+      "name": "So Good (feat. Kuuda) - Sapian Remix",
       "artists": [
-        "19:26"
+        "Sapian",
+        "CamelPhat",
+        "Josh Gigante",
+        "Kuuda"
       ],
-      "addedAt": "2026-08-26T12:37:04.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4xwgYGZIJ2eMoX2btxyIUH"
+      "addedAt": "2026-08-28T15:22:58.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0oiur5z4PFIgRfFcHcn6VG"
     },
     {
-      "name": "Lockdown In Milan",
+      "name": "ELEVATION",
       "artists": [
-        "19:26"
+        "RUBACK",
+        "Roddy Lima",
+        "Sarah de Warren"
       ],
-      "addedAt": "2026-08-26T12:33:22.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3RmNG6EvfjleznoyIOPkup"
+      "addedAt": "2026-08-28T15:17:02.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3HM90izXHg17bfvlfj5aZi"
     },
     {
-      "name": "Sleep Disorder",
+      "name": "Buka",
       "artists": [
-        "19:26"
+        "Cherry (UA)"
       ],
-      "addedAt": "2026-08-26T12:25:46.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3Xw2NvOUv0J4sCcrjNl4GG"
+      "addedAt": "2026-08-28T14:40:04.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7jGuW21OowpeOy0RYzAvr4"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
-  "explicitTracks": 43,
-  "availableTracks": 2096,
+  "explicitTracks": 45,
+  "availableTracks": 2121,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-27T21:51:44.883Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-28T21:46:06.341Z"
 }
