@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2131,
-  "exportedTracks": 2131,
-  "totalDurationMs": 597062441,
-  "totalHours": 165.9,
+  "totalTracks": 2135,
+  "exportedTracks": 2135,
+  "totalDurationMs": 597813842,
+  "totalHours": 166.1,
   "averageDurationMin": 4.67,
   "uniqueArtists": 1475,
-  "uniqueAlbums": 1854,
+  "uniqueAlbums": 1858,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,59 +96,54 @@
   ],
   "recentTracks": [
     {
-      "name": "Down Down - Dixon Edit",
+      "name": "Dancin",
       "artists": [
-        "Ede",
-        "Dixon"
+        "Jast"
       ],
-      "addedAt": "2026-08-28T15:31:30.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2rXIxSOy6BtCnmM3xsHr4H"
+      "addedAt": "2026-08-29T12:47:57.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7rANCqEygdRQAWQoIq3OVK"
     },
     {
-      "name": "Y - Edit",
+      "name": "Say Less",
       "artists": [
-        "Oliver Huntemann",
-        "Victor Ruiz"
+        "SLVR"
       ],
-      "addedAt": "2026-08-28T15:28:39.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4xvyX2bWRtLhcre6aMDBwI"
+      "addedAt": "2026-08-29T12:47:46.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/74qHAcLdPXdpqCyMNHIcPh"
     },
     {
-      "name": "So Good (feat. Kuuda) - Sapian Remix",
+      "name": "Knockout",
       "artists": [
-        "Sapian",
-        "CamelPhat",
-        "Josh Gigante",
-        "Kuuda"
+        "SOLANCE"
       ],
-      "addedAt": "2026-08-28T15:22:58.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0oiur5z4PFIgRfFcHcn6VG"
+      "addedAt": "2026-08-29T12:47:32.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3pudKTiSBTA3MvzfClwx9G"
     },
     {
-      "name": "ELEVATION",
+      "name": "On The Ground",
       "artists": [
-        "RUBACK",
-        "Roddy Lima",
-        "Sarah de Warren"
+        "Stylo",
+        "Q.U.A.K.E",
+        "Eli & Dani"
       ],
-      "addedAt": "2026-08-28T15:17:02.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3HM90izXHg17bfvlfj5aZi"
+      "addedAt": "2026-08-29T12:47:15.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1OWtosMAU3YQywPbkFrXSC"
     },
     {
-      "name": "Buka",
+      "name": "March",
       "artists": [
-        "Cherry (UA)"
+        "Goom Gum"
       ],
-      "addedAt": "2026-08-28T14:40:04.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7jGuW21OowpeOy0RYzAvr4"
+      "addedAt": "2026-08-29T12:46:02.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2cZ3csqAMgZ42F3w2w2BYE"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2121,
+  "availableTracks": 2125,
   "unavailableTracks": 10,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-08-29T12:24:21.865Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-08-29T20:29:33.061Z"
 }
