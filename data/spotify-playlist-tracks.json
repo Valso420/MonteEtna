@@ -95760,5 +95760,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/7rANCqEygdRQAWQoIq3OVK",
     "uri": "spotify:track:7rANCqEygdRQAWQoIq3OVK"
+  },
+  {
+    "position": 2136,
+    "addedAt": "2026-09-01T20:18:09.000Z",
+    "addedBy": {
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
+    },
+    "id": "3AwcBfxm8ZIt1Xof1IkHQ0",
+    "name": "Go - Extended Mix",
+    "artists": [
+      {
+        "id": "6GyqhF3pwKcbo3U3Ncm8TJ",
+        "name": "Ezequiel Arias",
+        "uri": "spotify:artist:6GyqhF3pwKcbo3U3Ncm8TJ",
+        "spotifyUrl": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+      },
+      {
+        "id": "224Zsim3dmWXWYUXFuHv0o",
+        "name": "HANA",
+        "uri": "spotify:artist:224Zsim3dmWXWYUXFuHv0o",
+        "spotifyUrl": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+      }
+    ],
+    "album": {
+      "id": "002sr4Jvvxix3fxg8g6kHQ",
+      "name": "Estimulo",
+      "uri": "spotify:album:002sr4Jvvxix3fxg8g6kHQ",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/002sr4Jvvxix3fxg8g6kHQ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e9ff68bfe0a5de2ba6684510"
+    },
+    "durationMs": 429677,
+    "durationMin": 7.16,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3AwcBfxm8ZIt1Xof1IkHQ0",
+    "uri": "spotify:track:3AwcBfxm8ZIt1Xof1IkHQ0"
   }
 ]

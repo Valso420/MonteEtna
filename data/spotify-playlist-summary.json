@@ -5,10 +5,10 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2135,
-  "exportedTracks": 2135,
-  "totalDurationMs": 597814304,
-  "totalHours": 166.1,
+  "totalTracks": 2136,
+  "exportedTracks": 2136,
+  "totalDurationMs": 598243981,
+  "totalHours": 166.2,
   "averageDurationMin": 4.67,
   "uniqueArtists": 1475,
   "uniqueAlbums": 1858,
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Go - Extended Mix",
+      "artists": [
+        "Ezequiel Arias",
+        "HANA"
+      ],
+      "addedAt": "2026-09-01T20:18:09.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3AwcBfxm8ZIt1Xof1IkHQ0"
+    },
+    {
       "name": "Dancin",
       "artists": [
         "Jast"
@@ -128,22 +137,14 @@
       ],
       "addedAt": "2026-08-29T12:47:15.000Z",
       "spotifyUrl": "https://open.spotify.com/track/1OWtosMAU3YQywPbkFrXSC"
-    },
-    {
-      "name": "March",
-      "artists": [
-        "Goom Gum"
-      ],
-      "addedAt": "2026-08-29T12:46:02.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2cZ3csqAMgZ42F3w2w2BYE"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2124,
+  "availableTracks": 2125,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-01T16:09:13.686Z"
+  "lastUpdated": "2026-09-01T20:38:47.058Z"
 }
