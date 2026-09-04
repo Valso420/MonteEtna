@@ -7,11 +7,11 @@
   "followers": 38,
   "totalTracks": 2139,
   "exportedTracks": 2139,
-  "totalDurationMs": 599256678,
+  "totalDurationMs": 599310288,
   "totalHours": 166.5,
   "averageDurationMin": 4.67,
-  "uniqueArtists": 1477,
-  "uniqueAlbums": 1860,
+  "uniqueArtists": 1478,
+  "uniqueAlbums": 1861,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Life Is My Teacher - Simon Vuarambon Remix - Edit",
+      "artists": [
+        "Simon Vuarambon",
+        "Miss Kittin"
+      ],
+      "addedAt": "2026-09-04T12:10:00.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0GNQCh5KUJDuyDGYJBTB3m"
+    },
+    {
       "name": "Mui - Ezequiel Arias Extended Mix",
       "artists": [
         "Jody Wisternoff",
@@ -115,16 +124,6 @@
       ],
       "addedAt": "2026-09-03T22:12:19.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3cYWSw2tKrVpAW4XztpQSI"
-    },
-    {
-      "name": "Something Right - Ezequiel Arias Remix",
-      "artists": [
-        "Eric Luttrell",
-        "Molly Moonwater",
-        "Ezequiel Arias"
-      ],
-      "addedAt": "2026-09-03T21:58:46.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3mcm09CiO5HyGfv6lOEArW"
     },
     {
       "name": "Go - Extended Mix",
@@ -150,6 +149,6 @@
   "availableTracks": 2128,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-04T03:12:15.535Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-09-04T15:51:36.900Z"
 }

@@ -95809,58 +95809,6 @@
   },
   {
     "position": 2137,
-    "addedAt": "2026-09-03T21:58:46.000Z",
-    "addedBy": {
-      "id": "peter_200002",
-      "uri": "spotify:user:peter_200002",
-      "href": "https://api.spotify.com/v1/users/peter_200002",
-      "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
-    },
-    "id": "3mcm09CiO5HyGfv6lOEArW",
-    "name": "Something Right - Ezequiel Arias Remix",
-    "artists": [
-      {
-        "id": "4EOyJnoiiOJ4vuNhSBArB2",
-        "name": "Eric Luttrell",
-        "uri": "spotify:artist:4EOyJnoiiOJ4vuNhSBArB2",
-        "spotifyUrl": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-      },
-      {
-        "id": "0z8KcRUs0oUnn9fdQ3jn7O",
-        "name": "Molly Moonwater",
-        "uri": "spotify:artist:0z8KcRUs0oUnn9fdQ3jn7O",
-        "spotifyUrl": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
-      },
-      {
-        "id": "6GyqhF3pwKcbo3U3Ncm8TJ",
-        "name": "Ezequiel Arias",
-        "uri": "spotify:artist:6GyqhF3pwKcbo3U3Ncm8TJ",
-        "spotifyUrl": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
-      }
-    ],
-    "album": {
-      "id": "7jIaFcVE1D6er8DA47vTZf",
-      "name": "Something Right (Ezequiel Arias Remix)",
-      "uri": "spotify:album:7jIaFcVE1D6er8DA47vTZf",
-      "releaseDate": "2025-12-16",
-      "spotifyUrl": "https://open.spotify.com/album/7jIaFcVE1D6er8DA47vTZf",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730733bded411682568baf32b9"
-    },
-    "durationMs": 243746,
-    "durationMin": 4.06,
-    "explicit": false,
-    "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
-    "availableMarkets": 0,
-    "popularity": null,
-    "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/3mcm09CiO5HyGfv6lOEArW",
-    "uri": "spotify:track:3mcm09CiO5HyGfv6lOEArW"
-  },
-  {
-    "position": 2138,
     "addedAt": "2026-09-03T22:12:19.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -95900,7 +95848,7 @@
     "uri": "spotify:track:3cYWSw2tKrVpAW4XztpQSI"
   },
   {
-    "position": 2139,
+    "position": 2138,
     "addedAt": "2026-09-03T22:14:56.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -95968,5 +95916,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2kx5DxDhtC1FQkG3QJ8wUv",
     "uri": "spotify:track:2kx5DxDhtC1FQkG3QJ8wUv"
+  },
+  {
+    "position": 2139,
+    "addedAt": "2026-09-04T12:10:00.000Z",
+    "addedBy": {
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
+    },
+    "id": "0GNQCh5KUJDuyDGYJBTB3m",
+    "name": "Life Is My Teacher - Simon Vuarambon Remix - Edit",
+    "artists": [
+      {
+        "id": "2W3M7XIkEKENCT1LXJ6mdj",
+        "name": "Simon Vuarambon",
+        "uri": "spotify:artist:2W3M7XIkEKENCT1LXJ6mdj",
+        "spotifyUrl": "https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj"
+      },
+      {
+        "id": "3QhNv79NoIvarU6N57GBzL",
+        "name": "Miss Kittin",
+        "uri": "spotify:artist:3QhNv79NoIvarU6N57GBzL",
+        "spotifyUrl": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+      }
+    ],
+    "album": {
+      "id": "64BVyRnH2Rt9Yk3f7M31vp",
+      "name": "Life Is My Teacher (Simon Vuarambon Remix)",
+      "uri": "spotify:album:64BVyRnH2Rt9Yk3f7M31vp",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/64BVyRnH2Rt9Yk3f7M31vp",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27362cf06eaf678b1825e4a76ca"
+    },
+    "durationMs": 297356,
+    "durationMin": 4.96,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0GNQCh5KUJDuyDGYJBTB3m",
+    "uri": "spotify:track:0GNQCh5KUJDuyDGYJBTB3m"
   }
 ]
