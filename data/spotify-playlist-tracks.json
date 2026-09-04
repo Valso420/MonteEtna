@@ -95806,5 +95806,167 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3AwcBfxm8ZIt1Xof1IkHQ0",
     "uri": "spotify:track:3AwcBfxm8ZIt1Xof1IkHQ0"
+  },
+  {
+    "position": 2137,
+    "addedAt": "2026-09-03T21:58:46.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "3mcm09CiO5HyGfv6lOEArW",
+    "name": "Something Right - Ezequiel Arias Remix",
+    "artists": [
+      {
+        "id": "4EOyJnoiiOJ4vuNhSBArB2",
+        "name": "Eric Luttrell",
+        "uri": "spotify:artist:4EOyJnoiiOJ4vuNhSBArB2",
+        "spotifyUrl": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+      },
+      {
+        "id": "0z8KcRUs0oUnn9fdQ3jn7O",
+        "name": "Molly Moonwater",
+        "uri": "spotify:artist:0z8KcRUs0oUnn9fdQ3jn7O",
+        "spotifyUrl": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+      },
+      {
+        "id": "6GyqhF3pwKcbo3U3Ncm8TJ",
+        "name": "Ezequiel Arias",
+        "uri": "spotify:artist:6GyqhF3pwKcbo3U3Ncm8TJ",
+        "spotifyUrl": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+      }
+    ],
+    "album": {
+      "id": "7jIaFcVE1D6er8DA47vTZf",
+      "name": "Something Right (Ezequiel Arias Remix)",
+      "uri": "spotify:album:7jIaFcVE1D6er8DA47vTZf",
+      "releaseDate": "2025-12-16",
+      "spotifyUrl": "https://open.spotify.com/album/7jIaFcVE1D6er8DA47vTZf",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730733bded411682568baf32b9"
+    },
+    "durationMs": 243746,
+    "durationMin": 4.06,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3mcm09CiO5HyGfv6lOEArW",
+    "uri": "spotify:track:3mcm09CiO5HyGfv6lOEArW"
+  },
+  {
+    "position": 2138,
+    "addedAt": "2026-09-03T22:12:19.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "3cYWSw2tKrVpAW4XztpQSI",
+    "name": "Strange Way",
+    "artists": [
+      {
+        "id": "2W3M7XIkEKENCT1LXJ6mdj",
+        "name": "Simon Vuarambon",
+        "uri": "spotify:artist:2W3M7XIkEKENCT1LXJ6mdj",
+        "spotifyUrl": "https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj"
+      }
+    ],
+    "album": {
+      "id": "30MubYg6eWx287PiIyqfQ0",
+      "name": "Diafana / Yield / Strange Way",
+      "uri": "spotify:album:30MubYg6eWx287PiIyqfQ0",
+      "releaseDate": "2025-11-07",
+      "spotifyUrl": "https://open.spotify.com/album/30MubYg6eWx287PiIyqfQ0",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732b1e407b96a8fcb6fda80ff4"
+    },
+    "durationMs": 390647,
+    "durationMin": 6.51,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3cYWSw2tKrVpAW4XztpQSI",
+    "uri": "spotify:track:3cYWSw2tKrVpAW4XztpQSI"
+  },
+  {
+    "position": 2139,
+    "addedAt": "2026-09-03T22:14:56.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "2kx5DxDhtC1FQkG3QJ8wUv",
+    "name": "Mui - Ezequiel Arias Extended Mix",
+    "artists": [
+      {
+        "id": "5gTVJRQmuS88nOhhdHqErL",
+        "name": "Jody Wisternoff",
+        "uri": "spotify:artist:5gTVJRQmuS88nOhhdHqErL",
+        "spotifyUrl": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+      },
+      {
+        "id": "45fFrwMq6sPP5P4k1qqFi7",
+        "name": "James Grant",
+        "uri": "spotify:artist:45fFrwMq6sPP5P4k1qqFi7",
+        "spotifyUrl": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+      },
+      {
+        "id": "3jAosRBCdrybxqTnrI4Sld",
+        "name": "PROFF",
+        "uri": "spotify:artist:3jAosRBCdrybxqTnrI4Sld",
+        "spotifyUrl": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
+      },
+      {
+        "id": "1nmiCVZ0sfOQm43MGc9wr5",
+        "name": "Takeshi Furukawa",
+        "uri": "spotify:artist:1nmiCVZ0sfOQm43MGc9wr5",
+        "spotifyUrl": "https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5"
+      },
+      {
+        "id": "4EDH5c8x5E958c3AUwqvlp",
+        "name": "Siobhan Wilson",
+        "uri": "spotify:artist:4EDH5c8x5E958c3AUwqvlp",
+        "spotifyUrl": "https://open.spotify.com/artist/4EDH5c8x5E958c3AUwqvlp"
+      },
+      {
+        "id": "6GyqhF3pwKcbo3U3Ncm8TJ",
+        "name": "Ezequiel Arias",
+        "uri": "spotify:artist:6GyqhF3pwKcbo3U3Ncm8TJ",
+        "spotifyUrl": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+      }
+    ],
+    "album": {
+      "id": "1sei8p2LeZXbqGidUGkJRG",
+      "name": "Welcome To My World (Remixed: Part 1)",
+      "uri": "spotify:album:1sei8p2LeZXbqGidUGkJRG",
+      "releaseDate": "2025-04-11",
+      "spotifyUrl": "https://open.spotify.com/album/1sei8p2LeZXbqGidUGkJRG",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b13184b1183404dd508dba5b"
+    },
+    "durationMs": 378304,
+    "durationMin": 6.31,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2kx5DxDhtC1FQkG3QJ8wUv",
+    "uri": "spotify:track:2kx5DxDhtC1FQkG3QJ8wUv"
   }
 ]
