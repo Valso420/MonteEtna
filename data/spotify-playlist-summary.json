@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2140,
-  "exportedTracks": 2140,
-  "totalDurationMs": 599753539,
-  "totalHours": 166.6,
+  "totalTracks": 2144,
+  "exportedTracks": 2144,
+  "totalDurationMs": 600793906,
+  "totalHours": 166.9,
   "averageDurationMin": 4.67,
-  "uniqueArtists": 1478,
-  "uniqueAlbums": 1862,
+  "uniqueArtists": 1481,
+  "uniqueAlbums": 1865,
   "topArtists": [
     {
       "name": "Mathame",
@@ -27,7 +27,7 @@
     },
     {
       "name": "CamelPhat",
-      "tracks": 55
+      "tracks": 57
     },
     {
       "name": "Solomun",
@@ -96,59 +96,57 @@
   ],
   "recentTracks": [
     {
+      "name": "looking for you - Hernan Cattaneo & Kevin Di Serna Remix",
+      "artists": [
+        "Naarly",
+        "Alléa",
+        "Hernan Cattaneo",
+        "Kevin Di Serna"
+      ],
+      "addedAt": "2026-09-09T15:42:28.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6ZUhFpKuXAmUJTwTQQquYv"
+    },
+    {
+      "name": "Wicked Weekend",
+      "artists": [
+        "CamelPhat"
+      ],
+      "addedAt": "2026-09-09T12:58:42.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4N8Qj5PbJfZg3hKthJtelW"
+    },
+    {
+      "name": "Landlords Nightmare",
+      "artists": [
+        "CamelPhat"
+      ],
+      "addedAt": "2026-09-09T12:54:14.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg"
+    },
+    {
+      "name": "Strings of Life / Un Amore Supremo - Edit",
+      "artists": [
+        "Soul Central",
+        "Bart Skils",
+        "Weska"
+      ],
+      "addedAt": "2026-09-09T12:48:57.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4VMLuKHVd7kSIDEuwSx20o"
+    },
+    {
       "name": "Naural - Extended Mix",
       "artists": [
         "Dabeat"
       ],
       "addedAt": "2026-09-09T00:22:20.000Z",
       "spotifyUrl": "https://open.spotify.com/track/6pkCCmKCOXpzDebyEtk5b8"
-    },
-    {
-      "name": "Life Is My Teacher - Simon Vuarambon Remix - Edit",
-      "artists": [
-        "Simon Vuarambon",
-        "Miss Kittin"
-      ],
-      "addedAt": "2026-09-04T12:10:00.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0GNQCh5KUJDuyDGYJBTB3m"
-    },
-    {
-      "name": "Mui - Ezequiel Arias Extended Mix",
-      "artists": [
-        "Jody Wisternoff",
-        "James Grant",
-        "PROFF",
-        "Takeshi Furukawa",
-        "Siobhan Wilson",
-        "Ezequiel Arias"
-      ],
-      "addedAt": "2026-09-03T22:14:56.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2kx5DxDhtC1FQkG3QJ8wUv"
-    },
-    {
-      "name": "Strange Way",
-      "artists": [
-        "Simon Vuarambon"
-      ],
-      "addedAt": "2026-09-03T22:12:19.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3cYWSw2tKrVpAW4XztpQSI"
-    },
-    {
-      "name": "Go - Extended Mix",
-      "artists": [
-        "Ezequiel Arias",
-        "HANA"
-      ],
-      "addedAt": "2026-09-01T20:18:09.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3AwcBfxm8ZIt1Xof1IkHQ0"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2128,
+  "availableTracks": 2132,
   "unavailableTracks": 12,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-09T03:24:32.082Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-09-09T16:01:11.449Z"
 }
