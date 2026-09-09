@@ -96137,6 +96137,52 @@
   },
   {
     "position": 2144,
+    "addedAt": "2026-09-09T18:43:21.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "502ZdenfgYx81QLErj8CxQ",
+    "name": "Strange World",
+    "artists": [
+      {
+        "id": "2Xy6YLSsHR6TdBUFm5bnLR",
+        "name": "Push",
+        "uri": "spotify:artist:2Xy6YLSsHR6TdBUFm5bnLR",
+        "spotifyUrl": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+      },
+      {
+        "id": "7orlzf5LTqSnCzURkZFebN",
+        "name": "KAS:ST",
+        "uri": "spotify:artist:7orlzf5LTqSnCzURkZFebN",
+        "spotifyUrl": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+      }
+    ],
+    "album": {
+      "id": "52wn18Te0DRp5yx2wC43Lq",
+      "name": "Strange World",
+      "uri": "spotify:album:52wn18Te0DRp5yx2wC43Lq",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/52wn18Te0DRp5yx2wC43Lq",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732f222eb97a3074e9226f5bc8"
+    },
+    "durationMs": 221142,
+    "durationMin": 3.69,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/502ZdenfgYx81QLErj8CxQ",
+    "uri": "spotify:track:502ZdenfgYx81QLErj8CxQ"
+  },
+  {
+    "position": 2145,
     "addedAt": "2026-09-09T15:42:28.000Z",
     "addedBy": {
       "id": "11177181596",
@@ -96192,5 +96238,331 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/6ZUhFpKuXAmUJTwTQQquYv",
     "uri": "spotify:track:6ZUhFpKuXAmUJTwTQQquYv"
+  },
+  {
+    "position": 2146,
+    "addedAt": "2026-09-09T18:57:41.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7puRAnhlz8Sv45bLntsuDS",
+    "name": "come closer",
+    "artists": [
+      {
+        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
+        "name": "Amelie Lens",
+        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
+        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+      }
+    ],
+    "album": {
+      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
+      "name": "AURA",
+      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
+    },
+    "durationMs": 300839,
+    "durationMin": 5.01,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7puRAnhlz8Sv45bLntsuDS",
+    "uri": "spotify:track:7puRAnhlz8Sv45bLntsuDS"
+  },
+  {
+    "position": 2147,
+    "addedAt": "2026-09-09T19:17:57.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "01WgSIiUUA26qptyfLPx3f",
+    "name": "Interesting",
+    "artists": [
+      {
+        "id": "7eILArMiTFTQf8SEh5fFHK",
+        "name": "Sara Landry",
+        "uri": "spotify:artist:7eILArMiTFTQf8SEh5fFHK",
+        "spotifyUrl": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+      }
+    ],
+    "album": {
+      "id": "01btNDT5aKR5bXoySkh18j",
+      "name": "Interesting",
+      "uri": "spotify:album:01btNDT5aKR5bXoySkh18j",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/01btNDT5aKR5bXoySkh18j",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731f27885c5c3404bb24581506"
+    },
+    "durationMs": 243023,
+    "durationMin": 4.05,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/01WgSIiUUA26qptyfLPx3f",
+    "uri": "spotify:track:01WgSIiUUA26qptyfLPx3f"
+  },
+  {
+    "position": 2148,
+    "addedAt": "2026-09-09T19:24:02.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3bbfBPg7KrlTCEj8ikrJpm",
+    "name": "drift away",
+    "artists": [
+      {
+        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
+        "name": "Amelie Lens",
+        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
+        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+      }
+    ],
+    "album": {
+      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
+      "name": "AURA",
+      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
+    },
+    "durationMs": 257571,
+    "durationMin": 4.29,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm",
+    "uri": "spotify:track:3bbfBPg7KrlTCEj8ikrJpm"
+  },
+  {
+    "position": 2149,
+    "addedAt": "2026-09-09T19:27:01.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1a7e599RXEzAUptQoHz1AD",
+    "name": "our frequency",
+    "artists": [
+      {
+        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
+        "name": "Amelie Lens",
+        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
+        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+      }
+    ],
+    "album": {
+      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
+      "name": "AURA",
+      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
+    },
+    "durationMs": 264388,
+    "durationMin": 4.41,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1a7e599RXEzAUptQoHz1AD",
+    "uri": "spotify:track:1a7e599RXEzAUptQoHz1AD"
+  },
+  {
+    "position": 2150,
+    "addedAt": "2026-09-09T19:32:03.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7172HazklWTG0yE9XvLWNZ",
+    "name": "run",
+    "artists": [
+      {
+        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
+        "name": "Amelie Lens",
+        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
+        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+      },
+      {
+        "id": "3QVolfxko2UyCOtexhVTli",
+        "name": "Angèle",
+        "uri": "spotify:artist:3QVolfxko2UyCOtexhVTli",
+        "spotifyUrl": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+      }
+    ],
+    "album": {
+      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
+      "name": "AURA",
+      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
+    },
+    "durationMs": 262297,
+    "durationMin": 4.37,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7172HazklWTG0yE9XvLWNZ",
+    "uri": "spotify:track:7172HazklWTG0yE9XvLWNZ"
+  },
+  {
+    "position": 2151,
+    "addedAt": "2026-09-09T19:45:18.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1u3sZYxMM19UibPICQSXzn",
+    "name": "a track at 150bpm",
+    "artists": [
+      {
+        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
+        "name": "Amelie Lens",
+        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
+        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+      }
+    ],
+    "album": {
+      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
+      "name": "AURA",
+      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
+    },
+    "durationMs": 303600,
+    "durationMin": 5.06,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1u3sZYxMM19UibPICQSXzn",
+    "uri": "spotify:track:1u3sZYxMM19UibPICQSXzn"
+  },
+  {
+    "position": 2152,
+    "addedAt": "2026-09-09T20:17:12.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3hAU3Oh1wImWXWCJNUd9uj",
+    "name": "the energy is us",
+    "artists": [
+      {
+        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
+        "name": "Amelie Lens",
+        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
+        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+      }
+    ],
+    "album": {
+      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
+      "name": "AURA",
+      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
+    },
+    "durationMs": 288413,
+    "durationMin": 4.81,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3hAU3Oh1wImWXWCJNUd9uj",
+    "uri": "spotify:track:3hAU3Oh1wImWXWCJNUd9uj"
+  },
+  {
+    "position": 2153,
+    "addedAt": "2026-09-09T20:21:06.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3wRO9Pt5iPbZTs8YT1x69Q",
+    "name": "Just A Little Bit More",
+    "artists": [
+      {
+        "id": "0w1sbtZVQoK6GzV4A4OkCv",
+        "name": "Mau P",
+        "uri": "spotify:artist:0w1sbtZVQoK6GzV4A4OkCv",
+        "spotifyUrl": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+      }
+    ],
+    "album": {
+      "id": "1tahMnSGCdaf45wlxB3szC",
+      "name": "Just A Little Bit More",
+      "uri": "spotify:album:1tahMnSGCdaf45wlxB3szC",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b063f96e99a788df90029270"
+    },
+    "durationMs": 214038,
+    "durationMin": 3.57,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q",
+    "uri": "spotify:track:3wRO9Pt5iPbZTs8YT1x69Q"
   }
 ]

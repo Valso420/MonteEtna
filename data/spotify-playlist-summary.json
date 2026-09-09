@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2144,
-  "exportedTracks": 2144,
-  "totalDurationMs": 600793906,
-  "totalHours": 166.9,
+  "totalTracks": 2153,
+  "exportedTracks": 2153,
+  "totalDurationMs": 603149217,
+  "totalHours": 167.5,
   "averageDurationMin": 4.67,
-  "uniqueArtists": 1481,
-  "uniqueAlbums": 1865,
+  "uniqueArtists": 1483,
+  "uniqueAlbums": 1869,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,57 +96,53 @@
   ],
   "recentTracks": [
     {
-      "name": "looking for you - Hernan Cattaneo & Kevin Di Serna Remix",
+      "name": "Just A Little Bit More",
       "artists": [
-        "Naarly",
-        "Alléa",
-        "Hernan Cattaneo",
-        "Kevin Di Serna"
+        "Mau P"
       ],
-      "addedAt": "2026-09-09T15:42:28.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6ZUhFpKuXAmUJTwTQQquYv"
+      "addedAt": "2026-09-09T20:21:06.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
     },
     {
-      "name": "Wicked Weekend",
+      "name": "the energy is us",
       "artists": [
-        "CamelPhat"
+        "Amelie Lens"
       ],
-      "addedAt": "2026-09-09T12:58:42.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4N8Qj5PbJfZg3hKthJtelW"
+      "addedAt": "2026-09-09T20:17:12.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3hAU3Oh1wImWXWCJNUd9uj"
     },
     {
-      "name": "Landlords Nightmare",
+      "name": "a track at 150bpm",
       "artists": [
-        "CamelPhat"
+        "Amelie Lens"
       ],
-      "addedAt": "2026-09-09T12:54:14.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg"
+      "addedAt": "2026-09-09T19:45:18.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1u3sZYxMM19UibPICQSXzn"
     },
     {
-      "name": "Strings of Life / Un Amore Supremo - Edit",
+      "name": "run",
       "artists": [
-        "Soul Central",
-        "Bart Skils",
-        "Weska"
+        "Amelie Lens",
+        "Angèle"
       ],
-      "addedAt": "2026-09-09T12:48:57.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4VMLuKHVd7kSIDEuwSx20o"
+      "addedAt": "2026-09-09T19:32:03.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7172HazklWTG0yE9XvLWNZ"
     },
     {
-      "name": "Naural - Extended Mix",
+      "name": "our frequency",
       "artists": [
-        "Dabeat"
+        "Amelie Lens"
       ],
-      "addedAt": "2026-09-09T00:22:20.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6pkCCmKCOXpzDebyEtk5b8"
+      "addedAt": "2026-09-09T19:27:01.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1a7e599RXEzAUptQoHz1AD"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2132,
+  "availableTracks": 2141,
   "unavailableTracks": 12,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-09T16:01:11.449Z"
+  "lastUpdated": "2026-09-09T20:32:13.404Z"
 }
