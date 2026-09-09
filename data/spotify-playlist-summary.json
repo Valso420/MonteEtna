@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2139,
-  "exportedTracks": 2139,
-  "totalDurationMs": 599310288,
-  "totalHours": 166.5,
+  "totalTracks": 2140,
+  "exportedTracks": 2140,
+  "totalDurationMs": 599753539,
+  "totalHours": 166.6,
   "averageDurationMin": 4.67,
   "uniqueArtists": 1478,
-  "uniqueAlbums": 1861,
+  "uniqueAlbums": 1862,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Naural - Extended Mix",
+      "artists": [
+        "Dabeat"
+      ],
+      "addedAt": "2026-09-09T00:22:20.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6pkCCmKCOXpzDebyEtk5b8"
+    },
+    {
       "name": "Life Is My Teacher - Simon Vuarambon Remix - Edit",
       "artists": [
         "Simon Vuarambon",
@@ -133,22 +141,14 @@
       ],
       "addedAt": "2026-09-01T20:18:09.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3AwcBfxm8ZIt1Xof1IkHQ0"
-    },
-    {
-      "name": "Dancin",
-      "artists": [
-        "Jast"
-      ],
-      "addedAt": "2026-08-29T12:47:57.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7rANCqEygdRQAWQoIq3OVK"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2127,
+  "availableTracks": 2128,
   "unavailableTracks": 12,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-08T10:42:34.827Z"
+  "lastUpdated": "2026-09-09T03:24:32.082Z"
 }
