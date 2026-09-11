@@ -95581,8 +95581,8 @@
     "durationMin": 3.51,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": false,
-    "isAvailable": false,
+    "isPlayable": true,
+    "isAvailable": true,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -96564,5 +96564,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q",
     "uri": "spotify:track:3wRO9Pt5iPbZTs8YT1x69Q"
+  },
+  {
+    "position": 2154,
+    "addedAt": "2026-09-11T03:16:17.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3XO43dyBY9DWKIAeFEidRC",
+    "name": "Get Up And Dance",
+    "artists": [
+      {
+        "id": "7MdlXmq2HViAJWo9cf30sR",
+        "name": "Cloonee",
+        "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+        "spotifyUrl": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      }
+    ],
+    "album": {
+      "id": "3PbkeRh92HBhRCs08U9PQr",
+      "name": "Get Up And Dance",
+      "uri": "spotify:album:3PbkeRh92HBhRCs08U9PQr",
+      "releaseDate": "2026-09-09",
+      "spotifyUrl": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27323dbdb911905231be9a2578f"
+    },
+    "durationMs": 155081,
+    "durationMin": 2.58,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC",
+    "uri": "spotify:track:3XO43dyBY9DWKIAeFEidRC"
   }
 ]

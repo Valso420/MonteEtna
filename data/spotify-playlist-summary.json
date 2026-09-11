@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2153,
-  "exportedTracks": 2153,
-  "totalDurationMs": 603149217,
-  "totalHours": 167.5,
+  "totalTracks": 2154,
+  "exportedTracks": 2154,
+  "totalDurationMs": 603304298,
+  "totalHours": 167.6,
   "averageDurationMin": 4.67,
   "uniqueArtists": 1483,
-  "uniqueAlbums": 1869,
+  "uniqueAlbums": 1870,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Get Up And Dance",
+      "artists": [
+        "Cloonee"
+      ],
+      "addedAt": "2026-09-11T03:16:17.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
+    },
+    {
       "name": "Just A Little Bit More",
       "artists": [
         "Mau P"
@@ -127,22 +135,14 @@
       ],
       "addedAt": "2026-09-09T19:32:03.000Z",
       "spotifyUrl": "https://open.spotify.com/track/7172HazklWTG0yE9XvLWNZ"
-    },
-    {
-      "name": "our frequency",
-      "artists": [
-        "Amelie Lens"
-      ],
-      "addedAt": "2026-09-09T19:27:01.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1a7e599RXEzAUptQoHz1AD"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2141,
-  "unavailableTracks": 12,
+  "availableTracks": 2143,
+  "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-10T20:29:02.535Z"
+  "lastUpdated": "2026-09-11T03:19:34.869Z"
 }
