@@ -96604,5 +96604,97 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC",
     "uri": "spotify:track:3XO43dyBY9DWKIAeFEidRC"
+  },
+  {
+    "position": 2155,
+    "addedAt": "2026-09-11T19:46:30.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4YhVo4VniHUGeTE6bOYF41",
+    "name": "Be My Own",
+    "artists": [
+      {
+        "id": "11aPF3sc8lDWNqPVInm4Zx",
+        "name": "Kevin de Vries",
+        "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+        "spotifyUrl": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      },
+      {
+        "id": "0e8a2RTD02fJ5lmCBOR7DI",
+        "name": "Stylo",
+        "uri": "spotify:artist:0e8a2RTD02fJ5lmCBOR7DI",
+        "spotifyUrl": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+      },
+      {
+        "id": "5u7JRRh8fKRbjCA2CueKkX",
+        "name": "MONTE",
+        "uri": "spotify:artist:5u7JRRh8fKRbjCA2CueKkX",
+        "spotifyUrl": "https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX"
+      }
+    ],
+    "album": {
+      "id": "3fpEe2Kl7Um32VkOkLsoU5",
+      "name": "Be My Own",
+      "uri": "spotify:album:3fpEe2Kl7Um32VkOkLsoU5",
+      "releaseDate": "2026-09-11",
+      "spotifyUrl": "https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273044cfec344404c23b3471df2"
+    },
+    "durationMs": 179076,
+    "durationMin": 2.98,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41",
+    "uri": "spotify:track:4YhVo4VniHUGeTE6bOYF41"
+  },
+  {
+    "position": 2156,
+    "addedAt": "2026-09-11T19:47:43.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1mGiX0jNVqAU6JURbHeL3Z",
+    "name": "Tears From Heaven - No Signal Mix",
+    "artists": [
+      {
+        "id": "113reBz1jA6rVxbXl55mlj",
+        "name": "Rebūke",
+        "uri": "spotify:artist:113reBz1jA6rVxbXl55mlj",
+        "spotifyUrl": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+      }
+    ],
+    "album": {
+      "id": "7yEAQXN4HnmdwKulsMGElL",
+      "name": "Tears from Heaven",
+      "uri": "spotify:album:7yEAQXN4HnmdwKulsMGElL",
+      "releaseDate": "2026-09-11",
+      "spotifyUrl": "https://open.spotify.com/album/7yEAQXN4HnmdwKulsMGElL",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a9116fa3a2aae76081fef14d"
+    },
+    "durationMs": 223687,
+    "durationMin": 3.73,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1mGiX0jNVqAU6JURbHeL3Z",
+    "uri": "spotify:track:1mGiX0jNVqAU6JURbHeL3Z"
   }
 ]

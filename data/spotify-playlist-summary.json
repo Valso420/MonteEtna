@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2154,
-  "exportedTracks": 2154,
-  "totalDurationMs": 603304298,
-  "totalHours": 167.6,
+  "totalTracks": 2156,
+  "exportedTracks": 2156,
+  "totalDurationMs": 603707061,
+  "totalHours": 167.7,
   "averageDurationMin": 4.67,
-  "uniqueArtists": 1483,
-  "uniqueAlbums": 1870,
+  "uniqueArtists": 1484,
+  "uniqueAlbums": 1872,
   "topArtists": [
     {
       "name": "Mathame",
@@ -50,6 +50,10 @@
       "tracks": 38
     },
     {
+      "name": "Kevin de Vries",
+      "tracks": 33
+    },
+    {
       "name": "Vintage Culture",
       "tracks": 33
     },
@@ -58,19 +62,15 @@
       "tracks": 32
     },
     {
-      "name": "Kevin de Vries",
-      "tracks": 32
-    },
-    {
       "name": "Layton Giordani",
       "tracks": 31
     },
     {
-      "name": "Adam Beyer",
-      "tracks": 30
+      "name": "Rebūke",
+      "tracks": 31
     },
     {
-      "name": "Rebūke",
+      "name": "Adam Beyer",
       "tracks": 30
     },
     {
@@ -96,6 +96,24 @@
   ],
   "recentTracks": [
     {
+      "name": "Tears From Heaven - No Signal Mix",
+      "artists": [
+        "Rebūke"
+      ],
+      "addedAt": "2026-09-11T19:47:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1mGiX0jNVqAU6JURbHeL3Z"
+    },
+    {
+      "name": "Be My Own",
+      "artists": [
+        "Kevin de Vries",
+        "Stylo",
+        "MONTE"
+      ],
+      "addedAt": "2026-09-11T19:46:30.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41"
+    },
+    {
       "name": "Get Up And Dance",
       "artists": [
         "Cloonee"
@@ -118,31 +136,14 @@
       ],
       "addedAt": "2026-09-09T20:17:12.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3hAU3Oh1wImWXWCJNUd9uj"
-    },
-    {
-      "name": "a track at 150bpm",
-      "artists": [
-        "Amelie Lens"
-      ],
-      "addedAt": "2026-09-09T19:45:18.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1u3sZYxMM19UibPICQSXzn"
-    },
-    {
-      "name": "run",
-      "artists": [
-        "Amelie Lens",
-        "Angèle"
-      ],
-      "addedAt": "2026-09-09T19:32:03.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7172HazklWTG0yE9XvLWNZ"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2143,
+  "availableTracks": 2145,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-11T15:58:39.961Z"
+  "lastUpdated": "2026-09-11T20:33:24.862Z"
 }
