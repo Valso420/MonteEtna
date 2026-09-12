@@ -96748,5 +96748,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2dff2oZ433Dtyn8Pbq2YSZ",
     "uri": "spotify:track:2dff2oZ433Dtyn8Pbq2YSZ"
+  },
+  {
+    "position": 2158,
+    "addedAt": "2026-09-12T14:42:15.000Z",
+    "addedBy": {
+      "id": "carolopezdavio",
+      "uri": "spotify:user:carolopezdavio",
+      "href": "https://api.spotify.com/v1/users/carolopezdavio",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/carolopezdavio"
+    },
+    "id": "4G2TIdOadEULlN581cBLSV",
+    "name": "Smoke Machine",
+    "artists": [
+      {
+        "id": "4AVFqumd2ogHFlRbKIjp1t",
+        "name": "Alesso",
+        "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t",
+        "spotifyUrl": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+      }
+    ],
+    "album": {
+      "id": "5j6nS3lE5dyWjrTGGiZ2a2",
+      "name": "The One",
+      "uri": "spotify:album:5j6nS3lE5dyWjrTGGiZ2a2",
+      "releaseDate": "2026-08-21",
+      "spotifyUrl": "https://open.spotify.com/album/5j6nS3lE5dyWjrTGGiZ2a2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a501477c8e3f925fd2f7f8b9"
+    },
+    "durationMs": 134884,
+    "durationMin": 2.25,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4G2TIdOadEULlN581cBLSV",
+    "uri": "spotify:track:4G2TIdOadEULlN581cBLSV"
   }
 ]

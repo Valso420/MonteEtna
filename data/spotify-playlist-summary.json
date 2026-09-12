@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2157,
-  "exportedTracks": 2157,
-  "totalDurationMs": 603902988,
+  "totalTracks": 2158,
+  "exportedTracks": 2158,
+  "totalDurationMs": 604037872,
   "totalHours": 167.8,
   "averageDurationMin": 4.67,
   "uniqueArtists": 1484,
-  "uniqueAlbums": 1873,
+  "uniqueAlbums": 1874,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Smoke Machine",
+      "artists": [
+        "Alesso"
+      ],
+      "addedAt": "2026-09-12T14:42:15.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4G2TIdOadEULlN581cBLSV"
+    },
+    {
       "name": "Toca's Miracle",
       "artists": [
         "Armin van Buuren",
@@ -130,22 +138,14 @@
       ],
       "addedAt": "2026-09-11T03:16:17.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
-    },
-    {
-      "name": "Just A Little Bit More",
-      "artists": [
-        "Mau P"
-      ],
-      "addedAt": "2026-09-09T20:21:06.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2146,
+  "availableTracks": 2147,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-12T03:24:45.919Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-09-12T15:06:33.096Z"
 }
