@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2156,
-  "exportedTracks": 2156,
-  "totalDurationMs": 603707061,
-  "totalHours": 167.7,
+  "totalTracks": 2157,
+  "exportedTracks": 2157,
+  "totalDurationMs": 603902988,
+  "totalHours": 167.8,
   "averageDurationMin": 4.67,
   "uniqueArtists": 1484,
-  "uniqueAlbums": 1872,
+  "uniqueAlbums": 1873,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,16 @@
   ],
   "recentTracks": [
     {
+      "name": "Toca's Miracle",
+      "artists": [
+        "Armin van Buuren",
+        "Pete Tong",
+        "Poppy Baskcomb"
+      ],
+      "addedAt": "2026-09-11T20:58:38.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2dff2oZ433Dtyn8Pbq2YSZ"
+    },
+    {
       "name": "Tears From Heaven - No Signal Mix",
       "artists": [
         "Rebūke"
@@ -128,22 +138,14 @@
       ],
       "addedAt": "2026-09-09T20:21:06.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
-    },
-    {
-      "name": "the energy is us",
-      "artists": [
-        "Amelie Lens"
-      ],
-      "addedAt": "2026-09-09T20:17:12.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3hAU3Oh1wImWXWCJNUd9uj"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2145,
+  "availableTracks": 2146,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-11T20:33:24.862Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-09-12T03:24:45.919Z"
 }
