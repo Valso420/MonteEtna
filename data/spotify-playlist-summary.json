@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2158,
-  "exportedTracks": 2158,
-  "totalDurationMs": 604037872,
-  "totalHours": 167.8,
+  "totalTracks": 2159,
+  "exportedTracks": 2159,
+  "totalDurationMs": 604388091,
+  "totalHours": 167.9,
   "averageDurationMin": 4.67,
   "uniqueArtists": 1484,
-  "uniqueAlbums": 1874,
+  "uniqueAlbums": 1875,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Super Fly - Extended",
+      "artists": [
+        "Alphadog"
+      ],
+      "addedAt": "2026-09-14T02:13:52.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/25LVaEhmSCh3Ww96dgnFB8"
+    },
+    {
       "name": "Smoke Machine",
       "artists": [
         "Alesso"
@@ -130,22 +138,14 @@
       ],
       "addedAt": "2026-09-11T19:46:30.000Z",
       "spotifyUrl": "https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41"
-    },
-    {
-      "name": "Get Up And Dance",
-      "artists": [
-        "Cloonee"
-      ],
-      "addedAt": "2026-09-11T03:16:17.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2147,
+  "availableTracks": 2148,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-13T03:30:51.792Z"
+  "lastUpdated": "2026-09-14T03:40:54.487Z"
 }
