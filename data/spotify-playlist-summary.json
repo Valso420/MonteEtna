@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2161,
-  "exportedTracks": 2161,
-  "totalDurationMs": 605238822,
-  "totalHours": 168.1,
+  "totalTracks": 2162,
+  "exportedTracks": 2162,
+  "totalDurationMs": 605636232,
+  "totalHours": 168.2,
   "averageDurationMin": 4.67,
   "uniqueArtists": 1484,
-  "uniqueAlbums": 1876,
+  "uniqueAlbums": 1877,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Shimo Kitazawa",
+      "artists": [
+        "Mariano Mellino"
+      ],
+      "addedAt": "2026-09-18T14:10:14.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5tRKKLIYxwsPcOM6HJSvs8"
+    },
+    {
       "name": "Turbulence",
       "artists": [
         "COQUEIT"
@@ -126,24 +134,14 @@
       ],
       "addedAt": "2026-09-12T14:42:15.000Z",
       "spotifyUrl": "https://open.spotify.com/track/4G2TIdOadEULlN581cBLSV"
-    },
-    {
-      "name": "Toca's Miracle",
-      "artists": [
-        "Armin van Buuren",
-        "Pete Tong",
-        "Poppy Baskcomb"
-      ],
-      "addedAt": "2026-09-11T20:58:38.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2dff2oZ433Dtyn8Pbq2YSZ"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2150,
+  "availableTracks": 2151,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-18T03:29:45.722Z"
+  "lastUpdated": "2026-09-18T15:56:31.334Z"
 }

@@ -96902,5 +96902,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/27ncyIhwc9ko5sgWv5ZRDG",
     "uri": "spotify:track:27ncyIhwc9ko5sgWv5ZRDG"
+  },
+  {
+    "position": 2162,
+    "addedAt": "2026-09-18T14:10:14.000Z",
+    "addedBy": {
+      "id": "11177181596",
+      "uri": "spotify:user:11177181596",
+      "href": "https://api.spotify.com/v1/users/11177181596",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11177181596"
+    },
+    "id": "5tRKKLIYxwsPcOM6HJSvs8",
+    "name": "Shimo Kitazawa",
+    "artists": [
+      {
+        "id": "3ikEi08G1s0jiIxBC9a9GE",
+        "name": "Mariano Mellino",
+        "uri": "spotify:artist:3ikEi08G1s0jiIxBC9a9GE",
+        "spotifyUrl": "https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE"
+      }
+    ],
+    "album": {
+      "id": "1yAJpbs2eLDRQCtMmmyGu8",
+      "name": "Shimo Kitazawa",
+      "uri": "spotify:album:1yAJpbs2eLDRQCtMmmyGu8",
+      "releaseDate": "2026-09-18",
+      "spotifyUrl": "https://open.spotify.com/album/1yAJpbs2eLDRQCtMmmyGu8",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e43203cd1325703a4b15918e"
+    },
+    "durationMs": 397410,
+    "durationMin": 6.62,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5tRKKLIYxwsPcOM6HJSvs8",
+    "uri": "spotify:track:5tRKKLIYxwsPcOM6HJSvs8"
   }
 ]
