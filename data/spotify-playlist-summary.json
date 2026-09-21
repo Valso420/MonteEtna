@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2162,
-  "exportedTracks": 2162,
-  "totalDurationMs": 605636232,
-  "totalHours": 168.2,
+  "totalTracks": 2163,
+  "exportedTracks": 2163,
+  "totalDurationMs": 605807038,
+  "totalHours": 168.3,
   "averageDurationMin": 4.67,
   "uniqueArtists": 1484,
-  "uniqueAlbums": 1877,
+  "uniqueAlbums": 1878,
   "topArtists": [
     {
       "name": "Mathame",
@@ -34,12 +34,12 @@
       "tracks": 50
     },
     {
-      "name": "ARTBAT",
+      "name": "19:26",
       "tracks": 45
     },
     {
-      "name": "19:26",
-      "tracks": 44
+      "name": "ARTBAT",
+      "tracks": 45
     },
     {
       "name": "Argy",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "On The Other Side",
+      "artists": [
+        "19:26",
+        "1LINE"
+      ],
+      "addedAt": "2026-09-21T02:51:52.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0aAQY1roE1NE7SrIE7LLkO"
+    },
+    {
       "name": "Shimo Kitazawa",
       "artists": [
         "Mariano Mellino"
@@ -126,22 +135,14 @@
       ],
       "addedAt": "2026-09-14T02:13:52.000Z",
       "spotifyUrl": "https://open.spotify.com/track/25LVaEhmSCh3Ww96dgnFB8"
-    },
-    {
-      "name": "Smoke Machine",
-      "artists": [
-        "Alesso"
-      ],
-      "addedAt": "2026-09-12T14:42:15.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4G2TIdOadEULlN581cBLSV"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 45,
-  "availableTracks": 2151,
+  "availableTracks": 2152,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-19T20:07:53.627Z"
+  "lastUpdated": "2026-09-21T03:38:42.491Z"
 }
