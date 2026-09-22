@@ -10,7 +10,7 @@
   "totalDurationMs": 605807038,
   "totalHours": 168.3,
   "averageDurationMin": 4.67,
-  "uniqueArtists": 1484,
+  "uniqueArtists": 1483,
   "uniqueAlbums": 1878,
   "topArtists": [
     {
@@ -143,6 +143,6 @@
   "availableTracks": 2152,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-22T03:36:56.516Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-09-22T11:03:58.790Z"
 }
