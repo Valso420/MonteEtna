@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2170,
-  "exportedTracks": 2170,
-  "totalDurationMs": 607185541,
-  "totalHours": 168.7,
+  "totalTracks": 2174,
+  "exportedTracks": 2174,
+  "totalDurationMs": 608110757,
+  "totalHours": 168.9,
   "averageDurationMin": 4.66,
-  "uniqueArtists": 1488,
-  "uniqueAlbums": 1884,
+  "uniqueArtists": 1490,
+  "uniqueAlbums": 1888,
   "topArtists": [
     {
       "name": "Mathame",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Argy",
-      "tracks": 41
+      "tracks": 42
     },
     {
       "name": "Adriatique",
@@ -63,15 +63,15 @@
     },
     {
       "name": "Layton Giordani",
+      "tracks": 32
+    },
+    {
+      "name": "Adam Beyer",
       "tracks": 31
     },
     {
       "name": "Rebūke",
       "tracks": 31
-    },
-    {
-      "name": "Adam Beyer",
-      "tracks": 30
     },
     {
       "name": "Goom Gum",
@@ -96,54 +96,59 @@
   ],
   "recentTracks": [
     {
+      "name": "Bassline",
+      "artists": [
+        "Layton Giordani",
+        "HILLS",
+        "Majestic",
+        "Jungle 70"
+      ],
+      "addedAt": "2026-09-23T18:27:38.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7KLsZrIzZc4S3sy3dYiX1g"
+    },
+    {
+      "name": "DNA - Maceo Plex Remix",
+      "artists": [
+        "Empire Of The Sun",
+        "Maceo Plex"
+      ],
+      "addedAt": "2026-09-23T18:14:45.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/122bVDFPISSrj6clnvSA9o"
+    },
+    {
+      "name": "Keep Up",
+      "artists": [
+        "Argy",
+        "Alok",
+        "Adam Beyer"
+      ],
+      "addedAt": "2026-09-23T18:08:19.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6wFTCYJm08o5Qp7fSsvHhb"
+    },
+    {
+      "name": "Desert Sunrise",
+      "artists": [
+        "Colyn",
+        "Sainte Vie"
+      ],
+      "addedAt": "2026-09-23T17:44:19.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/102hcV38lB1o5qFoijMxUw"
+    },
+    {
       "name": "Palm Of Your Hands",
       "artists": [
         "Adriatique"
       ],
       "addedAt": "2026-09-22T23:51:39.000Z",
       "spotifyUrl": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
-    },
-    {
-      "name": "Cardio",
-      "artists": [
-        "Viot"
-      ],
-      "addedAt": "2026-09-22T23:28:54.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3sCdCkVglGCFx5ZtOjS4wC"
-    },
-    {
-      "name": "Start Again",
-      "artists": [
-        "DvirNuns"
-      ],
-      "addedAt": "2026-09-22T23:20:17.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0T2eXmUM1ASvQHu0kcpey8"
-    },
-    {
-      "name": "Bad B$tch",
-      "artists": [
-        "DvirNuns",
-        "DOX"
-      ],
-      "addedAt": "2026-09-22T23:17:59.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
-    },
-    {
-      "name": "All I Want",
-      "artists": [
-        "Amour Propre",
-        "KIMONOS"
-      ],
-      "addedAt": "2026-09-22T23:12:08.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0m1kIRg4hRGZcJ52TAgFR6"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2159,
+  "availableTracks": 2163,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-23T16:14:10.407Z"
+  "lastUpdated": "2026-09-23T21:09:54.395Z"
 }

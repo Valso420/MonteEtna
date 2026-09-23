@@ -97286,5 +97286,207 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3sCdCkVglGCFx5ZtOjS4wC",
     "uri": "spotify:track:3sCdCkVglGCFx5ZtOjS4wC"
+  },
+  {
+    "position": 2171,
+    "addedAt": "2026-09-23T17:44:19.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "102hcV38lB1o5qFoijMxUw",
+    "name": "Desert Sunrise",
+    "artists": [
+      {
+        "id": "5vr1GvUstxr6nwxniKqLOh",
+        "name": "Colyn",
+        "uri": "spotify:artist:5vr1GvUstxr6nwxniKqLOh",
+        "spotifyUrl": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+      },
+      {
+        "id": "30oVwXZSlElygdNpcUIFBk",
+        "name": "Sainte Vie",
+        "uri": "spotify:artist:30oVwXZSlElygdNpcUIFBk",
+        "spotifyUrl": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+      }
+    ],
+    "album": {
+      "id": "1g1ib3Bexwlga70q09aT8d",
+      "name": "Desert Sunrise",
+      "uri": "spotify:album:1g1ib3Bexwlga70q09aT8d",
+      "releaseDate": "2026-09-18",
+      "spotifyUrl": "https://open.spotify.com/album/1g1ib3Bexwlga70q09aT8d",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cf96c5b9a44cfafaad38306d"
+    },
+    "durationMs": 224120,
+    "durationMin": 3.74,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/102hcV38lB1o5qFoijMxUw",
+    "uri": "spotify:track:102hcV38lB1o5qFoijMxUw"
+  },
+  {
+    "position": 2172,
+    "addedAt": "2026-09-23T18:08:19.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6wFTCYJm08o5Qp7fSsvHhb",
+    "name": "Keep Up",
+    "artists": [
+      {
+        "id": "1NaQOKgddaJipUtmptb7GI",
+        "name": "Argy",
+        "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI",
+        "spotifyUrl": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+      },
+      {
+        "id": "0NGAZxHanS9e0iNHpR8f2W",
+        "name": "Alok",
+        "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W",
+        "spotifyUrl": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+      },
+      {
+        "id": "1btv9qmIpbp7q1ixCYNdHu",
+        "name": "Adam Beyer",
+        "uri": "spotify:artist:1btv9qmIpbp7q1ixCYNdHu",
+        "spotifyUrl": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+      }
+    ],
+    "album": {
+      "id": "37rlDBmuQQhanOYPYmCAnB",
+      "name": "Keep Up",
+      "uri": "spotify:album:37rlDBmuQQhanOYPYmCAnB",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/37rlDBmuQQhanOYPYmCAnB",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d691ae1567badc4567c45677"
+    },
+    "durationMs": 158181,
+    "durationMin": 2.64,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6wFTCYJm08o5Qp7fSsvHhb",
+    "uri": "spotify:track:6wFTCYJm08o5Qp7fSsvHhb"
+  },
+  {
+    "position": 2173,
+    "addedAt": "2026-09-23T18:14:45.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "122bVDFPISSrj6clnvSA9o",
+    "name": "DNA - Maceo Plex Remix",
+    "artists": [
+      {
+        "id": "67hb7towEyKvt5Z8Bx306c",
+        "name": "Empire Of The Sun",
+        "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c",
+        "spotifyUrl": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+      },
+      {
+        "id": "3TXQ1ddouwQAI78hV4hXDj",
+        "name": "Maceo Plex",
+        "uri": "spotify:artist:3TXQ1ddouwQAI78hV4hXDj",
+        "spotifyUrl": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+      }
+    ],
+    "album": {
+      "id": "5R9pr4j6OnLnkaOfQ9VCHR",
+      "name": "DNA (Maceo Plex Remix)",
+      "uri": "spotify:album:5R9pr4j6OnLnkaOfQ9VCHR",
+      "releaseDate": "2026-09-18",
+      "spotifyUrl": "https://open.spotify.com/album/5R9pr4j6OnLnkaOfQ9VCHR",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737d1fbd20e4f5c769a4b3a425"
+    },
+    "durationMs": 400150,
+    "durationMin": 6.67,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/122bVDFPISSrj6clnvSA9o",
+    "uri": "spotify:track:122bVDFPISSrj6clnvSA9o"
+  },
+  {
+    "position": 2174,
+    "addedAt": "2026-09-23T18:27:38.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7KLsZrIzZc4S3sy3dYiX1g",
+    "name": "Bassline",
+    "artists": [
+      {
+        "id": "7mC3RkNNTV6p2j9w4F8Ip4",
+        "name": "Layton Giordani",
+        "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4",
+        "spotifyUrl": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+      },
+      {
+        "id": "3r1crp6G0IKYW21wO5h7dB",
+        "name": "HILLS",
+        "uri": "spotify:artist:3r1crp6G0IKYW21wO5h7dB",
+        "spotifyUrl": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+      },
+      {
+        "id": "6QMABvTzixnxzsLYyhqRxI",
+        "name": "Majestic",
+        "uri": "spotify:artist:6QMABvTzixnxzsLYyhqRxI",
+        "spotifyUrl": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+      },
+      {
+        "id": "2mKE6K8lwCwpeJisAZZbWl",
+        "name": "Jungle 70",
+        "uri": "spotify:artist:2mKE6K8lwCwpeJisAZZbWl",
+        "spotifyUrl": "https://open.spotify.com/artist/2mKE6K8lwCwpeJisAZZbWl"
+      }
+    ],
+    "album": {
+      "id": "3DeBBfFQkft6JQzUSY6yBl",
+      "name": "Bassline",
+      "uri": "spotify:album:3DeBBfFQkft6JQzUSY6yBl",
+      "releaseDate": "2026-09-23",
+      "spotifyUrl": "https://open.spotify.com/album/3DeBBfFQkft6JQzUSY6yBl",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a3e32936950416c0cc80ea8e"
+    },
+    "durationMs": 142765,
+    "durationMin": 2.38,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7KLsZrIzZc4S3sy3dYiX1g",
+    "uri": "spotify:track:7KLsZrIzZc4S3sy3dYiX1g"
   }
 ]
