@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2163,
-  "exportedTracks": 2163,
-  "totalDurationMs": 605807038,
-  "totalHours": 168.3,
-  "averageDurationMin": 4.67,
-  "uniqueArtists": 1484,
-  "uniqueAlbums": 1878,
+  "totalTracks": 2170,
+  "exportedTracks": 2170,
+  "totalDurationMs": 607185541,
+  "totalHours": 168.7,
+  "averageDurationMin": 4.66,
+  "uniqueArtists": 1488,
+  "uniqueAlbums": 1884,
   "topArtists": [
     {
       "name": "Mathame",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Adriatique",
-      "tracks": 38
+      "tracks": 39
     },
     {
       "name": "Kevin de Vries",
@@ -96,53 +96,54 @@
   ],
   "recentTracks": [
     {
-      "name": "On The Other Side",
+      "name": "Palm Of Your Hands",
       "artists": [
-        "19:26",
-        "1LINE"
+        "Adriatique"
       ],
-      "addedAt": "2026-09-21T02:51:52.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0aAQY1roE1NE7SrIE7LLkO"
+      "addedAt": "2026-09-22T23:51:39.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
     },
     {
-      "name": "Shimo Kitazawa",
+      "name": "Cardio",
       "artists": [
-        "Mariano Mellino"
+        "Viot"
       ],
-      "addedAt": "2026-09-18T14:10:14.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5tRKKLIYxwsPcOM6HJSvs8"
+      "addedAt": "2026-09-22T23:28:54.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3sCdCkVglGCFx5ZtOjS4wC"
     },
     {
-      "name": "Turbulence",
+      "name": "Start Again",
       "artists": [
-        "COQUEIT"
+        "DvirNuns"
       ],
-      "addedAt": "2026-09-16T03:57:22.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/27ncyIhwc9ko5sgWv5ZRDG"
+      "addedAt": "2026-09-22T23:20:17.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0T2eXmUM1ASvQHu0kcpey8"
     },
     {
-      "name": "Return",
+      "name": "Bad B$tch",
       "artists": [
-        "COQUEIT"
+        "DvirNuns",
+        "DOX"
       ],
-      "addedAt": "2026-09-16T03:57:08.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/420Is3cYomKf6xA4OOyj3k"
+      "addedAt": "2026-09-22T23:17:59.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
     },
     {
-      "name": "Super Fly - Extended",
+      "name": "All I Want",
       "artists": [
-        "Alphadog"
+        "Amour Propre",
+        "KIMONOS"
       ],
-      "addedAt": "2026-09-14T02:13:52.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/25LVaEhmSCh3Ww96dgnFB8"
+      "addedAt": "2026-09-22T23:12:08.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0m1kIRg4hRGZcJ52TAgFR6"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
-  "explicitTracks": 45,
-  "availableTracks": 2152,
+  "explicitTracks": 47,
+  "availableTracks": 2159,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-22T16:24:01.925Z"
+  "lastUpdated": "2026-09-23T03:36:42.620Z"
 }
