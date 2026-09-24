@@ -72151,7 +72151,7 @@
       "uri": "spotify:album:7bwDOWw83kF0dwfMol6XqL",
       "releaseDate": "2026-01-16",
       "spotifyUrl": "https://open.spotify.com/album/7bwDOWw83kF0dwfMol6XqL",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e14e67d5a6edd4635bf1d25c"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27328bf92dc12b74c5717d8e46e"
     },
     "durationMs": 213923,
     "durationMin": 3.57,
@@ -97488,5 +97488,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/7KLsZrIzZc4S3sy3dYiX1g",
     "uri": "spotify:track:7KLsZrIzZc4S3sy3dYiX1g"
+  },
+  {
+    "position": 2175,
+    "addedAt": "2026-09-24T04:09:49.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "6fMJnHQpaWq54M3qvHgqAG",
+    "name": "Ride",
+    "artists": [
+      {
+        "id": "7LgLp4jiDJgRk4Y0UJdpgw",
+        "name": "Chable",
+        "uri": "spotify:artist:7LgLp4jiDJgRk4Y0UJdpgw",
+        "spotifyUrl": "https://open.spotify.com/artist/7LgLp4jiDJgRk4Y0UJdpgw"
+      },
+      {
+        "id": "0ncSruP1iKqcImHDDZCml8",
+        "name": "Bonnici",
+        "uri": "spotify:artist:0ncSruP1iKqcImHDDZCml8",
+        "spotifyUrl": "https://open.spotify.com/artist/0ncSruP1iKqcImHDDZCml8"
+      }
+    ],
+    "album": {
+      "id": "4o5y5NoCt0lonwBJ2vy5nN",
+      "name": "Ride",
+      "uri": "spotify:album:4o5y5NoCt0lonwBJ2vy5nN",
+      "releaseDate": "2012-07-27",
+      "spotifyUrl": "https://open.spotify.com/album/4o5y5NoCt0lonwBJ2vy5nN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735d6892fc1382367000800197"
+    },
+    "durationMs": 262500,
+    "durationMin": 4.38,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6fMJnHQpaWq54M3qvHgqAG",
+    "uri": "spotify:track:6fMJnHQpaWq54M3qvHgqAG"
   }
 ]

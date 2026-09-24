@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2174,
-  "exportedTracks": 2174,
-  "totalDurationMs": 608110757,
-  "totalHours": 168.9,
+  "totalTracks": 2175,
+  "exportedTracks": 2175,
+  "totalDurationMs": 608373257,
+  "totalHours": 169,
   "averageDurationMin": 4.66,
-  "uniqueArtists": 1490,
-  "uniqueAlbums": 1888,
+  "uniqueArtists": 1492,
+  "uniqueAlbums": 1889,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Ride",
+      "artists": [
+        "Chable",
+        "Bonnici"
+      ],
+      "addedAt": "2026-09-24T04:09:49.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6fMJnHQpaWq54M3qvHgqAG"
+    },
+    {
       "name": "Bassline",
       "artists": [
         "Layton Giordani",
@@ -133,22 +142,14 @@
       ],
       "addedAt": "2026-09-23T17:44:19.000Z",
       "spotifyUrl": "https://open.spotify.com/track/102hcV38lB1o5qFoijMxUw"
-    },
-    {
-      "name": "Palm Of Your Hands",
-      "artists": [
-        "Adriatique"
-      ],
-      "addedAt": "2026-09-22T23:51:39.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2163,
+  "availableTracks": 2164,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-24T03:27:17.466Z"
+  "lastUpdated": "2026-09-24T11:12:46.571Z"
 }
