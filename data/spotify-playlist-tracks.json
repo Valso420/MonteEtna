@@ -97534,5 +97534,63 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/6fMJnHQpaWq54M3qvHgqAG",
     "uri": "spotify:track:6fMJnHQpaWq54M3qvHgqAG"
+  },
+  {
+    "position": 2176,
+    "addedAt": "2026-09-24T23:20:43.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4IKvewaZnwe4n3jJi3dT8t",
+    "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
+    "artists": [
+      {
+        "id": "3BkRu2TGd2I1uBxZKddfg1",
+        "name": "ARTBAT",
+        "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1",
+        "spotifyUrl": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+      },
+      {
+        "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+        "name": "David Guetta",
+        "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
+        "spotifyUrl": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+      },
+      {
+        "id": "2AsusXITU8P25dlRNhcAbG",
+        "name": "Gotye",
+        "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG",
+        "spotifyUrl": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+      },
+      {
+        "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+        "name": "Kimbra",
+        "uri": "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti",
+        "spotifyUrl": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+      }
+    ],
+    "album": {
+      "id": "5WZBSlCTwxhXZCg8W4WEr8",
+      "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
+      "uri": "spotify:album:5WZBSlCTwxhXZCg8W4WEr8",
+      "releaseDate": "2026-09-04",
+      "spotifyUrl": "https://open.spotify.com/album/5WZBSlCTwxhXZCg8W4WEr8",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d6550e81b1a4e2535effa4f0"
+    },
+    "durationMs": 194645,
+    "durationMin": 3.24,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t",
+    "uri": "spotify:track:4IKvewaZnwe4n3jJi3dT8t"
   }
 ]

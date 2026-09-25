@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2175,
-  "exportedTracks": 2175,
-  "totalDurationMs": 608373257,
+  "totalTracks": 2176,
+  "exportedTracks": 2176,
+  "totalDurationMs": 608567902,
   "totalHours": 169,
   "averageDurationMin": 4.66,
   "uniqueArtists": 1492,
-  "uniqueAlbums": 1889,
+  "uniqueAlbums": 1890,
   "topArtists": [
     {
       "name": "Mathame",
@@ -34,11 +34,11 @@
       "tracks": 50
     },
     {
-      "name": "19:26",
-      "tracks": 45
+      "name": "ARTBAT",
+      "tracks": 46
     },
     {
-      "name": "ARTBAT",
+      "name": "19:26",
       "tracks": 45
     },
     {
@@ -96,6 +96,17 @@
   ],
   "recentTracks": [
     {
+      "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
+      "artists": [
+        "ARTBAT",
+        "David Guetta",
+        "Gotye",
+        "Kimbra"
+      ],
+      "addedAt": "2026-09-24T23:20:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t"
+    },
+    {
       "name": "Ride",
       "artists": [
         "Chable",
@@ -133,23 +144,14 @@
       ],
       "addedAt": "2026-09-23T18:08:19.000Z",
       "spotifyUrl": "https://open.spotify.com/track/6wFTCYJm08o5Qp7fSsvHhb"
-    },
-    {
-      "name": "Desert Sunrise",
-      "artists": [
-        "Colyn",
-        "Sainte Vie"
-      ],
-      "addedAt": "2026-09-23T17:44:19.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/102hcV38lB1o5qFoijMxUw"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2164,
+  "availableTracks": 2165,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-24T11:12:46.571Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-09-25T03:44:37.890Z"
 }
