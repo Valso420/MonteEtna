@@ -97592,5 +97592,137 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t",
     "uri": "spotify:track:4IKvewaZnwe4n3jJi3dT8t"
+  },
+  {
+    "position": 2177,
+    "addedAt": "2026-09-25T22:53:07.000Z",
+    "addedBy": {
+      "id": "31wtbg2kqdzvf3cofepro5ru6qsi",
+      "uri": "spotify:user:31wtbg2kqdzvf3cofepro5ru6qsi",
+      "href": "https://api.spotify.com/v1/users/31wtbg2kqdzvf3cofepro5ru6qsi",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/31wtbg2kqdzvf3cofepro5ru6qsi"
+    },
+    "id": "634wPPWqEtqjK8RRKhQF4d",
+    "name": "On Lock",
+    "artists": [
+      {
+        "id": "0SnbG2YfyykWmnsXwBXonJ",
+        "name": "Dale Howard",
+        "uri": "spotify:artist:0SnbG2YfyykWmnsXwBXonJ",
+        "spotifyUrl": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+      }
+    ],
+    "album": {
+      "id": "0aIbxaGk5nvZ0cGpKGvwha",
+      "name": "On Lock",
+      "uri": "spotify:album:0aIbxaGk5nvZ0cGpKGvwha",
+      "releaseDate": "2026-06-19",
+      "spotifyUrl": "https://open.spotify.com/album/0aIbxaGk5nvZ0cGpKGvwha",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735dc6c9212f04c1853dcb61bd"
+    },
+    "durationMs": 207277,
+    "durationMin": 3.45,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/634wPPWqEtqjK8RRKhQF4d",
+    "uri": "spotify:track:634wPPWqEtqjK8RRKhQF4d"
+  },
+  {
+    "position": 2178,
+    "addedAt": "2026-09-26T01:04:48.000Z",
+    "addedBy": {
+      "id": "valumasso",
+      "uri": "spotify:user:valumasso",
+      "href": "https://api.spotify.com/v1/users/valumasso",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valumasso"
+    },
+    "id": "58oCU1J11lGbJYHnDXPIvB",
+    "name": "Numb",
+    "artists": [
+      {
+        "id": "6htWLP8aiuf19FYMA4VQAZ",
+        "name": "Massano",
+        "uri": "spotify:artist:6htWLP8aiuf19FYMA4VQAZ",
+        "spotifyUrl": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+      }
+    ],
+    "album": {
+      "id": "1RFzPOfla9p3RTil63Rg7m",
+      "name": "Numb",
+      "uri": "spotify:album:1RFzPOfla9p3RTil63Rg7m",
+      "releaseDate": "2026-09-25",
+      "spotifyUrl": "https://open.spotify.com/album/1RFzPOfla9p3RTil63Rg7m",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ab7cea95ba379f55716e6004"
+    },
+    "durationMs": 222619,
+    "durationMin": 3.71,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/58oCU1J11lGbJYHnDXPIvB",
+    "uri": "spotify:track:58oCU1J11lGbJYHnDXPIvB"
+  },
+  {
+    "position": 2179,
+    "addedAt": "2026-09-26T01:11:04.000Z",
+    "addedBy": {
+      "id": "valumasso",
+      "uri": "spotify:user:valumasso",
+      "href": "https://api.spotify.com/v1/users/valumasso",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valumasso"
+    },
+    "id": "0EhbgzF5x4krWOTRXMsXO5",
+    "name": "So Good (feat. Kuuda) - Francis Mercier Remix",
+    "artists": [
+      {
+        "id": "44qAhQu52dYKcHOFQd3esf",
+        "name": "Francis Mercier",
+        "uri": "spotify:artist:44qAhQu52dYKcHOFQd3esf",
+        "spotifyUrl": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+      },
+      {
+        "id": "240wlM8vDrf6S4zCyzGj2W",
+        "name": "CAMELPHAT",
+        "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W",
+        "spotifyUrl": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+      },
+      {
+        "id": "2aPOSo3CvB3a15zDorFBCh",
+        "name": "Kuuda",
+        "uri": "spotify:artist:2aPOSo3CvB3a15zDorFBCh",
+        "spotifyUrl": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+      }
+    ],
+    "album": {
+      "id": "74sYEsLEieB3FhNwAnsTkN",
+      "name": "So Good (feat. Kuuda) [Francis Mercier Remix]",
+      "uri": "spotify:album:74sYEsLEieB3FhNwAnsTkN",
+      "releaseDate": "2026-09-25",
+      "spotifyUrl": "https://open.spotify.com/album/74sYEsLEieB3FhNwAnsTkN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27377a3e416fdce34effcb2c5e7"
+    },
+    "durationMs": 171627,
+    "durationMin": 2.86,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0EhbgzF5x4krWOTRXMsXO5",
+    "uri": "spotify:track:0EhbgzF5x4krWOTRXMsXO5"
   }
 ]
