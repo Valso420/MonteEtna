@@ -97724,5 +97724,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/0EhbgzF5x4krWOTRXMsXO5",
     "uri": "spotify:track:0EhbgzF5x4krWOTRXMsXO5"
+  },
+  {
+    "position": 2180,
+    "addedAt": "2026-09-26T16:53:01.000Z",
+    "addedBy": {
+      "id": "valumasso",
+      "uri": "spotify:user:valumasso",
+      "href": "https://api.spotify.com/v1/users/valumasso",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valumasso"
+    },
+    "id": "67AoFkT611zuwNP8CRjyvx",
+    "name": "We Come 1",
+    "artists": [
+      {
+        "id": "1btv9qmIpbp7q1ixCYNdHu",
+        "name": "Adam Beyer",
+        "uri": "spotify:artist:1btv9qmIpbp7q1ixCYNdHu",
+        "spotifyUrl": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+      },
+      {
+        "id": "5T4UKHhr4HGIC0VzdZQtAE",
+        "name": "Faithless",
+        "uri": "spotify:artist:5T4UKHhr4HGIC0VzdZQtAE",
+        "spotifyUrl": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+      }
+    ],
+    "album": {
+      "id": "6JvalnlQnGWAXtZi8YPg7x",
+      "name": "We Come 1",
+      "uri": "spotify:album:6JvalnlQnGWAXtZi8YPg7x",
+      "releaseDate": "2026-09-25",
+      "spotifyUrl": "https://open.spotify.com/album/6JvalnlQnGWAXtZi8YPg7x",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27302e6a18710ad27173468747b"
+    },
+    "durationMs": 183694,
+    "durationMin": 3.06,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/67AoFkT611zuwNP8CRjyvx",
+    "uri": "spotify:track:67AoFkT611zuwNP8CRjyvx"
   }
 ]

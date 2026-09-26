@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2179,
-  "exportedTracks": 2179,
-  "totalDurationMs": 609169425,
-  "totalHours": 169.2,
+  "totalTracks": 2180,
+  "exportedTracks": 2180,
+  "totalDurationMs": 609353119,
+  "totalHours": 169.3,
   "averageDurationMin": 4.66,
   "uniqueArtists": 1493,
-  "uniqueAlbums": 1893,
+  "uniqueAlbums": 1894,
   "topArtists": [
     {
       "name": "Mathame",
@@ -58,16 +58,16 @@
       "tracks": 33
     },
     {
+      "name": "Adam Beyer",
+      "tracks": 32
+    },
+    {
       "name": "Innellea",
       "tracks": 32
     },
     {
       "name": "Layton Giordani",
       "tracks": 32
-    },
-    {
-      "name": "Adam Beyer",
-      "tracks": 31
     },
     {
       "name": "Rebūke",
@@ -95,6 +95,15 @@
     }
   ],
   "recentTracks": [
+    {
+      "name": "We Come 1",
+      "artists": [
+        "Adam Beyer",
+        "Faithless"
+      ],
+      "addedAt": "2026-09-26T16:53:01.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/67AoFkT611zuwNP8CRjyvx"
+    },
     {
       "name": "So Good (feat. Kuuda) - Francis Mercier Remix",
       "artists": [
@@ -131,23 +140,14 @@
       ],
       "addedAt": "2026-09-24T23:20:43.000Z",
       "spotifyUrl": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t"
-    },
-    {
-      "name": "Ride",
-      "artists": [
-        "Chable",
-        "Bonnici"
-      ],
-      "addedAt": "2026-09-24T04:09:49.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6fMJnHQpaWq54M3qvHgqAG"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2168,
+  "availableTracks": 2169,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-26T03:50:45.535Z"
+  "lastUpdated": "2026-09-26T20:42:38.955Z"
 }
