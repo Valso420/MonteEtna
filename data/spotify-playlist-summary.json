@@ -7,7 +7,7 @@
   "followers": 38,
   "totalTracks": 2182,
   "exportedTracks": 2182,
-  "totalDurationMs": 609862389,
+  "totalDurationMs": 609862388,
   "totalHours": 169.4,
   "averageDurationMin": 4.66,
   "uniqueArtists": 1493,
@@ -148,5 +148,5 @@
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-28T04:00:37.256Z"
+  "lastUpdated": "2026-09-28T22:59:22.149Z"
 }
