@@ -97770,5 +97770,97 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/67AoFkT611zuwNP8CRjyvx",
     "uri": "spotify:track:67AoFkT611zuwNP8CRjyvx"
+  },
+  {
+    "position": 2181,
+    "addedAt": "2026-09-27T23:58:55.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "59ZltBmmpAJ9CJ8RNevXIK",
+    "name": "Follow - SLVR Remix",
+    "artists": [
+      {
+        "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+        "name": "Mathame",
+        "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+        "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+      },
+      {
+        "id": "4nKvbonPefiFmshjpHENVU",
+        "name": "SLVR",
+        "uri": "spotify:artist:4nKvbonPefiFmshjpHENVU",
+        "spotifyUrl": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
+      },
+      {
+        "id": "7Io0XduXk7aOHFHA7sLru2",
+        "name": "Bonn",
+        "uri": "spotify:artist:7Io0XduXk7aOHFHA7sLru2",
+        "spotifyUrl": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+      }
+    ],
+    "album": {
+      "id": "4bhfSmO7kelWIEL9GVnT6B",
+      "name": "Follow (SLVR Remix)",
+      "uri": "spotify:album:4bhfSmO7kelWIEL9GVnT6B",
+      "releaseDate": "2026-09-25",
+      "spotifyUrl": "https://open.spotify.com/album/4bhfSmO7kelWIEL9GVnT6B",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737b4831c28234a7795181e46d"
+    },
+    "durationMs": 246461,
+    "durationMin": 4.11,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/59ZltBmmpAJ9CJ8RNevXIK",
+    "uri": "spotify:track:59ZltBmmpAJ9CJ8RNevXIK"
+  },
+  {
+    "position": 2182,
+    "addedAt": "2026-09-28T01:15:55.000Z",
+    "addedBy": {
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
+    },
+    "id": "6y04dwYrPlsU9snufwmJvg",
+    "name": "Stamina",
+    "artists": [
+      {
+        "id": "2W3M7XIkEKENCT1LXJ6mdj",
+        "name": "Simon Vuarambon",
+        "uri": "spotify:artist:2W3M7XIkEKENCT1LXJ6mdj",
+        "spotifyUrl": "https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj"
+      }
+    ],
+    "album": {
+      "id": "2cVz9awi0GltrYPtx6ofuF",
+      "name": "Stamina / Estigia",
+      "uri": "spotify:album:2cVz9awi0GltrYPtx6ofuF",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/2cVz9awi0GltrYPtx6ofuF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a890180a0db5408f9d69e738"
+    },
+    "durationMs": 262809,
+    "durationMin": 4.38,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6y04dwYrPlsU9snufwmJvg",
+    "uri": "spotify:track:6y04dwYrPlsU9snufwmJvg"
   }
 ]
