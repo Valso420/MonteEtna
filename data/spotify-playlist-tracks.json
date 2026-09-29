@@ -96241,292 +96241,6 @@
   },
   {
     "position": 2146,
-    "addedAt": "2026-09-09T18:57:41.000Z",
-    "addedBy": {
-      "id": "valentinstampone2",
-      "uri": "spotify:user:valentinstampone2",
-      "href": "https://api.spotify.com/v1/users/valentinstampone2",
-      "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
-    },
-    "id": "7puRAnhlz8Sv45bLntsuDS",
-    "name": "come closer",
-    "artists": [
-      {
-        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
-        "name": "Amelie Lens",
-        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
-        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-      }
-    ],
-    "album": {
-      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
-      "name": "AURA",
-      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
-      "releaseDate": "2026-09-04",
-      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
-    },
-    "durationMs": 300839,
-    "durationMin": 5.01,
-    "explicit": false,
-    "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
-    "availableMarkets": 0,
-    "popularity": null,
-    "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/7puRAnhlz8Sv45bLntsuDS",
-    "uri": "spotify:track:7puRAnhlz8Sv45bLntsuDS"
-  },
-  {
-    "position": 2147,
-    "addedAt": "2026-09-09T19:17:57.000Z",
-    "addedBy": {
-      "id": "valentinstampone2",
-      "uri": "spotify:user:valentinstampone2",
-      "href": "https://api.spotify.com/v1/users/valentinstampone2",
-      "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
-    },
-    "id": "01WgSIiUUA26qptyfLPx3f",
-    "name": "Interesting",
-    "artists": [
-      {
-        "id": "7eILArMiTFTQf8SEh5fFHK",
-        "name": "Sara Landry",
-        "uri": "spotify:artist:7eILArMiTFTQf8SEh5fFHK",
-        "spotifyUrl": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-      }
-    ],
-    "album": {
-      "id": "01btNDT5aKR5bXoySkh18j",
-      "name": "Interesting",
-      "uri": "spotify:album:01btNDT5aKR5bXoySkh18j",
-      "releaseDate": "2026-09-04",
-      "spotifyUrl": "https://open.spotify.com/album/01btNDT5aKR5bXoySkh18j",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731f27885c5c3404bb24581506"
-    },
-    "durationMs": 243023,
-    "durationMin": 4.05,
-    "explicit": false,
-    "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
-    "availableMarkets": 0,
-    "popularity": null,
-    "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/01WgSIiUUA26qptyfLPx3f",
-    "uri": "spotify:track:01WgSIiUUA26qptyfLPx3f"
-  },
-  {
-    "position": 2148,
-    "addedAt": "2026-09-09T19:24:02.000Z",
-    "addedBy": {
-      "id": "valentinstampone2",
-      "uri": "spotify:user:valentinstampone2",
-      "href": "https://api.spotify.com/v1/users/valentinstampone2",
-      "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
-    },
-    "id": "3bbfBPg7KrlTCEj8ikrJpm",
-    "name": "drift away",
-    "artists": [
-      {
-        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
-        "name": "Amelie Lens",
-        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
-        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-      }
-    ],
-    "album": {
-      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
-      "name": "AURA",
-      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
-      "releaseDate": "2026-09-04",
-      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
-    },
-    "durationMs": 257571,
-    "durationMin": 4.29,
-    "explicit": false,
-    "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
-    "availableMarkets": 0,
-    "popularity": null,
-    "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm",
-    "uri": "spotify:track:3bbfBPg7KrlTCEj8ikrJpm"
-  },
-  {
-    "position": 2149,
-    "addedAt": "2026-09-09T19:27:01.000Z",
-    "addedBy": {
-      "id": "valentinstampone2",
-      "uri": "spotify:user:valentinstampone2",
-      "href": "https://api.spotify.com/v1/users/valentinstampone2",
-      "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
-    },
-    "id": "1a7e599RXEzAUptQoHz1AD",
-    "name": "our frequency",
-    "artists": [
-      {
-        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
-        "name": "Amelie Lens",
-        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
-        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-      }
-    ],
-    "album": {
-      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
-      "name": "AURA",
-      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
-      "releaseDate": "2026-09-04",
-      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
-    },
-    "durationMs": 264388,
-    "durationMin": 4.41,
-    "explicit": false,
-    "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
-    "availableMarkets": 0,
-    "popularity": null,
-    "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/1a7e599RXEzAUptQoHz1AD",
-    "uri": "spotify:track:1a7e599RXEzAUptQoHz1AD"
-  },
-  {
-    "position": 2150,
-    "addedAt": "2026-09-09T19:32:03.000Z",
-    "addedBy": {
-      "id": "valentinstampone2",
-      "uri": "spotify:user:valentinstampone2",
-      "href": "https://api.spotify.com/v1/users/valentinstampone2",
-      "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
-    },
-    "id": "7172HazklWTG0yE9XvLWNZ",
-    "name": "run",
-    "artists": [
-      {
-        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
-        "name": "Amelie Lens",
-        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
-        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-      },
-      {
-        "id": "3QVolfxko2UyCOtexhVTli",
-        "name": "Angèle",
-        "uri": "spotify:artist:3QVolfxko2UyCOtexhVTli",
-        "spotifyUrl": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-      }
-    ],
-    "album": {
-      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
-      "name": "AURA",
-      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
-      "releaseDate": "2026-09-04",
-      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
-    },
-    "durationMs": 262297,
-    "durationMin": 4.37,
-    "explicit": false,
-    "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
-    "availableMarkets": 0,
-    "popularity": null,
-    "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/7172HazklWTG0yE9XvLWNZ",
-    "uri": "spotify:track:7172HazklWTG0yE9XvLWNZ"
-  },
-  {
-    "position": 2151,
-    "addedAt": "2026-09-09T19:45:18.000Z",
-    "addedBy": {
-      "id": "valentinstampone2",
-      "uri": "spotify:user:valentinstampone2",
-      "href": "https://api.spotify.com/v1/users/valentinstampone2",
-      "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
-    },
-    "id": "1u3sZYxMM19UibPICQSXzn",
-    "name": "a track at 150bpm",
-    "artists": [
-      {
-        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
-        "name": "Amelie Lens",
-        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
-        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-      }
-    ],
-    "album": {
-      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
-      "name": "AURA",
-      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
-      "releaseDate": "2026-09-04",
-      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
-    },
-    "durationMs": 303600,
-    "durationMin": 5.06,
-    "explicit": false,
-    "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
-    "availableMarkets": 0,
-    "popularity": null,
-    "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/1u3sZYxMM19UibPICQSXzn",
-    "uri": "spotify:track:1u3sZYxMM19UibPICQSXzn"
-  },
-  {
-    "position": 2152,
-    "addedAt": "2026-09-09T20:17:12.000Z",
-    "addedBy": {
-      "id": "valentinstampone2",
-      "uri": "spotify:user:valentinstampone2",
-      "href": "https://api.spotify.com/v1/users/valentinstampone2",
-      "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
-    },
-    "id": "3hAU3Oh1wImWXWCJNUd9uj",
-    "name": "the energy is us",
-    "artists": [
-      {
-        "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
-        "name": "Amelie Lens",
-        "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
-        "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-      }
-    ],
-    "album": {
-      "id": "6eJNFQ3WtEYfEBN7OKV7qd",
-      "name": "AURA",
-      "uri": "spotify:album:6eJNFQ3WtEYfEBN7OKV7qd",
-      "releaseDate": "2026-09-04",
-      "spotifyUrl": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e8fa4a8dcee871d1c37d0d7e"
-    },
-    "durationMs": 288413,
-    "durationMin": 4.81,
-    "explicit": false,
-    "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
-    "availableMarkets": 0,
-    "popularity": null,
-    "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/3hAU3Oh1wImWXWCJNUd9uj",
-    "uri": "spotify:track:3hAU3Oh1wImWXWCJNUd9uj"
-  },
-  {
-    "position": 2153,
     "addedAt": "2026-09-09T20:21:06.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -96566,7 +96280,7 @@
     "uri": "spotify:track:3wRO9Pt5iPbZTs8YT1x69Q"
   },
   {
-    "position": 2154,
+    "position": 2147,
     "addedAt": "2026-09-11T03:16:17.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -96606,7 +96320,7 @@
     "uri": "spotify:track:3XO43dyBY9DWKIAeFEidRC"
   },
   {
-    "position": 2155,
+    "position": 2148,
     "addedAt": "2026-09-11T19:46:30.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -96658,7 +96372,7 @@
     "uri": "spotify:track:4YhVo4VniHUGeTE6bOYF41"
   },
   {
-    "position": 2156,
+    "position": 2149,
     "addedAt": "2026-09-11T19:47:43.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -96698,7 +96412,7 @@
     "uri": "spotify:track:1mGiX0jNVqAU6JURbHeL3Z"
   },
   {
-    "position": 2157,
+    "position": 2150,
     "addedAt": "2026-09-11T20:58:38.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -96750,7 +96464,7 @@
     "uri": "spotify:track:2dff2oZ433Dtyn8Pbq2YSZ"
   },
   {
-    "position": 2158,
+    "position": 2151,
     "addedAt": "2026-09-12T14:42:15.000Z",
     "addedBy": {
       "id": "carolopezdavio",
@@ -96790,7 +96504,7 @@
     "uri": "spotify:track:4G2TIdOadEULlN581cBLSV"
   },
   {
-    "position": 2159,
+    "position": 2152,
     "addedAt": "2026-09-14T02:13:52.000Z",
     "addedBy": {
       "id": "31alyv5dft4kt3nfkz5es2cyhbyy",
@@ -96830,7 +96544,7 @@
     "uri": "spotify:track:25LVaEhmSCh3Ww96dgnFB8"
   },
   {
-    "position": 2160,
+    "position": 2153,
     "addedAt": "2026-09-16T03:57:08.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -96870,7 +96584,7 @@
     "uri": "spotify:track:420Is3cYomKf6xA4OOyj3k"
   },
   {
-    "position": 2161,
+    "position": 2154,
     "addedAt": "2026-09-16T03:57:22.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -96910,7 +96624,7 @@
     "uri": "spotify:track:27ncyIhwc9ko5sgWv5ZRDG"
   },
   {
-    "position": 2162,
+    "position": 2155,
     "addedAt": "2026-09-18T14:10:14.000Z",
     "addedBy": {
       "id": "11177181596",
@@ -96950,7 +96664,7 @@
     "uri": "spotify:track:5tRKKLIYxwsPcOM6HJSvs8"
   },
   {
-    "position": 2163,
+    "position": 2156,
     "addedAt": "2026-09-21T02:51:52.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -96996,7 +96710,7 @@
     "uri": "spotify:track:0aAQY1roE1NE7SrIE7LLkO"
   },
   {
-    "position": 2164,
+    "position": 2157,
     "addedAt": "2026-09-22T23:04:51.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -97036,7 +96750,7 @@
     "uri": "spotify:track:5cEO6TVLoxYzWDrki8xQF6"
   },
   {
-    "position": 2165,
+    "position": 2158,
     "addedAt": "2026-09-22T23:09:43.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -97076,7 +96790,7 @@
     "uri": "spotify:track:6XLhekkIS7BfwfBFTXViF3"
   },
   {
-    "position": 2166,
+    "position": 2159,
     "addedAt": "2026-09-22T23:12:08.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -97122,7 +96836,7 @@
     "uri": "spotify:track:0m1kIRg4hRGZcJ52TAgFR6"
   },
   {
-    "position": 2167,
+    "position": 2160,
     "addedAt": "2026-09-22T23:51:39.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -97162,7 +96876,7 @@
     "uri": "spotify:track:2tYfPquoioikwqPSIotQAf"
   },
   {
-    "position": 2168,
+    "position": 2161,
     "addedAt": "2026-09-22T23:17:59.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -97208,7 +96922,7 @@
     "uri": "spotify:track:0zmb9BlKv3YkdET099a0jU"
   },
   {
-    "position": 2169,
+    "position": 2162,
     "addedAt": "2026-09-22T23:20:17.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -97248,7 +96962,7 @@
     "uri": "spotify:track:0T2eXmUM1ASvQHu0kcpey8"
   },
   {
-    "position": 2170,
+    "position": 2163,
     "addedAt": "2026-09-22T23:28:54.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -97288,7 +97002,7 @@
     "uri": "spotify:track:3sCdCkVglGCFx5ZtOjS4wC"
   },
   {
-    "position": 2171,
+    "position": 2164,
     "addedAt": "2026-09-23T17:44:19.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -97334,7 +97048,7 @@
     "uri": "spotify:track:102hcV38lB1o5qFoijMxUw"
   },
   {
-    "position": 2172,
+    "position": 2165,
     "addedAt": "2026-09-23T18:08:19.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -97386,7 +97100,7 @@
     "uri": "spotify:track:6wFTCYJm08o5Qp7fSsvHhb"
   },
   {
-    "position": 2173,
+    "position": 2166,
     "addedAt": "2026-09-23T18:14:45.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -97432,7 +97146,7 @@
     "uri": "spotify:track:122bVDFPISSrj6clnvSA9o"
   },
   {
-    "position": 2174,
+    "position": 2167,
     "addedAt": "2026-09-23T18:27:38.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -97490,7 +97204,7 @@
     "uri": "spotify:track:7KLsZrIzZc4S3sy3dYiX1g"
   },
   {
-    "position": 2175,
+    "position": 2168,
     "addedAt": "2026-09-24T04:09:49.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -97536,7 +97250,7 @@
     "uri": "spotify:track:6fMJnHQpaWq54M3qvHgqAG"
   },
   {
-    "position": 2176,
+    "position": 2169,
     "addedAt": "2026-09-24T23:20:43.000Z",
     "addedBy": {
       "id": "valentinstampone2",
@@ -97594,7 +97308,7 @@
     "uri": "spotify:track:4IKvewaZnwe4n3jJi3dT8t"
   },
   {
-    "position": 2177,
+    "position": 2170,
     "addedAt": "2026-09-25T22:53:07.000Z",
     "addedBy": {
       "id": "31wtbg2kqdzvf3cofepro5ru6qsi",
@@ -97634,7 +97348,7 @@
     "uri": "spotify:track:634wPPWqEtqjK8RRKhQF4d"
   },
   {
-    "position": 2178,
+    "position": 2171,
     "addedAt": "2026-09-26T01:04:48.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -97674,7 +97388,7 @@
     "uri": "spotify:track:58oCU1J11lGbJYHnDXPIvB"
   },
   {
-    "position": 2179,
+    "position": 2172,
     "addedAt": "2026-09-26T01:11:04.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -97726,7 +97440,7 @@
     "uri": "spotify:track:0EhbgzF5x4krWOTRXMsXO5"
   },
   {
-    "position": 2180,
+    "position": 2173,
     "addedAt": "2026-09-26T16:53:01.000Z",
     "addedBy": {
       "id": "valumasso",
@@ -97772,7 +97486,7 @@
     "uri": "spotify:track:67AoFkT611zuwNP8CRjyvx"
   },
   {
-    "position": 2181,
+    "position": 2174,
     "addedAt": "2026-09-27T23:58:55.000Z",
     "addedBy": {
       "id": "peter_200002",
@@ -97824,7 +97538,7 @@
     "uri": "spotify:track:59ZltBmmpAJ9CJ8RNevXIK"
   },
   {
-    "position": 2182,
+    "position": 2175,
     "addedAt": "2026-09-28T01:15:55.000Z",
     "addedBy": {
       "id": "11138796265",
@@ -97864,7 +97578,7 @@
     "uri": "spotify:track:6y04dwYrPlsU9snufwmJvg"
   },
   {
-    "position": 2183,
+    "position": 2176,
     "addedAt": "2026-09-29T00:01:27.000Z",
     "addedBy": {
       "id": "peter_200002",
