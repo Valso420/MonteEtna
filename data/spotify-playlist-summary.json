@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2176,
-  "exportedTracks": 2176,
-  "totalDurationMs": 608234998,
-  "totalHours": 169,
-  "averageDurationMin": 4.66,
-  "uniqueArtists": 1493,
-  "uniqueAlbums": 1895,
+  "totalTracks": 2182,
+  "exportedTracks": 2182,
+  "totalDurationMs": 609278353,
+  "totalHours": 169.2,
+  "averageDurationMin": 4.65,
+  "uniqueArtists": 1495,
+  "uniqueAlbums": 1901,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,58 +96,54 @@
   ],
   "recentTracks": [
     {
-      "name": "Moody",
+      "name": "All The Single Ladies",
       "artists": [
-        "BPT",
-        "DM Binxter"
+        "Clüb De Combat"
       ],
-      "addedAt": "2026-09-29T00:01:27.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/05CzXc6tQ7b0tmMYs7b9Bv"
+      "addedAt": "2026-09-30T00:15:57.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6nHd05S2F8DITMquVWKj3U"
     },
     {
-      "name": "Stamina",
+      "name": "Back Of The Club",
       "artists": [
-        "Simon Vuarambon"
+        "Cloonee"
       ],
-      "addedAt": "2026-09-28T01:15:55.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6y04dwYrPlsU9snufwmJvg"
+      "addedAt": "2026-09-29T23:38:00.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
     },
     {
-      "name": "Follow - SLVR Remix",
+      "name": "Time - Edit",
       "artists": [
-        "Mathame",
-        "SLVR",
-        "Bonn"
-      ],
-      "addedAt": "2026-09-27T23:58:55.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/59ZltBmmpAJ9CJ8RNevXIK"
-    },
-    {
-      "name": "We Come 1",
-      "artists": [
-        "Adam Beyer",
-        "Faithless"
-      ],
-      "addedAt": "2026-09-26T16:53:01.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/67AoFkT611zuwNP8CRjyvx"
-    },
-    {
-      "name": "So Good (feat. Kuuda) - Francis Mercier Remix",
-      "artists": [
-        "Francis Mercier",
-        "CAMELPHAT",
+        "Hot Since 82",
         "Kuuda"
       ],
-      "addedAt": "2026-09-26T01:11:04.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0EhbgzF5x4krWOTRXMsXO5"
+      "addedAt": "2026-09-29T22:57:38.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4htvRYhJ56RRP6w8xgxZoO"
+    },
+    {
+      "name": "Reason Why",
+      "artists": [
+        "Sapian"
+      ],
+      "addedAt": "2026-09-29T22:50:56.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2gdRuTUTwNMSuuBpam6XS3"
+    },
+    {
+      "name": "Back to the 305",
+      "artists": [
+        "Omar+",
+        "Luke Dean"
+      ],
+      "addedAt": "2026-09-29T22:44:54.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2165,
+  "availableTracks": 2171,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-29T21:57:09.128Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-09-30T04:17:44.208Z"
 }
