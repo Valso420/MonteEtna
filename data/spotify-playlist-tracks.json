@@ -97874,5 +97874,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/6nHd05S2F8DITMquVWKj3U",
     "uri": "spotify:track:6nHd05S2F8DITMquVWKj3U"
+  },
+  {
+    "position": 2183,
+    "addedAt": "2026-10-01T00:28:39.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6jR4kjhVUsYnvLAmneGte6",
+    "name": "Call 911",
+    "artists": [
+      {
+        "id": "05tmGPn4fFdVpnsMt0YW5S",
+        "name": "Adam Ten",
+        "uri": "spotify:artist:05tmGPn4fFdVpnsMt0YW5S",
+        "spotifyUrl": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+      },
+      {
+        "id": "3DHC2ZUVADRKLSmqPcqvc6",
+        "name": "Rafael",
+        "uri": "spotify:artist:3DHC2ZUVADRKLSmqPcqvc6",
+        "spotifyUrl": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+      }
+    ],
+    "album": {
+      "id": "5MiuWwQND8PP3KZyT2iWV2",
+      "name": "Call 911",
+      "uri": "spotify:album:5MiuWwQND8PP3KZyT2iWV2",
+      "releaseDate": "2024-06-14",
+      "spotifyUrl": "https://open.spotify.com/album/5MiuWwQND8PP3KZyT2iWV2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273533dead5710daeb89eccb6a5"
+    },
+    "durationMs": 224032,
+    "durationMin": 3.73,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6jR4kjhVUsYnvLAmneGte6",
+    "uri": "spotify:track:6jR4kjhVUsYnvLAmneGte6"
   }
 ]

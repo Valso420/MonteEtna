@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2182,
-  "exportedTracks": 2182,
-  "totalDurationMs": 609278353,
-  "totalHours": 169.2,
+  "totalTracks": 2183,
+  "exportedTracks": 2183,
+  "totalDurationMs": 609502385,
+  "totalHours": 169.3,
   "averageDurationMin": 4.65,
   "uniqueArtists": 1495,
-  "uniqueAlbums": 1901,
+  "uniqueAlbums": 1902,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Call 911",
+      "artists": [
+        "Adam Ten",
+        "Rafael"
+      ],
+      "addedAt": "2026-10-01T00:28:39.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6jR4kjhVUsYnvLAmneGte6"
+    },
+    {
       "name": "All The Single Ladies",
       "artists": [
         "Clüb De Combat"
@@ -127,23 +136,14 @@
       ],
       "addedAt": "2026-09-29T22:50:56.000Z",
       "spotifyUrl": "https://open.spotify.com/track/2gdRuTUTwNMSuuBpam6XS3"
-    },
-    {
-      "name": "Back to the 305",
-      "artists": [
-        "Omar+",
-        "Luke Dean"
-      ],
-      "addedAt": "2026-09-29T22:44:54.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2171,
+  "availableTracks": 2172,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-09-30T21:55:32.388Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-10-01T04:29:46.196Z"
 }
