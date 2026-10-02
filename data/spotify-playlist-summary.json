@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2183,
-  "exportedTracks": 2183,
-  "totalDurationMs": 609502385,
-  "totalHours": 169.3,
+  "totalTracks": 2185,
+  "exportedTracks": 2185,
+  "totalDurationMs": 609863689,
+  "totalHours": 169.4,
   "averageDurationMin": 4.65,
   "uniqueArtists": 1495,
-  "uniqueAlbums": 1902,
+  "uniqueAlbums": 1904,
   "topArtists": [
     {
       "name": "Mathame",
@@ -35,7 +35,7 @@
     },
     {
       "name": "ARTBAT",
-      "tracks": 46
+      "tracks": 47
     },
     {
       "name": "19:26",
@@ -96,6 +96,24 @@
   ],
   "recentTracks": [
     {
+      "name": "Work With Me",
+      "artists": [
+        "Green Velvet",
+        "Detlef"
+      ],
+      "addedAt": "2026-10-02T11:57:30.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7eSwXy2etUZ9aqeZ0b3sfl"
+    },
+    {
+      "name": "Dramma",
+      "artists": [
+        "R3HAB",
+        "ARTBAT"
+      ],
+      "addedAt": "2026-10-02T11:52:18.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1eUxAz48txalzffXUUdTtr"
+    },
+    {
       "name": "Call 911",
       "artists": [
         "Adam Ten",
@@ -119,31 +137,14 @@
       ],
       "addedAt": "2026-09-29T23:38:00.000Z",
       "spotifyUrl": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
-    },
-    {
-      "name": "Time - Edit",
-      "artists": [
-        "Hot Since 82",
-        "Kuuda"
-      ],
-      "addedAt": "2026-09-29T22:57:38.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4htvRYhJ56RRP6w8xgxZoO"
-    },
-    {
-      "name": "Reason Why",
-      "artists": [
-        "Sapian"
-      ],
-      "addedAt": "2026-09-29T22:50:56.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2gdRuTUTwNMSuuBpam6XS3"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2172,
+  "availableTracks": 2174,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-01T22:23:57.684Z"
+  "lastUpdated": "2026-10-02T11:58:59.844Z"
 }

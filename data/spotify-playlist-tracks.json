@@ -97920,5 +97920,97 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/6jR4kjhVUsYnvLAmneGte6",
     "uri": "spotify:track:6jR4kjhVUsYnvLAmneGte6"
+  },
+  {
+    "position": 2184,
+    "addedAt": "2026-10-02T11:52:18.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1eUxAz48txalzffXUUdTtr",
+    "name": "Dramma",
+    "artists": [
+      {
+        "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+        "name": "R3HAB",
+        "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ",
+        "spotifyUrl": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+      },
+      {
+        "id": "3BkRu2TGd2I1uBxZKddfg1",
+        "name": "ARTBAT",
+        "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1",
+        "spotifyUrl": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+      }
+    ],
+    "album": {
+      "id": "0fqD0NWfRlK9GMa6CwxgSF",
+      "name": "Dramma",
+      "uri": "spotify:album:0fqD0NWfRlK9GMa6CwxgSF",
+      "releaseDate": "2026-10-02",
+      "spotifyUrl": "https://open.spotify.com/album/0fqD0NWfRlK9GMa6CwxgSF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734b9e9653c5cd883456493ed8"
+    },
+    "durationMs": 209463,
+    "durationMin": 3.49,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1eUxAz48txalzffXUUdTtr",
+    "uri": "spotify:track:1eUxAz48txalzffXUUdTtr"
+  },
+  {
+    "position": 2185,
+    "addedAt": "2026-10-02T11:57:30.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7eSwXy2etUZ9aqeZ0b3sfl",
+    "name": "Work With Me",
+    "artists": [
+      {
+        "id": "3ABaec4jjl95VqmG1iD4k2",
+        "name": "Green Velvet",
+        "uri": "spotify:artist:3ABaec4jjl95VqmG1iD4k2",
+        "spotifyUrl": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+      },
+      {
+        "id": "5lZ8HC92jRDlyeq0vSxGeI",
+        "name": "Detlef",
+        "uri": "spotify:artist:5lZ8HC92jRDlyeq0vSxGeI",
+        "spotifyUrl": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+      }
+    ],
+    "album": {
+      "id": "6kg0BEzaA54IF254NH4Km8",
+      "name": "Work With Me",
+      "uri": "spotify:album:6kg0BEzaA54IF254NH4Km8",
+      "releaseDate": "2026-10-02",
+      "spotifyUrl": "https://open.spotify.com/album/6kg0BEzaA54IF254NH4Km8",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733bed9e5cb1983ca33efa1d39"
+    },
+    "durationMs": 151841,
+    "durationMin": 2.53,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7eSwXy2etUZ9aqeZ0b3sfl",
+    "uri": "spotify:track:7eSwXy2etUZ9aqeZ0b3sfl"
   }
 ]
