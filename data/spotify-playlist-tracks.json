@@ -98012,5 +98012,303 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/7eSwXy2etUZ9aqeZ0b3sfl",
     "uri": "spotify:track:7eSwXy2etUZ9aqeZ0b3sfl"
+  },
+  {
+    "position": 2186,
+    "addedAt": "2026-10-02T12:05:11.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3kH1nkdADJAjF2Z0wVQH80",
+    "name": "On Repeat",
+    "artists": [
+      {
+        "id": "310IX3ZzFSl14ZvY2dM8Da",
+        "name": "Silver Panda",
+        "uri": "spotify:artist:310IX3ZzFSl14ZvY2dM8Da",
+        "spotifyUrl": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+      }
+    ],
+    "album": {
+      "id": "2VFwkgGYDFCYIlLlUTf5Ag",
+      "name": "On Repeat",
+      "uri": "spotify:album:2VFwkgGYDFCYIlLlUTf5Ag",
+      "releaseDate": "2026-10-02",
+      "spotifyUrl": "https://open.spotify.com/album/2VFwkgGYDFCYIlLlUTf5Ag",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27320d92d8f0779a10d31add7da"
+    },
+    "durationMs": 173437,
+    "durationMin": 2.89,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3kH1nkdADJAjF2Z0wVQH80",
+    "uri": "spotify:track:3kH1nkdADJAjF2Z0wVQH80"
+  },
+  {
+    "position": 2187,
+    "addedAt": "2026-10-02T12:06:45.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4lmxSjvixVj20dPXoBw91I",
+    "name": "Away",
+    "artists": [
+      {
+        "id": "0wKUDx34qpJqHSSGOFSAkf",
+        "name": "Paradoks",
+        "uri": "spotify:artist:0wKUDx34qpJqHSSGOFSAkf",
+        "spotifyUrl": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+      }
+    ],
+    "album": {
+      "id": "5ggQLLQpuqqZbQewmHFnZE",
+      "name": "Away",
+      "uri": "spotify:album:5ggQLLQpuqqZbQewmHFnZE",
+      "releaseDate": "2026-10-02",
+      "spotifyUrl": "https://open.spotify.com/album/5ggQLLQpuqqZbQewmHFnZE",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273dc47069efceb1c66ca265ee8"
+    },
+    "durationMs": 203149,
+    "durationMin": 3.39,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4lmxSjvixVj20dPXoBw91I",
+    "uri": "spotify:track:4lmxSjvixVj20dPXoBw91I"
+  },
+  {
+    "position": 2188,
+    "addedAt": "2026-10-02T12:10:35.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "04yNxRlfSYO2hUhgOOx3Nb",
+    "name": "Never Crash",
+    "artists": [
+      {
+        "id": "3NUcxMYt10f6cx567crDk2",
+        "name": "Rafael Cerato",
+        "uri": "spotify:artist:3NUcxMYt10f6cx567crDk2",
+        "spotifyUrl": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+      }
+    ],
+    "album": {
+      "id": "4jBbHw1xY7l0F51Wv4Cmlc",
+      "name": "Never Crash",
+      "uri": "spotify:album:4jBbHw1xY7l0F51Wv4Cmlc",
+      "releaseDate": "2026-10-02",
+      "spotifyUrl": "https://open.spotify.com/album/4jBbHw1xY7l0F51Wv4Cmlc",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fc4c9bded188b10c668e7b4f"
+    },
+    "durationMs": 225230,
+    "durationMin": 3.75,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb",
+    "uri": "spotify:track:04yNxRlfSYO2hUhgOOx3Nb"
+  },
+  {
+    "position": 2189,
+    "addedAt": "2026-10-02T12:17:30.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6Mh9cogR0TX3b2gkpEvnMa",
+    "name": "Picking Sides",
+    "artists": [
+      {
+        "id": "2r6S8dhE6TLxyYJndSd345",
+        "name": "Disfreq",
+        "uri": "spotify:artist:2r6S8dhE6TLxyYJndSd345",
+        "spotifyUrl": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+      }
+    ],
+    "album": {
+      "id": "6bXQYo7BkOEEYTMo8p4cTe",
+      "name": "Picking Sides",
+      "uri": "spotify:album:6bXQYo7BkOEEYTMo8p4cTe",
+      "releaseDate": "2026-10-01",
+      "spotifyUrl": "https://open.spotify.com/album/6bXQYo7BkOEEYTMo8p4cTe",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738a4bd82809b06faadfcdedb2"
+    },
+    "durationMs": 181732,
+    "durationMin": 3.03,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6Mh9cogR0TX3b2gkpEvnMa",
+    "uri": "spotify:track:6Mh9cogR0TX3b2gkpEvnMa"
+  },
+  {
+    "position": 2190,
+    "addedAt": "2026-10-02T12:21:46.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0mPxo3U3KCYb6hGfQNXVkx",
+    "name": "Uplift/Better Days",
+    "artists": [
+      {
+        "id": "2r6S8dhE6TLxyYJndSd345",
+        "name": "Disfreq",
+        "uri": "spotify:artist:2r6S8dhE6TLxyYJndSd345",
+        "spotifyUrl": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+      }
+    ],
+    "album": {
+      "id": "6bXQYo7BkOEEYTMo8p4cTe",
+      "name": "Picking Sides",
+      "uri": "spotify:album:6bXQYo7BkOEEYTMo8p4cTe",
+      "releaseDate": "2026-10-01",
+      "spotifyUrl": "https://open.spotify.com/album/6bXQYo7BkOEEYTMo8p4cTe",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738a4bd82809b06faadfcdedb2"
+    },
+    "durationMs": 167495,
+    "durationMin": 2.79,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0mPxo3U3KCYb6hGfQNXVkx",
+    "uri": "spotify:track:0mPxo3U3KCYb6hGfQNXVkx"
+  },
+  {
+    "position": 2191,
+    "addedAt": "2026-10-02T12:24:34.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1HuYbgOm63RhirbnHJiBQL",
+    "name": "Maiden City",
+    "artists": [
+      {
+        "id": "2r6S8dhE6TLxyYJndSd345",
+        "name": "Disfreq",
+        "uri": "spotify:artist:2r6S8dhE6TLxyYJndSd345",
+        "spotifyUrl": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+      },
+      {
+        "id": "3ZNGHjHAtesA1czp8QKYK6",
+        "name": "somedeadbeat",
+        "uri": "spotify:artist:3ZNGHjHAtesA1czp8QKYK6",
+        "spotifyUrl": "https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6"
+      }
+    ],
+    "album": {
+      "id": "6bXQYo7BkOEEYTMo8p4cTe",
+      "name": "Picking Sides",
+      "uri": "spotify:album:6bXQYo7BkOEEYTMo8p4cTe",
+      "releaseDate": "2026-10-01",
+      "spotifyUrl": "https://open.spotify.com/album/6bXQYo7BkOEEYTMo8p4cTe",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738a4bd82809b06faadfcdedb2"
+    },
+    "durationMs": 236488,
+    "durationMin": 3.94,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1HuYbgOm63RhirbnHJiBQL",
+    "uri": "spotify:track:1HuYbgOm63RhirbnHJiBQL"
+  },
+  {
+    "position": 2192,
+    "addedAt": "2026-10-02T12:35:38.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "023qV94Ht3gvzt3EKyO1qM",
+    "name": "Turn Up The Speakers - Julian Jordan Remix",
+    "artists": [
+      {
+        "id": "4D75GcNG95ebPtNvoNVXhz",
+        "name": "AFROJACK",
+        "uri": "spotify:artist:4D75GcNG95ebPtNvoNVXhz",
+        "spotifyUrl": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+      },
+      {
+        "id": "60d24wfXkVzDSfLS6hyCjZ",
+        "name": "Martin Garrix",
+        "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ",
+        "spotifyUrl": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+      },
+      {
+        "id": "2vUCVkeZjzDcaoX4gagHdV",
+        "name": "Julian Jordan",
+        "uri": "spotify:artist:2vUCVkeZjzDcaoX4gagHdV",
+        "spotifyUrl": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+      }
+    ],
+    "album": {
+      "id": "3ls2ibRNHUJwcwQLkGYWFk",
+      "name": "Turn Up The Speakers (Julian Jordan Remix)",
+      "uri": "spotify:album:3ls2ibRNHUJwcwQLkGYWFk",
+      "releaseDate": "2026-09-18",
+      "spotifyUrl": "https://open.spotify.com/album/3ls2ibRNHUJwcwQLkGYWFk",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273abaf39bcce9acb1c9d6e4779"
+    },
+    "durationMs": 156489,
+    "durationMin": 2.61,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM",
+    "uri": "spotify:track:023qV94Ht3gvzt3EKyO1qM"
   }
 ]

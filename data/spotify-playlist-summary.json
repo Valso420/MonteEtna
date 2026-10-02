@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2185,
-  "exportedTracks": 2185,
-  "totalDurationMs": 609863689,
-  "totalHours": 169.4,
+  "totalTracks": 2192,
+  "exportedTracks": 2192,
+  "totalDurationMs": 611207709,
+  "totalHours": 169.8,
   "averageDurationMin": 4.65,
-  "uniqueArtists": 1495,
-  "uniqueAlbums": 1904,
+  "uniqueArtists": 1499,
+  "uniqueAlbums": 1909,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,55 +96,55 @@
   ],
   "recentTracks": [
     {
-      "name": "Work With Me",
+      "name": "Turn Up The Speakers - Julian Jordan Remix",
       "artists": [
-        "Green Velvet",
-        "Detlef"
+        "AFROJACK",
+        "Martin Garrix",
+        "Julian Jordan"
       ],
-      "addedAt": "2026-10-02T11:57:30.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7eSwXy2etUZ9aqeZ0b3sfl"
+      "addedAt": "2026-10-02T12:35:38.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM"
     },
     {
-      "name": "Dramma",
+      "name": "Maiden City",
       "artists": [
-        "R3HAB",
-        "ARTBAT"
+        "Disfreq",
+        "somedeadbeat"
       ],
-      "addedAt": "2026-10-02T11:52:18.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1eUxAz48txalzffXUUdTtr"
+      "addedAt": "2026-10-02T12:24:34.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1HuYbgOm63RhirbnHJiBQL"
     },
     {
-      "name": "Call 911",
+      "name": "Uplift/Better Days",
       "artists": [
-        "Adam Ten",
-        "Rafael"
+        "Disfreq"
       ],
-      "addedAt": "2026-10-01T00:28:39.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6jR4kjhVUsYnvLAmneGte6"
+      "addedAt": "2026-10-02T12:21:46.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0mPxo3U3KCYb6hGfQNXVkx"
     },
     {
-      "name": "All The Single Ladies",
+      "name": "Picking Sides",
       "artists": [
-        "Clüb De Combat"
+        "Disfreq"
       ],
-      "addedAt": "2026-09-30T00:15:57.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6nHd05S2F8DITMquVWKj3U"
+      "addedAt": "2026-10-02T12:17:30.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6Mh9cogR0TX3b2gkpEvnMa"
     },
     {
-      "name": "Back Of The Club",
+      "name": "Never Crash",
       "artists": [
-        "Cloonee"
+        "Rafael Cerato"
       ],
-      "addedAt": "2026-09-29T23:38:00.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
+      "addedAt": "2026-10-02T12:10:35.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2174,
+  "availableTracks": 2181,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-02T11:58:59.844Z"
+  "lastUpdated": "2026-10-02T17:48:14.819Z"
 }
