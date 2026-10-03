@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2192,
-  "exportedTracks": 2192,
-  "totalDurationMs": 611207709,
-  "totalHours": 169.8,
+  "totalTracks": 2194,
+  "exportedTracks": 2194,
+  "totalDurationMs": 611777619,
+  "totalHours": 169.9,
   "averageDurationMin": 4.65,
-  "uniqueArtists": 1499,
-  "uniqueAlbums": 1909,
+  "uniqueArtists": 1500,
+  "uniqueAlbums": 1911,
   "topArtists": [
     {
       "name": "Mathame",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Solomun",
-      "tracks": 50
+      "tracks": 51
     },
     {
       "name": "ARTBAT",
@@ -96,6 +96,24 @@
   ],
   "recentTracks": [
     {
+      "name": "DANGER DANGER (feat. Skepta)",
+      "artists": [
+        "Dom Dolla",
+        "Solomun",
+        "Skepta"
+      ],
+      "addedAt": "2026-10-03T01:29:58.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/49fqtR2gcZXvJRQNbwrGkU"
+    },
+    {
+      "name": "Memento (Flashback) [ABGT695] - Mixed",
+      "artists": [
+        "YOTTO"
+      ],
+      "addedAt": "2026-10-03T01:29:06.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2EqXmARgtldvYUW7e8h7LI"
+    },
+    {
       "name": "Turn Up The Speakers - Julian Jordan Remix",
       "artists": [
         "AFROJACK",
@@ -121,30 +139,14 @@
       ],
       "addedAt": "2026-10-02T12:21:46.000Z",
       "spotifyUrl": "https://open.spotify.com/track/0mPxo3U3KCYb6hGfQNXVkx"
-    },
-    {
-      "name": "Picking Sides",
-      "artists": [
-        "Disfreq"
-      ],
-      "addedAt": "2026-10-02T12:17:30.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6Mh9cogR0TX3b2gkpEvnMa"
-    },
-    {
-      "name": "Never Crash",
-      "artists": [
-        "Rafael Cerato"
-      ],
-      "addedAt": "2026-10-02T12:10:35.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2181,
+  "availableTracks": 2183,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-02T17:48:14.819Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-10-03T04:04:19.835Z"
 }
