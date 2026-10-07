@@ -98402,5 +98402,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/49fqtR2gcZXvJRQNbwrGkU",
     "uri": "spotify:track:49fqtR2gcZXvJRQNbwrGkU"
+  },
+  {
+    "position": 2195,
+    "addedAt": "2026-10-07T12:07:36.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0I90jklTm1yNB0FUak33Va",
+    "name": "Serotonin",
+    "artists": [
+      {
+        "id": "19HFRWmRCl27kTk6LeqAO8",
+        "name": "MORTEN",
+        "uri": "spotify:artist:19HFRWmRCl27kTk6LeqAO8",
+        "spotifyUrl": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+      },
+      {
+        "id": "0DdDnziut7wOo6cAYWVZC5",
+        "name": "KREAM",
+        "uri": "spotify:artist:0DdDnziut7wOo6cAYWVZC5",
+        "spotifyUrl": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+      }
+    ],
+    "album": {
+      "id": "5XsL9OkrlwSFgGT9626tCF",
+      "name": "Serotonin",
+      "uri": "spotify:album:5XsL9OkrlwSFgGT9626tCF",
+      "releaseDate": "2026-10-02",
+      "spotifyUrl": "https://open.spotify.com/album/5XsL9OkrlwSFgGT9626tCF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273136c68ee46f736c6b5a6e064"
+    },
+    "durationMs": 210461,
+    "durationMin": 3.51,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0I90jklTm1yNB0FUak33Va",
+    "uri": "spotify:track:0I90jklTm1yNB0FUak33Va"
   }
 ]

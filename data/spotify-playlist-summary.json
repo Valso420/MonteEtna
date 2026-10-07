@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2194,
-  "exportedTracks": 2194,
-  "totalDurationMs": 611777619,
-  "totalHours": 169.9,
+  "totalTracks": 2195,
+  "exportedTracks": 2195,
+  "totalDurationMs": 611988080,
+  "totalHours": 170,
   "averageDurationMin": 4.65,
   "uniqueArtists": 1500,
-  "uniqueAlbums": 1911,
+  "uniqueAlbums": 1912,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Serotonin",
+      "artists": [
+        "MORTEN",
+        "KREAM"
+      ],
+      "addedAt": "2026-10-07T12:07:36.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0I90jklTm1yNB0FUak33Va"
+    },
+    {
       "name": "DANGER DANGER (feat. Skepta)",
       "artists": [
         "Dom Dolla",
@@ -131,22 +140,14 @@
       ],
       "addedAt": "2026-10-02T12:24:34.000Z",
       "spotifyUrl": "https://open.spotify.com/track/1HuYbgOm63RhirbnHJiBQL"
-    },
-    {
-      "name": "Uplift/Better Days",
-      "artists": [
-        "Disfreq"
-      ],
-      "addedAt": "2026-10-02T12:21:46.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0mPxo3U3KCYb6hGfQNXVkx"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2183,
+  "availableTracks": 2184,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-07T04:38:28.643Z"
+  "lastUpdated": "2026-10-07T12:45:56.508Z"
 }
