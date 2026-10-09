@@ -98448,5 +98448,321 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/0I90jklTm1yNB0FUak33Va",
     "uri": "spotify:track:0I90jklTm1yNB0FUak33Va"
+  },
+  {
+    "position": 2196,
+    "addedAt": "2026-10-09T12:22:02.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "75nfksg81xA26Cjk6x90ce",
+    "name": "Unlock",
+    "artists": [
+      {
+        "id": "6UbcuFp6HP6InTAbPASxff",
+        "name": "TH;EN",
+        "uri": "spotify:artist:6UbcuFp6HP6InTAbPASxff",
+        "spotifyUrl": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+      }
+    ],
+    "album": {
+      "id": "7dDiSRq5OzOgVRNQOZytF7",
+      "name": "Unlock",
+      "uri": "spotify:album:7dDiSRq5OzOgVRNQOZytF7",
+      "releaseDate": "2026-10-09",
+      "spotifyUrl": "https://open.spotify.com/album/7dDiSRq5OzOgVRNQOZytF7",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273537e41723b48734d957d5346"
+    },
+    "durationMs": 204375,
+    "durationMin": 3.41,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/75nfksg81xA26Cjk6x90ce",
+    "uri": "spotify:track:75nfksg81xA26Cjk6x90ce"
+  },
+  {
+    "position": 2197,
+    "addedAt": "2026-10-09T12:23:36.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7s87x3nioZJO4Yt1YIxqhQ",
+    "name": "Obsidian",
+    "artists": [
+      {
+        "id": "11aPF3sc8lDWNqPVInm4Zx",
+        "name": "Kevin de Vries",
+        "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+        "spotifyUrl": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      },
+      {
+        "id": "6HieW9hwQClrvr5bKvw0lo",
+        "name": "Juan Elvadin",
+        "uri": "spotify:artist:6HieW9hwQClrvr5bKvw0lo",
+        "spotifyUrl": "https://open.spotify.com/artist/6HieW9hwQClrvr5bKvw0lo"
+      }
+    ],
+    "album": {
+      "id": "275PPpRQ8N7EqbAqk45Tmy",
+      "name": "Obsidian",
+      "uri": "spotify:album:275PPpRQ8N7EqbAqk45Tmy",
+      "releaseDate": "2026-10-09",
+      "spotifyUrl": "https://open.spotify.com/album/275PPpRQ8N7EqbAqk45Tmy",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f2024fb45c6584882c096753"
+    },
+    "durationMs": 202597,
+    "durationMin": 3.38,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7s87x3nioZJO4Yt1YIxqhQ",
+    "uri": "spotify:track:7s87x3nioZJO4Yt1YIxqhQ"
+  },
+  {
+    "position": 2198,
+    "addedAt": "2026-10-09T12:27:31.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7jomSMpQqEU65E2hFFIjOf",
+    "name": "Feel Me",
+    "artists": [
+      {
+        "id": "11aPF3sc8lDWNqPVInm4Zx",
+        "name": "Kevin de Vries",
+        "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+        "spotifyUrl": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      },
+      {
+        "id": "6HieW9hwQClrvr5bKvw0lo",
+        "name": "Juan Elvadin",
+        "uri": "spotify:artist:6HieW9hwQClrvr5bKvw0lo",
+        "spotifyUrl": "https://open.spotify.com/artist/6HieW9hwQClrvr5bKvw0lo"
+      }
+    ],
+    "album": {
+      "id": "275PPpRQ8N7EqbAqk45Tmy",
+      "name": "Obsidian",
+      "uri": "spotify:album:275PPpRQ8N7EqbAqk45Tmy",
+      "releaseDate": "2026-10-09",
+      "spotifyUrl": "https://open.spotify.com/album/275PPpRQ8N7EqbAqk45Tmy",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f2024fb45c6584882c096753"
+    },
+    "durationMs": 196887,
+    "durationMin": 3.28,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7jomSMpQqEU65E2hFFIjOf",
+    "uri": "spotify:track:7jomSMpQqEU65E2hFFIjOf"
+  },
+  {
+    "position": 2199,
+    "addedAt": "2026-10-09T12:31:48.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5ykLR5Vvk8BmajyW6duOf5",
+    "name": "Move",
+    "artists": [
+      {
+        "id": "5f7jxYF5js7lD5lMyIPUBq",
+        "name": "Linska",
+        "uri": "spotify:artist:5f7jxYF5js7lD5lMyIPUBq",
+        "spotifyUrl": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+      },
+      {
+        "id": "715OI7hiv58daVlEDXM47U",
+        "name": "Chris Avantgarde",
+        "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+        "spotifyUrl": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+      },
+      {
+        "id": "4q90901wzb3GPqUBKuhoRg",
+        "name": "Benni Ola",
+        "uri": "spotify:artist:4q90901wzb3GPqUBKuhoRg",
+        "spotifyUrl": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+      }
+    ],
+    "album": {
+      "id": "1TELAVQkMosWbsgwWJTiVf",
+      "name": "Movement EP",
+      "uri": "spotify:album:1TELAVQkMosWbsgwWJTiVf",
+      "releaseDate": "2026-10-09",
+      "spotifyUrl": "https://open.spotify.com/album/1TELAVQkMosWbsgwWJTiVf",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e5e77fd010c44417cff343b9"
+    },
+    "durationMs": 176363,
+    "durationMin": 2.94,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5ykLR5Vvk8BmajyW6duOf5",
+    "uri": "spotify:track:5ykLR5Vvk8BmajyW6duOf5"
+  },
+  {
+    "position": 2200,
+    "addedAt": "2026-10-09T12:33:39.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2TfiDekCXdz2MeXo4hsDOn",
+    "name": "Mind Games",
+    "artists": [
+      {
+        "id": "113reBz1jA6rVxbXl55mlj",
+        "name": "Rebūke",
+        "uri": "spotify:artist:113reBz1jA6rVxbXl55mlj",
+        "spotifyUrl": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+      }
+    ],
+    "album": {
+      "id": "076N8pqbzopOrgbkP7yTOQ",
+      "name": "Mind Games",
+      "uri": "spotify:album:076N8pqbzopOrgbkP7yTOQ",
+      "releaseDate": "2026-10-09",
+      "spotifyUrl": "https://open.spotify.com/album/076N8pqbzopOrgbkP7yTOQ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734118e469f59d32aa0acf90cf"
+    },
+    "durationMs": 173605,
+    "durationMin": 2.89,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2TfiDekCXdz2MeXo4hsDOn",
+    "uri": "spotify:track:2TfiDekCXdz2MeXo4hsDOn"
+  },
+  {
+    "position": 2201,
+    "addedAt": "2026-10-09T12:38:23.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3LVcQ8A9XYCVK0hpPICx7b",
+    "name": "Nirvana",
+    "artists": [
+      {
+        "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+        "name": "Armin van Buuren",
+        "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5",
+        "spotifyUrl": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+      },
+      {
+        "id": "1vK8NnrPlBlF34LaiFX1SK",
+        "name": "Funk Tribu",
+        "uri": "spotify:artist:1vK8NnrPlBlF34LaiFX1SK",
+        "spotifyUrl": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+      }
+    ],
+    "album": {
+      "id": "2y2hZBcATZYJM29ssKp96w",
+      "name": "Nirvana",
+      "uri": "spotify:album:2y2hZBcATZYJM29ssKp96w",
+      "releaseDate": "2026-10-09",
+      "spotifyUrl": "https://open.spotify.com/album/2y2hZBcATZYJM29ssKp96w",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27399ef68554618923541f98894"
+    },
+    "durationMs": 184419,
+    "durationMin": 3.07,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b",
+    "uri": "spotify:track:3LVcQ8A9XYCVK0hpPICx7b"
+  },
+  {
+    "position": 2202,
+    "addedAt": "2026-10-09T12:40:00.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1wiDkDyo5zYmu6gAPg4WHS",
+    "name": "Catch Me In Amsterdam",
+    "artists": [
+      {
+        "id": "7MdlXmq2HViAJWo9cf30sR",
+        "name": "Cloonee",
+        "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+        "spotifyUrl": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      },
+      {
+        "id": "6sc7heOIfjIsOaUilrPDEh",
+        "name": "Sirolf (NL)",
+        "uri": "spotify:artist:6sc7heOIfjIsOaUilrPDEh",
+        "spotifyUrl": "https://open.spotify.com/artist/6sc7heOIfjIsOaUilrPDEh"
+      }
+    ],
+    "album": {
+      "id": "3SBdqRaqdqhTvvewlVoCQN",
+      "name": "Are You Still You?",
+      "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
+      "releaseDate": "2026-10-06",
+      "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333ef4e9cc816b6a2aac3047a"
+    },
+    "durationMs": 193860,
+    "durationMin": 3.23,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1wiDkDyo5zYmu6gAPg4WHS",
+    "uri": "spotify:track:1wiDkDyo5zYmu6gAPg4WHS"
   }
 ]

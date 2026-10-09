@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2195,
-  "exportedTracks": 2195,
-  "totalDurationMs": 611988080,
-  "totalHours": 170,
-  "averageDurationMin": 4.65,
-  "uniqueArtists": 1500,
-  "uniqueAlbums": 1912,
+  "totalTracks": 2202,
+  "exportedTracks": 2202,
+  "totalDurationMs": 613320186,
+  "totalHours": 170.4,
+  "averageDurationMin": 4.64,
+  "uniqueArtists": 1502,
+  "uniqueAlbums": 1918,
   "topArtists": [
     {
       "name": "Mathame",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Kevin de Vries",
-      "tracks": 33
+      "tracks": 35
     },
     {
       "name": "Vintage Culture",
@@ -71,11 +71,15 @@
     },
     {
       "name": "Rebūke",
-      "tracks": 31
+      "tracks": 32
     },
     {
       "name": "Goom Gum",
       "tracks": 28
+    },
+    {
+      "name": "TH;EN",
+      "tracks": 27
     },
     {
       "name": "Max Styler",
@@ -88,66 +92,61 @@
     {
       "name": "Miss Monique",
       "tracks": 26
-    },
-    {
-      "name": "TH;EN",
-      "tracks": 26
     }
   ],
   "recentTracks": [
     {
-      "name": "Serotonin",
+      "name": "Catch Me In Amsterdam",
       "artists": [
-        "MORTEN",
-        "KREAM"
+        "Cloonee",
+        "Sirolf (NL)"
       ],
-      "addedAt": "2026-10-07T12:07:36.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0I90jklTm1yNB0FUak33Va"
+      "addedAt": "2026-10-09T12:40:00.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1wiDkDyo5zYmu6gAPg4WHS"
     },
     {
-      "name": "DANGER DANGER (feat. Skepta)",
+      "name": "Nirvana",
       "artists": [
-        "Dom Dolla",
-        "Solomun",
-        "Skepta"
+        "Armin van Buuren",
+        "Funk Tribu"
       ],
-      "addedAt": "2026-10-03T01:29:58.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/49fqtR2gcZXvJRQNbwrGkU"
+      "addedAt": "2026-10-09T12:38:23.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b"
     },
     {
-      "name": "Memento (Flashback) [ABGT695] - Mixed",
+      "name": "Mind Games",
       "artists": [
-        "YOTTO"
+        "Rebūke"
       ],
-      "addedAt": "2026-10-03T01:29:06.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2EqXmARgtldvYUW7e8h7LI"
+      "addedAt": "2026-10-09T12:33:39.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2TfiDekCXdz2MeXo4hsDOn"
     },
     {
-      "name": "Turn Up The Speakers - Julian Jordan Remix",
+      "name": "Move",
       "artists": [
-        "AFROJACK",
-        "Martin Garrix",
-        "Julian Jordan"
+        "Linska",
+        "Chris Avantgarde",
+        "Benni Ola"
       ],
-      "addedAt": "2026-10-02T12:35:38.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM"
+      "addedAt": "2026-10-09T12:31:48.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5ykLR5Vvk8BmajyW6duOf5"
     },
     {
-      "name": "Maiden City",
+      "name": "Feel Me",
       "artists": [
-        "Disfreq",
-        "somedeadbeat"
+        "Kevin de Vries",
+        "Juan Elvadin"
       ],
-      "addedAt": "2026-10-02T12:24:34.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1HuYbgOm63RhirbnHJiBQL"
+      "addedAt": "2026-10-09T12:27:31.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7jomSMpQqEU65E2hFFIjOf"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 47,
-  "availableTracks": 2184,
+  "availableTracks": 2191,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-09T04:52:09.379Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-10-09T12:40:41.721Z"
 }
