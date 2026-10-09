@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2202,
-  "exportedTracks": 2202,
-  "totalDurationMs": 613320186,
-  "totalHours": 170.4,
+  "totalTracks": 2214,
+  "exportedTracks": 2214,
+  "totalDurationMs": 616225519,
+  "totalHours": 171.2,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1502,
-  "uniqueAlbums": 1918,
+  "uniqueArtists": 1508,
+  "uniqueAlbums": 1922,
   "topArtists": [
     {
       "name": "Mathame",
@@ -82,71 +82,69 @@
       "tracks": 27
     },
     {
+      "name": "Colyn",
+      "tracks": 26
+    },
+    {
       "name": "Max Styler",
       "tracks": 26
     },
     {
       "name": "Mind Against",
       "tracks": 26
-    },
-    {
-      "name": "Miss Monique",
-      "tracks": 26
     }
   ],
   "recentTracks": [
     {
-      "name": "Catch Me In Amsterdam",
+      "name": "Dune",
       "artists": [
-        "Cloonee",
-        "Sirolf (NL)"
+        "MRAK",
+        "Aimée Sophia"
       ],
-      "addedAt": "2026-10-09T12:40:00.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1wiDkDyo5zYmu6gAPg4WHS"
+      "addedAt": "2026-10-09T15:56:10.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1BwweCW6vFTE6qlSFTBIEj"
     },
     {
-      "name": "Nirvana",
+      "name": "By Your Side",
       "artists": [
-        "Armin van Buuren",
-        "Funk Tribu"
+        "Final Request"
       ],
-      "addedAt": "2026-10-09T12:38:23.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3LVcQ8A9XYCVK0hpPICx7b"
+      "addedAt": "2026-10-09T15:42:29.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4vYYHvNX5NmkeeyakHhXre"
     },
     {
-      "name": "Mind Games",
+      "name": "Never Ends - MRAK & Omnya Remix",
       "artists": [
-        "Rebūke"
+        "MRAK",
+        "Omnya"
       ],
-      "addedAt": "2026-10-09T12:33:39.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2TfiDekCXdz2MeXo4hsDOn"
+      "addedAt": "2026-10-09T15:04:02.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3B3ORyFgJrlEpHRtqrOYe8"
     },
     {
-      "name": "Move",
+      "name": "Grey Area",
       "artists": [
-        "Linska",
-        "Chris Avantgarde",
-        "Benni Ola"
+        "Simon Vuarambon"
       ],
-      "addedAt": "2026-10-09T12:31:48.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5ykLR5Vvk8BmajyW6duOf5"
+      "addedAt": "2026-10-09T14:31:12.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7edwVXemjnZR6UCovDi9g1"
     },
     {
-      "name": "Feel Me",
+      "name": "Drops",
       "artists": [
-        "Kevin de Vries",
-        "Juan Elvadin"
+        "Joyhauser",
+        "LUCRE"
       ],
-      "addedAt": "2026-10-09T12:27:31.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7jomSMpQqEU65E2hFFIjOf"
+      "addedAt": "2026-10-09T14:17:00.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/67fL4hDcsO8JI1PNqBcfUI"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
-  "explicitTracks": 47,
-  "availableTracks": 2191,
+  "explicitTracks": 48,
+  "availableTracks": 2203,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-09T12:40:41.721Z"
+  "lastUpdated": "2026-10-09T22:20:53.816Z"
 }

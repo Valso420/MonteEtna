@@ -98764,5 +98764,539 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/1wiDkDyo5zYmu6gAPg4WHS",
     "uri": "spotify:track:1wiDkDyo5zYmu6gAPg4WHS"
+  },
+  {
+    "position": 2203,
+    "addedAt": "2026-10-09T12:44:18.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3mGLXBJ1sK8JdcN8QE5ZAa",
+    "name": "Back Of My Mind",
+    "artists": [
+      {
+        "id": "7MdlXmq2HViAJWo9cf30sR",
+        "name": "Cloonee",
+        "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+        "spotifyUrl": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      },
+      {
+        "id": "4v0KJDTlY8yFHSZAFmMj3L",
+        "name": "Galo",
+        "uri": "spotify:artist:4v0KJDTlY8yFHSZAFmMj3L",
+        "spotifyUrl": "https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L"
+      }
+    ],
+    "album": {
+      "id": "3SBdqRaqdqhTvvewlVoCQN",
+      "name": "Are You Still You?",
+      "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
+      "releaseDate": "2026-10-06",
+      "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333ef4e9cc816b6a2aac3047a"
+    },
+    "durationMs": 147286,
+    "durationMin": 2.45,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3mGLXBJ1sK8JdcN8QE5ZAa",
+    "uri": "spotify:track:3mGLXBJ1sK8JdcN8QE5ZAa"
+  },
+  {
+    "position": 2204,
+    "addedAt": "2026-10-09T12:46:14.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7Cc9RI8QILv52X2feWAgLX",
+    "name": "3:30AM",
+    "artists": [
+      {
+        "id": "7MdlXmq2HViAJWo9cf30sR",
+        "name": "Cloonee",
+        "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+        "spotifyUrl": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      },
+      {
+        "id": "3JlN0MeWVJq0vjvsvWCRZ5",
+        "name": "SOSA",
+        "uri": "spotify:artist:3JlN0MeWVJq0vjvsvWCRZ5",
+        "spotifyUrl": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+      },
+      {
+        "id": "3HnjTikMlwQmZt88pd5ONe",
+        "name": "LZee",
+        "uri": "spotify:artist:3HnjTikMlwQmZt88pd5ONe",
+        "spotifyUrl": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+      }
+    ],
+    "album": {
+      "id": "3SBdqRaqdqhTvvewlVoCQN",
+      "name": "Are You Still You?",
+      "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
+      "releaseDate": "2026-10-06",
+      "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333ef4e9cc816b6a2aac3047a"
+    },
+    "durationMs": 172840,
+    "durationMin": 2.88,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7Cc9RI8QILv52X2feWAgLX",
+    "uri": "spotify:track:7Cc9RI8QILv52X2feWAgLX"
+  },
+  {
+    "position": 2205,
+    "addedAt": "2026-10-09T12:56:01.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5fX4eZ34E6Fg2iz917mQ81",
+    "name": "Nobody Likes The Records That You Play",
+    "artists": [
+      {
+        "id": "7MdlXmq2HViAJWo9cf30sR",
+        "name": "Cloonee",
+        "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+        "spotifyUrl": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      },
+      {
+        "id": "2iwhenp5euZtZLmtK6cgbe",
+        "name": "Tocadisco",
+        "uri": "spotify:artist:2iwhenp5euZtZLmtK6cgbe",
+        "spotifyUrl": "https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe"
+      }
+    ],
+    "album": {
+      "id": "3SBdqRaqdqhTvvewlVoCQN",
+      "name": "Are You Still You?",
+      "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
+      "releaseDate": "2026-10-06",
+      "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333ef4e9cc816b6a2aac3047a"
+    },
+    "durationMs": 180937,
+    "durationMin": 3.02,
+    "explicit": true,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5fX4eZ34E6Fg2iz917mQ81",
+    "uri": "spotify:track:5fX4eZ34E6Fg2iz917mQ81"
+  },
+  {
+    "position": 2206,
+    "addedAt": "2026-10-09T12:59:55.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7enpb3bD3H05hUFnPZRANg",
+    "name": "Why Does Your Love Hurt So Much?",
+    "artists": [
+      {
+        "id": "7MdlXmq2HViAJWo9cf30sR",
+        "name": "Cloonee",
+        "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+        "spotifyUrl": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      }
+    ],
+    "album": {
+      "id": "3SBdqRaqdqhTvvewlVoCQN",
+      "name": "Are You Still You?",
+      "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
+      "releaseDate": "2026-10-06",
+      "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333ef4e9cc816b6a2aac3047a"
+    },
+    "durationMs": 206774,
+    "durationMin": 3.45,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7enpb3bD3H05hUFnPZRANg",
+    "uri": "spotify:track:7enpb3bD3H05hUFnPZRANg"
+  },
+  {
+    "position": 2207,
+    "addedAt": "2026-10-09T13:44:59.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0C9gQPONf0dK64fRDP2x95",
+    "name": "What Would I Do",
+    "artists": [
+      {
+        "id": "7MdlXmq2HViAJWo9cf30sR",
+        "name": "Cloonee",
+        "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+        "spotifyUrl": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      },
+      {
+        "id": "36N80lh8tNu7XedcW55NC3",
+        "name": "Ranger Trucco",
+        "uri": "spotify:artist:36N80lh8tNu7XedcW55NC3",
+        "spotifyUrl": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+      }
+    ],
+    "album": {
+      "id": "3SBdqRaqdqhTvvewlVoCQN",
+      "name": "Are You Still You?",
+      "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
+      "releaseDate": "2026-10-06",
+      "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333ef4e9cc816b6a2aac3047a"
+    },
+    "durationMs": 225459,
+    "durationMin": 3.76,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0C9gQPONf0dK64fRDP2x95",
+    "uri": "spotify:track:0C9gQPONf0dK64fRDP2x95"
+  },
+  {
+    "position": 2208,
+    "addedAt": "2026-10-09T13:58:25.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7xKOl3yQ2AFn1MMcfKCbWs",
+    "name": "Don't You Want Me",
+    "artists": [
+      {
+        "id": "7MdlXmq2HViAJWo9cf30sR",
+        "name": "Cloonee",
+        "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+        "spotifyUrl": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      },
+      {
+        "id": "7tm9Tuc70geXOOyKhtZHIj",
+        "name": "Chris Lorenzo",
+        "uri": "spotify:artist:7tm9Tuc70geXOOyKhtZHIj",
+        "spotifyUrl": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+      }
+    ],
+    "album": {
+      "id": "3SBdqRaqdqhTvvewlVoCQN",
+      "name": "Are You Still You?",
+      "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
+      "releaseDate": "2026-10-06",
+      "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333ef4e9cc816b6a2aac3047a"
+    },
+    "durationMs": 165883,
+    "durationMin": 2.76,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7xKOl3yQ2AFn1MMcfKCbWs",
+    "uri": "spotify:track:7xKOl3yQ2AFn1MMcfKCbWs"
+  },
+  {
+    "position": 2209,
+    "addedAt": "2026-10-09T14:09:29.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1VoGJivn31LqJEvHUajL5y",
+    "name": "On The Run",
+    "artists": [
+      {
+        "id": "5vr1GvUstxr6nwxniKqLOh",
+        "name": "Colyn",
+        "uri": "spotify:artist:5vr1GvUstxr6nwxniKqLOh",
+        "spotifyUrl": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+      }
+    ],
+    "album": {
+      "id": "2NQ3tqmhZVXKB7ei33fw0w",
+      "name": "On The Run",
+      "uri": "spotify:album:2NQ3tqmhZVXKB7ei33fw0w",
+      "releaseDate": "2026-10-08",
+      "spotifyUrl": "https://open.spotify.com/album/2NQ3tqmhZVXKB7ei33fw0w",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333c85d0b1396f171689047fa"
+    },
+    "durationMs": 312759,
+    "durationMin": 5.21,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1VoGJivn31LqJEvHUajL5y",
+    "uri": "spotify:track:1VoGJivn31LqJEvHUajL5y"
+  },
+  {
+    "position": 2210,
+    "addedAt": "2026-10-09T14:17:00.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "67fL4hDcsO8JI1PNqBcfUI",
+    "name": "Drops",
+    "artists": [
+      {
+        "id": "59a1Bp0JQfL2mGnpL0lW2Y",
+        "name": "Joyhauser",
+        "uri": "spotify:artist:59a1Bp0JQfL2mGnpL0lW2Y",
+        "spotifyUrl": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+      },
+      {
+        "id": "31FDUyAPKlGqQPbDGuSjf6",
+        "name": "LUCRE",
+        "uri": "spotify:artist:31FDUyAPKlGqQPbDGuSjf6",
+        "spotifyUrl": "https://open.spotify.com/artist/31FDUyAPKlGqQPbDGuSjf6"
+      }
+    ],
+    "album": {
+      "id": "2AxUrNdih23apQu0yZ4RuP",
+      "name": "Drops",
+      "uri": "spotify:album:2AxUrNdih23apQu0yZ4RuP",
+      "releaseDate": "2026-10-09",
+      "spotifyUrl": "https://open.spotify.com/album/2AxUrNdih23apQu0yZ4RuP",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739812491a15e75b201f95b32c"
+    },
+    "durationMs": 229714,
+    "durationMin": 3.83,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/67fL4hDcsO8JI1PNqBcfUI",
+    "uri": "spotify:track:67fL4hDcsO8JI1PNqBcfUI"
+  },
+  {
+    "position": 2211,
+    "addedAt": "2026-10-09T14:31:12.000Z",
+    "addedBy": {
+      "id": "11177181596",
+      "uri": "spotify:user:11177181596",
+      "href": "https://api.spotify.com/v1/users/11177181596",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11177181596"
+    },
+    "id": "7edwVXemjnZR6UCovDi9g1",
+    "name": "Grey Area",
+    "artists": [
+      {
+        "id": "2W3M7XIkEKENCT1LXJ6mdj",
+        "name": "Simon Vuarambon",
+        "uri": "spotify:artist:2W3M7XIkEKENCT1LXJ6mdj",
+        "spotifyUrl": "https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj"
+      }
+    ],
+    "album": {
+      "id": "4CAqBafGKWlD5YC2CWXhDu",
+      "name": "Metro / Grey Area",
+      "uri": "spotify:album:4CAqBafGKWlD5YC2CWXhDu",
+      "releaseDate": "2026-10-09",
+      "spotifyUrl": "https://open.spotify.com/album/4CAqBafGKWlD5YC2CWXhDu",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273acbff78a97ad37d02c63223e"
+    },
+    "durationMs": 429444,
+    "durationMin": 7.16,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7edwVXemjnZR6UCovDi9g1",
+    "uri": "spotify:track:7edwVXemjnZR6UCovDi9g1"
+  },
+  {
+    "position": 2212,
+    "addedAt": "2026-10-09T15:04:02.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3B3ORyFgJrlEpHRtqrOYe8",
+    "name": "Never Ends - MRAK & Omnya Remix",
+    "artists": [
+      {
+        "id": "4JLXtk9bdFy9xkslFY91dY",
+        "name": "MRAK",
+        "uri": "spotify:artist:4JLXtk9bdFy9xkslFY91dY",
+        "spotifyUrl": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+      },
+      {
+        "id": "4zPg2ECAB9rHtMAx8faWfc",
+        "name": "Omnya",
+        "uri": "spotify:artist:4zPg2ECAB9rHtMAx8faWfc",
+        "spotifyUrl": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+      }
+    ],
+    "album": {
+      "id": "1HKLAFY8fdSVaHGYF1cR7i",
+      "name": "The Pledge",
+      "uri": "spotify:album:1HKLAFY8fdSVaHGYF1cR7i",
+      "releaseDate": "2024-06-28",
+      "spotifyUrl": "https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273df56f6b41b9993783a22ed58"
+    },
+    "durationMs": 234285,
+    "durationMin": 3.9,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3B3ORyFgJrlEpHRtqrOYe8",
+    "uri": "spotify:track:3B3ORyFgJrlEpHRtqrOYe8"
+  },
+  {
+    "position": 2213,
+    "addedAt": "2026-10-09T15:42:29.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4vYYHvNX5NmkeeyakHhXre",
+    "name": "By Your Side",
+    "artists": [
+      {
+        "id": "3NVOeVf2oPolFbXeTjdb3x",
+        "name": "Final Request",
+        "uri": "spotify:artist:3NVOeVf2oPolFbXeTjdb3x",
+        "spotifyUrl": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+      }
+    ],
+    "album": {
+      "id": "2xmrMxw2x8tKQoFZFxFr0S",
+      "name": "By Your Side EP",
+      "uri": "spotify:album:2xmrMxw2x8tKQoFZFxFr0S",
+      "releaseDate": "2023-10-27",
+      "spotifyUrl": "https://open.spotify.com/album/2xmrMxw2x8tKQoFZFxFr0S",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738a2b3d04fb1a8a37e880c116"
+    },
+    "durationMs": 310386,
+    "durationMin": 5.17,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4vYYHvNX5NmkeeyakHhXre",
+    "uri": "spotify:track:4vYYHvNX5NmkeeyakHhXre"
+  },
+  {
+    "position": 2214,
+    "addedAt": "2026-10-09T15:56:10.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1BwweCW6vFTE6qlSFTBIEj",
+    "name": "Dune",
+    "artists": [
+      {
+        "id": "4JLXtk9bdFy9xkslFY91dY",
+        "name": "MRAK",
+        "uri": "spotify:artist:4JLXtk9bdFy9xkslFY91dY",
+        "spotifyUrl": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+      },
+      {
+        "id": "1SBg3k1pnYqZVpWFosMGWU",
+        "name": "Aimée Sophia",
+        "uri": "spotify:artist:1SBg3k1pnYqZVpWFosMGWU",
+        "spotifyUrl": "https://open.spotify.com/artist/1SBg3k1pnYqZVpWFosMGWU"
+      }
+    ],
+    "album": {
+      "id": "02bP8IHWtLIK5wvHp3FZHv",
+      "name": "The Turn",
+      "uri": "spotify:album:02bP8IHWtLIK5wvHp3FZHv",
+      "releaseDate": "2024-10-04",
+      "spotifyUrl": "https://open.spotify.com/album/02bP8IHWtLIK5wvHp3FZHv",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f3d6d6ea89656065015ab78f"
+    },
+    "durationMs": 289566,
+    "durationMin": 4.83,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1BwweCW6vFTE6qlSFTBIEj",
+    "uri": "spotify:track:1BwweCW6vFTE6qlSFTBIEj"
   }
 ]
