@@ -79711,8 +79711,8 @@
     "durationMin": 5.43,
     "explicit": false,
     "isLocal": false,
-    "isPlayable": true,
-    "isAvailable": true,
+    "isPlayable": false,
+    "isAvailable": false,
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
@@ -99298,5 +99298,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/1BwweCW6vFTE6qlSFTBIEj",
     "uri": "spotify:track:1BwweCW6vFTE6qlSFTBIEj"
+  },
+  {
+    "position": 2215,
+    "addedAt": "2026-10-12T17:55:33.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3vTToM9IMcd4Iq6HCBdRUO",
+    "name": "Back Again",
+    "artists": [
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      }
+    ],
+    "album": {
+      "id": "4veMSSgoHzd6KklnLb7i3B",
+      "name": "Back Again",
+      "uri": "spotify:album:4veMSSgoHzd6KklnLb7i3B",
+      "releaseDate": "2026-05-28",
+      "spotifyUrl": "https://open.spotify.com/album/4veMSSgoHzd6KklnLb7i3B",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738fb28948427a434b7a57e46e"
+    },
+    "durationMs": 342026,
+    "durationMin": 5.7,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3vTToM9IMcd4Iq6HCBdRUO",
+    "uri": "spotify:track:3vTToM9IMcd4Iq6HCBdRUO"
   }
 ]

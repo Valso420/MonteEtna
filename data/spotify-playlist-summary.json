@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2214,
-  "exportedTracks": 2214,
-  "totalDurationMs": 616225519,
-  "totalHours": 171.2,
+  "totalTracks": 2215,
+  "exportedTracks": 2215,
+  "totalDurationMs": 616567545,
+  "totalHours": 171.3,
   "averageDurationMin": 4.64,
   "uniqueArtists": 1508,
-  "uniqueAlbums": 1922,
+  "uniqueAlbums": 1923,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Back Again",
+      "artists": [
+        "Ivory (IT)"
+      ],
+      "addedAt": "2026-10-12T17:55:33.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3vTToM9IMcd4Iq6HCBdRUO"
+    },
+    {
       "name": "Dune",
       "artists": [
         "MRAK",
@@ -128,23 +136,14 @@
       ],
       "addedAt": "2026-10-09T14:31:12.000Z",
       "spotifyUrl": "https://open.spotify.com/track/7edwVXemjnZR6UCovDi9g1"
-    },
-    {
-      "name": "Drops",
-      "artists": [
-        "Joyhauser",
-        "LUCRE"
-      ],
-      "addedAt": "2026-10-09T14:17:00.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/67fL4hDcsO8JI1PNqBcfUI"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
   "availableTracks": 2203,
-  "unavailableTracks": 11,
+  "unavailableTracks": 12,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-12T14:35:11.249Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-10-13T00:13:07.353Z"
 }
