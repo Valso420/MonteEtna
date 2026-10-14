@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2218,
-  "exportedTracks": 2218,
-  "totalDurationMs": 617405214,
-  "totalHours": 171.5,
+  "totalTracks": 2222,
+  "exportedTracks": 2222,
+  "totalDurationMs": 618714649,
+  "totalHours": 171.9,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1509,
-  "uniqueAlbums": 1926,
+  "uniqueArtists": 1511,
+  "uniqueAlbums": 1929,
   "topArtists": [
     {
       "name": "Mathame",
@@ -22,12 +22,12 @@
       "tracks": 61
     },
     {
-      "name": "Massano",
+      "name": "CAMELPHAT",
       "tracks": 59
     },
     {
-      "name": "CAMELPHAT",
-      "tracks": 58
+      "name": "Massano",
+      "tracks": 59
     },
     {
       "name": "Solomun",
@@ -96,6 +96,42 @@
   ],
   "recentTracks": [
     {
+      "name": "All This Love",
+      "artists": [
+        "Ivory (IT)",
+        "Barbara Nicole"
+      ],
+      "addedAt": "2026-10-14T20:45:54.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2z8T48IK6edt5Qhz4ATFVA"
+    },
+    {
+      "name": "Love Is Something - Ivory (IT) Remix",
+      "artists": [
+        "CAMELPHAT",
+        "Jake Bugg",
+        "Ivory (IT)"
+      ],
+      "addedAt": "2026-10-14T20:41:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7aFIzYEffPEzjuGWk9tkdl"
+    },
+    {
+      "name": "Keep Movin' On",
+      "artists": [
+        "Ivory (IT)"
+      ],
+      "addedAt": "2026-10-14T20:15:40.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0CGbORtb7PvSNagE6pd8BG"
+    },
+    {
+      "name": "Watchful Eye",
+      "artists": [
+        "Ivory (IT)",
+        "Sahar"
+      ],
+      "addedAt": "2026-10-14T19:58:14.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2J0p0uJhQNtUrvGdOtUs2J"
+    },
+    {
       "name": "I Don't Wanna Leave",
       "artists": [
         "Ede",
@@ -103,48 +139,14 @@
       ],
       "addedAt": "2026-10-14T13:04:57.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3k0vS3mVkMSGQZKUgvJvvJ"
-    },
-    {
-      "name": "Push Me",
-      "artists": [
-        "Ivory (IT)"
-      ],
-      "addedAt": "2026-10-14T13:00:45.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5N78yicBhYGP25pkjMuBjD"
-    },
-    {
-      "name": "Could You Feel The Love?",
-      "artists": [
-        "Ivory (IT)",
-        "Filippo Nardini"
-      ],
-      "addedAt": "2026-10-14T12:50:19.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5XDNokRsrRj6eKEuuvogRI"
-    },
-    {
-      "name": "Back Again",
-      "artists": [
-        "Ivory (IT)"
-      ],
-      "addedAt": "2026-10-12T17:55:33.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3vTToM9IMcd4Iq6HCBdRUO"
-    },
-    {
-      "name": "Dune",
-      "artists": [
-        "MRAK",
-        "Aimée Sophia"
-      ],
-      "addedAt": "2026-10-09T15:56:10.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1BwweCW6vFTE6qlSFTBIEj"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2207,
+  "availableTracks": 2211,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-14T16:40:12.281Z"
+  "lastUpdated": "2026-10-14T21:19:34.704Z"
 }

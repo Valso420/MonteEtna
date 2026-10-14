@@ -99470,5 +99470,189 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3k0vS3mVkMSGQZKUgvJvvJ",
     "uri": "spotify:track:3k0vS3mVkMSGQZKUgvJvvJ"
+  },
+  {
+    "position": 2219,
+    "addedAt": "2026-10-14T19:58:14.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2J0p0uJhQNtUrvGdOtUs2J",
+    "name": "Watchful Eye",
+    "artists": [
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      },
+      {
+        "id": "3b7TXhgeS7YpSumMEwbFJO",
+        "name": "Sahar",
+        "uri": "spotify:artist:3b7TXhgeS7YpSumMEwbFJO",
+        "spotifyUrl": "https://open.spotify.com/artist/3b7TXhgeS7YpSumMEwbFJO"
+      }
+    ],
+    "album": {
+      "id": "07FRSDpUXdoYlXqBht7rqP",
+      "name": "Watchful Eye",
+      "uri": "spotify:album:07FRSDpUXdoYlXqBht7rqP",
+      "releaseDate": "2026-09-18",
+      "spotifyUrl": "https://open.spotify.com/album/07FRSDpUXdoYlXqBht7rqP",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f6de4d7c932220b94d65e678"
+    },
+    "durationMs": 394268,
+    "durationMin": 6.57,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2J0p0uJhQNtUrvGdOtUs2J",
+    "uri": "spotify:track:2J0p0uJhQNtUrvGdOtUs2J"
+  },
+  {
+    "position": 2220,
+    "addedAt": "2026-10-14T20:15:40.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0CGbORtb7PvSNagE6pd8BG",
+    "name": "Keep Movin' On",
+    "artists": [
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      }
+    ],
+    "album": {
+      "id": "4dLKylx5TkyDq8eTlUY2m7",
+      "name": "Fantasy",
+      "uri": "spotify:album:4dLKylx5TkyDq8eTlUY2m7",
+      "releaseDate": "2026-03-27",
+      "spotifyUrl": "https://open.spotify.com/album/4dLKylx5TkyDq8eTlUY2m7",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d1d59d7987ebfc52aabb85b7"
+    },
+    "durationMs": 251814,
+    "durationMin": 4.2,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0CGbORtb7PvSNagE6pd8BG",
+    "uri": "spotify:track:0CGbORtb7PvSNagE6pd8BG"
+  },
+  {
+    "position": 2221,
+    "addedAt": "2026-10-14T20:41:43.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7aFIzYEffPEzjuGWk9tkdl",
+    "name": "Love Is Something - Ivory (IT) Remix",
+    "artists": [
+      {
+        "id": "240wlM8vDrf6S4zCyzGj2W",
+        "name": "CAMELPHAT",
+        "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W",
+        "spotifyUrl": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+      },
+      {
+        "id": "4hf3caW9H8uFwwbv5pFjcg",
+        "name": "Jake Bugg",
+        "uri": "spotify:artist:4hf3caW9H8uFwwbv5pFjcg",
+        "spotifyUrl": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+      },
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      }
+    ],
+    "album": {
+      "id": "38XbD4SdKs9taVjS9vwRnb",
+      "name": "Spiritual Milk (The Remixes)",
+      "uri": "spotify:album:38XbD4SdKs9taVjS9vwRnb",
+      "releaseDate": "2024-03-01",
+      "spotifyUrl": "https://open.spotify.com/album/38XbD4SdKs9taVjS9vwRnb",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737ed2b47baaada32e75877674"
+    },
+    "durationMs": 379550,
+    "durationMin": 6.33,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7aFIzYEffPEzjuGWk9tkdl",
+    "uri": "spotify:track:7aFIzYEffPEzjuGWk9tkdl"
+  },
+  {
+    "position": 2222,
+    "addedAt": "2026-10-14T20:45:54.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2z8T48IK6edt5Qhz4ATFVA",
+    "name": "All This Love",
+    "artists": [
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      },
+      {
+        "id": "31H7tYFSb4muASDqXfm3Mm",
+        "name": "Barbara Nicole",
+        "uri": "spotify:artist:31H7tYFSb4muASDqXfm3Mm",
+        "spotifyUrl": "https://open.spotify.com/artist/31H7tYFSb4muASDqXfm3Mm"
+      }
+    ],
+    "album": {
+      "id": "5Lol1rcMQuZAdkZ5BXCzLh",
+      "name": "Feel the Beat EP",
+      "uri": "spotify:album:5Lol1rcMQuZAdkZ5BXCzLh",
+      "releaseDate": "2025-12-19",
+      "spotifyUrl": "https://open.spotify.com/album/5Lol1rcMQuZAdkZ5BXCzLh",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733c0ab7775125ae936c15998e"
+    },
+    "durationMs": 283803,
+    "durationMin": 4.73,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2z8T48IK6edt5Qhz4ATFVA",
+    "uri": "spotify:track:2z8T48IK6edt5Qhz4ATFVA"
   }
 ]
