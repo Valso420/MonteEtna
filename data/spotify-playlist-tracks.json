@@ -98751,7 +98751,7 @@
       "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
       "releaseDate": "2026-10-06",
       "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f73298ef2e1787a68bfea039"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273db55471474bf07ce39347d86"
     },
     "durationMs": 193860,
     "durationMin": 3.23,
@@ -98797,7 +98797,7 @@
       "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
       "releaseDate": "2026-10-06",
       "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f73298ef2e1787a68bfea039"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273db55471474bf07ce39347d86"
     },
     "durationMs": 147286,
     "durationMin": 2.45,
@@ -98849,7 +98849,7 @@
       "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
       "releaseDate": "2026-10-06",
       "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f73298ef2e1787a68bfea039"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273db55471474bf07ce39347d86"
     },
     "durationMs": 172840,
     "durationMin": 2.88,
@@ -98895,7 +98895,7 @@
       "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
       "releaseDate": "2026-10-06",
       "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f73298ef2e1787a68bfea039"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273db55471474bf07ce39347d86"
     },
     "durationMs": 180937,
     "durationMin": 3.02,
@@ -98935,7 +98935,7 @@
       "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
       "releaseDate": "2026-10-06",
       "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f73298ef2e1787a68bfea039"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273db55471474bf07ce39347d86"
     },
     "durationMs": 206774,
     "durationMin": 3.45,
@@ -98981,7 +98981,7 @@
       "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
       "releaseDate": "2026-10-06",
       "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f73298ef2e1787a68bfea039"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273db55471474bf07ce39347d86"
     },
     "durationMs": 225459,
     "durationMin": 3.76,
@@ -99027,7 +99027,7 @@
       "uri": "spotify:album:3SBdqRaqdqhTvvewlVoCQN",
       "releaseDate": "2026-10-06",
       "spotifyUrl": "https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f73298ef2e1787a68bfea039"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273db55471474bf07ce39347d86"
     },
     "durationMs": 165883,
     "durationMin": 2.76,
@@ -99338,5 +99338,137 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3vTToM9IMcd4Iq6HCBdRUO",
     "uri": "spotify:track:3vTToM9IMcd4Iq6HCBdRUO"
+  },
+  {
+    "position": 2216,
+    "addedAt": "2026-10-14T12:50:19.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5XDNokRsrRj6eKEuuvogRI",
+    "name": "Could You Feel The Love?",
+    "artists": [
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      },
+      {
+        "id": "5oPYO6240MfDA0SA7LRH0P",
+        "name": "Filippo Nardini",
+        "uri": "spotify:artist:5oPYO6240MfDA0SA7LRH0P",
+        "spotifyUrl": "https://open.spotify.com/artist/5oPYO6240MfDA0SA7LRH0P"
+      }
+    ],
+    "album": {
+      "id": "7hng5XDNeuZigHFbMnMJVz",
+      "name": "Could You Feel The Love?",
+      "uri": "spotify:album:7hng5XDNeuZigHFbMnMJVz",
+      "releaseDate": "2023-11-17",
+      "spotifyUrl": "https://open.spotify.com/album/7hng5XDNeuZigHFbMnMJVz",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27306af3c8a7f213b0821289fff"
+    },
+    "durationMs": 376113,
+    "durationMin": 6.27,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5XDNokRsrRj6eKEuuvogRI",
+    "uri": "spotify:track:5XDNokRsrRj6eKEuuvogRI"
+  },
+  {
+    "position": 2217,
+    "addedAt": "2026-10-14T13:00:45.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5N78yicBhYGP25pkjMuBjD",
+    "name": "Push Me",
+    "artists": [
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      }
+    ],
+    "album": {
+      "id": "3UPoGdguTNZKyLcHrIBlsq",
+      "name": "Push Me EP",
+      "uri": "spotify:album:3UPoGdguTNZKyLcHrIBlsq",
+      "releaseDate": "2025-04-11",
+      "spotifyUrl": "https://open.spotify.com/album/3UPoGdguTNZKyLcHrIBlsq",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273dad89a7786b0a6eb5cb42cbd"
+    },
+    "durationMs": 248816,
+    "durationMin": 4.15,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5N78yicBhYGP25pkjMuBjD",
+    "uri": "spotify:track:5N78yicBhYGP25pkjMuBjD"
+  },
+  {
+    "position": 2218,
+    "addedAt": "2026-10-14T13:04:57.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3k0vS3mVkMSGQZKUgvJvvJ",
+    "name": "I Don't Wanna Leave",
+    "artists": [
+      {
+        "id": "7mxkWNWc7ceydKrZmVQmKK",
+        "name": "Ede",
+        "uri": "spotify:artist:7mxkWNWc7ceydKrZmVQmKK",
+        "spotifyUrl": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+      },
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      }
+    ],
+    "album": {
+      "id": "0BauG227PB8D9uBuYmJRrh",
+      "name": "Holdin' on EP",
+      "uri": "spotify:album:0BauG227PB8D9uBuYmJRrh",
+      "releaseDate": "2026-10-09",
+      "spotifyUrl": "https://open.spotify.com/album/0BauG227PB8D9uBuYmJRrh",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c1bc7d7b622d6060a77ba636"
+    },
+    "durationMs": 212740,
+    "durationMin": 3.55,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3k0vS3mVkMSGQZKUgvJvvJ",
+    "uri": "spotify:track:3k0vS3mVkMSGQZKUgvJvvJ"
   }
 ]
