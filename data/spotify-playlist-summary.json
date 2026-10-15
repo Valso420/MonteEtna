@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2222,
-  "exportedTracks": 2222,
-  "totalDurationMs": 618714649,
-  "totalHours": 171.9,
+  "totalTracks": 2226,
+  "exportedTracks": 2226,
+  "totalDurationMs": 620011250,
+  "totalHours": 172.2,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1511,
-  "uniqueAlbums": 1929,
+  "uniqueArtists": 1513,
+  "uniqueAlbums": 1932,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,42 @@
   ],
   "recentTracks": [
     {
+      "name": "Here For You",
+      "artists": [
+        "Ivory (IT)"
+      ],
+      "addedAt": "2026-10-15T02:32:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6Eh47bleE31ThmCNZFkNZG"
+    },
+    {
+      "name": "Stay Runaway - Ivory Rework",
+      "artists": [
+        "Bondi",
+        "Ivory (IT)",
+        "Charlotte Colace"
+      ],
+      "addedAt": "2026-10-15T02:21:49.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7b2lKe9b90Whau80gOHTZ6"
+    },
+    {
+      "name": "She Can Love U",
+      "artists": [
+        "Rafael",
+        "Toni B"
+      ],
+      "addedAt": "2026-10-15T02:06:58.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0lJhaNv0sqOCqIs5HFbkbu"
+    },
+    {
+      "name": "Light Beams - Ivory Remix",
+      "artists": [
+        "Sainte Vie",
+        "Ivory (IT)"
+      ],
+      "addedAt": "2026-10-15T01:37:57.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4w35P2ZKrWwe3oGHGNLiwQ"
+    },
+    {
       "name": "All This Love",
       "artists": [
         "Ivory (IT)",
@@ -103,50 +139,14 @@
       ],
       "addedAt": "2026-10-14T20:45:54.000Z",
       "spotifyUrl": "https://open.spotify.com/track/2z8T48IK6edt5Qhz4ATFVA"
-    },
-    {
-      "name": "Love Is Something - Ivory (IT) Remix",
-      "artists": [
-        "CAMELPHAT",
-        "Jake Bugg",
-        "Ivory (IT)"
-      ],
-      "addedAt": "2026-10-14T20:41:43.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7aFIzYEffPEzjuGWk9tkdl"
-    },
-    {
-      "name": "Keep Movin' On",
-      "artists": [
-        "Ivory (IT)"
-      ],
-      "addedAt": "2026-10-14T20:15:40.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0CGbORtb7PvSNagE6pd8BG"
-    },
-    {
-      "name": "Watchful Eye",
-      "artists": [
-        "Ivory (IT)",
-        "Sahar"
-      ],
-      "addedAt": "2026-10-14T19:58:14.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2J0p0uJhQNtUrvGdOtUs2J"
-    },
-    {
-      "name": "I Don't Wanna Leave",
-      "artists": [
-        "Ede",
-        "Ivory (IT)"
-      ],
-      "addedAt": "2026-10-14T13:04:57.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3k0vS3mVkMSGQZKUgvJvvJ"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2211,
+  "availableTracks": 2215,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-14T21:19:34.704Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-10-15T03:29:30.332Z"
 }

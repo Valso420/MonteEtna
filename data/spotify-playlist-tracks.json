@@ -9679,7 +9679,7 @@
       "uri": "spotify:album:1JvKdbP3kFNwByzJw9hGJx",
       "releaseDate": "2023-10-06",
       "spotifyUrl": "https://open.spotify.com/album/1JvKdbP3kFNwByzJw9hGJx",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27302b354cc849a0e88af962d7a"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273895c336a0a286b4c518f490e"
     },
     "durationMs": 235500,
     "durationMin": 3.92,
@@ -99654,5 +99654,189 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2z8T48IK6edt5Qhz4ATFVA",
     "uri": "spotify:track:2z8T48IK6edt5Qhz4ATFVA"
+  },
+  {
+    "position": 2223,
+    "addedAt": "2026-10-15T01:37:57.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "4w35P2ZKrWwe3oGHGNLiwQ",
+    "name": "Light Beams - Ivory Remix",
+    "artists": [
+      {
+        "id": "30oVwXZSlElygdNpcUIFBk",
+        "name": "Sainte Vie",
+        "uri": "spotify:artist:30oVwXZSlElygdNpcUIFBk",
+        "spotifyUrl": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+      },
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      }
+    ],
+    "album": {
+      "id": "2EoOJZtDpKgBAOMVDoHvxV",
+      "name": "Light Beams (Ivory Remix)",
+      "uri": "spotify:album:2EoOJZtDpKgBAOMVDoHvxV",
+      "releaseDate": "2026-04-03",
+      "spotifyUrl": "https://open.spotify.com/album/2EoOJZtDpKgBAOMVDoHvxV",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273eb81f6913e1546c00597e313"
+    },
+    "durationMs": 337261,
+    "durationMin": 5.62,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4w35P2ZKrWwe3oGHGNLiwQ",
+    "uri": "spotify:track:4w35P2ZKrWwe3oGHGNLiwQ"
+  },
+  {
+    "position": 2224,
+    "addedAt": "2026-10-15T02:06:58.000Z",
+    "addedBy": {
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
+    },
+    "id": "0lJhaNv0sqOCqIs5HFbkbu",
+    "name": "She Can Love U",
+    "artists": [
+      {
+        "id": "3DHC2ZUVADRKLSmqPcqvc6",
+        "name": "Rafael",
+        "uri": "spotify:artist:3DHC2ZUVADRKLSmqPcqvc6",
+        "spotifyUrl": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+      },
+      {
+        "id": "3qWTx02uCfYKSvb2JToFZt",
+        "name": "Toni B",
+        "uri": "spotify:artist:3qWTx02uCfYKSvb2JToFZt",
+        "spotifyUrl": "https://open.spotify.com/artist/3qWTx02uCfYKSvb2JToFZt"
+      }
+    ],
+    "album": {
+      "id": "30EuKKA5oKVRhbOpdCkxw2",
+      "name": "She Can Love U",
+      "uri": "spotify:album:30EuKKA5oKVRhbOpdCkxw2",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/30EuKKA5oKVRhbOpdCkxw2",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fbd90b924b886421613add0d"
+    },
+    "durationMs": 221280,
+    "durationMin": 3.69,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0lJhaNv0sqOCqIs5HFbkbu",
+    "uri": "spotify:track:0lJhaNv0sqOCqIs5HFbkbu"
+  },
+  {
+    "position": 2225,
+    "addedAt": "2026-10-15T02:21:49.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7b2lKe9b90Whau80gOHTZ6",
+    "name": "Stay Runaway - Ivory Rework",
+    "artists": [
+      {
+        "id": "0ZPxafqcgMv07OtNWFapKk",
+        "name": "Bondi",
+        "uri": "spotify:artist:0ZPxafqcgMv07OtNWFapKk",
+        "spotifyUrl": "https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk"
+      },
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      },
+      {
+        "id": "3LAiKQXxGsQWRFfmKqHyXd",
+        "name": "Charlotte Colace",
+        "uri": "spotify:artist:3LAiKQXxGsQWRFfmKqHyXd",
+        "spotifyUrl": "https://open.spotify.com/artist/3LAiKQXxGsQWRFfmKqHyXd"
+      }
+    ],
+    "album": {
+      "id": "2lAsRNRngmI7XLEMbiyTcr",
+      "name": "Stay Runaway (Ivory Rework)",
+      "uri": "spotify:album:2lAsRNRngmI7XLEMbiyTcr",
+      "releaseDate": "2023-05-26",
+      "spotifyUrl": "https://open.spotify.com/album/2lAsRNRngmI7XLEMbiyTcr",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273423d851588bf66e45f15cf31"
+    },
+    "durationMs": 380964,
+    "durationMin": 6.35,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7b2lKe9b90Whau80gOHTZ6",
+    "uri": "spotify:track:7b2lKe9b90Whau80gOHTZ6"
+  },
+  {
+    "position": 2226,
+    "addedAt": "2026-10-15T02:32:43.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6Eh47bleE31ThmCNZFkNZG",
+    "name": "Here For You",
+    "artists": [
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      }
+    ],
+    "album": {
+      "id": "3UPoGdguTNZKyLcHrIBlsq",
+      "name": "Push Me EP",
+      "uri": "spotify:album:3UPoGdguTNZKyLcHrIBlsq",
+      "releaseDate": "2025-04-11",
+      "spotifyUrl": "https://open.spotify.com/album/3UPoGdguTNZKyLcHrIBlsq",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273dad89a7786b0a6eb5cb42cbd"
+    },
+    "durationMs": 357096,
+    "durationMin": 5.95,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6Eh47bleE31ThmCNZFkNZG",
+    "uri": "spotify:track:6Eh47bleE31ThmCNZFkNZG"
   }
 ]
