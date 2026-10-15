@@ -24367,7 +24367,7 @@
       "uri": "spotify:album:3Hnm3DlJFMj2u7zUCFkNje",
       "releaseDate": "2019-10-25",
       "spotifyUrl": "https://open.spotify.com/album/3Hnm3DlJFMj2u7zUCFkNje",
-      "coverUrl": "https://i.scdn.co/image/a764ed48f4baa86654340b96a07835990b3fe5ed"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f1995d49a713d0e28254aff8"
     },
     "durationMs": 193386,
     "durationMin": 3.22,
@@ -99838,5 +99838,91 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/6Eh47bleE31ThmCNZFkNZG",
     "uri": "spotify:track:6Eh47bleE31ThmCNZFkNZG"
+  },
+  {
+    "position": 2227,
+    "addedAt": "2026-10-15T13:00:01.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5uMBnOQqKnSXDt74bs8kDR",
+    "name": "Make 'Em - Ivory Remix",
+    "artists": [
+      {
+        "id": "4QzEBswkEOjPlHiVmaF2Nm",
+        "name": "Assayag",
+        "uri": "spotify:artist:4QzEBswkEOjPlHiVmaF2Nm",
+        "spotifyUrl": "https://open.spotify.com/artist/4QzEBswkEOjPlHiVmaF2Nm"
+      },
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      }
+    ],
+    "album": {
+      "id": "1kMIHPC96kPSdndccieQO9",
+      "name": "Make 'Em (Ivory Remix)",
+      "uri": "spotify:album:1kMIHPC96kPSdndccieQO9",
+      "releaseDate": "2025-07-04",
+      "spotifyUrl": "https://open.spotify.com/album/1kMIHPC96kPSdndccieQO9",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731949bef04032817a3334b591"
+    },
+    "durationMs": 314144,
+    "durationMin": 5.24,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5uMBnOQqKnSXDt74bs8kDR",
+    "uri": "spotify:track:5uMBnOQqKnSXDt74bs8kDR"
+  },
+  {
+    "position": 2228,
+    "addedAt": "2026-10-15T15:13:39.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "12Pnf23BSnTZTTOOrzYBIu",
+    "name": "Try",
+    "artists": [
+      {
+        "id": "0H1va9wyZWImoOV4euIBcr",
+        "name": "Ivory (IT)",
+        "uri": "spotify:artist:0H1va9wyZWImoOV4euIBcr",
+        "spotifyUrl": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+      }
+    ],
+    "album": {
+      "id": "6g67MU2G9JmsIvuXf0yY9x",
+      "name": "Feelin'",
+      "uri": "spotify:album:6g67MU2G9JmsIvuXf0yY9x",
+      "releaseDate": "2022-11-11",
+      "spotifyUrl": "https://open.spotify.com/album/6g67MU2G9JmsIvuXf0yY9x",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27380f5db4e11bd01b1cddd402a"
+    },
+    "durationMs": 219840,
+    "durationMin": 3.66,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu",
+    "uri": "spotify:track:12Pnf23BSnTZTTOOrzYBIu"
   }
 ]

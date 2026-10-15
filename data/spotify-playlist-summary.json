@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2226,
-  "exportedTracks": 2226,
-  "totalDurationMs": 620011250,
-  "totalHours": 172.2,
+  "totalTracks": 2228,
+  "exportedTracks": 2228,
+  "totalDurationMs": 620545234,
+  "totalHours": 172.4,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1513,
-  "uniqueAlbums": 1932,
+  "uniqueArtists": 1514,
+  "uniqueAlbums": 1934,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,23 @@
   ],
   "recentTracks": [
     {
+      "name": "Try",
+      "artists": [
+        "Ivory (IT)"
+      ],
+      "addedAt": "2026-10-15T15:13:39.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu"
+    },
+    {
+      "name": "Make 'Em - Ivory Remix",
+      "artists": [
+        "Assayag",
+        "Ivory (IT)"
+      ],
+      "addedAt": "2026-10-15T13:00:01.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5uMBnOQqKnSXDt74bs8kDR"
+    },
+    {
       "name": "Here For You",
       "artists": [
         "Ivory (IT)"
@@ -121,32 +138,14 @@
       ],
       "addedAt": "2026-10-15T02:06:58.000Z",
       "spotifyUrl": "https://open.spotify.com/track/0lJhaNv0sqOCqIs5HFbkbu"
-    },
-    {
-      "name": "Light Beams - Ivory Remix",
-      "artists": [
-        "Sainte Vie",
-        "Ivory (IT)"
-      ],
-      "addedAt": "2026-10-15T01:37:57.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4w35P2ZKrWwe3oGHGNLiwQ"
-    },
-    {
-      "name": "All This Love",
-      "artists": [
-        "Ivory (IT)",
-        "Barbara Nicole"
-      ],
-      "addedAt": "2026-10-14T20:45:54.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2z8T48IK6edt5Qhz4ATFVA"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2215,
+  "availableTracks": 2217,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-15T03:29:30.332Z"
+  "lastUpdated": "2026-10-15T16:25:23.027Z"
 }
