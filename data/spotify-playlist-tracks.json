@@ -99924,5 +99924,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu",
     "uri": "spotify:track:12Pnf23BSnTZTTOOrzYBIu"
+  },
+  {
+    "position": 2229,
+    "addedAt": "2026-10-17T13:36:31.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6ZANC8pf6BWj5riTyk2eYc",
+    "name": "Woop Woop",
+    "artists": [
+      {
+        "id": "1k7iyyK6j5IJzF0cUMcaGY",
+        "name": "Space Motion",
+        "uri": "spotify:artist:1k7iyyK6j5IJzF0cUMcaGY",
+        "spotifyUrl": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+      }
+    ],
+    "album": {
+      "id": "3ew4d02yvFTrQI2PtZjoIg",
+      "name": "Woop Woop EP",
+      "uri": "spotify:album:3ew4d02yvFTrQI2PtZjoIg",
+      "releaseDate": "2026-10-16",
+      "spotifyUrl": "https://open.spotify.com/album/3ew4d02yvFTrQI2PtZjoIg",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a031e883152c0a5341b843d6"
+    },
+    "durationMs": 268552,
+    "durationMin": 4.48,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc",
+    "uri": "spotify:track:6ZANC8pf6BWj5riTyk2eYc"
   }
 ]

@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2228,
-  "exportedTracks": 2228,
-  "totalDurationMs": 620545234,
+  "totalTracks": 2229,
+  "exportedTracks": 2229,
+  "totalDurationMs": 620813786,
   "totalHours": 172.4,
   "averageDurationMin": 4.64,
   "uniqueArtists": 1514,
-  "uniqueAlbums": 1934,
+  "uniqueAlbums": 1935,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Woop Woop",
+      "artists": [
+        "Space Motion"
+      ],
+      "addedAt": "2026-10-17T13:36:31.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc"
+    },
+    {
       "name": "Try",
       "artists": [
         "Ivory (IT)"
@@ -129,23 +137,14 @@
       ],
       "addedAt": "2026-10-15T02:21:49.000Z",
       "spotifyUrl": "https://open.spotify.com/track/7b2lKe9b90Whau80gOHTZ6"
-    },
-    {
-      "name": "She Can Love U",
-      "artists": [
-        "Rafael",
-        "Toni B"
-      ],
-      "addedAt": "2026-10-15T02:06:58.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0lJhaNv0sqOCqIs5HFbkbu"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2217,
+  "availableTracks": 2218,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-16T20:34:37.113Z"
+  "lastUpdated": "2026-10-17T15:04:06.384Z"
 }
