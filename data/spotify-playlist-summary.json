@@ -5,10 +5,10 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2231,
-  "exportedTracks": 2231,
-  "totalDurationMs": 621391749,
-  "totalHours": 172.6,
+  "totalTracks": 2232,
+  "exportedTracks": 2232,
+  "totalDurationMs": 621798283,
+  "totalHours": 172.7,
   "averageDurationMin": 4.64,
   "uniqueArtists": 1516,
   "uniqueAlbums": 1937,
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Tribe",
+      "artists": [
+        "Kamilo Sanclemente"
+      ],
+      "addedAt": "2026-10-20T20:59:30.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0uPViewCcfPRD32xmXoxeQ"
+    },
+    {
       "name": "I House U",
       "artists": [
         "Kamilo Sanclemente"
@@ -127,23 +135,14 @@
       ],
       "addedAt": "2026-10-15T15:13:39.000Z",
       "spotifyUrl": "https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu"
-    },
-    {
-      "name": "Make 'Em - Ivory Remix",
-      "artists": [
-        "Assayag",
-        "Ivory (IT)"
-      ],
-      "addedAt": "2026-10-15T13:00:01.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5uMBnOQqKnSXDt74bs8kDR"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2220,
+  "availableTracks": 2221,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-20T16:26:07.539Z"
+  "lastUpdated": "2026-10-20T21:19:01.441Z"
 }
