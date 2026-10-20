@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2229,
-  "exportedTracks": 2229,
-  "totalDurationMs": 620738428,
-  "totalHours": 172.4,
+  "totalTracks": 2230,
+  "exportedTracks": 2230,
+  "totalDurationMs": 620922428,
+  "totalHours": 172.5,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1514,
-  "uniqueAlbums": 1935,
+  "uniqueArtists": 1516,
+  "uniqueAlbums": 1936,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Journey",
+      "artists": [
+        "Deco (BE)",
+        "Victor Flash"
+      ],
+      "addedAt": "2026-10-19T23:05:36.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0eUOmG9qmvsbtr6codXTmV"
+    },
+    {
       "name": "Woop Woop",
       "artists": [
         "Space Motion"
@@ -127,24 +136,14 @@
       ],
       "addedAt": "2026-10-15T02:32:43.000Z",
       "spotifyUrl": "https://open.spotify.com/track/6Eh47bleE31ThmCNZFkNZG"
-    },
-    {
-      "name": "Stay Runaway - Ivory Rework",
-      "artists": [
-        "Bondi",
-        "Ivory (IT)",
-        "Charlotte Colace"
-      ],
-      "addedAt": "2026-10-15T02:21:49.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7b2lKe9b90Whau80gOHTZ6"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2218,
+  "availableTracks": 2219,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-19T22:03:02.322Z"
+  "lastUpdated": "2026-10-20T03:41:34.571Z"
 }

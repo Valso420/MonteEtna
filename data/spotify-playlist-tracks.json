@@ -99964,5 +99964,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc",
     "uri": "spotify:track:6ZANC8pf6BWj5riTyk2eYc"
+  },
+  {
+    "position": 2230,
+    "addedAt": "2026-10-19T23:05:36.000Z",
+    "addedBy": {
+      "id": "kamy.scelzo65",
+      "uri": "spotify:user:kamy.scelzo65",
+      "href": "https://api.spotify.com/v1/users/kamy.scelzo65",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/kamy.scelzo65"
+    },
+    "id": "0eUOmG9qmvsbtr6codXTmV",
+    "name": "Journey",
+    "artists": [
+      {
+        "id": "4gOdhyPkfWcGe3T5r0Y0fP",
+        "name": "Deco (BE)",
+        "uri": "spotify:artist:4gOdhyPkfWcGe3T5r0Y0fP",
+        "spotifyUrl": "https://open.spotify.com/artist/4gOdhyPkfWcGe3T5r0Y0fP"
+      },
+      {
+        "id": "1IEF03NP5cb0XuOBpfxZXg",
+        "name": "Victor Flash",
+        "uri": "spotify:artist:1IEF03NP5cb0XuOBpfxZXg",
+        "spotifyUrl": "https://open.spotify.com/artist/1IEF03NP5cb0XuOBpfxZXg"
+      }
+    ],
+    "album": {
+      "id": "5ojdY5GTw1ePFPch1UoSjS",
+      "name": "Journey",
+      "uri": "spotify:album:5ojdY5GTw1ePFPch1UoSjS",
+      "releaseDate": "2026-10-09",
+      "spotifyUrl": "https://open.spotify.com/album/5ojdY5GTw1ePFPch1UoSjS",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27361439fd3fd97574afbf8d045"
+    },
+    "durationMs": 184000,
+    "durationMin": 3.07,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0eUOmG9qmvsbtr6codXTmV",
+    "uri": "spotify:track:0eUOmG9qmvsbtr6codXTmV"
   }
 ]
