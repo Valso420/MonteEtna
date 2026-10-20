@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2230,
-  "exportedTracks": 2230,
-  "totalDurationMs": 620922428,
-  "totalHours": 172.5,
+  "totalTracks": 2231,
+  "exportedTracks": 2231,
+  "totalDurationMs": 621391749,
+  "totalHours": 172.6,
   "averageDurationMin": 4.64,
   "uniqueArtists": 1516,
-  "uniqueAlbums": 1936,
+  "uniqueAlbums": 1937,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "I House U",
+      "artists": [
+        "Kamilo Sanclemente"
+      ],
+      "addedAt": "2026-10-20T12:36:27.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7eNdmtpit7MBuOl16q1ITG"
+    },
+    {
       "name": "Journey",
       "artists": [
         "Deco (BE)",
@@ -128,22 +136,14 @@
       ],
       "addedAt": "2026-10-15T13:00:01.000Z",
       "spotifyUrl": "https://open.spotify.com/track/5uMBnOQqKnSXDt74bs8kDR"
-    },
-    {
-      "name": "Here For You",
-      "artists": [
-        "Ivory (IT)"
-      ],
-      "addedAt": "2026-10-15T02:32:43.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6Eh47bleE31ThmCNZFkNZG"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2219,
+  "availableTracks": 2220,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-20T03:41:34.571Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-10-20T16:26:07.539Z"
 }

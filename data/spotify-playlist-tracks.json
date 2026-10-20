@@ -100010,5 +100010,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/0eUOmG9qmvsbtr6codXTmV",
     "uri": "spotify:track:0eUOmG9qmvsbtr6codXTmV"
+  },
+  {
+    "position": 2231,
+    "addedAt": "2026-10-20T12:36:27.000Z",
+    "addedBy": {
+      "id": "11177181596",
+      "uri": "spotify:user:11177181596",
+      "href": "https://api.spotify.com/v1/users/11177181596",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11177181596"
+    },
+    "id": "7eNdmtpit7MBuOl16q1ITG",
+    "name": "I House U",
+    "artists": [
+      {
+        "id": "2AYLgq9P1arichVXbNbjVy",
+        "name": "Kamilo Sanclemente",
+        "uri": "spotify:artist:2AYLgq9P1arichVXbNbjVy",
+        "spotifyUrl": "https://open.spotify.com/artist/2AYLgq9P1arichVXbNbjVy"
+      }
+    ],
+    "album": {
+      "id": "0UOP34SpNh30ak7FB0veKj",
+      "name": "I House U / Tribe",
+      "uri": "spotify:album:0UOP34SpNh30ak7FB0veKj",
+      "releaseDate": "2026-10-16",
+      "spotifyUrl": "https://open.spotify.com/album/0UOP34SpNh30ak7FB0veKj",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27397ff45cd58c63bee99f211ef"
+    },
+    "durationMs": 469321,
+    "durationMin": 7.82,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7eNdmtpit7MBuOl16q1ITG",
+    "uri": "spotify:track:7eNdmtpit7MBuOl16q1ITG"
   }
 ]
