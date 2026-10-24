@@ -100148,5 +100148,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/0XBjuhpiYKYObByQrud95Z",
     "uri": "spotify:track:0XBjuhpiYKYObByQrud95Z"
+  },
+  {
+    "position": 2234,
+    "addedAt": "2026-10-24T02:12:58.000Z",
+    "addedBy": {
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
+    },
+    "id": "0Yu8DQWQG8q0cIOWYCbMQP",
+    "name": "Everybody",
+    "artists": [
+      {
+        "id": "2cKII1nypeEZZ1JsRSPs3t",
+        "name": "WELKER",
+        "uri": "spotify:artist:2cKII1nypeEZZ1JsRSPs3t",
+        "spotifyUrl": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+      }
+    ],
+    "album": {
+      "id": "72t6qJtslrUFr20bAR6kje",
+      "name": "Everybody",
+      "uri": "spotify:album:72t6qJtslrUFr20bAR6kje",
+      "releaseDate": "2025-03-07",
+      "spotifyUrl": "https://open.spotify.com/album/72t6qJtslrUFr20bAR6kje",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732db2320beca623e8d4def9a4"
+    },
+    "durationMs": 271680,
+    "durationMin": 4.53,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0Yu8DQWQG8q0cIOWYCbMQP",
+    "uri": "spotify:track:0Yu8DQWQG8q0cIOWYCbMQP"
   }
 ]

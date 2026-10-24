@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2233,
-  "exportedTracks": 2233,
-  "totalDurationMs": 622033308,
-  "totalHours": 172.8,
+  "totalTracks": 2234,
+  "exportedTracks": 2234,
+  "totalDurationMs": 622304988,
+  "totalHours": 172.9,
   "averageDurationMin": 4.64,
   "uniqueArtists": 1517,
-  "uniqueAlbums": 1938,
+  "uniqueAlbums": 1939,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Everybody",
+      "artists": [
+        "WELKER"
+      ],
+      "addedAt": "2026-10-24T02:12:58.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0Yu8DQWQG8q0cIOWYCbMQP"
+    },
+    {
       "name": "Looking For You",
       "artists": [
         "Jimi Jules",
@@ -130,22 +138,14 @@
       ],
       "addedAt": "2026-10-19T23:05:36.000Z",
       "spotifyUrl": "https://open.spotify.com/track/0eUOmG9qmvsbtr6codXTmV"
-    },
-    {
-      "name": "Woop Woop",
-      "artists": [
-        "Space Motion"
-      ],
-      "addedAt": "2026-10-17T13:36:31.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6ZANC8pf6BWj5riTyk2eYc"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2222,
+  "availableTracks": 2223,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-23T21:03:52.397Z"
+  "lastUpdated": "2026-10-24T03:32:21.700Z"
 }
