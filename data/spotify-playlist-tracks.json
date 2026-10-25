@@ -100188,5 +100188,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/0Yu8DQWQG8q0cIOWYCbMQP",
     "uri": "spotify:track:0Yu8DQWQG8q0cIOWYCbMQP"
+  },
+  {
+    "position": 2235,
+    "addedAt": "2026-10-25T14:20:43.000Z",
+    "addedBy": {
+      "id": "peter_200002",
+      "uri": "spotify:user:peter_200002",
+      "href": "https://api.spotify.com/v1/users/peter_200002",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/peter_200002"
+    },
+    "id": "2TELh3MyaTi8SJDakkBE4a",
+    "name": "The Reward Is Cheese - Ciauru Remix",
+    "artists": [
+      {
+        "id": "2CIMQHirSU0MQqyYHq0eOx",
+        "name": "deadmau5",
+        "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx",
+        "spotifyUrl": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+      },
+      {
+        "id": "6Zw3Q6LjYtvoNF14YXkIYf",
+        "name": "Ciauru",
+        "uri": "spotify:artist:6Zw3Q6LjYtvoNF14YXkIYf",
+        "spotifyUrl": "https://open.spotify.com/artist/6Zw3Q6LjYtvoNF14YXkIYf"
+      }
+    ],
+    "album": {
+      "id": "2StliLHqy4B1orTTTs8oCa",
+      "name": "The Reward Is Cheese (Ciauru Remix)",
+      "uri": "spotify:album:2StliLHqy4B1orTTTs8oCa",
+      "releaseDate": "2026-08-28",
+      "spotifyUrl": "https://open.spotify.com/album/2StliLHqy4B1orTTTs8oCa",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739a63419686663d83c123a345"
+    },
+    "durationMs": 218307,
+    "durationMin": 3.64,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2TELh3MyaTi8SJDakkBE4a",
+    "uri": "spotify:track:2TELh3MyaTi8SJDakkBE4a"
   }
 ]

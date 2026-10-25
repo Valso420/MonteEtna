@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2234,
-  "exportedTracks": 2234,
-  "totalDurationMs": 622304988,
+  "totalTracks": 2235,
+  "exportedTracks": 2235,
+  "totalDurationMs": 622523295,
   "totalHours": 172.9,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1517,
-  "uniqueAlbums": 1939,
+  "uniqueArtists": 1518,
+  "uniqueAlbums": 1940,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "The Reward Is Cheese - Ciauru Remix",
+      "artists": [
+        "deadmau5",
+        "Ciauru"
+      ],
+      "addedAt": "2026-10-25T14:20:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2TELh3MyaTi8SJDakkBE4a"
+    },
+    {
       "name": "Everybody",
       "artists": [
         "WELKER"
@@ -129,23 +138,14 @@
       ],
       "addedAt": "2026-10-20T12:36:27.000Z",
       "spotifyUrl": "https://open.spotify.com/track/7eNdmtpit7MBuOl16q1ITG"
-    },
-    {
-      "name": "Journey",
-      "artists": [
-        "Deco (BE)",
-        "Victor Flash"
-      ],
-      "addedAt": "2026-10-19T23:05:36.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0eUOmG9qmvsbtr6codXTmV"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2223,
+  "availableTracks": 2224,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-24T20:19:47.506Z"
+  "lastUpdated": "2026-10-25T15:39:01.147Z"
 }
