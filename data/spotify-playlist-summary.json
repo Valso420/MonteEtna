@@ -5,17 +5,17 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2235,
-  "exportedTracks": 2235,
-  "totalDurationMs": 622523295,
-  "totalHours": 172.9,
+  "totalTracks": 2236,
+  "exportedTracks": 2236,
+  "totalDurationMs": 622692385,
+  "totalHours": 173,
   "averageDurationMin": 4.64,
   "uniqueArtists": 1518,
-  "uniqueAlbums": 1940,
+  "uniqueAlbums": 1941,
   "topArtists": [
     {
       "name": "Mathame",
-      "tracks": 66
+      "tracks": 67
     },
     {
       "name": "Anyma",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Oh Baby",
+      "artists": [
+        "Mathame"
+      ],
+      "addedAt": "2026-10-26T01:26:29.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0MGcrlSuv59dCJsRr3VexL"
+    },
+    {
       "name": "The Reward Is Cheese - Ciauru Remix",
       "artists": [
         "deadmau5",
@@ -130,22 +138,14 @@
       ],
       "addedAt": "2026-10-20T20:59:30.000Z",
       "spotifyUrl": "https://open.spotify.com/track/0uPViewCcfPRD32xmXoxeQ"
-    },
-    {
-      "name": "I House U",
-      "artists": [
-        "Kamilo Sanclemente"
-      ],
-      "addedAt": "2026-10-20T12:36:27.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7eNdmtpit7MBuOl16q1ITG"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2224,
+  "availableTracks": 2225,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-25T20:26:48.038Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-10-26T03:31:14.504Z"
 }

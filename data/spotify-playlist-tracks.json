@@ -100234,5 +100234,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2TELh3MyaTi8SJDakkBE4a",
     "uri": "spotify:track:2TELh3MyaTi8SJDakkBE4a"
+  },
+  {
+    "position": 2236,
+    "addedAt": "2026-10-26T01:26:29.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0MGcrlSuv59dCJsRr3VexL",
+    "name": "Oh Baby",
+    "artists": [
+      {
+        "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+        "name": "Mathame",
+        "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+        "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+      }
+    ],
+    "album": {
+      "id": "4ctqF4YdnHKzLBi4316nZW",
+      "name": "Oh Baby",
+      "uri": "spotify:album:4ctqF4YdnHKzLBi4316nZW",
+      "releaseDate": "2026-10-23",
+      "spotifyUrl": "https://open.spotify.com/album/4ctqF4YdnHKzLBi4316nZW",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27308307a0fc2b2a787a7cb6b95"
+    },
+    "durationMs": 169090,
+    "durationMin": 2.82,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0MGcrlSuv59dCJsRr3VexL",
+    "uri": "spotify:track:0MGcrlSuv59dCJsRr3VexL"
   }
 ]
