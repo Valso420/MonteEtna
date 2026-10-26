@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2236,
-  "exportedTracks": 2236,
-  "totalDurationMs": 622692385,
-  "totalHours": 173,
+  "totalTracks": 2242,
+  "exportedTracks": 2242,
+  "totalDurationMs": 624022978,
+  "totalHours": 173.3,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1518,
-  "uniqueAlbums": 1941,
+  "uniqueArtists": 1520,
+  "uniqueAlbums": 1944,
   "topArtists": [
     {
       "name": "Mathame",
@@ -51,15 +51,15 @@
     },
     {
       "name": "Kevin de Vries",
+      "tracks": 36
+    },
+    {
+      "name": "Adam Beyer",
       "tracks": 35
     },
     {
       "name": "Vintage Culture",
       "tracks": 33
-    },
-    {
-      "name": "Adam Beyer",
-      "tracks": 32
     },
     {
       "name": "Innellea",
@@ -82,70 +82,72 @@
       "tracks": 27
     },
     {
+      "name": "Armin van Buuren",
+      "tracks": 26
+    },
+    {
       "name": "Colyn",
       "tracks": 26
     },
     {
       "name": "Max Styler",
       "tracks": 26
-    },
-    {
-      "name": "Mind Against",
-      "tracks": 26
     }
   ],
   "recentTracks": [
     {
-      "name": "Oh Baby",
+      "name": "Do Our Thing",
       "artists": [
-        "Mathame"
+        "Adam Beyer",
+        "Mark Reeve"
       ],
-      "addedAt": "2026-10-26T01:26:29.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0MGcrlSuv59dCJsRr3VexL"
+      "addedAt": "2026-10-26T17:31:00.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0lWhbdaAGfNTOR3iU7lE39"
     },
     {
-      "name": "The Reward Is Cheese - Ciauru Remix",
+      "name": "Frames",
       "artists": [
-        "deadmau5",
-        "Ciauru"
+        "Adam Beyer",
+        "Mark Reeve"
       ],
-      "addedAt": "2026-10-25T14:20:43.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2TELh3MyaTi8SJDakkBE4a"
+      "addedAt": "2026-10-26T17:27:38.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3vgyOXk4X8WfNKcL08sdyC"
     },
     {
-      "name": "Everybody",
+      "name": "With Me Eternally",
       "artists": [
-        "WELKER"
+        "SOEL",
+        "VikKe"
       ],
-      "addedAt": "2026-10-24T02:12:58.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0Yu8DQWQG8q0cIOWYCbMQP"
+      "addedAt": "2026-10-26T17:20:48.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1iGJLzlmzO0HtUyHvfB0IT"
     },
     {
-      "name": "Looking For You",
+      "name": "Overclock",
       "artists": [
-        "Jimi Jules",
-        "Tri/xon",
-        "Dixon",
-        "Trikk"
+        "Kevin de Vries",
+        "DAMEN"
       ],
-      "addedAt": "2026-10-23T16:08:35.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0XBjuhpiYKYObByQrud95Z"
+      "addedAt": "2026-10-26T17:07:01.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
     },
     {
-      "name": "Tribe",
+      "name": "Sunny Days",
       "artists": [
-        "Kamilo Sanclemente"
+        "Armin van Buuren",
+        "Omiki",
+        "Josh Cumbee"
       ],
-      "addedAt": "2026-10-20T20:59:30.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0uPViewCcfPRD32xmXoxeQ"
+      "addedAt": "2026-10-26T17:00:53.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1TSjclSYMd5LvqNnkHSlV4"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2225,
+  "availableTracks": 2231,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-26T12:21:52.806Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-10-26T22:21:25.658Z"
 }

@@ -97413,6 +97413,12 @@
         "spotifyUrl": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
       },
       {
+        "id": "7dcUWT1KmxjXieEnzFSjeH",
+        "name": "Josh Gigante",
+        "uri": "spotify:artist:7dcUWT1KmxjXieEnzFSjeH",
+        "spotifyUrl": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+      },
+      {
         "id": "2aPOSo3CvB3a15zDorFBCh",
         "name": "Kuuda",
         "uri": "spotify:artist:2aPOSo3CvB3a15zDorFBCh",
@@ -100274,5 +100280,287 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/0MGcrlSuv59dCJsRr3VexL",
     "uri": "spotify:track:0MGcrlSuv59dCJsRr3VexL"
+  },
+  {
+    "position": 2237,
+    "addedAt": "2026-10-26T16:56:26.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5GXyDd4l7oO8qVrnOd5WSd",
+    "name": "Synchronize",
+    "artists": [
+      {
+        "id": "1btv9qmIpbp7q1ixCYNdHu",
+        "name": "Adam Beyer",
+        "uri": "spotify:artist:1btv9qmIpbp7q1ixCYNdHu",
+        "spotifyUrl": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+      },
+      {
+        "id": "58zZkWGb6qvx0AJ6L3ttlZ",
+        "name": "Mark Reeve",
+        "uri": "spotify:artist:58zZkWGb6qvx0AJ6L3ttlZ",
+        "spotifyUrl": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+      }
+    ],
+    "album": {
+      "id": "6xu2baM7Ndxwub4fMpFLoF",
+      "name": "Do Our Thing",
+      "uri": "spotify:album:6xu2baM7Ndxwub4fMpFLoF",
+      "releaseDate": "2026-10-23",
+      "spotifyUrl": "https://open.spotify.com/album/6xu2baM7Ndxwub4fMpFLoF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b254b14d34e5a75bff533fdc"
+    },
+    "durationMs": 178295,
+    "durationMin": 2.97,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5GXyDd4l7oO8qVrnOd5WSd",
+    "uri": "spotify:track:5GXyDd4l7oO8qVrnOd5WSd"
+  },
+  {
+    "position": 2238,
+    "addedAt": "2026-10-26T17:00:53.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1TSjclSYMd5LvqNnkHSlV4",
+    "name": "Sunny Days",
+    "artists": [
+      {
+        "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+        "name": "Armin van Buuren",
+        "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5",
+        "spotifyUrl": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+      },
+      {
+        "id": "7pHwBqsYULdAdHgSwf1q9f",
+        "name": "Omiki",
+        "uri": "spotify:artist:7pHwBqsYULdAdHgSwf1q9f",
+        "spotifyUrl": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+      },
+      {
+        "id": "5deoijipwIdBiA27rEj14E",
+        "name": "Josh Cumbee",
+        "uri": "spotify:artist:5deoijipwIdBiA27rEj14E",
+        "spotifyUrl": "https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E"
+      }
+    ],
+    "album": {
+      "id": "3TDUxZgLN3xXbzEdkULgZp",
+      "name": "Sunny Days",
+      "uri": "spotify:album:3TDUxZgLN3xXbzEdkULgZp",
+      "releaseDate": "2026-10-23",
+      "spotifyUrl": "https://open.spotify.com/album/3TDUxZgLN3xXbzEdkULgZp",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273039a37a495252432287e9dd8"
+    },
+    "durationMs": 214285,
+    "durationMin": 3.57,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1TSjclSYMd5LvqNnkHSlV4",
+    "uri": "spotify:track:1TSjclSYMd5LvqNnkHSlV4"
+  },
+  {
+    "position": 2239,
+    "addedAt": "2026-10-26T17:07:01.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7eMOYbZwgUK9c2hL54PMjj",
+    "name": "Overclock",
+    "artists": [
+      {
+        "id": "11aPF3sc8lDWNqPVInm4Zx",
+        "name": "Kevin de Vries",
+        "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+        "spotifyUrl": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+      },
+      {
+        "id": "6aW9vCCdBYNKQiXAztvGwQ",
+        "name": "DAMEN",
+        "uri": "spotify:artist:6aW9vCCdBYNKQiXAztvGwQ",
+        "spotifyUrl": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+      }
+    ],
+    "album": {
+      "id": "6PbmwxTqYLLw8MSWfrXPJR",
+      "name": "Overclock",
+      "uri": "spotify:album:6PbmwxTqYLLw8MSWfrXPJR",
+      "releaseDate": "2026-10-23",
+      "spotifyUrl": "https://open.spotify.com/album/6PbmwxTqYLLw8MSWfrXPJR",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730738c5b86299b14bed90ed85"
+    },
+    "durationMs": 187998,
+    "durationMin": 3.13,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj",
+    "uri": "spotify:track:7eMOYbZwgUK9c2hL54PMjj"
+  },
+  {
+    "position": 2240,
+    "addedAt": "2026-10-26T17:20:48.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1iGJLzlmzO0HtUyHvfB0IT",
+    "name": "With Me Eternally",
+    "artists": [
+      {
+        "id": "0CdzpTCd7FCWY84B79A373",
+        "name": "SOEL",
+        "uri": "spotify:artist:0CdzpTCd7FCWY84B79A373",
+        "spotifyUrl": "https://open.spotify.com/artist/0CdzpTCd7FCWY84B79A373"
+      },
+      {
+        "id": "6JfsQUJlr3t688fMuMYnAP",
+        "name": "VikKe",
+        "uri": "spotify:artist:6JfsQUJlr3t688fMuMYnAP",
+        "spotifyUrl": "https://open.spotify.com/artist/6JfsQUJlr3t688fMuMYnAP"
+      }
+    ],
+    "album": {
+      "id": "0arviXIeHFXjH3UofTmTP5",
+      "name": "We Are Forever Aligned",
+      "uri": "spotify:album:0arviXIeHFXjH3UofTmTP5",
+      "releaseDate": "2025-03-07",
+      "spotifyUrl": "https://open.spotify.com/album/0arviXIeHFXjH3UofTmTP5",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273857d471c51e4b77bc9624074"
+    },
+    "durationMs": 373017,
+    "durationMin": 6.22,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1iGJLzlmzO0HtUyHvfB0IT",
+    "uri": "spotify:track:1iGJLzlmzO0HtUyHvfB0IT"
+  },
+  {
+    "position": 2241,
+    "addedAt": "2026-10-26T17:27:38.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3vgyOXk4X8WfNKcL08sdyC",
+    "name": "Frames",
+    "artists": [
+      {
+        "id": "1btv9qmIpbp7q1ixCYNdHu",
+        "name": "Adam Beyer",
+        "uri": "spotify:artist:1btv9qmIpbp7q1ixCYNdHu",
+        "spotifyUrl": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+      },
+      {
+        "id": "58zZkWGb6qvx0AJ6L3ttlZ",
+        "name": "Mark Reeve",
+        "uri": "spotify:artist:58zZkWGb6qvx0AJ6L3ttlZ",
+        "spotifyUrl": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+      }
+    ],
+    "album": {
+      "id": "6xu2baM7Ndxwub4fMpFLoF",
+      "name": "Do Our Thing",
+      "uri": "spotify:album:6xu2baM7Ndxwub4fMpFLoF",
+      "releaseDate": "2026-10-23",
+      "spotifyUrl": "https://open.spotify.com/album/6xu2baM7Ndxwub4fMpFLoF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b254b14d34e5a75bff533fdc"
+    },
+    "durationMs": 175601,
+    "durationMin": 2.93,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3vgyOXk4X8WfNKcL08sdyC",
+    "uri": "spotify:track:3vgyOXk4X8WfNKcL08sdyC"
+  },
+  {
+    "position": 2242,
+    "addedAt": "2026-10-26T17:31:00.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0lWhbdaAGfNTOR3iU7lE39",
+    "name": "Do Our Thing",
+    "artists": [
+      {
+        "id": "1btv9qmIpbp7q1ixCYNdHu",
+        "name": "Adam Beyer",
+        "uri": "spotify:artist:1btv9qmIpbp7q1ixCYNdHu",
+        "spotifyUrl": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+      },
+      {
+        "id": "58zZkWGb6qvx0AJ6L3ttlZ",
+        "name": "Mark Reeve",
+        "uri": "spotify:artist:58zZkWGb6qvx0AJ6L3ttlZ",
+        "spotifyUrl": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+      }
+    ],
+    "album": {
+      "id": "6xu2baM7Ndxwub4fMpFLoF",
+      "name": "Do Our Thing",
+      "uri": "spotify:album:6xu2baM7Ndxwub4fMpFLoF",
+      "releaseDate": "2026-10-23",
+      "spotifyUrl": "https://open.spotify.com/album/6xu2baM7Ndxwub4fMpFLoF",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b254b14d34e5a75bff533fdc"
+    },
+    "durationMs": 201397,
+    "durationMin": 3.36,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0lWhbdaAGfNTOR3iU7lE39",
+    "uri": "spotify:track:0lWhbdaAGfNTOR3iU7lE39"
   }
 ]
