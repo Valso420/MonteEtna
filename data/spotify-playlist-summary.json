@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2242,
-  "exportedTracks": 2242,
-  "totalDurationMs": 624022978,
-  "totalHours": 173.3,
+  "totalTracks": 2243,
+  "exportedTracks": 2243,
+  "totalDurationMs": 624488342,
+  "totalHours": 173.5,
   "averageDurationMin": 4.64,
   "uniqueArtists": 1520,
-  "uniqueAlbums": 1944,
+  "uniqueAlbums": 1945,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Hello Infinite - Kamilo Sanclemente Remix",
+      "artists": [
+        "Henry Saiz",
+        "Kamilo Sanclemente"
+      ],
+      "addedAt": "2026-10-28T13:36:16.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/409j0jAf8cRR77PAmFS7zv"
+    },
+    {
       "name": "Do Our Thing",
       "artists": [
         "Adam Beyer",
@@ -130,24 +139,14 @@
       ],
       "addedAt": "2026-10-26T17:07:01.000Z",
       "spotifyUrl": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
-    },
-    {
-      "name": "Sunny Days",
-      "artists": [
-        "Armin van Buuren",
-        "Omiki",
-        "Josh Cumbee"
-      ],
-      "addedAt": "2026-10-26T17:00:53.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1TSjclSYMd5LvqNnkHSlV4"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2231,
+  "availableTracks": 2232,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-28T12:14:14.110Z"
+  "lastUpdated": "2026-10-28T22:15:55.943Z"
 }
