@@ -5,10 +5,10 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2243,
-  "exportedTracks": 2243,
-  "totalDurationMs": 624488342,
-  "totalHours": 173.5,
+  "totalTracks": 2244,
+  "exportedTracks": 2244,
+  "totalDurationMs": 625031795,
+  "totalHours": 173.6,
   "averageDurationMin": 4.64,
   "uniqueArtists": 1520,
   "uniqueAlbums": 1945,
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Opus",
+      "artists": [
+        "Eric Prydz"
+      ],
+      "addedAt": "2026-10-29T14:44:51.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV"
+    },
+    {
       "name": "Hello Infinite - Kamilo Sanclemente Remix",
       "artists": [
         "Henry Saiz",
@@ -130,23 +138,14 @@
       ],
       "addedAt": "2026-10-26T17:20:48.000Z",
       "spotifyUrl": "https://open.spotify.com/track/1iGJLzlmzO0HtUyHvfB0IT"
-    },
-    {
-      "name": "Overclock",
-      "artists": [
-        "Kevin de Vries",
-        "DAMEN"
-      ],
-      "addedAt": "2026-10-26T17:07:01.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2232,
+  "availableTracks": 2233,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-28T22:15:55.943Z"
+  "lastUpdated": "2026-10-29T22:29:19.470Z"
 }

@@ -100608,5 +100608,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/409j0jAf8cRR77PAmFS7zv",
     "uri": "spotify:track:409j0jAf8cRR77PAmFS7zv"
+  },
+  {
+    "position": 2244,
+    "addedAt": "2026-10-29T14:44:51.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3v2oAQomhOcYCPPHafS3KV",
+    "name": "Opus",
+    "artists": [
+      {
+        "id": "5sm0jQ1mq0dusiLtDJ2b4R",
+        "name": "Eric Prydz",
+        "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R",
+        "spotifyUrl": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+      }
+    ],
+    "album": {
+      "id": "2Kwbn1H4KMGZAe4MS6uDzU",
+      "name": "Opus",
+      "uri": "spotify:album:2Kwbn1H4KMGZAe4MS6uDzU",
+      "releaseDate": "2016-02-05",
+      "spotifyUrl": "https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27324492f2ba3a1d995e1faf5d8"
+    },
+    "durationMs": 543453,
+    "durationMin": 9.06,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV",
+    "uri": "spotify:track:3v2oAQomhOcYCPPHafS3KV"
   }
 ]
