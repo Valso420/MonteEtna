@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2244,
-  "exportedTracks": 2244,
-  "totalDurationMs": 625031795,
-  "totalHours": 173.6,
+  "totalTracks": 2247,
+  "exportedTracks": 2247,
+  "totalDurationMs": 625630714,
+  "totalHours": 173.8,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1520,
-  "uniqueAlbums": 1945,
+  "uniqueArtists": 1521,
+  "uniqueAlbums": 1947,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,30 @@
   ],
   "recentTracks": [
     {
+      "name": "Cable Bugs",
+      "artists": [
+        "blaktone"
+      ],
+      "addedAt": "2026-10-30T11:24:42.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2lXp6iKgbHbZsTw2IfYu3A"
+    },
+    {
+      "name": "On Top",
+      "artists": [
+        "Broken Hill"
+      ],
+      "addedAt": "2026-10-30T11:23:21.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1g8dbGK7ZAWYioY0Ijbggs"
+    },
+    {
+      "name": "Gimme Dat",
+      "artists": [
+        "MORTEN"
+      ],
+      "addedAt": "2026-10-30T11:22:32.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3xX7ay4XLGuJ5DNB67qpU1"
+    },
+    {
       "name": "Opus",
       "artists": [
         "Eric Prydz"
@@ -111,41 +135,14 @@
       ],
       "addedAt": "2026-10-28T13:36:16.000Z",
       "spotifyUrl": "https://open.spotify.com/track/409j0jAf8cRR77PAmFS7zv"
-    },
-    {
-      "name": "Do Our Thing",
-      "artists": [
-        "Adam Beyer",
-        "Mark Reeve"
-      ],
-      "addedAt": "2026-10-26T17:31:00.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0lWhbdaAGfNTOR3iU7lE39"
-    },
-    {
-      "name": "Frames",
-      "artists": [
-        "Adam Beyer",
-        "Mark Reeve"
-      ],
-      "addedAt": "2026-10-26T17:27:38.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3vgyOXk4X8WfNKcL08sdyC"
-    },
-    {
-      "name": "With Me Eternally",
-      "artists": [
-        "SOEL",
-        "VikKe"
-      ],
-      "addedAt": "2026-10-26T17:20:48.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1iGJLzlmzO0HtUyHvfB0IT"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2233,
+  "availableTracks": 2236,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-29T22:29:19.470Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-10-30T12:14:41.453Z"
 }
