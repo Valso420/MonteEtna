@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2249,
-  "exportedTracks": 2249,
-  "totalDurationMs": 626047157,
+  "totalTracks": 2250,
+  "exportedTracks": 2250,
+  "totalDurationMs": 626217235,
   "totalHours": 173.9,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1521,
-  "uniqueAlbums": 1948,
+  "uniqueArtists": 1524,
+  "uniqueAlbums": 1949,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,16 @@
   ],
   "recentTracks": [
     {
+      "name": "FLASHBACK",
+      "artists": [
+        "DML",
+        "Melkis",
+        "POY"
+      ],
+      "addedAt": "2026-10-31T11:44:28.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0h7KQSqVPJD5UF0bT5mvi0"
+    },
+    {
       "name": "Loopy Loopy",
       "artists": [
         "Space Motion",
@@ -127,22 +137,14 @@
       ],
       "addedAt": "2026-10-30T11:23:21.000Z",
       "spotifyUrl": "https://open.spotify.com/track/1g8dbGK7ZAWYioY0Ijbggs"
-    },
-    {
-      "name": "Gimme Dat",
-      "artists": [
-        "MORTEN"
-      ],
-      "addedAt": "2026-10-30T11:22:32.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3xX7ay4XLGuJ5DNB67qpU1"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2238,
+  "availableTracks": 2239,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-31T04:23:42.567Z"
+  "lastUpdated": "2026-10-31T11:46:32.312Z"
 }
