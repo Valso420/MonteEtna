@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2250,
-  "exportedTracks": 2250,
-  "totalDurationMs": 626217235,
-  "totalHours": 173.9,
+  "totalTracks": 2257,
+  "exportedTracks": 2257,
+  "totalDurationMs": 628618591,
+  "totalHours": 174.6,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1524,
-  "uniqueAlbums": 1949,
+  "uniqueArtists": 1529,
+  "uniqueAlbums": 1956,
   "topArtists": [
     {
       "name": "Mathame",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Solomun",
-      "tracks": 51
+      "tracks": 52
     },
     {
       "name": "ARTBAT",
@@ -96,55 +96,52 @@
   ],
   "recentTracks": [
     {
-      "name": "FLASHBACK",
+      "name": "I Got Trapped",
       "artists": [
-        "DML",
-        "Melkis",
-        "POY"
+        "Nadeep"
       ],
-      "addedAt": "2026-10-31T11:44:28.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0h7KQSqVPJD5UF0bT5mvi0"
+      "addedAt": "2026-10-31T12:17:37.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2hqEF6sSOcC4YmCw0eSrqB"
     },
     {
-      "name": "Loopy Loopy",
+      "name": "Dreams",
       "artists": [
-        "Space Motion",
-        "Soofnic"
+        "Ossie"
       ],
-      "addedAt": "2026-10-30T20:06:44.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4VWjbSy96QVhBGm2zcfJjZ"
+      "addedAt": "2026-10-31T12:14:18.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1eFS59FtDy3KqGUsGKTHEB"
     },
     {
-      "name": "Banga Banga",
+      "name": "Got The Name",
       "artists": [
-        "Space Motion"
+        "Chini"
       ],
-      "addedAt": "2026-10-30T14:23:07.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/39KVjCttkIGe3a7OMgqTnL"
+      "addedAt": "2026-10-31T12:09:32.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5fi8kozBjhekkFirkWAsoJ"
     },
     {
-      "name": "Cable Bugs",
+      "name": "I Want",
       "artists": [
-        "blaktone"
+        "Pablo Say"
       ],
-      "addedAt": "2026-10-30T11:24:42.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2lXp6iKgbHbZsTw2IfYu3A"
+      "addedAt": "2026-10-31T12:07:55.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3QyZZj5mKRXSOIyKxW9yXT"
     },
     {
-      "name": "On Top",
+      "name": "Dreaming - Original Mix",
       "artists": [
-        "Broken Hill"
+        "Ruff Driverz"
       ],
-      "addedAt": "2026-10-30T11:23:21.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1g8dbGK7ZAWYioY0Ijbggs"
+      "addedAt": "2026-10-31T12:01:47.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1QO6RKHJGMK4zZVaifEAQO"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2239,
+  "availableTracks": 2246,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-31T11:46:32.312Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-10-31T16:54:19.284Z"
 }
