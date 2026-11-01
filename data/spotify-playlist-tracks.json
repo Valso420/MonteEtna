@@ -101204,5 +101204,223 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2hqEF6sSOcC4YmCw0eSrqB",
     "uri": "spotify:track:2hqEF6sSOcC4YmCw0eSrqB"
+  },
+  {
+    "position": 2258,
+    "addedAt": "2026-11-01T03:13:46.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0iN1ocDDB7AWWIq3CLCFRm",
+    "name": "Disconnect",
+    "artists": [
+      {
+        "id": "3huzrC7mZ7tINmFf1g1hO0",
+        "name": "Humans Musik",
+        "uri": "spotify:artist:3huzrC7mZ7tINmFf1g1hO0",
+        "spotifyUrl": "https://open.spotify.com/artist/3huzrC7mZ7tINmFf1g1hO0"
+      },
+      {
+        "id": "5q0CEw8Nj1l5fR83EHRLR3",
+        "name": "Greggio",
+        "uri": "spotify:artist:5q0CEw8Nj1l5fR83EHRLR3",
+        "spotifyUrl": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+      }
+    ],
+    "album": {
+      "id": "5PA0iNY8NQgNg6LL2eI8fx",
+      "name": "Disconnect",
+      "uri": "spotify:album:5PA0iNY8NQgNg6LL2eI8fx",
+      "releaseDate": "2026-09-18",
+      "spotifyUrl": "https://open.spotify.com/album/5PA0iNY8NQgNg6LL2eI8fx",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b57a62621843c01ebd82e9ee"
+    },
+    "durationMs": 301992,
+    "durationMin": 5.03,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0iN1ocDDB7AWWIq3CLCFRm",
+    "uri": "spotify:track:0iN1ocDDB7AWWIq3CLCFRm"
+  },
+  {
+    "position": 2259,
+    "addedAt": "2026-11-01T03:14:19.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0SKq1pIrC8TOb4hOLaYxU3",
+    "name": "Bvlgari",
+    "artists": [
+      {
+        "id": "2jeqYJH4s0yEiqBpfer8s9",
+        "name": "Wave Wave",
+        "uri": "spotify:artist:2jeqYJH4s0yEiqBpfer8s9",
+        "spotifyUrl": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+      },
+      {
+        "id": "5q0CEw8Nj1l5fR83EHRLR3",
+        "name": "Greggio",
+        "uri": "spotify:artist:5q0CEw8Nj1l5fR83EHRLR3",
+        "spotifyUrl": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+      }
+    ],
+    "album": {
+      "id": "13UUfzMLgi5dKGPLtk2PqH",
+      "name": "Money Talks",
+      "uri": "spotify:album:13UUfzMLgi5dKGPLtk2PqH",
+      "releaseDate": "2026-08-21",
+      "spotifyUrl": "https://open.spotify.com/album/13UUfzMLgi5dKGPLtk2PqH",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27350a34261f7ac6b69dbde44e6"
+    },
+    "durationMs": 189050,
+    "durationMin": 3.15,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0SKq1pIrC8TOb4hOLaYxU3",
+    "uri": "spotify:track:0SKq1pIrC8TOb4hOLaYxU3"
+  },
+  {
+    "position": 2260,
+    "addedAt": "2026-11-01T03:14:52.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2nPFKy5gMQS7Faj3q8mqw2",
+    "name": "LA TO IBIZA",
+    "artists": [
+      {
+        "id": "2cKII1nypeEZZ1JsRSPs3t",
+        "name": "WELKER",
+        "uri": "spotify:artist:2cKII1nypeEZZ1JsRSPs3t",
+        "spotifyUrl": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+      }
+    ],
+    "album": {
+      "id": "1BixBJebSVzMxeiC4JyBMT",
+      "name": "LA TO IBIZA",
+      "uri": "spotify:album:1BixBJebSVzMxeiC4JyBMT",
+      "releaseDate": "2026-07-31",
+      "spotifyUrl": "https://open.spotify.com/album/1BixBJebSVzMxeiC4JyBMT",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27308784317c28af53fc48f6296"
+    },
+    "durationMs": 226976,
+    "durationMin": 3.78,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2nPFKy5gMQS7Faj3q8mqw2",
+    "uri": "spotify:track:2nPFKy5gMQS7Faj3q8mqw2"
+  },
+  {
+    "position": 2261,
+    "addedAt": "2026-11-01T03:15:15.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2KcrTZbAh4B1kCJjeLVY9v",
+    "name": "Driven",
+    "artists": [
+      {
+        "id": "5q0CEw8Nj1l5fR83EHRLR3",
+        "name": "Greggio",
+        "uri": "spotify:artist:5q0CEw8Nj1l5fR83EHRLR3",
+        "spotifyUrl": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+      }
+    ],
+    "album": {
+      "id": "3TGEH5z1gOpYYgBBFdkDEz",
+      "name": "Driven",
+      "uri": "spotify:album:3TGEH5z1gOpYYgBBFdkDEz",
+      "releaseDate": "2026-10-23",
+      "spotifyUrl": "https://open.spotify.com/album/3TGEH5z1gOpYYgBBFdkDEz",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ac576a1af6246f077a9ea8a2"
+    },
+    "durationMs": 208242,
+    "durationMin": 3.47,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2KcrTZbAh4B1kCJjeLVY9v",
+    "uri": "spotify:track:2KcrTZbAh4B1kCJjeLVY9v"
+  },
+  {
+    "position": 2262,
+    "addedAt": "2026-11-01T03:15:27.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "01ttMtGfWUAvSuMsZSvGIH",
+    "name": "Super High",
+    "artists": [
+      {
+        "id": "4qLwtWhlhyAoQ4S9mSrDW9",
+        "name": "Odd Mob",
+        "uri": "spotify:artist:4qLwtWhlhyAoQ4S9mSrDW9",
+        "spotifyUrl": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+      },
+      {
+        "id": "56Qz2XwGj7FxnNKrfkWjnb",
+        "name": "FAST BOY",
+        "uri": "spotify:artist:56Qz2XwGj7FxnNKrfkWjnb",
+        "spotifyUrl": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+      }
+    ],
+    "album": {
+      "id": "6RALTNSTufwfCPE9ClWsSO",
+      "name": "Super High",
+      "uri": "spotify:album:6RALTNSTufwfCPE9ClWsSO",
+      "releaseDate": "2026-09-17",
+      "spotifyUrl": "https://open.spotify.com/album/6RALTNSTufwfCPE9ClWsSO",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735ae35885568a1e9274a3c2f8"
+    },
+    "durationMs": 182769,
+    "durationMin": 3.05,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/01ttMtGfWUAvSuMsZSvGIH",
+    "uri": "spotify:track:01ttMtGfWUAvSuMsZSvGIH"
   }
 ]

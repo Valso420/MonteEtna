@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2257,
-  "exportedTracks": 2257,
-  "totalDurationMs": 628618591,
-  "totalHours": 174.6,
+  "totalTracks": 2262,
+  "exportedTracks": 2262,
+  "totalDurationMs": 629727620,
+  "totalHours": 174.9,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1529,
-  "uniqueAlbums": 1956,
+  "uniqueArtists": 1530,
+  "uniqueAlbums": 1961,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,52 +96,55 @@
   ],
   "recentTracks": [
     {
-      "name": "I Got Trapped",
+      "name": "Super High",
       "artists": [
-        "Nadeep"
+        "Odd Mob",
+        "FAST BOY"
       ],
-      "addedAt": "2026-10-31T12:17:37.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2hqEF6sSOcC4YmCw0eSrqB"
+      "addedAt": "2026-11-01T03:15:27.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/01ttMtGfWUAvSuMsZSvGIH"
     },
     {
-      "name": "Dreams",
+      "name": "Driven",
       "artists": [
-        "Ossie"
+        "Greggio"
       ],
-      "addedAt": "2026-10-31T12:14:18.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1eFS59FtDy3KqGUsGKTHEB"
+      "addedAt": "2026-11-01T03:15:15.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2KcrTZbAh4B1kCJjeLVY9v"
     },
     {
-      "name": "Got The Name",
+      "name": "LA TO IBIZA",
       "artists": [
-        "Chini"
+        "WELKER"
       ],
-      "addedAt": "2026-10-31T12:09:32.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5fi8kozBjhekkFirkWAsoJ"
+      "addedAt": "2026-11-01T03:14:52.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2nPFKy5gMQS7Faj3q8mqw2"
     },
     {
-      "name": "I Want",
+      "name": "Bvlgari",
       "artists": [
-        "Pablo Say"
+        "Wave Wave",
+        "Greggio"
       ],
-      "addedAt": "2026-10-31T12:07:55.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3QyZZj5mKRXSOIyKxW9yXT"
+      "addedAt": "2026-11-01T03:14:19.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0SKq1pIrC8TOb4hOLaYxU3"
     },
     {
-      "name": "Dreaming - Original Mix",
+      "name": "Disconnect",
       "artists": [
-        "Ruff Driverz"
+        "Humans Musik",
+        "Greggio"
       ],
-      "addedAt": "2026-10-31T12:01:47.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1QO6RKHJGMK4zZVaifEAQO"
+      "addedAt": "2026-11-01T03:13:46.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/0iN1ocDDB7AWWIq3CLCFRm"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2246,
+  "availableTracks": 2251,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-10-31T16:54:19.284Z"
+  "lastUpdated": "2026-11-01T04:42:38.062Z"
 }
