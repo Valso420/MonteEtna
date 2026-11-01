@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 38,
-  "totalTracks": 2262,
-  "exportedTracks": 2262,
-  "totalDurationMs": 629727620,
-  "totalHours": 174.9,
+  "totalTracks": 2263,
+  "exportedTracks": 2263,
+  "totalDurationMs": 630143620,
+  "totalHours": 175,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1530,
-  "uniqueAlbums": 1961,
+  "uniqueArtists": 1531,
+  "uniqueAlbums": 1962,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Fly Fox",
+      "artists": [
+        "Kyotto",
+        "STEREO MUNK"
+      ],
+      "addedAt": "2026-11-01T14:39:26.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4Y1bAnJ51lSxQTmEBe7wPe"
+    },
+    {
       "name": "Super High",
       "artists": [
         "Odd Mob",
@@ -128,23 +137,14 @@
       ],
       "addedAt": "2026-11-01T03:14:19.000Z",
       "spotifyUrl": "https://open.spotify.com/track/0SKq1pIrC8TOb4hOLaYxU3"
-    },
-    {
-      "name": "Disconnect",
-      "artists": [
-        "Humans Musik",
-        "Greggio"
-      ],
-      "addedAt": "2026-11-01T03:13:46.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0iN1ocDDB7AWWIq3CLCFRm"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 48,
-  "availableTracks": 2251,
+  "availableTracks": 2252,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-01T04:42:38.062Z"
+  "lastUpdated": "2026-11-01T21:45:02.353Z"
 }
