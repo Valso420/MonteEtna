@@ -101468,5 +101468,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/4Y1bAnJ51lSxQTmEBe7wPe",
     "uri": "spotify:track:4Y1bAnJ51lSxQTmEBe7wPe"
+  },
+  {
+    "position": 2264,
+    "addedAt": "2026-11-04T15:59:13.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "3hKdLHEIqOh4xaWvaGWewt",
+    "name": "See You Move",
+    "artists": [
+      {
+        "id": "6VJ8RuUWKIgm5p5uEvZCfQ",
+        "name": "8Kays",
+        "uri": "spotify:artist:6VJ8RuUWKIgm5p5uEvZCfQ",
+        "spotifyUrl": "https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ"
+      },
+      {
+        "id": "7wFrhDr6M4P6iwf7idnK1n",
+        "name": "Leghet",
+        "uri": "spotify:artist:7wFrhDr6M4P6iwf7idnK1n",
+        "spotifyUrl": "https://open.spotify.com/artist/7wFrhDr6M4P6iwf7idnK1n"
+      }
+    ],
+    "album": {
+      "id": "51DUWq7PQ2QhCcOopGXoHw",
+      "name": "See You Move",
+      "uri": "spotify:album:51DUWq7PQ2QhCcOopGXoHw",
+      "releaseDate": "2026-10-30",
+      "spotifyUrl": "https://open.spotify.com/album/51DUWq7PQ2QhCcOopGXoHw",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273205e260d59c21d91f2e75afd"
+    },
+    "durationMs": 193125,
+    "durationMin": 3.22,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3hKdLHEIqOh4xaWvaGWewt",
+    "uri": "spotify:track:3hKdLHEIqOh4xaWvaGWewt"
   }
 ]
