@@ -91995,7 +91995,7 @@
       "uri": "spotify:album:7lPvo4py6cKMEjE7Bk5raJ",
       "releaseDate": "2026-06-05",
       "spotifyUrl": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273586475e0e7697109f9c69a49"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273769df37ccc6cc044169ea2f7"
     },
     "durationMs": 236249,
     "durationMin": 3.94,
@@ -101882,5 +101882,235 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/136y5DU5elZFuWCfNtTtoF",
     "uri": "spotify:track:136y5DU5elZFuWCfNtTtoF"
+  },
+  {
+    "position": 2273,
+    "addedAt": "2026-11-06T15:48:09.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "1H3ognNITW8bmuYl2BEdf1",
+    "name": "17",
+    "artists": [
+      {
+        "id": "29TpNOsTNYbLb6Xa10H0PR",
+        "name": "Miss Monique",
+        "uri": "spotify:artist:29TpNOsTNYbLb6Xa10H0PR",
+        "spotifyUrl": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+      },
+      {
+        "id": "1FiAkaEAyepvi57FmYvJqo",
+        "name": "Henri Bergmann",
+        "uri": "spotify:artist:1FiAkaEAyepvi57FmYvJqo",
+        "spotifyUrl": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+      },
+      {
+        "id": "02Tau9NwwC9Ipv4ckCdS3m",
+        "name": "Mario Eighta",
+        "uri": "spotify:artist:02Tau9NwwC9Ipv4ckCdS3m",
+        "spotifyUrl": "https://open.spotify.com/artist/02Tau9NwwC9Ipv4ckCdS3m"
+      }
+    ],
+    "album": {
+      "id": "1NwCnD52aKO3isV3Zgqnqn",
+      "name": "17",
+      "uri": "spotify:album:1NwCnD52aKO3isV3Zgqnqn",
+      "releaseDate": "2026-10-16",
+      "spotifyUrl": "https://open.spotify.com/album/1NwCnD52aKO3isV3Zgqnqn",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273877012234aa068aa3a02f9a8"
+    },
+    "durationMs": 165692,
+    "durationMin": 2.76,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/1H3ognNITW8bmuYl2BEdf1",
+    "uri": "spotify:track:1H3ognNITW8bmuYl2BEdf1"
+  },
+  {
+    "position": 2274,
+    "addedAt": "2026-11-06T15:55:29.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "0UgLmLX6DUkRsMmosFDfLb",
+    "name": "Parallax",
+    "artists": [
+      {
+        "id": "3StMSo3rzsZBfuGaGLq3IE",
+        "name": "Layla Benitez",
+        "uri": "spotify:artist:3StMSo3rzsZBfuGaGLq3IE",
+        "spotifyUrl": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
+      },
+      {
+        "id": "21MbQv1rCoPiOUq7f3cdHL",
+        "name": "Jono Stephenson",
+        "uri": "spotify:artist:21MbQv1rCoPiOUq7f3cdHL",
+        "spotifyUrl": "https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL"
+      },
+      {
+        "id": "1FiAkaEAyepvi57FmYvJqo",
+        "name": "Henri Bergmann",
+        "uri": "spotify:artist:1FiAkaEAyepvi57FmYvJqo",
+        "spotifyUrl": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+      }
+    ],
+    "album": {
+      "id": "6bojyA0Daix0B91oRJW5wM",
+      "name": "Parallax",
+      "uri": "spotify:album:6bojyA0Daix0B91oRJW5wM",
+      "releaseDate": "2026-03-26",
+      "spotifyUrl": "https://open.spotify.com/album/6bojyA0Daix0B91oRJW5wM",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d914a0584691af39242ffe9c"
+    },
+    "durationMs": 228629,
+    "durationMin": 3.81,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/0UgLmLX6DUkRsMmosFDfLb",
+    "uri": "spotify:track:0UgLmLX6DUkRsMmosFDfLb"
+  },
+  {
+    "position": 2275,
+    "addedAt": "2026-11-06T18:37:00.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6fwlL4BOlE7w4zeb02SkBL",
+    "name": "Underground",
+    "artists": [
+      {
+        "id": "310IX3ZzFSl14ZvY2dM8Da",
+        "name": "Silver Panda",
+        "uri": "spotify:artist:310IX3ZzFSl14ZvY2dM8Da",
+        "spotifyUrl": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+      },
+      {
+        "id": "2nPJVx4ZHFth57buZTruuj",
+        "name": "Ruback",
+        "uri": "spotify:artist:2nPJVx4ZHFth57buZTruuj",
+        "spotifyUrl": "https://open.spotify.com/artist/2nPJVx4ZHFth57buZTruuj"
+      }
+    ],
+    "album": {
+      "id": "2O4xDqzHerA3cLIJ9eLfcQ",
+      "name": "Underground",
+      "uri": "spotify:album:2O4xDqzHerA3cLIJ9eLfcQ",
+      "releaseDate": "2024-08-23",
+      "spotifyUrl": "https://open.spotify.com/album/2O4xDqzHerA3cLIJ9eLfcQ",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ca34744169abc30d509bbe97"
+    },
+    "durationMs": 188571,
+    "durationMin": 3.14,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6fwlL4BOlE7w4zeb02SkBL",
+    "uri": "spotify:track:6fwlL4BOlE7w4zeb02SkBL"
+  },
+  {
+    "position": 2276,
+    "addedAt": "2026-11-06T18:53:50.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "5IMYaPET4tQcm1B42yXlNL",
+    "name": "Prnstar",
+    "artists": [
+      {
+        "id": "4rQiYfSqmicW55TlG6vjK7",
+        "name": "Yubik",
+        "uri": "spotify:artist:4rQiYfSqmicW55TlG6vjK7",
+        "spotifyUrl": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
+      }
+    ],
+    "album": {
+      "id": "0opUaSxOh1EvsSnoa7Qn5m",
+      "name": "4 the Streets EP",
+      "uri": "spotify:album:0opUaSxOh1EvsSnoa7Qn5m",
+      "releaseDate": "2026-09-18",
+      "spotifyUrl": "https://open.spotify.com/album/0opUaSxOh1EvsSnoa7Qn5m",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733200e4506048cca2032eaba5"
+    },
+    "durationMs": 191944,
+    "durationMin": 3.2,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/5IMYaPET4tQcm1B42yXlNL",
+    "uri": "spotify:track:5IMYaPET4tQcm1B42yXlNL"
+  },
+  {
+    "position": 2277,
+    "addedAt": "2026-11-06T20:23:34.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "6QqWR8fmdwG6rfgxwFHcrI",
+    "name": "It's All Good",
+    "artists": [
+      {
+        "id": "6Jbyd4qzEtbFtswZP1o6Ht",
+        "name": "Agents Of Time",
+        "uri": "spotify:artist:6Jbyd4qzEtbFtswZP1o6Ht",
+        "spotifyUrl": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+      }
+    ],
+    "album": {
+      "id": "2auTyTFkBTYDIQwQKLz8l4",
+      "name": "It's All Good",
+      "uri": "spotify:album:2auTyTFkBTYDIQwQKLz8l4",
+      "releaseDate": "2023-12-01",
+      "spotifyUrl": "https://open.spotify.com/album/2auTyTFkBTYDIQwQKLz8l4",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e5faeff99893b8331705a686"
+    },
+    "durationMs": 211428,
+    "durationMin": 3.52,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/6QqWR8fmdwG6rfgxwFHcrI",
+    "uri": "spotify:track:6QqWR8fmdwG6rfgxwFHcrI"
   }
 ]
