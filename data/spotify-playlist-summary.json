@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 39,
-  "totalTracks": 2277,
-  "exportedTracks": 2277,
-  "totalDurationMs": 633376925,
-  "totalHours": 175.9,
+  "totalTracks": 2280,
+  "exportedTracks": 2280,
+  "totalDurationMs": 634388877,
+  "totalHours": 176.2,
   "averageDurationMin": 4.64,
-  "uniqueArtists": 1539,
-  "uniqueAlbums": 1976,
+  "uniqueArtists": 1541,
+  "uniqueAlbums": 1979,
   "topArtists": [
     {
       "name": "Mathame",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Adam Beyer",
-      "tracks": 36
+      "tracks": 37
     },
     {
       "name": "Kevin de Vries",
@@ -96,6 +96,36 @@
   ],
   "recentTracks": [
     {
+      "name": "Mars 2026",
+      "artists": [
+        "Julian Jeweil"
+      ],
+      "addedAt": "2026-11-10T19:46:57.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4FULIDPjDp7hyFwlfUuswq"
+    },
+    {
+      "name": "Congenial Endeavor - Veerus & Mattia Saviolo Rework",
+      "artists": [
+        "Adam Beyer",
+        "Joseph Capriati",
+        "Veerus",
+        "Mattia Saviolo"
+      ],
+      "addedAt": "2026-11-10T19:03:07.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1XWIbkpLUDSOlEk28O28il"
+    },
+    {
+      "name": "Distant Memories - Guy Mantzur & Chicola Remix",
+      "artists": [
+        "Hernan Cattaneo",
+        "Hicky & Kalo",
+        "Guy Mantzur",
+        "Chicola"
+      ],
+      "addedAt": "2026-11-10T16:02:47.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6xPmOd3XTd11KT6geBaVMV"
+    },
+    {
       "name": "It's All Good",
       "artists": [
         "Agents Of Time"
@@ -110,43 +140,14 @@
       ],
       "addedAt": "2026-11-06T18:53:50.000Z",
       "spotifyUrl": "https://open.spotify.com/track/5IMYaPET4tQcm1B42yXlNL"
-    },
-    {
-      "name": "Underground",
-      "artists": [
-        "Silver Panda",
-        "Ruback"
-      ],
-      "addedAt": "2026-11-06T18:37:00.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6fwlL4BOlE7w4zeb02SkBL"
-    },
-    {
-      "name": "Parallax",
-      "artists": [
-        "Layla Benitez",
-        "Jono Stephenson",
-        "Henri Bergmann"
-      ],
-      "addedAt": "2026-11-06T15:55:29.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/0UgLmLX6DUkRsMmosFDfLb"
-    },
-    {
-      "name": "17",
-      "artists": [
-        "Miss Monique",
-        "Henri Bergmann",
-        "Mario Eighta"
-      ],
-      "addedAt": "2026-11-06T15:48:09.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1H3ognNITW8bmuYl2BEdf1"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 49,
-  "availableTracks": 2266,
+  "availableTracks": 2269,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-10T14:26:25.476Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-11-10T22:53:59.524Z"
 }
