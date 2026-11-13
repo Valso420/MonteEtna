@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 39,
-  "totalTracks": 2280,
-  "exportedTracks": 2280,
-  "totalDurationMs": 634388877,
-  "totalHours": 176.2,
-  "averageDurationMin": 4.64,
-  "uniqueArtists": 1541,
-  "uniqueAlbums": 1979,
+  "totalTracks": 2288,
+  "exportedTracks": 2288,
+  "totalDurationMs": 636063858,
+  "totalHours": 176.7,
+  "averageDurationMin": 4.63,
+  "uniqueArtists": 1542,
+  "uniqueAlbums": 1986,
   "topArtists": [
     {
       "name": "Mathame",
@@ -51,19 +51,19 @@
     },
     {
       "name": "Adam Beyer",
-      "tracks": 37
+      "tracks": 38
     },
     {
       "name": "Kevin de Vries",
       "tracks": 36
     },
     {
-      "name": "Vintage Culture",
+      "name": "Innellea",
       "tracks": 33
     },
     {
-      "name": "Innellea",
-      "tracks": 32
+      "name": "Vintage Culture",
+      "tracks": 33
     },
     {
       "name": "Layton Giordani",
@@ -79,7 +79,7 @@
     },
     {
       "name": "Miss Monique",
-      "tracks": 27
+      "tracks": 28
     },
     {
       "name": "TH;EN",
@@ -96,58 +96,57 @@
   ],
   "recentTracks": [
     {
-      "name": "Mars 2026",
+      "name": "Levitate",
       "artists": [
-        "Julian Jeweil"
+        "Woo York"
       ],
-      "addedAt": "2026-11-10T19:46:57.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4FULIDPjDp7hyFwlfUuswq"
+      "addedAt": "2026-11-13T12:50:38.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/21GYvHYUc9QhyhnPQPQaQe"
     },
     {
-      "name": "Congenial Endeavor - Veerus & Mattia Saviolo Rework",
+      "name": "The Light",
       "artists": [
+        "HIGHLITE",
+        "ZENØN"
+      ],
+      "addedAt": "2026-11-13T12:48:30.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/74frtL99Og8UzQVcnXMBx9"
+    },
+    {
+      "name": "Undertone",
+      "artists": [
+        "Miss Monique",
+        "Paradoks"
+      ],
+      "addedAt": "2026-11-13T12:39:01.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5AFINGs0La7oRTsG8foLA9"
+    },
+    {
+      "name": "Can't Get Over",
+      "artists": [
+        "Gorgon City",
+        "Innellea"
+      ],
+      "addedAt": "2026-11-13T12:34:09.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/13NMHfhVjL071WzEXFdLF9"
+    },
+    {
+      "name": "Conjure Dreams - Adam Beyer & Bart Skils Rework",
+      "artists": [
+        "Maceo Plex",
         "Adam Beyer",
-        "Joseph Capriati",
-        "Veerus",
-        "Mattia Saviolo"
+        "Bart Skils"
       ],
-      "addedAt": "2026-11-10T19:03:07.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1XWIbkpLUDSOlEk28O28il"
-    },
-    {
-      "name": "Distant Memories - Guy Mantzur & Chicola Remix",
-      "artists": [
-        "Hernan Cattaneo",
-        "Hicky & Kalo",
-        "Guy Mantzur",
-        "Chicola"
-      ],
-      "addedAt": "2026-11-10T16:02:47.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6xPmOd3XTd11KT6geBaVMV"
-    },
-    {
-      "name": "It's All Good",
-      "artists": [
-        "Agents Of Time"
-      ],
-      "addedAt": "2026-11-06T20:23:34.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6QqWR8fmdwG6rfgxwFHcrI"
-    },
-    {
-      "name": "Prnstar",
-      "artists": [
-        "Yubik"
-      ],
-      "addedAt": "2026-11-06T18:53:50.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5IMYaPET4tQcm1B42yXlNL"
+      "addedAt": "2026-11-13T12:25:33.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3kV5WoRkjlEBcNhYrwfI49"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 49,
-  "availableTracks": 2269,
+  "availableTracks": 2277,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-12T23:15:45.211Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-11-13T14:00:20.230Z"
 }
