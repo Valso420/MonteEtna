@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 39,
-  "totalTracks": 2288,
-  "exportedTracks": 2288,
-  "totalDurationMs": 636063858,
-  "totalHours": 176.7,
+  "totalTracks": 2293,
+  "exportedTracks": 2293,
+  "totalDurationMs": 637081286,
+  "totalHours": 177,
   "averageDurationMin": 4.63,
-  "uniqueArtists": 1542,
-  "uniqueAlbums": 1986,
+  "uniqueArtists": 1544,
+  "uniqueAlbums": 1990,
   "topArtists": [
     {
       "name": "Mathame",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Solomun",
-      "tracks": 52
+      "tracks": 53
     },
     {
       "name": "ARTBAT",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Argy",
-      "tracks": 42
+      "tracks": 43
     },
     {
       "name": "Adriatique",
@@ -96,57 +96,56 @@
   ],
   "recentTracks": [
     {
-      "name": "Levitate",
+      "name": "XXX",
       "artists": [
-        "Woo York"
+        "Lehar"
       ],
-      "addedAt": "2026-11-13T12:50:38.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/21GYvHYUc9QhyhnPQPQaQe"
+      "addedAt": "2026-11-13T19:29:19.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/46AqNZS8cTxaJAFyucx8VG"
     },
     {
-      "name": "The Light",
+      "name": "Leave This World Behind - Fast Version",
       "artists": [
-        "HIGHLITE",
-        "ZENØN"
+        "Pavel Petrov",
+        "Tyler Hill"
       ],
-      "addedAt": "2026-11-13T12:48:30.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/74frtL99Og8UzQVcnXMBx9"
+      "addedAt": "2026-11-13T19:25:27.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/798HVH9epIemNgR8VXhVHE"
     },
     {
-      "name": "Undertone",
+      "name": "Notorious Thugs (Solomun Remix)",
       "artists": [
-        "Miss Monique",
-        "Paradoks"
+        "The Notorious B.I.G.",
+        "Bone Thugs-N-Harmony",
+        "Solomun"
       ],
-      "addedAt": "2026-11-13T12:39:01.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5AFINGs0La7oRTsG8foLA9"
+      "addedAt": "2026-11-13T18:41:11.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3MbTgMRqMf7vHMvegoyAjy"
     },
     {
-      "name": "Can't Get Over",
+      "name": "Alto",
       "artists": [
-        "Gorgon City",
-        "Innellea"
+        "Argy",
+        "SOLANCE"
       ],
-      "addedAt": "2026-11-13T12:34:09.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/13NMHfhVjL071WzEXFdLF9"
+      "addedAt": "2026-11-13T16:36:58.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7tFRXtiOMvbMnrpGFJfNYW"
     },
     {
-      "name": "Conjure Dreams - Adam Beyer & Bart Skils Rework",
+      "name": "We Are",
       "artists": [
-        "Maceo Plex",
-        "Adam Beyer",
-        "Bart Skils"
+        "Final Request"
       ],
-      "addedAt": "2026-11-13T12:25:33.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3kV5WoRkjlEBcNhYrwfI49"
+      "addedAt": "2026-11-13T16:17:59.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2kranwnvZV86hUoL1QYWr7"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
-  "explicitTracks": 49,
-  "availableTracks": 2277,
+  "explicitTracks": 50,
+  "availableTracks": 2282,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-13T14:00:20.230Z"
+  "lastUpdated": "2026-11-13T23:17:40.223Z"
 }

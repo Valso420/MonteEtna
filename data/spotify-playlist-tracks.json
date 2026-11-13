@@ -102624,5 +102624,229 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/21GYvHYUc9QhyhnPQPQaQe",
     "uri": "spotify:track:21GYvHYUc9QhyhnPQPQaQe"
+  },
+  {
+    "position": 2289,
+    "addedAt": "2026-11-13T16:17:59.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2kranwnvZV86hUoL1QYWr7",
+    "name": "We Are",
+    "artists": [
+      {
+        "id": "3NVOeVf2oPolFbXeTjdb3x",
+        "name": "Final Request",
+        "uri": "spotify:artist:3NVOeVf2oPolFbXeTjdb3x",
+        "spotifyUrl": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+      }
+    ],
+    "album": {
+      "id": "2Rs8qOKjFbgkKrcps8N59H",
+      "name": "We Are",
+      "uri": "spotify:album:2Rs8qOKjFbgkKrcps8N59H",
+      "releaseDate": "2026-01-23",
+      "spotifyUrl": "https://open.spotify.com/album/2Rs8qOKjFbgkKrcps8N59H",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736d0af4eb361c4434c5f8bdd3"
+    },
+    "durationMs": 213901,
+    "durationMin": 3.57,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2kranwnvZV86hUoL1QYWr7",
+    "uri": "spotify:track:2kranwnvZV86hUoL1QYWr7"
+  },
+  {
+    "position": 2290,
+    "addedAt": "2026-11-13T16:36:58.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7tFRXtiOMvbMnrpGFJfNYW",
+    "name": "Alto",
+    "artists": [
+      {
+        "id": "1NaQOKgddaJipUtmptb7GI",
+        "name": "Argy",
+        "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI",
+        "spotifyUrl": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+      },
+      {
+        "id": "2gmkTgD5PwEI6E4Vh0f4ha",
+        "name": "SOLANCE",
+        "uri": "spotify:artist:2gmkTgD5PwEI6E4Vh0f4ha",
+        "spotifyUrl": "https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha"
+      }
+    ],
+    "album": {
+      "id": "3MsGUzi6KydfvhUYVZBQhK",
+      "name": "NEWORLD II",
+      "uri": "spotify:album:3MsGUzi6KydfvhUYVZBQhK",
+      "releaseDate": "2026-01-30",
+      "spotifyUrl": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273475fb0c54419b85a1388250e"
+    },
+    "durationMs": 174403,
+    "durationMin": 2.91,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7tFRXtiOMvbMnrpGFJfNYW",
+    "uri": "spotify:track:7tFRXtiOMvbMnrpGFJfNYW"
+  },
+  {
+    "position": 2291,
+    "addedAt": "2026-11-13T18:41:11.000Z",
+    "addedBy": {
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
+    },
+    "id": "3MbTgMRqMf7vHMvegoyAjy",
+    "name": "Notorious Thugs (Solomun Remix)",
+    "artists": [
+      {
+        "id": "5me0Irg2ANcsgc93uaYrpb",
+        "name": "The Notorious B.I.G.",
+        "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb",
+        "spotifyUrl": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+      },
+      {
+        "id": "5spEJXLwD1sKUdC2bnOHPg",
+        "name": "Bone Thugs-N-Harmony",
+        "uri": "spotify:artist:5spEJXLwD1sKUdC2bnOHPg",
+        "spotifyUrl": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+      },
+      {
+        "id": "5wJK4kQAkVGjqM9x46KQOC",
+        "name": "Solomun",
+        "uri": "spotify:artist:5wJK4kQAkVGjqM9x46KQOC",
+        "spotifyUrl": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+      }
+    ],
+    "album": {
+      "id": "278H2vPwRurZocliiFluqy",
+      "name": "Notorious Thugs (Solomun Remix)",
+      "uri": "spotify:album:278H2vPwRurZocliiFluqy",
+      "releaseDate": "2026-11-13",
+      "spotifyUrl": "https://open.spotify.com/album/278H2vPwRurZocliiFluqy",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27352ef9421c59ab28a84472b81"
+    },
+    "durationMs": 236271,
+    "durationMin": 3.94,
+    "explicit": true,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/3MbTgMRqMf7vHMvegoyAjy",
+    "uri": "spotify:track:3MbTgMRqMf7vHMvegoyAjy"
+  },
+  {
+    "position": 2292,
+    "addedAt": "2026-11-13T19:25:27.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "798HVH9epIemNgR8VXhVHE",
+    "name": "Leave This World Behind - Fast Version",
+    "artists": [
+      {
+        "id": "21km6OSJbAfL6Erx6xbsQW",
+        "name": "Pavel Petrov",
+        "uri": "spotify:artist:21km6OSJbAfL6Erx6xbsQW",
+        "spotifyUrl": "https://open.spotify.com/artist/21km6OSJbAfL6Erx6xbsQW"
+      },
+      {
+        "id": "0mpUHzHesNAyD4y42cWOWr",
+        "name": "Tyler Hill",
+        "uri": "spotify:artist:0mpUHzHesNAyD4y42cWOWr",
+        "spotifyUrl": "https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr"
+      }
+    ],
+    "album": {
+      "id": "05ixFc4uJXLmcIB11qL5Nh",
+      "name": "Leave This World Behind",
+      "uri": "spotify:album:05ixFc4uJXLmcIB11qL5Nh",
+      "releaseDate": "2026-11-12",
+      "spotifyUrl": "https://open.spotify.com/album/05ixFc4uJXLmcIB11qL5Nh",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b65e15a474b86b08d60b0f19"
+    },
+    "durationMs": 194068,
+    "durationMin": 3.23,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/798HVH9epIemNgR8VXhVHE",
+    "uri": "spotify:track:798HVH9epIemNgR8VXhVHE"
+  },
+  {
+    "position": 2293,
+    "addedAt": "2026-11-13T19:29:19.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "46AqNZS8cTxaJAFyucx8VG",
+    "name": "XXX",
+    "artists": [
+      {
+        "id": "4uSLuEAH4lVnjAZwrlixk1",
+        "name": "Lehar",
+        "uri": "spotify:artist:4uSLuEAH4lVnjAZwrlixk1",
+        "spotifyUrl": "https://open.spotify.com/artist/4uSLuEAH4lVnjAZwrlixk1"
+      }
+    ],
+    "album": {
+      "id": "6Xa05DC341IjTk1xV6Js5t",
+      "name": "Fusion State",
+      "uri": "spotify:album:6Xa05DC341IjTk1xV6Js5t",
+      "releaseDate": "2025-02-07",
+      "spotifyUrl": "https://open.spotify.com/album/6Xa05DC341IjTk1xV6Js5t",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736d89e9eb855df3bbcd7f5146"
+    },
+    "durationMs": 198785,
+    "durationMin": 3.31,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/46AqNZS8cTxaJAFyucx8VG",
+    "uri": "spotify:track:46AqNZS8cTxaJAFyucx8VG"
   }
 ]
