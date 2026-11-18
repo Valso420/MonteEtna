@@ -102882,5 +102882,57 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI",
     "uri": "spotify:track:2AJzSl2iYq7Thk2P535MwI"
+  },
+  {
+    "position": 2295,
+    "addedAt": "2026-11-18T15:42:08.000Z",
+    "addedBy": {
+      "id": "31wtbg2kqdzvf3cofepro5ru6qsi",
+      "uri": "spotify:user:31wtbg2kqdzvf3cofepro5ru6qsi",
+      "href": "https://api.spotify.com/v1/users/31wtbg2kqdzvf3cofepro5ru6qsi",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/31wtbg2kqdzvf3cofepro5ru6qsi"
+    },
+    "id": "4ABq8s2EfMZuqfKsh2XLls",
+    "name": "Blessings - Max Styler Remix",
+    "artists": [
+      {
+        "id": "7CajNmpbOovFoOoasH2HaY",
+        "name": "Calvin Harris",
+        "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
+        "spotifyUrl": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+      },
+      {
+        "id": "4DWuml4Jf6K81b5rAPwMb6",
+        "name": "Clementine Douglas",
+        "uri": "spotify:artist:4DWuml4Jf6K81b5rAPwMb6",
+        "spotifyUrl": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+      },
+      {
+        "id": "3NKKngINK1tP6BFy0WOyWk",
+        "name": "Max Styler",
+        "uri": "spotify:artist:3NKKngINK1tP6BFy0WOyWk",
+        "spotifyUrl": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+      }
+    ],
+    "album": {
+      "id": "0b2lrcEdueqWOAzyeAKScs",
+      "name": "Blessings (Max Styler Remix)",
+      "uri": "spotify:album:0b2lrcEdueqWOAzyeAKScs",
+      "releaseDate": "2025-06-20",
+      "spotifyUrl": "https://open.spotify.com/album/0b2lrcEdueqWOAzyeAKScs",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273452e50c02494de461f84eded"
+    },
+    "durationMs": 243692,
+    "durationMin": 4.06,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/4ABq8s2EfMZuqfKsh2XLls",
+    "uri": "spotify:track:4ABq8s2EfMZuqfKsh2XLls"
   }
 ]

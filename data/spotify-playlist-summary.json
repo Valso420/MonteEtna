@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 39,
-  "totalTracks": 2294,
-  "exportedTracks": 2294,
-  "totalDurationMs": 637236910,
-  "totalHours": 177,
+  "totalTracks": 2295,
+  "exportedTracks": 2295,
+  "totalDurationMs": 637480602,
+  "totalHours": 177.1,
   "averageDurationMin": 4.63,
   "uniqueArtists": 1544,
-  "uniqueAlbums": 1991,
+  "uniqueAlbums": 1992,
   "topArtists": [
     {
       "name": "Mathame",
@@ -82,19 +82,29 @@
       "tracks": 28
     },
     {
+      "name": "Max Styler",
+      "tracks": 27
+    },
+    {
       "name": "TH;EN",
       "tracks": 27
     },
     {
       "name": "Armin van Buuren",
       "tracks": 26
-    },
-    {
-      "name": "Colyn",
-      "tracks": 26
     }
   ],
   "recentTracks": [
+    {
+      "name": "Blessings - Max Styler Remix",
+      "artists": [
+        "Calvin Harris",
+        "Clementine Douglas",
+        "Max Styler"
+      ],
+      "addedAt": "2026-11-18T15:42:08.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4ABq8s2EfMZuqfKsh2XLls"
+    },
     {
       "name": "Diet Coke",
       "artists": [
@@ -129,23 +139,14 @@
       ],
       "addedAt": "2026-11-13T18:41:11.000Z",
       "spotifyUrl": "https://open.spotify.com/track/3MbTgMRqMf7vHMvegoyAjy"
-    },
-    {
-      "name": "Alto",
-      "artists": [
-        "Argy",
-        "SOLANCE"
-      ],
-      "addedAt": "2026-11-13T16:36:58.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7tFRXtiOMvbMnrpGFJfNYW"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 50,
-  "availableTracks": 2283,
+  "availableTracks": 2284,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-18T00:36:53.037Z"
+  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-11-18T23:56:25.141Z"
 }
