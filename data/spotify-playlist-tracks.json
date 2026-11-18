@@ -102842,5 +102842,45 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/46AqNZS8cTxaJAFyucx8VG",
     "uri": "spotify:track:46AqNZS8cTxaJAFyucx8VG"
+  },
+  {
+    "position": 2294,
+    "addedAt": "2026-11-17T22:31:19.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2AJzSl2iYq7Thk2P535MwI",
+    "name": "Diet Coke",
+    "artists": [
+      {
+        "id": "73LVVE6OYOwlXlIJAFNJdR",
+        "name": "Fallon",
+        "uri": "spotify:artist:73LVVE6OYOwlXlIJAFNJdR",
+        "spotifyUrl": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+      }
+    ],
+    "album": {
+      "id": "0TPFuZo9pI9Fvbbx59wHUO",
+      "name": "Diet Coke",
+      "uri": "spotify:album:0TPFuZo9pI9Fvbbx59wHUO",
+      "releaseDate": "2025-10-10",
+      "spotifyUrl": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273aef0001b882de38401b243de"
+    },
+    "durationMs": 155624,
+    "durationMin": 2.59,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI",
+    "uri": "spotify:track:2AJzSl2iYq7Thk2P535MwI"
   }
 ]

@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 39,
-  "totalTracks": 2293,
-  "exportedTracks": 2293,
-  "totalDurationMs": 637081286,
+  "totalTracks": 2294,
+  "exportedTracks": 2294,
+  "totalDurationMs": 637236910,
   "totalHours": 177,
   "averageDurationMin": 4.63,
-  "uniqueArtists": 1543,
-  "uniqueAlbums": 1990,
+  "uniqueArtists": 1544,
+  "uniqueAlbums": 1991,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,14 @@
   ],
   "recentTracks": [
     {
+      "name": "Diet Coke",
+      "artists": [
+        "Fallon"
+      ],
+      "addedAt": "2026-11-17T22:31:19.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
+    },
+    {
       "name": "XXX",
       "artists": [
         "Lehar"
@@ -130,22 +138,14 @@
       ],
       "addedAt": "2026-11-13T16:36:58.000Z",
       "spotifyUrl": "https://open.spotify.com/track/7tFRXtiOMvbMnrpGFJfNYW"
-    },
-    {
-      "name": "We Are",
-      "artists": [
-        "Final Request"
-      ],
-      "addedAt": "2026-11-13T16:17:59.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2kranwnvZV86hUoL1QYWr7"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 50,
-  "availableTracks": 2282,
+  "availableTracks": 2283,
   "unavailableTracks": 11,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-17T15:35:09.151Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-11-18T00:36:53.037Z"
 }
