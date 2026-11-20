@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 39,
-  "totalTracks": 2295,
-  "exportedTracks": 2295,
-  "totalDurationMs": 637480602,
-  "totalHours": 177.1,
+  "totalTracks": 2304,
+  "exportedTracks": 2304,
+  "totalDurationMs": 639794039,
+  "totalHours": 177.7,
   "averageDurationMin": 4.63,
-  "uniqueArtists": 1544,
-  "uniqueAlbums": 1992,
+  "uniqueArtists": 1548,
+  "uniqueAlbums": 1999,
   "topArtists": [
     {
       "name": "Mathame",
@@ -82,71 +82,71 @@
       "tracks": 28
     },
     {
+      "name": "Chris Avantgarde",
+      "tracks": 27
+    },
+    {
       "name": "Max Styler",
       "tracks": 27
     },
     {
       "name": "TH;EN",
       "tracks": 27
-    },
-    {
-      "name": "Armin van Buuren",
-      "tracks": 26
     }
   ],
   "recentTracks": [
     {
-      "name": "Blessings - Max Styler Remix",
+      "name": "Be Yourself",
       "artists": [
-        "Calvin Harris",
-        "Clementine Douglas",
-        "Max Styler"
+        "The Element MT",
+        "Zieze"
       ],
-      "addedAt": "2026-11-18T15:42:08.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4ABq8s2EfMZuqfKsh2XLls"
+      "addedAt": "2026-11-20T15:03:26.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7GKAJE8wjGkDQuhzALoBHn"
     },
     {
-      "name": "Diet Coke",
+      "name": "X Is For Lovers - Extended Mix",
       "artists": [
-        "Fallon"
+        "Ae:ther"
       ],
-      "addedAt": "2026-11-17T22:31:19.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
+      "addedAt": "2026-11-20T14:27:24.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2FrFkpTZr3c8sedSEwvG57"
     },
     {
-      "name": "XXX",
+      "name": "All I Want - Edit",
       "artists": [
-        "Lehar"
+        "KAS:ST",
+        "Enai",
+        "Enzo Gauthier"
       ],
-      "addedAt": "2026-11-13T19:29:19.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/46AqNZS8cTxaJAFyucx8VG"
+      "addedAt": "2026-11-20T14:15:45.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/6sZAoOnk67j6dTLcIAWWbM"
     },
     {
-      "name": "Leave This World Behind - Fast Version",
+      "name": "Bitch Going Down",
       "artists": [
-        "Pavel Petrov",
-        "Tyler Hill"
+        "Alphadog"
       ],
-      "addedAt": "2026-11-13T19:25:27.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/798HVH9epIemNgR8VXhVHE"
+      "addedAt": "2026-11-20T14:10:10.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/63oZ12b027dkSjOpDQYUft"
     },
     {
-      "name": "Notorious Thugs (Solomun Remix)",
+      "name": "Acid",
       "artists": [
-        "The Notorious B.I.G.",
-        "Bone Thugs-N-Harmony",
-        "Solomun"
+        "Sama (US)",
+        "Chris Avantgarde",
+        "STOCKHOLMusic"
       ],
-      "addedAt": "2026-11-13T18:41:11.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3MbTgMRqMf7vHMvegoyAjy"
+      "addedAt": "2026-11-20T14:04:26.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5ZrKZ3qPnOAQaGbPc96aD7"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
-  "explicitTracks": 50,
-  "availableTracks": 2283,
+  "explicitTracks": 51,
+  "availableTracks": 2292,
   "unavailableTracks": 12,
   "localTracks": 0,
-  "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-19T20:01:22.883Z"
+  "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
+  "lastUpdated": "2026-11-20T15:12:33.806Z"
 }
