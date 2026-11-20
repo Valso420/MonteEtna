@@ -103330,5 +103330,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/7GKAJE8wjGkDQuhzALoBHn",
     "uri": "spotify:track:7GKAJE8wjGkDQuhzALoBHn"
+  },
+  {
+    "position": 2305,
+    "addedAt": "2026-11-20T16:27:56.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "2fwVnifj9tP17FAtT3Lsq3",
+    "name": "Innerbloom XI",
+    "artists": [
+      {
+        "id": "5Pb27ujIyYb33zBqVysBkj",
+        "name": "RÜFÜS DU SOL",
+        "uri": "spotify:artist:5Pb27ujIyYb33zBqVysBkj",
+        "spotifyUrl": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+      },
+      {
+        "id": "0YC192cP3KPCRWx8zr8MfZ",
+        "name": "Hans Zimmer",
+        "uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ",
+        "spotifyUrl": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+      }
+    ],
+    "album": {
+      "id": "5mTgGkQwkLPTrBk4m2BL5O",
+      "name": "Innerbloom XI",
+      "uri": "spotify:album:5mTgGkQwkLPTrBk4m2BL5O",
+      "releaseDate": "2026-11-20",
+      "spotifyUrl": "https://open.spotify.com/album/5mTgGkQwkLPTrBk4m2BL5O",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732f664d25373dd39cfaff4c08"
+    },
+    "durationMs": 543627,
+    "durationMin": 9.06,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/2fwVnifj9tP17FAtT3Lsq3",
+    "uri": "spotify:track:2fwVnifj9tP17FAtT3Lsq3"
   }
 ]

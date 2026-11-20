@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 39,
-  "totalTracks": 2304,
-  "exportedTracks": 2304,
-  "totalDurationMs": 639794039,
-  "totalHours": 177.7,
+  "totalTracks": 2305,
+  "exportedTracks": 2305,
+  "totalDurationMs": 640337666,
+  "totalHours": 177.9,
   "averageDurationMin": 4.63,
-  "uniqueArtists": 1548,
-  "uniqueAlbums": 1999,
+  "uniqueArtists": 1549,
+  "uniqueAlbums": 2000,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "Innerbloom XI",
+      "artists": [
+        "RÜFÜS DU SOL",
+        "Hans Zimmer"
+      ],
+      "addedAt": "2026-11-20T16:27:56.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2fwVnifj9tP17FAtT3Lsq3"
+    },
+    {
       "name": "Be Yourself",
       "artists": [
         "The Element MT",
@@ -129,24 +138,14 @@
       ],
       "addedAt": "2026-11-20T14:10:10.000Z",
       "spotifyUrl": "https://open.spotify.com/track/63oZ12b027dkSjOpDQYUft"
-    },
-    {
-      "name": "Acid",
-      "artists": [
-        "Sama (US)",
-        "Chris Avantgarde",
-        "STOCKHOLMusic"
-      ],
-      "addedAt": "2026-11-20T14:04:26.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5ZrKZ3qPnOAQaGbPc96aD7"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 51,
-  "availableTracks": 2292,
+  "availableTracks": 2293,
   "unavailableTracks": 12,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-20T15:12:33.806Z"
+  "lastUpdated": "2026-11-20T23:43:23.063Z"
 }
