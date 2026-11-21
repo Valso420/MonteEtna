@@ -103333,40 +103333,34 @@
   },
   {
     "position": 2305,
-    "addedAt": "2026-11-20T16:27:56.000Z",
+    "addedAt": "2026-11-21T21:49:20.000Z",
     "addedBy": {
-      "id": "valentinstampone2",
-      "uri": "spotify:user:valentinstampone2",
-      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "id": "11138796265",
+      "uri": "spotify:user:11138796265",
+      "href": "https://api.spotify.com/v1/users/11138796265",
       "type": "user",
-      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+      "spotifyUrl": "https://open.spotify.com/user/11138796265"
     },
-    "id": "2fwVnifj9tP17FAtT3Lsq3",
-    "name": "Innerbloom XI",
+    "id": "3r6mlzTxJ88gBZaXLQ95M8",
+    "name": "Rise",
     "artists": [
       {
-        "id": "5Pb27ujIyYb33zBqVysBkj",
-        "name": "RÜFÜS DU SOL",
-        "uri": "spotify:artist:5Pb27ujIyYb33zBqVysBkj",
-        "spotifyUrl": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-      },
-      {
-        "id": "0YC192cP3KPCRWx8zr8MfZ",
-        "name": "Hans Zimmer",
-        "uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ",
-        "spotifyUrl": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        "id": "7Em4kWZ5atMYknHwSkp3gD",
+        "name": "Guy J",
+        "uri": "spotify:artist:7Em4kWZ5atMYknHwSkp3gD",
+        "spotifyUrl": "https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD"
       }
     ],
     "album": {
-      "id": "5mTgGkQwkLPTrBk4m2BL5O",
-      "name": "Innerbloom XI",
-      "uri": "spotify:album:5mTgGkQwkLPTrBk4m2BL5O",
-      "releaseDate": "2026-11-20",
-      "spotifyUrl": "https://open.spotify.com/album/5mTgGkQwkLPTrBk4m2BL5O",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732f664d25373dd39cfaff4c08"
+      "id": "0jD6OEUmrs0W9092iF6364",
+      "name": "Rise",
+      "uri": "spotify:album:0jD6OEUmrs0W9092iF6364",
+      "releaseDate": "2026-07-24",
+      "spotifyUrl": "https://open.spotify.com/album/0jD6OEUmrs0W9092iF6364",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b27362fd7a680e392140bde0ab02"
     },
-    "durationMs": 543627,
-    "durationMin": 9.06,
+    "durationMs": 511659,
+    "durationMin": 8.53,
     "explicit": false,
     "isLocal": false,
     "isPlayable": true,
@@ -103374,7 +103368,7 @@
     "availableMarkets": 0,
     "popularity": null,
     "previewUrl": null,
-    "spotifyUrl": "https://open.spotify.com/track/2fwVnifj9tP17FAtT3Lsq3",
-    "uri": "spotify:track:2fwVnifj9tP17FAtT3Lsq3"
+    "spotifyUrl": "https://open.spotify.com/track/3r6mlzTxJ88gBZaXLQ95M8",
+    "uri": "spotify:track:3r6mlzTxJ88gBZaXLQ95M8"
   }
 ]

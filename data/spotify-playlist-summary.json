@@ -7,10 +7,10 @@
   "followers": 39,
   "totalTracks": 2305,
   "exportedTracks": 2305,
-  "totalDurationMs": 640337666,
+  "totalDurationMs": 640305698,
   "totalHours": 177.9,
   "averageDurationMin": 4.63,
-  "uniqueArtists": 1549,
+  "uniqueArtists": 1548,
   "uniqueAlbums": 2000,
   "topArtists": [
     {
@@ -96,13 +96,12 @@
   ],
   "recentTracks": [
     {
-      "name": "Innerbloom XI",
+      "name": "Rise",
       "artists": [
-        "RÜFÜS DU SOL",
-        "Hans Zimmer"
+        "Guy J"
       ],
-      "addedAt": "2026-11-20T16:27:56.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2fwVnifj9tP17FAtT3Lsq3"
+      "addedAt": "2026-11-21T21:49:20.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3r6mlzTxJ88gBZaXLQ95M8"
     },
     {
       "name": "Be Yourself",
@@ -147,5 +146,5 @@
   "unavailableTracks": 12,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-21T05:52:08.719Z"
+  "lastUpdated": "2026-11-21T22:49:51.425Z"
 }
