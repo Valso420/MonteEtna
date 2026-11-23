@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 39,
-  "totalTracks": 2305,
-  "exportedTracks": 2305,
-  "totalDurationMs": 640305698,
-  "totalHours": 177.9,
+  "totalTracks": 2307,
+  "exportedTracks": 2307,
+  "totalDurationMs": 640980147,
+  "totalHours": 178.1,
   "averageDurationMin": 4.63,
   "uniqueArtists": 1548,
-  "uniqueAlbums": 2000,
+  "uniqueAlbums": 2002,
   "topArtists": [
     {
       "name": "Mathame",
@@ -86,15 +86,31 @@
       "tracks": 27
     },
     {
-      "name": "Max Styler",
+      "name": "Colyn",
       "tracks": 27
     },
     {
-      "name": "TH;EN",
+      "name": "Max Styler",
       "tracks": 27
     }
   ],
   "recentTracks": [
+    {
+      "name": "Lightfall",
+      "artists": [
+        "Woo York"
+      ],
+      "addedAt": "2026-11-23T18:25:35.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/5KYBaCmay1vHIiU6VoNIWO"
+    },
+    {
+      "name": "Cyclone",
+      "artists": [
+        "Colyn"
+      ],
+      "addedAt": "2026-11-23T17:37:22.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/1Bpy7cuahSRV7I7UkUneEt"
+    },
     {
       "name": "Rise",
       "artists": [
@@ -119,32 +135,14 @@
       ],
       "addedAt": "2026-11-20T14:27:24.000Z",
       "spotifyUrl": "https://open.spotify.com/track/2FrFkpTZr3c8sedSEwvG57"
-    },
-    {
-      "name": "All I Want - Edit",
-      "artists": [
-        "KAS:ST",
-        "Enai",
-        "Enzo Gauthier"
-      ],
-      "addedAt": "2026-11-20T14:15:45.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/6sZAoOnk67j6dTLcIAWWbM"
-    },
-    {
-      "name": "Bitch Going Down",
-      "artists": [
-        "Alphadog"
-      ],
-      "addedAt": "2026-11-20T14:10:10.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/63oZ12b027dkSjOpDQYUft"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 51,
-  "availableTracks": 2293,
+  "availableTracks": 2295,
   "unavailableTracks": 12,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-22T14:09:29.858Z"
+  "lastUpdated": "2026-11-23T23:27:44.985Z"
 }
