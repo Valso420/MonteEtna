@@ -59787,7 +59787,7 @@
       "uri": "spotify:album:2NqMtbGnpJMJ7I4RfD5du6",
       "releaseDate": "2025-04-04",
       "spotifyUrl": "https://open.spotify.com/album/2NqMtbGnpJMJ7I4RfD5du6",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d79fcd7138bf26bcb7e9541a"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b7c2a0f72c47317815fdc8ee"
     },
     "durationMs": 204444,
     "durationMin": 3.41,
@@ -92069,6 +92069,12 @@
         "spotifyUrl": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
       },
       {
+        "id": "473Lb5bIpzUsXMsHKhZGDf",
+        "name": "Circoloco Records",
+        "uri": "spotify:artist:473Lb5bIpzUsXMsHKhZGDf",
+        "spotifyUrl": "https://open.spotify.com/artist/473Lb5bIpzUsXMsHKhZGDf"
+      },
+      {
         "id": "1oKdM70mJD8VvDOTKeS8t1",
         "name": "Emily Warren",
         "uri": "spotify:artist:1oKdM70mJD8VvDOTKeS8t1",
@@ -92081,7 +92087,7 @@
       "uri": "spotify:album:0cDWfAk9fRIvcdeITJmUF1",
       "releaseDate": "2026-07-10",
       "spotifyUrl": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1",
-      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273942570e673752df824a72c75"
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b6e7fd39ae95eb9b4824a8d6"
     },
     "durationMs": 201296,
     "durationMin": 3.35,
