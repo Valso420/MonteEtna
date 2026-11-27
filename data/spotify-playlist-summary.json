@@ -5,17 +5,17 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 39,
-  "totalTracks": 2307,
-  "exportedTracks": 2307,
-  "totalDurationMs": 640980147,
-  "totalHours": 178.1,
+  "totalTracks": 2315,
+  "exportedTracks": 2315,
+  "totalDurationMs": 642483748,
+  "totalHours": 178.5,
   "averageDurationMin": 4.63,
-  "uniqueArtists": 1549,
-  "uniqueAlbums": 2002,
+  "uniqueArtists": 1551,
+  "uniqueAlbums": 2009,
   "topArtists": [
     {
       "name": "Mathame",
-      "tracks": 67
+      "tracks": 68
     },
     {
       "name": "Anyma",
@@ -23,7 +23,7 @@
     },
     {
       "name": "CAMELPHAT",
-      "tracks": 59
+      "tracks": 60
     },
     {
       "name": "Massano",
@@ -39,11 +39,11 @@
     },
     {
       "name": "19:26",
-      "tracks": 45
+      "tracks": 46
     },
     {
       "name": "Argy",
-      "tracks": 43
+      "tracks": 44
     },
     {
       "name": "Adriatique",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Kevin de Vries",
-      "tracks": 36
+      "tracks": 37
     },
     {
       "name": "Innellea",
@@ -75,11 +75,11 @@
     },
     {
       "name": "Goom Gum",
-      "tracks": 28
+      "tracks": 29
     },
     {
       "name": "Miss Monique",
-      "tracks": 28
+      "tracks": 29
     },
     {
       "name": "Chris Avantgarde",
@@ -96,53 +96,55 @@
   ],
   "recentTracks": [
     {
-      "name": "Lightfall",
+      "name": "Follow - Miss Monique Remix",
       "artists": [
-        "Woo York"
+        "Mathame",
+        "Miss Monique",
+        "Bonn"
       ],
-      "addedAt": "2026-11-23T18:25:35.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/5KYBaCmay1vHIiU6VoNIWO"
+      "addedAt": "2026-11-27T19:45:15.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/3eH2x0UafieAbvgVGXzeje"
     },
     {
-      "name": "Cyclone",
+      "name": "Arc Of Time",
       "artists": [
-        "Colyn"
+        "Add-us"
       ],
-      "addedAt": "2026-11-23T17:37:22.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/1Bpy7cuahSRV7I7UkUneEt"
+      "addedAt": "2026-11-27T12:29:35.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7k35vMMuVkZbGxZkhUVfnN"
     },
     {
-      "name": "Rise",
+      "name": "Satellite",
       "artists": [
-        "Guy J"
+        "Boris Brejcha"
       ],
-      "addedAt": "2026-11-21T21:49:20.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/3r6mlzTxJ88gBZaXLQ95M8"
+      "addedAt": "2026-11-27T12:13:43.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/2SfmHWpFkkAZO2yIxTCTWV"
     },
     {
-      "name": "Be Yourself",
+      "name": "Stay Close",
       "artists": [
-        "The Element MT",
-        "Zieze"
+        "Boris Brejcha"
       ],
-      "addedAt": "2026-11-20T15:03:26.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/7GKAJE8wjGkDQuhzALoBHn"
+      "addedAt": "2026-11-27T12:11:29.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/60yysCIWMXiIXf6HpUPBAn"
     },
     {
-      "name": "X Is For Lovers - Extended Mix",
+      "name": "Sempre Sei",
       "artists": [
-        "Ae:ther"
+        "Kevin de Vries",
+        "Cyantist"
       ],
-      "addedAt": "2026-11-20T14:27:24.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/2FrFkpTZr3c8sedSEwvG57"
+      "addedAt": "2026-11-27T12:08:15.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/4bm6nRf4ZP1u1YuUhB5RKl"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 50,
-  "availableTracks": 2296,
+  "availableTracks": 2304,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-26T20:59:26.229Z"
+  "lastUpdated": "2026-11-27T20:44:43.908Z"
 }
