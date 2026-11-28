@@ -103818,5 +103818,51 @@
     "previewUrl": null,
     "spotifyUrl": "https://open.spotify.com/track/3eH2x0UafieAbvgVGXzeje",
     "uri": "spotify:track:3eH2x0UafieAbvgVGXzeje"
+  },
+  {
+    "position": 2316,
+    "addedAt": "2026-11-28T03:44:45.000Z",
+    "addedBy": {
+      "id": "valentinstampone2",
+      "uri": "spotify:user:valentinstampone2",
+      "href": "https://api.spotify.com/v1/users/valentinstampone2",
+      "type": "user",
+      "spotifyUrl": "https://open.spotify.com/user/valentinstampone2"
+    },
+    "id": "7AKaUvMxAw88jMdy9wXYFW",
+    "name": "The Attention Deficit Track - Edit",
+    "artists": [
+      {
+        "id": "1VQgvnkH9rOB2YkNr1ovuB",
+        "name": "Jackmaster",
+        "uri": "spotify:artist:1VQgvnkH9rOB2YkNr1ovuB",
+        "spotifyUrl": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
+      },
+      {
+        "id": "2jbP92oFLWqPqogflK1wlW",
+        "name": "Skream",
+        "uri": "spotify:artist:2jbP92oFLWqPqogflK1wlW",
+        "spotifyUrl": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+      }
+    ],
+    "album": {
+      "id": "45KWFCVez0XRbv74zCYSTc",
+      "name": "The Attention Deficit Track",
+      "uri": "spotify:album:45KWFCVez0XRbv74zCYSTc",
+      "releaseDate": "2022-06-24",
+      "spotifyUrl": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc",
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737780d53a21ed059a4a705700"
+    },
+    "durationMs": 228420,
+    "durationMin": 3.81,
+    "explicit": false,
+    "isLocal": false,
+    "isPlayable": true,
+    "isAvailable": true,
+    "availableMarkets": 0,
+    "popularity": null,
+    "previewUrl": null,
+    "spotifyUrl": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW",
+    "uri": "spotify:track:7AKaUvMxAw88jMdy9wXYFW"
   }
 ]

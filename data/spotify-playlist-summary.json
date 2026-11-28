@@ -5,13 +5,13 @@
   "playlistUrl": "https://open.spotify.com/playlist/3MKATRzfONdGDAbiQ7nioB",
   "ownerName": "Mate Ramos",
   "followers": 39,
-  "totalTracks": 2315,
-  "exportedTracks": 2315,
-  "totalDurationMs": 642483748,
+  "totalTracks": 2316,
+  "exportedTracks": 2316,
+  "totalDurationMs": 642712168,
   "totalHours": 178.5,
   "averageDurationMin": 4.63,
-  "uniqueArtists": 1551,
-  "uniqueAlbums": 2009,
+  "uniqueArtists": 1553,
+  "uniqueAlbums": 2010,
   "topArtists": [
     {
       "name": "Mathame",
@@ -96,6 +96,15 @@
   ],
   "recentTracks": [
     {
+      "name": "The Attention Deficit Track - Edit",
+      "artists": [
+        "Jackmaster",
+        "Skream"
+      ],
+      "addedAt": "2026-11-28T03:44:45.000Z",
+      "spotifyUrl": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
+    },
+    {
       "name": "Follow - Miss Monique Remix",
       "artists": [
         "Mathame",
@@ -128,23 +137,14 @@
       ],
       "addedAt": "2026-11-27T12:11:29.000Z",
       "spotifyUrl": "https://open.spotify.com/track/60yysCIWMXiIXf6HpUPBAn"
-    },
-    {
-      "name": "Sempre Sei",
-      "artists": [
-        "Kevin de Vries",
-        "Cyantist"
-      ],
-      "addedAt": "2026-11-27T12:08:15.000Z",
-      "spotifyUrl": "https://open.spotify.com/track/4bm6nRf4ZP1u1YuUhB5RKl"
     }
   ],
   "duplicateTracks": 0,
   "duplicateDetails": [],
   "explicitTracks": 50,
-  "availableTracks": 2304,
+  "availableTracks": 2305,
   "unavailableTracks": 11,
   "localTracks": 0,
   "coverUrl": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84355ce91ee978ed1a5d6a8228",
-  "lastUpdated": "2026-11-27T20:44:43.908Z"
+  "lastUpdated": "2026-11-28T06:34:53.095Z"
 }
